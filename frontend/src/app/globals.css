@@ -17,11 +17,14 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  color: #2C302E;
+  background: white;
+}
+
+.text-main-blue {
+  color: #00A9E7;
+}
+
+.text-dark-grey {
+  color: #2C302E;
 }
