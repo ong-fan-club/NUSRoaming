@@ -19,7 +19,6 @@ graph LR
     end
 
     subgraph Data Lake
-        %% DL[Data Lakehouse - DuckDB Parquet Files]
         subgraph S3[Amazon S3]
             P1((Parquet File 1))
             P2((Parquet File 2))
@@ -28,14 +27,18 @@ graph LR
     end
 
     subgraph Mapping Fetcher
-        DU[AWS Lambda Scheduled Event]
+        subgraph LA[AWS Lambda Scheduled Event]
+            P4[Python + Selenium Scraper]
+        end
     end
 
     BE <-->|REST/GraphQL| FE
     BE -->|REST| S3
-    DU -->|REST| S3
-    DU -->|REST| BE
+    LA -->|REST| S3
+    LA -->|REST| BE
 
     classDef aws fill:#FF9900
-    class S3,DU aws
+    class S3,LA aws
+    style S3 color:#000000
+    style LA color:#000000
 ```
