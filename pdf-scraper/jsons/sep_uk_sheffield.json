@@ -1,0 +1,55 @@
+{
+  "university_name": "The University of Sheffield",
+  "university_website": [
+    "https://www.sheffield.ac.uk/studyabroad/overseas",
+    "http://www.shef.ac.uk/about/dates",
+    "https://www.sheffield.ac.uk/globalopps/inbound/apply/year-structure",
+    "https://www.sheffield.ac.uk/globalopps/inbound/apply/what",
+    "https://www.sheffield.ac.uk/studyabroad/overseas/prospective/applying#Exchange",
+    "https://www.sheffield.ac.uk/accommodation",
+    "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+    "https://www.gov.uk/uk-border-control",
+    "https://www.sheffield.ac.uk/ssid/immigration/index",
+    "https://www.sheffield.ac.uk/international/enquiry/money/costs",
+    "https://www.sheffield.ac.uk/globalopps/inbound/fees-funding/scholarships"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": [
+    "Mid-September",
+    "Early February"
+  ],
+  "sem2_months": [
+    "Early February",
+    "Mid-June"
+  ],
+  "faculties_accepted": [
+    "Faculty of Arts & Humanities",
+    "Faculty of Engineering",
+    "Faculty of Science",
+    "School of Social Sciences (excluding School of Law)"
+  ],
+  "module_restrictions": "All post-graduate modules with code 6xxx are NOT available to undergraduate students on exchange. Modules taught at Sheffield’s International Faculty – City College based in Thessaloniki Greece are NOT open to exchange students.",
+  "visa_info": [
+    "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange.",
+    "Standard Visitor Visa for Semester Exchange",
+    "Student Visa for Full-Year Exchange",
+    "All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+    "Sheffield’s information on Visa and Immigration can be found here:"
+  ],
+  "accommodations_info": [
+    "For approved December Finish applicants: Sheffield’s Accommodation and Commercial Services liaise with Global Opportunities and Exchanges to offer short term contracts (i.e. less than a semester) to December Finish students. Normally “December Finish” students are housed together within University accommodation and full details of property and rent will be advised following application. If Accommodation and Commercial Services cannot offer a short-term contract, students need to apply for and accept a semester contract and pay for the extra weeks. This cannot be waived. Alternatively, students can try and find accommodation in the private sector but you must let Sheffield know if you will do this.",
+    "For non-December Finish students and students joining Sheffield in semester 2: A room at Sheffield’s university accommodation is guaranteed for the full duration of semester 2. However, the preferred room type cannot be guaranteed."
+  ],
+  "cost_of_living": [
+    "Details can be found at https://www.sheffield.ac.uk/international/enquiry/money/costs"
+  ],
+  "university_description": "The University of Sheffield is a public research university in Sheffield, South Yorkshire, England. It received its royal charter in 1905 as successor to the University College of Sheffield, which was established in 1897 by the merger of Sheffield Medical School (founded in 1828), Firth College (1879) and Sheffield Technical School (1884).",
+  "university_address": "The University of Sheffield, Western Bank, Sheffield, S10 2TN, UK",
+  "location_cost_of_living": "The cost of living in Sheffield is lower than in most major UK cities.",
+  "location_weather": "Sheffield has a temperate maritime climate, like much of the British Isles, with mild winters and cool summers. The average temperature in January is 4°C (39°F), and in July it's 16°C (61°F).",
+  "location_description": "Sheffield is a city in the north of England with a population of around 550,000. It is known for its green spaces and outdoor activities, as well as its music and arts scene.",
+  "location_crime": "Sheffield is generally a safe city, with a lower crime rate than many other UK cities.",
+  "location_transportation": "The city has an extensive public transportation system, including buses and trams.",
+  "location_halal": "Halal food options are available in Sheffield.",
+  "location_vegetarian": "Vegetarian food options are available in Sheffield."
+}

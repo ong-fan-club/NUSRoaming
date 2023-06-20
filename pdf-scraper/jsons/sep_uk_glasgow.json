@@ -1,0 +1,43 @@
+{
+  "university_name": "University of Glasgow",
+  "university_website": [
+    "www.gla.ac.uk/study/visiting/studyabroadexchange",
+    "http://www.gla.ac.uk/study/visiting/studyabroadexchange/applicationdeadlinesandsemesterdates/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": [
+    "Early September",
+    "Mid-December"
+  ],
+  "sem2_months": [
+    "Early January",
+    "Late May"
+  ],
+  "faculties_accepted": [
+    "The College of Arts",
+    "School of Life Sciences",
+    "The College of Science and Engineering",
+    "The College of Social Sciences"
+  ],
+  "module_restrictions": [
+    "Visiting students are unable to take courses in the areas of Medicine, Vet Medicine, and Dentistry",
+    "They also cannot take Level 5 courses",
+    "Postgraduate modules are not open to undergraduate exchange students"
+  ],
+  "visa_info": [
+    "All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university",
+    "Students who are on exchange in UK for less than six months are not entitled to subsidised NHS treatment",
+    "Semester-based exchange students are encouraged to purchase additional insurance to cover medical costs, hospitalisation expenses, and emergency evacuation costs"
+  ],
+  "accommodations_info": "All students on the Exchange programme are guaranteed university accommodation but are not guaranteed the preferred choice of accommodation. Students are encouraged to apply as soon as possible as rooms are allocated on a first come, first served basis.",
+  "cost_of_living": "Information on cost of living can be found at https://www.gla.ac.uk/study/studentlife/costofliving/#costpermonth-examples  ",
+  "university_description": "The University of Glasgow is a public research university in Glasgow, Scotland. Founded in 1451, it is the fourth-oldest university in the English-speaking world and one of Scotland's four ancient universities.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "Glasgow is a port city on the River Clyde in Scotland's western Lowlands. It's famed for its Victorian and art nouveau architecture, a rich legacy of the city's 18th–20th-century prosperity due to trade and shipbuilding. Today it's a national cultural hub, home to institutions including the Scottish Opera, Scottish Ballet and National Theatre of Scotland, acclaimed museums and a thriving music scene.",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

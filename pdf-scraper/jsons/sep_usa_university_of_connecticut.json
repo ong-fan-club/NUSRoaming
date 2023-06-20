@@ -1,0 +1,21 @@
+{
+   "university_name": "University of Connecticut",
+   "university_website": ["https://uconn.edu/", "https://abroad.uconn.edu/incoming/"],
+   "university_country": "USA",
+   "sem1_months": ["August", "September", "October", "November", "December"],
+   "sem2_months": ["January", "February", "March", "April", "May"],
+   "faculties_accepted": ["Agriculture & Natural Resources", "Engineering", "Liberal Arts & Sciences"],
+   "module_restrictions": "Exchange students are not allowed to take courses at Nursing, Pharmacy, Law, Social Work, Medicine and education. Students will not be able to take any more than 6 modules (18 credits) while on exchange at U Conn.",
+   "visa_info": "Prospective international exchange students must request a Form DS-2019, which they will need to apply for a J-1 Exchange Visitor Visa and later on to enter and stay in the U.S. in legal J-1 status. Total visa costs, including a required SEVIS fee, can total a minimum of 340 USD. Citizens of some countries may be subject to extra visa reciprocity fees.",
+   "accommodations_info": "We recommend that all exchange students live on campus in residence halls. On-campus living is an important part of American university life, and by living on campus, you become an active member of the UConn community and have access to all the social, recreational, and cultural events that take place. All dorm rooms are equipped with a bed, a mattress, a desk and chair, and a closet. In small units, doubles are 154 sq. ft. (11×14). Elsewhere, double rooms range in size up to 180 sq. ft. Most undergraduate dormitory rooms share bathroom facilities with other residents on the floor. Refrigerators, microwaves and televisions are not provided in dorm rooms.",
+   "cost_of_living": "Estimated monthly living expenses can be found on this link: http://financialaid.uconn.edu/cost/.",
+   "university_description": "The University of Connecticut (or UConn for short) is one of the top public research universities in the United States. UConn offers more than 100 undergraduate majors and various schools and colleges from which exchange students can take courses.",
+   "university_address": "Storrs, Connecticut, USA",
+   "location_cost_of_living": "No information available from the PDF.",
+   "location_weather": "No information available from the PDF.",
+   "location_description": "Storrs is a small town located in the northeast part of the state of Connecticut, USA. It is a rural area known for its natural beauty with lots of open spaces for recreational activities. ",
+   "location_crime": "No information available from the PDF.",
+   "location_transportation": "No information available from the PDF.",
+   "location_halal": "No information available from the PDF.",
+   "location_vegetarian": "No information available from the PDF."
+}

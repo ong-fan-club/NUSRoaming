@@ -1,0 +1,72 @@
+{
+  "university_name": "CentraleSupélec",
+  "university_website": [
+    "http://www.centralesupelec.fr/en/international-programs-1?tab=international-programs-exchange-programs"
+  ],
+  "university_country": "France",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December",
+    "January"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June"
+  ],
+  "faculties_accepted": [
+    "Energy Science",
+    "Computer Science and Electrical Engineering",
+    "Mechanics and Civil Engineering",
+    "Physics",
+    "Mathematics",
+    "Industrial Engineering, Management, and Economic Systems",
+    "Chemical Engineering",
+    "Humanities & Social Sciences",
+    "Languages"
+  ],
+  "module_restrictions": "B1 level in French is required if possible. The full course load is 30 ECTS per semester, but students may take at least 24 ECTS depending on home institution requirements.",
+  "visa_info": "Long-Stay visas are required for stays exceeding 3 months. Students are required to register with the French Immigration and Integration Office (OFII) for a residence permit. Incoming students are responsible for securing their visa on time.",
+  "accommodations_info": {
+    "university": [
+      {
+        "name": "Paris-Saclay campus",
+        "cost_month": "~ €420 to 630/month before deduction of CAF financial help.",
+        "link": "http://www.centralesupelec.fr/fr/decouvrez-la-residence-des-elevesde-notre-nouveau-campus"
+      },
+      {
+        "name": "Metz campus",
+        "link": "http://www.metz.supelec.fr/metz/residence/",
+        "travel_time_to_paris": "1.30 h time from Paris Gare de l'Est (TGV)"
+      },
+      {
+        "name": "Rennes campus",
+        "link": "http://www.rennes.supelec.fr/ren/residence.fr.html",
+        "travel_time_to_paris": "1.30 h time from Paris Gare Montparnasse (TGV)"
+      }
+    ]
+  },
+  "cost_of_living": {
+    "estimated_monthly_expenses": {
+      "accommodation": "€450",
+      "food": "€200",
+      "transport": "€50",
+      "others": "€150"
+    },
+    "monthly_estimate": "€850"
+  },
+  "university_description": "CentraleSupélec is a public institution in France that specializes in science and engineering. It was established on January 1st, 2015, through the merger of Ecole Centrale Paris and Supélec.",
+  "university_address": null, 
+  "location_cost_of_living": null, 
+  "location_weather": null, 
+  "location_description": null, 
+  "location_crime": null,
+  "location_transportation": null, 
+  "location_halal": null,
+  "location_vegetarian": null
+}

@@ -1,0 +1,55 @@
+{
+   "university_name": "University of Oregon",
+   "university_country": "USA",
+   "university_website": [
+      "http://uoregon.edu/",
+      "https://isss.uoregon.edu/incoming-students"
+   ],
+   "sem1_months": [
+      "September",
+      "October",
+      "November",
+      "December"
+   ],
+   "sem2_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+   ],
+   "faculties_accepted": [
+      "FASS",
+      "FoE",
+      "FoS",
+      "SDE",
+      "SoC",
+      "USP"
+   ],
+   "module_restrictions": [
+      "Business courses are restricted for exchange students and some are reserved for degree seeking students.",
+      "Architecture, art, digital arts, music and product design have additional admission requirements and may have some course restrictions."
+   ],
+   "visa_info": [
+      "International students enrolled at the University of Oregon are required to hold comprehensive health insurance.",
+      "Exchange and visiting students will be automatically enrolled in the UO’s International Student Plan."
+   ],
+   "accommodations_info": [
+      "During ISO (International Student Orientation): If you need housing before ISO begins you can stay with a host family or find a hotel.",
+      "If you plan to live on-campus, you can apply for early move-in.",
+      "Limited spaces are available to stay with a local family for a few days (temporary) before moving into your residence hall or apartment (it’s free)."
+   ],
+   "cost_of_living": [
+      "Tuition is waived for exchange students."
+   ],
+   "university_description": "The University of Oregon is a public research university in Eugene, Oregon. ",
+   "university_address": "1585 E 13th Ave, Eugene, OR 97403, United States",
+   "location_cost_of_living": "The cost of living in Eugene, OR is relatively affordable compared to many of its neighbors in the West Coast. It is 14% lower than the national average and 5% lower than the Oregon average.",
+   "location_weather": "Eugene has a Mediterranean climate, characterized by warm, dry summers and mild, wet winters.",
+   "location_description": "Eugene is a city in the U.S. state of Oregon, in the Pacific Northwest. ",
+   "location_crime": "Eugene's crime rate is lower than the national average. The most common crimes are property crimes, followed by violent crimes.",
+   "location_transportation": "Eugene has a public transportation system called Lane Transit District (LTD), which operates buses within the city and connects Eugene to neighboring towns.",
+   "location_halal": "There are a few halal restaurants and grocery stores in Eugene.",
+   "location_vegetarian": "Vegetarian food options are available in Eugene at several restaurants and natural food stores."
+}

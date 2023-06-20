@@ -1,0 +1,25 @@
+{
+"university_name": "University of Illinois Urbana Champaign",
+"university_website": ["http://illinois.edu/", "https://isss.illinois.edu/students/incoming/pre_arrival/housing.html", "http://www.studyabroad.illinois.edu/incoming-students/incoming-student-finances/"],
+"university_country": "USA",
+"sem1_months": ["August", "September", "October", "November", "December"],
+"sem2_months": ["January", "February", "March", "April", "May"],
+"faculties_accepted": ["FASS", "FoE", "FoS", "Law"],
+"module_restrictions": {
+        "Restricted Courses": "Due to high demand from degree-seeking students at the University of Illinois Urbana-Champaign, some courses are not available to incoming exchange students.",
+        "Closed Programs": ["College of Business (ACCY, BADM, and FIN courses)", "Department of Bioengineering", "Department of Computer Sciences", "Division of General Studies", "Graduate College", "School of Labor and Employment Relations", "School of Information Sciences", "College of Medicine", "Department of Recreation, Sport, and Tourism (online graduate courses only)", "Technology and Information Management Program", "College of Veterinary Medicine", "Any internships, co-op programs, or teaching practicums in local schools."],
+        "Limited Programs": ["Department of Advertising", "Department of Mechanical Science and Engineering", "Architecture (College of Fine & Applied Arts)—limited access to studio classes", "College of Education", "Electrical and Computer Engineering (College of Engineering)", "Department of Journalism", "Kinesiology (College of Applied Health Sciences)—some limitations", "Landscape Architecture (College of Fine & Applied Arts)—enrollment in studio classes must be pre-arranged"]
+        },
+"visa_info": ["You will need to show a passport, entry visa, and original DS-2019 (no copies) at the United States Port of Entry.", "Students will be required to enroll in the compulsory health insurance policy or scheme at their SEP host university."],
+"accommodations_info": "UIUC does not reserve housing for students. You are responsible for arranging your own housing. There are many housing options available to exchange students.",
+"cost_of_living": ["http://www.studyabroad.illinois.edu/incoming-students/incoming-student-finances/", "Estimated Monthly Living Expenses"],
+"university_description": "The University of Illinois Urbana Champaign is a comprehensive university in Illinois, USA.",
+"university_address": "Champaign, Illinois, USA",
+"location_cost_of_living": "For more information on cost of living, please refer to the following link: http://www.studyabroad.illinois.edu/incoming-students/incoming-student-finances/",
+"location_weather": null,
+"location_description": "Champaign is a city in central Illinois, USA, and home to the University of Illinois Urbana Champaign.",
+"location_crime": "For more information about safety and crime rates in Champaign, please refer to the following link: http://police.illinois.edu/about/contact-us/",
+"location_transportation": null,
+"location_halal": null,
+"location_vegetarian": null 
+}

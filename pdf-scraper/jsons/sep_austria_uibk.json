@@ -1,0 +1,41 @@
+{
+  "university_name": "University of Innsbruck",
+  "university_website": ["https://www.uibk.ac.at/international-relations/exchange-students-incoming/", "https://www.uibk.ac.at/international-relations/erasmus/incoming/academic_calendar.html"],
+  "university_country": "Austria",
+  "sem1_months": null,
+  "sem2_months": ["February", "March", "April", "May", "June"],
+  "faculties_accepted": ["FASS - Political Science, Sociology, Global Studies", "FoE - Civil Engineering", "FoS - Biology"],
+  "module_restrictions": "Exchange students who are not nominated as Business students are discouraged from taking any Business or Economics courses offered at the Innsbruck’s School of Management.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application process could take up to 2 months to process. Exchange students who will be going for exchange for up to 6 months will have to apply for Apply for Visa-D (long-term visa – for stay of more than 90, but less than 180 days. Single entry / multiple entry). You can apply for visas at the local Austrian Embassy. However, as it is a commercial office, processing will be done at Jakarta.",
+  "accommodations_info": "Finding accommodation may be challenging in Innsbruck. Students should apply as soon as possible to get a room in a student home (Studentenheim). Summer term: application recommended in September. The University of Innsbruck does not have its own Halls of Residence. Possible housing options include student residences available to students and renting on the free market. Students should be aware of online frauds on different websites when looking for housing.",
+  "cost_of_living": {
+    "Accommodation": {
+      "Min": 350,
+      "Max": 450
+    },
+    "Food": {
+      "Min": 250,
+      "Max": 400
+    },
+    "Transport": {
+      "Amount": 130
+    },
+    "Books, entertainment, etc.": {
+      "Min": 100,
+      "Max": 200
+    },
+    "Monthly Estimate": {
+      "Min": 830,
+      "Max": 1180
+    }
+  },
+  "university_description": "",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

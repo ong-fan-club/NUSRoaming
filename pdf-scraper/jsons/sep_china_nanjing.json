@@ -1,0 +1,70 @@
+{
+  "university_name": "Nanjing University",
+  "university_website": [
+    "https://www.nju.edu.cn/EN/",
+    "https://stuex.nju.edu.cn/en_/"
+  ],
+  "university_country": "China",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July"
+  ],
+  "faculties_accepted": "Please refer to the Schools & Departments at Nanjing University for details",
+  "module_restrictions": "Limited English-taught modules, subject to change",
+  "visa_info": {
+    "visa_type": "Student visa",
+    "visa_duration": {
+      "X2 visa": "study period of no more than 180 days",
+      "X1 visa": "study period of more than 180 days"
+    },
+    "visa_application_center": "China Visa Application Service Centre in Singapore",
+    "visa_application_form": "Admission letter and visa application form (JW202)"
+  },
+  "accommodations_info": {
+    "on_campus": {
+      "recommended": true,
+      "location": "Xianlin campus",
+      "room_type": [
+        "Standard single",
+        "Standard double"
+      ],
+      "room_equipment": [
+        "Telephone lines",
+        "Private bathrooms",
+        "Television",
+        "Air-conditioning"
+      ],
+      "application_form": "https://stuex.nju.edu.cn/en_/66/dc/c23266a354012/page.htm"
+    },
+    "other_options": [
+      "Off-campus housing"
+    ]
+  },
+  "cost_of_living": {
+    "per_semester": {
+      "min": "S$5,000",
+      "max": "S$15,000"
+    },
+    "breakdown": "Subject to country and local conditions at the overseas Partner University",
+    "total": "Unknown"
+  },
+  "university_description": "Nanjing University is a public research university located in Nanjing, China. It is one of China's oldest and most prestigious institutions of higher learning.",
+  "university_address": "22 Hankou Road, Gulou District, Nanjing, Jiangsu Province, PR China",
+  "location_cost_of_living": "Unknown",
+  "location_weather": "Unknown",
+  "location_description": "Nanjing is the capital of Jiangsu province in eastern China. The city has a rich cultural history and is known for its beautiful temples, gardens and museums.",
+  "location_crime": "Unknown",
+  "location_transportation": "Unknown",
+  "location_halal": "Unknown",
+  "location_vegetarian": "Unknown"
+}

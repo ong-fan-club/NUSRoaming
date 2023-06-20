@@ -1,0 +1,32 @@
+{
+  "university_name": "Durham University",
+  "university_website": [
+    "https://www.dur.ac.uk/international/studyabroad/incoming/",
+    "https://www.dur.ac.uk/dates/",
+    "https://www.dur.ac.uk/faculty.handbook",
+    "https://www.dur.ac.uk/undergraduate/accommodation/costs/",
+    "https://www.dur.ac.uk/international/studyabroad/erasmus/programmeinfo"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": ["September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May", "June"],
+  "faculties_accepted": [
+    "Faculty of Arts & Humanities",
+    "Faculty of Science",
+    "Faculty of Social Science and Health",
+    "Durham University Business School"
+  ],
+  "module_restrictions": "Certain restrictions might apply either in oversubscribed departments or on modules with prerequisites and corequisites. Postgraduate modules are not open to undergraduate exchange students.",
+  "visa_info": "Students will need a student visa for a full-year exchange in Durham. For more details on visa applications visit https://www.gov.uk/visas-immigration.",
+  "accommodations_info": "Durham University has a central accommodation office managing university residence halls/dormitories. Overseas exchange students coming to Durham for the full academic year are eligible for college accommodation at the university if they apply for the programme by the deadline. For more information, visit https://www.dur.ac.uk/undergraduate/accommodation/costs/. Accommodation in most colleges is limited to term time, but options are available during semester breaks (Christmas and Easter only) for an additional cost.",
+  "cost_of_living": "Estimated annual living expenses can be found at https://www.dur.ac.uk/undergraduate/live/colleges/ourcolleges/costs/ and additional programme fees can be found at https://www.dur.ac.uk/international/studyabroad/exchange/overseas/programmeinformation/#fees.",
+  "university_description": "Durham University is a collegiate public research university in Durham, England. It was founded in 1832 and is consistently ranked among the top universities in the UK.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

@@ -1,0 +1,33 @@
+{
+    "university_name": "Budapest University of Technology and Economics",
+    "university_website": ["https://www.bme.hu/?language=en", "https://kth.bme.hu/en/study-programmes/exchange-and-semester-abroad-students/academic_information/"],
+    "university_country": "Hungary",
+    "sem1_months": ["Late August", "September", "October", "November", "December", "Late January"],
+    "sem2_months": ["Early February", "March", "April", "May", "June", "Early July"],
+    "faculties_accepted": ["Faculty of Civil Engineering", "Faculty of Mechanical Engineering", "Faculty of Architecture", "Faculty of Chemical Technology and Biotechnology", "Faculty fo Electrical Engineering and Informatics", "Faculty of Transportation Engineering and Vehicle Engineering", "Faculty of Natural Sciences", "Faculty of Economic and Social Sciences"],
+    "module_restrictions": "NA",
+    "visa_info": {
+        "visa_type": "RESIDENCE VISA FOR STUDY PURPOSES",
+        "entry_requirement": ["valid passport", "Letter of Acceptance from BME", "proof of payment of the institution fee", "proof of accommodation in Budapest"],
+        "processing_time": "minimum of 2 weeks (or longer)",
+        "validity": "30 days"
+    },
+    "accommodations_info": {
+        "university_accommodation": "BME does not offer accommodation to incoming students at the university’s dormitories.",
+        "private_accommodation": "Private accommodation (rented room/apartment) is available for between 300-400 EUR (inclusive of utilities) per month, depending on location and comfort. BME ESN (ERASMUS Student Network, esn.bme.hu) runs a temporary office assisting students with finding and arranging accommodation at the beginning of the terms."
+    },
+    "cost_of_living": {
+        "accommodation": "400 EUR",
+        "food_and_misc_expenses": "170 EUR to 270 EUR",
+        "health_insurance": "120 EUR (per semester)"
+    },
+    "university_description": "Budapest University of Technology and Economics is the oldest and best-known technical university in Hungary. BME has seven faculties offering degree programmes in engineering, computer science, economics, social sciences and natural sciences.",
+    "university_address": null, //not provided in the given text
+    "location_cost_of_living": null, //not provided in the given text
+    "location_weather": null, //not provided in the given text
+    "location_description": null, //not provided in the given text
+    "location_crime": null, //not provided in the given text
+    "location_transportation": null, //not provided in the given text
+    "location_halal": null, //not provided in the given text
+    "location_vegetarian": null //not provided in the given text
+}

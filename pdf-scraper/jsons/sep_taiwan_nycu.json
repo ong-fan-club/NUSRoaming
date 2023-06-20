@@ -1,0 +1,94 @@
+{
+  "university_name": "National Yang Ming Chiao Tung University",
+  "university_website": [
+    "https://www.nycu.edu.tw/en/",
+    "https://oia.nctu.edu.tw/en/short-term/incoming-exchange/"
+  ],
+  "university_country": "Taiwan",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December",
+    "January"
+  ],
+  "sem2_months": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "June"
+  ],
+  "faculties_accepted": [
+    "Applied Mathematics",
+    "Business & Management",
+    "Information and Finance Management",
+    "Statistics",
+    "Applied Arts",
+    "Communication and Technology",
+    "Technology Law",
+    "Biochemical Engineering",
+    "Biomedical Engineering",
+    "Biophotonics",
+    "Civil Engineering",
+    "Communications Engineering",
+    "Electrical and Computer Engineering",
+    "Electrical Control Engineering",
+    "Electronics Engineering",
+    "Environmental Engineering",
+    "Industrial Engineering and Management",
+    "Material Science and Engineering",
+    "Mechanical Engineering",
+    "Multimedia Engineering",
+    "Network Engineering",
+    "Photonics",
+    "Applied Chemistry",
+    "Biological Science and Technology",
+    "Bioinformatics and Systems Biology",
+    "Biomedical Informatics",
+    "Biopharmaceutical Sciences",
+    "Electrophysics",
+    "Life Sciences",
+    "Mathematical Modeling and Scientific Computing",
+    "Microbiology and Immunology",
+    "Molecular Science",
+    "Molecular Medicine",
+    "Neuroscience",
+    "Physics",
+    "Statistics",
+    "Computer Science",
+    "Computer Science and Engineering"
+  ],
+  "module_restrictions": "Departments which offer courses to exchange students are listed in https://drive.google.com/file/d/122j-Fur8Ja4MsdoKv9ec07HeHGr2Qqbj/view. Medicine, Dentistry and Nursing courses are not open to NUS students.",
+  "visa_info": "Students whose exchange period is one semester (or less than 180 days) will have to apply a Visitor Visa while students whose exchange period is more than 180 days will have to apply for a Resident Visa. Chinese, Hong Kong and Macau passport holders will need to apply for a Taiwan Entry Permit.",
+  "accommodations_info": [
+    {
+      "type": "University Accommodation",
+      "website": "https://housing.sa.nctu.edu.tw/?lang=en",
+      "description": "NYCU has a number of residence halls for exchange students. Once accepted into a residence hall, students are able to stay for the period of their studies at NYCU. However, due to high demand for housing, on-campus accommodation is not guaranteed."
+    },
+    {
+      "type": "Private Accommodation",
+      "description": "Off-campus housing is also an option that exchange students may choose. However, students who wish to live off-campus are responsible for securing their own housing. Residences located off-campus are owned and operated by private individuals or companies, and NYCU is unable to make any arrangements on behalf of the students. Safety and the availability of public transportation should be taken into consideration when evaluating possible off-campus accommodations. Common price for off-campus accommodation ranges from USD$170 to USD$400 per month."
+    }
+  ],
+  "cost_of_living": {
+    "estimated_monthly_living_expenses": "NTD$20 390 - NTD $32 450",
+    "breakdown_of_costs": {
+      "Accommodation": "NTD $1500- NTD $13 500",
+      "Food and transport": "NTD $8000",
+      "Insurance & Facilities Fees": "NTD $890 – NTD $950",
+      "Others (Entertainment, clothes, etc)": "NTD $10 000"
+    },
+    "source": "https://drive.google.com/file/d/1qMgrX3MAmLpuIimBCIpqFtAGbVHYk3FT/view"
+  },
+  "university_description": "The National Yang Ming Chiao Tung University (NYCU) is a comprehensive university with more than 1,400 faculty and researchers and over 17,000 students, consisting of a broad spectrum of colleges, including engineering, medicine, nursing, dentistry, life sciences, social sciences, and humanities. NYCU seeks to establish itself as Taiwan’s most innovative smart medical research by developing medical applications in terms of AI, telemedicine, medical robots, Internet of Things, wearable devices, and blockchain biomedical as Eco-system among other developments.",
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": null,
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

@@ -1,0 +1,21 @@
+{
+    "university_name": "University of Toronto",
+    "university_website": ["https://artsci.calendar.utoronto.ca/sessional-dates", "https://inboundvisiting.utoronto.ca/inbound-exchange/admitted-students/", "https://inboundvisiting.utoronto.ca/inbound-exchange/factsheet/"],
+    "university_country": "Canada",
+    "sem1_months": ["September", "October", "November", "December"],
+    "sem2_months": ["January", "February", "March", "April"],
+    "faculties_accepted": null,
+    "module_restrictions": null,
+    "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+    "accommodations_info": null,
+    "cost_of_living": null,
+    "university_description": "The University of Toronto is a public research university in Toronto, Ontario, Canada. It was founded in 1827 as King's College and was granted university status in 1850.",
+    "university_address": null,
+    "location_cost_of_living": "Toronto is a relatively expensive city to live in, with the average cost of living being around CAD 2,500-3,000 per month. Housing costs are a major contributor to these expenses.",
+    "location_weather": "Toronto has warm summers and cold winters, with temperatures in the summer averaging around 25°C, and temperatures in the winter averaging around -10°C.",
+    "location_description": "Toronto is the capital city of the province of Ontario and the largest city in Canada by population. It is a multicultural city known for its vibrant arts and culture scene, as well as its booming business and finance sectors.",
+    "location_crime": "Toronto is generally considered a safe city with a relatively low crime rate compared to other major North American cities.",
+    "location_transportation": "Toronto has a well-developed public transportation system that includes buses, subways and streetcars. The subway system in particular is convenient and can take you to most major destinations throughout the city.",
+    "location_halal": "Toronto has a large Muslim population, and there are many halal food options available throughout the city.",
+    "location_vegetarian": "Toronto has a large vegetarian and vegan population, and there are many restaurants and cafes that cater to this lifestyle."
+}

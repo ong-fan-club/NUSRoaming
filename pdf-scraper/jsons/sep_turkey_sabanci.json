@@ -1,0 +1,62 @@
+{
+  "university_name": "Sabanci University",
+  "university_website": [
+    "http://iro.sabanciuniv.edu/en/students/exchange/incoming",
+    "http://mysu.sabanciuniv.edu.intweb.sabanciuniv.edu/uh/saglik/eng/"
+  ],
+  "university_country": "Turkey",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December",
+    "January"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "faculties_accepted": [
+    "FASS - Economics",
+    "FASS - Political Science",
+    "FASS - Global Studies",
+    "FASS - New Media",
+    "FASS - Sociology",
+    "FASS - History",
+    "BIZ - Please approach NUS Business School for details",
+    "FoE - Electrical Engineering",
+    "FoE - Computer Engineering",
+    "FoE - Material Science Engineering",
+    "FoE - Industrial Engineering",
+    "FoS - Physics",
+    "FoS - Mathematics",
+    "FoS - Chemistry",
+    "SoC - Computer Science"
+  ],
+  "module_restrictions": "Some graduate courses and courses taught in Turkish are not available for exchange students",
+  "visa_info": "International students require a visa, which should be obtained 2 months before the academic semester starts. Residence permit must be applied for within a month after arrival.",
+  "accommodations_info": [
+    "On-campus accommodation is available and should be applied for before the deadline.",
+    "Off-campus accommodation is also available, but the student must find their own."
+  ],
+  "cost_of_living": {
+    "accommodation": 3274,
+    "food": 2250,
+    "books_and_stationery": 300,
+    "local_transport": 1800,
+    "others": 2540,
+    "total": 7624
+  },
+  "university_description": "Sabanci University is a private research university located in Istanbul, Turkey. It was established in 1994 and is a young and dynamic institution known for its interdisciplinary approach and innovative programs.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

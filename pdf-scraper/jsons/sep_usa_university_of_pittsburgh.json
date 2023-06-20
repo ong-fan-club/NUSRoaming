@@ -1,0 +1,21 @@
+{
+  "university_name": "University of Pittsburgh",
+  "university_website": ["http://www.pitt.edu/", "http://internationalexchanges.pitt.edu/"],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": ["FASS", "FoS", "FoE", "SoC"],
+  "module_restrictions": "Exchange students may select any of the courses offered within the college that they are admitted into, granted there is availability and that they meet the prerequisites.",
+  "visa_info": "Exchange or guest students will typically receive a J-1 visa status for the duration of study.",
+  "accommodations_info": "On-campus housing is NOT guaranteed for exchange students. For those living off-campus, students exchanging for one semester should sublet or find a roommate who may be searching for someone to fill a vacancy as most apartment leases are for a full-year. Refer to https://internationalexchanges.pitt.edu/housing for more information on housing options.",
+  "cost_of_living": "Refer to http://internationalexchanges.pitt.edu/costs for estimated monthly expenses.",
+  "university_description": "The University of Pittsburgh is a public research university in Pittsburgh, Pennsylvania. It offers over 400 degree programs in areas such as law, medicine, engineering, education, and the arts and sciences.",
+  "university_address": "4200 Fifth Avenue, Pittsburgh, PA 15260, USA",
+  "location_cost_of_living": "The cost of living in Pittsburgh is lower than the US national average. Housing and transportation are particularly affordable, making the city a great option for students.",
+  "location_weather": "Pittsburgh has a temperate climate with four distinct seasons. Summers are warm and humid, while winters are cold and snowy. Spring and fall are mild.",
+  "location_description": "Pittsburgh is a dynamic city with a rich cultural history. It is home to many museums, galleries, and theaters. It also has a thriving food scene and many outdoor recreational opportunities.",
+  "location_crime": "Pittsburgh has a higher-than-average crime rate, particularly in the downtown area. However, the University of Pittsburgh's campus is generally considered safe.",
+  "location_transportation": "Pittsburgh has a public transportation system consisting of buses and light rail trains. The university also offers a shuttle service for students. Biking and walking are also popular modes of transportation.",
+  "location_halal": "Halal food options are available in Pittsburgh, particularly in the Squirrel Hill neighborhood.",
+  "location_vegetarian": "Vegetarian food options are widely available in Pittsburgh, with many restaurants offering vegetarian and vegan menus."
+}

@@ -1,0 +1,29 @@
+{
+  "university_name": "University of Stuttgart",
+  "university_website": ["https://www.uni-stuttgart.de/en/study/application/international-non-degree/overseas/index.html", "https://www.student.uni-stuttgart.de/en/startingout/international/"],
+  "university_country": "Germany",
+  "sem1_months": ["October", "November", "December", "January", "February", "March"],
+  "sem2_months": ["April", "May", "June", "July", "August", "September"],
+  "faculties_accepted": ["SDE - Architecture, Building, and Urban Planning", "FoE - Civil Engineering, Material Science, Mechanical Engineering, and Aerospace Engineering", "FoS - Chemistry, Physics, and Mathematics", "SoC - Computer Science", "FASS - History, Political Science, and Philosophy"],
+  "module_restrictions": "Master level courses taught in English have higher pre-requisites and Stuttgart would prefer Year 3 NUS students who have achieved high academic grades for their English-taught master courses. The final approval for modules offered to NUS students lies with Stuttgart.",
+  "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland, and the United States. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application process could take up to 2 months to process.",
+  "accommodations_info": "The Office of International Affairs can arrange housing for exchange students from overseas in student dorms on request. It is the responsibility of the Studierendenwerk Stuttgart/SWS (organisation managing the dormitories) to allocate the dormitory rooms. Students are required to pay the first month rent and deposit (all in all €700) and have to be transferred in advance to Studierendenwerk Stuttgart/SWS (organisation managing the dormitories).",
+  "cost_of_living": {
+    "accommodation": "€240 - €400 (First month rent and deposit (all in all 700€) have to be transferred in advance)",
+    "transportation": "€200 (per semester)",
+    "insurance": "€90",
+    "food": "€200",
+    "others": "€100",
+    "monthly_estimate": "€940-€1100",
+    "one_time_cost": "€110 for student administration for the whole semester"
+  },
+  "university_description": "The University of Stuttgart is a research university located in Stuttgart, Baden-Württemberg, Germany. It was founded in 1829 and has nine faculties. The university is known for its excellence in engineering and natural sciences.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "Stuttgart is the capital and largest city of the German state of Baden-Württemberg. It is located in southern Germany and is home to a diverse population. Stuttgart is known for its industrial prowess, as well as its cultural contributions to the wider German society.",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

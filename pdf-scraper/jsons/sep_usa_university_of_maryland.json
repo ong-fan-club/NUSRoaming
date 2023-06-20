@@ -1,0 +1,29 @@
+{
+  "university_name": "University of Maryland",
+  "university_website": ["http://www.umd.edu/", "https://globalmaryland.umd.edu/offices/education-abroad/apply", "https://myportal.nus.edu.sg/studentportal/student-insurance/all/", "https://globalmaryland.umd.edu/offices/education-abroad/visa-requirements", "https://www.financialaid.umd.edu/award_process/cost_of_attendance.html"],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": ["FASS", "FoS", "SoC*"],
+  "module_restrictions": ["Business", "Engineering", "College Park Scholars", "Entrepreneurship and Innovation Program", "Global Communities (BSGC)", "Hinman CEOs", "Honors College", "Quest Honors Program"],
+  "visa_info": {
+    "consular/visa_regulation": "Once admitted to UMD, exchange students will request a DS-2019 Form using the International Student and Scholar Services office (ISSS) online portal, iTerp. The DS-2019 form is the immigration document required to apply for a J-1 Visa.",
+    "proof_of_financial_support": {
+      "full_year": "$15,750 minimum",
+      "one_semester": "$7,000 minimum"
+    }
+  },
+  "accommodations_info": {
+    "university_accommodation": "For information on the cost of housing and dining plans available please visit the Department of Residence Life and Dining Services websites. You can also view the estimated cost of attendance as an exchange student at UMD."
+  },
+  "cost_of_living": "Tuition fees are waived for exchange students. For more information on the cost of attending UMD for a semester, please refer to the following link: https://www.financialaid.umd.edu/award_process/cost_of_attendance.html",
+  "university_description": "The University of Maryland is a public research university in College Park, Maryland, USA.",
+  "university_address": "College Park, Maryland, USA",
+  "location_cost_of_living": "Unknown",
+  "location_weather": "Unknown",
+  "location_description": "College Park is a bustling university town located in the suburbs of Washington, D.C.",
+  "location_crime": "Unknown",
+  "location_transportation": "Unknown",
+  "location_halal": "Unknown",
+  "location_vegetarian": "Unknown"
+}

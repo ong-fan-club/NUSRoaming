@@ -1,0 +1,21 @@
+{
+    "university_name": "Victoria University of Wellington",
+    "university_website": ["https://www.wgtn.ac.nz/students/study/dates", "https://www.wgtn.ac.nz/explore/other-quals/study-abroad-and-exchange/overview?international=true"],
+    "university_country": "New Zealand",
+    "sem1_months": ["Mid February", "Mid June"],
+    "sem2_months": ["Early July", "Early November"],
+    "faculties_accepted": null,
+    "module_restrictions": null,
+    "visa_info": "Exchange students must apply to New Zealand Immigration for a student visa and obtain the visa before entering New Zealand.",
+    "accommodations_info": "No information provided.",
+    "cost_of_living": null,
+    "university_description": "Victoria University of Wellington is a public research university located in Wellington, New Zealand.",
+    "university_address": null,
+    "location_cost_of_living": "Wellington is known to have a high cost of living, particularly in regards to housing. However, the city provides a good quality of life and a range of cultural and entertainment options.",
+    "location_weather": "Wellington has a temperate maritime climate with mild temperatures year-round. The city is known for its windy weather.",
+    "location_description": "Wellington is the capital city of New Zealand and is located on the southern end of the North Island. It is known for its vibrant arts and culture scene, picturesque harbor, and natural beauty.",
+    "location_crime": "Wellington has a low crime rate compared to other major cities in the world. However, like any city, it is important to take precautions to ensure personal safety.",
+    "location_transportation": "Wellington has a good public transportation system, including buses and trains. Biking is also popular in the city.",
+    "location_halal": "Halal food options are available in Wellington.",
+    "location_vegetarian": "Vegetarian food options are available in Wellington."
+}

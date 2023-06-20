@@ -1,0 +1,28 @@
+{
+  "university_name": "University of Ulm",
+  "university_website": ["http://www.uni-ulm.de/en/io"],
+  "university_country": "Germany",
+  "sem1_months": ["October", "November", "December", "January", "February"],
+  "sem2_months": ["April", "May", "June", "July", "August", "September"],
+  "faculties_accepted": ["Communications Technology", "Cognitive Systems", "Chemical Engineering", "Energy Sciences and Technology", "Advanced Materials", "Biology", "Biophysics", "Physics", "Molecular Medicine"],
+  "module_restrictions": "No restrictions mentioned.",
+  "visa_info": "Different visa requirements based on the country of the exchange student. EU citizens and citizens from some countries do not need a visa for Germany. Students from all other countries must apply for a visa for study purposes.",
+  "accommodations_info": "Ulm International Office assists with finding accommodation in student residences if applicants mark the appropriate sections in their exchange application form. Room lease has to be paid for full calendar months, even if students move out earlier!",
+  "cost_of_living": {
+    "accommodation": "€260 - €460",
+    "transport": "€43.30 - €57.80 (per semester)",
+    "insurance": "€40 - €100",
+    "food": "€200",
+    "others": "€200",
+    "monthly_estimate": "€743.30 - €1,017.80"
+  },
+  "university_description": "No description available.",
+  "university_address": "No address available.",
+  "location_cost_of_living": "No information available.",
+  "location_weather": "No information available.",
+  "location_description": "No information available.",
+  "location_crime": "No information available.",
+  "location_transportation": "No information available.",
+  "location_halal": "No information available.",
+  "location_vegetarian": "No information available."
+}

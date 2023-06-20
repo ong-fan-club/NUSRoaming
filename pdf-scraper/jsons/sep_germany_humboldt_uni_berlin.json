@@ -1,0 +1,20 @@
+{
+  "university_name": "Humboldt University of Berlin (HUB)",
+  "university_website": ["https://www.international.hu-berlin.de/en/studierende/aus-dem-ausland?set_language=en", "https://www.hu-berlin.de/en/prospective-students/info/academic-calendars?set_language=en"],
+  "university_country": "Germany",
+  "sem1_months": ["mid-October", "November", "December", "January", "mid-February"],
+  "sem2_months": ["mid-April", "May", "June", "July", "End July"],
+  "faculties_accepted": ["English and American Studies", "History", "Geography", "Psychology", "Philosophy", "Cultural History and Theory", "Social Sciences", "Asian and African Studies", "Mathematics and Statistics", "Biology", "Life Science", "Informatics"],
+  "module_restrictions": "Medicine, Business and Law courses not open to exchange students",
+  "visa_info": "Visa required for students from all other countries; must not travel to Germany on a tourist visa. EU citizens and citizens from specific countries do not need a visa to enter Germany for short stays.",
+  "accommodations_info": ["No student accommodation offered by HUB in Berlin city", "Students could consider private apartment if they prefer to stay in the city", "Halls of residence (Wohnheime) are located in various parts outside the city and vary in standard and price from €250 to €500 per month"],
+  "cost_of_living": {"accommodation" : "€250 - €500", "insurance": "€80", "food": "€200 - €300", "others": "€300", "monthly_total": "€830-€1,180"
+  },
+  "university_description": "Humboldt University of Berlin is a public research university located in Berlin, Germany. It is one of the oldest universities in Berlin, founded in 1810, and is known for its excellence in humanities and social sciences.",
+  "university_address": "Unter den Linden 6, 10117 Berlin, Germany",
+  "location_cost_of_living": "The cost of living in Berlin is generally affordable compared to other European capitals, though it can vary depending on one's lifestyle. According to numbeo, the monthly cost of living for a student in Berlin can range from €700 to €1200, excluding rent.",
+  "location_weather": "Berlin has a humid continental climate with mild to warm summers and cold winters. July and August are the warmest months with an average temperature of 22°C (72°F), while January is the coldest month with an average temperature of -1°C (30°F).",
+  "location_description": "Berlin is the capital and largest city of Germany, famous for its rich history, diverse culture, vibrant nightlife, and modern architecture. It is a hub for startups and technology companies, as well as a center for culture, arts, and education in Europe.",
+  "location_crime": "Berlin is considered a safe city, with a relatively low crime rate compared to other major European cities. However, like any big city, it is important to be cautious and aware of your surroundings, especially in tourist areas and at night.",
+  "location_transportation": "Berlin has a well-developed public transportation system, including buses, trams, underground trains (U-Bahn), suburban trains (S-Bahn), and regional trains (RE, RB, and IC). The most"
+}

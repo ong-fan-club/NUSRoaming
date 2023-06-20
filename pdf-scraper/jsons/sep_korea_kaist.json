@@ -1,0 +1,34 @@
+{
+  "university_name": "Korea Advanced Institute of Science and Technology (KAIST)",
+  "university_website": ["http://www.kaist.edu", "https://io.kaist.ac.kr/menu/io.do?mguid=72CD2D0A-21E5-E511-940C-2C44FD7DF8B9", "https://kds.kaist.ac.kr/eng/index.do"],
+  "university_country": "South Korea",
+  "sem1_months": ["March", "April", "May", "June"],
+  "sem2_months": ["September", "October", "November", "December"],
+  "faculties_accepted": ["Natural Sciences", "Life Science and Bioengineering", "Engineering", "Liberal Arts and Convergence Science"],
+  "module_restrictions": "Undergraduate students can apply for courses starting with course no. 1xx to 4xx. Master-level courses are not open to undergraduate students.",
+  "visa_info": "Exchange students must apply for a D2 student visa before arrival in Korea.",
+  "accommodations_info": {
+    "university_accommodation": "KAIST will apply for on-campus accommodation for all exchange students based on their student exchange application. The assigned dormitories (Double or Triple occupancy) for exchange students are furnished with beds, closets, desks and chairs for each room. Share faculties include restrooms, showers, washing machines, clothes drier, and a lobby on each floor.",
+    "off-campus_accommodation": null,
+    "suggested_housing_options": null
+  },
+  "cost_of_living": {
+    "estimated_monthly_expenses": {
+      "accommodation": "₩250,000",
+      "food": "₩300,000",
+      "transport": "₩100,000",
+      "academic_expenses": "₩50,000",
+      "others": "₩250,000",
+      "monthly_estimate": "₩950,000"
+    }
+  },
+  "university_description": null,
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": null,
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

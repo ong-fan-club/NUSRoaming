@@ -1,0 +1,58 @@
+{
+  "university_name": "KTH Royal Institute of Technology",
+  "university_website": [
+    "http://www.kth.se",
+    "https://www.kth.se/en/student/schema/lasarsindelning",
+    "https://www.kth.se/en/studies/exchange",
+    "https://www.kth.se/en/studies/exchange/courses",
+    "https://www.kth.se/en/studies/exchange/why-kth/accommodation-1.529520",
+    "https://www.kth.se/en/student/studentliv/new-in-sweden/residence-permit-for-studies-1.6909",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://www.kth.se/en/student/studentliv/new-in-sweden/insurance-1.366220",
+    "https://www.kth.se/en/aktuellt/covid-19/our-covid-19-response-1.996938"
+  ],
+  "university_country": "Sweden",
+  "sem1_months": [
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+    "January"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June"
+  ],
+  "faculties_accepted": [
+    "Architecture and the Built Environment (ABE)*",
+    "Engineering Sciences in Chemistry, Biotechnology and Health (CBH)",
+    "Electrical Engineering and Computer Science (EECS)",
+    "Industrial Engineering and Management (ITM)",
+    "Engineering Science (SCI)"
+  ],
+  "module_restrictions": "Exchange students should read a total of 30 ECs per semester and not more, and should take the majority of their courses within one specific school at KTH, provided that they meet the prerequisites specified for each course.",
+  "visa_info": "Students from non EU/EEA countries need to apply for a residence permit for studies before entering Sweden. A minimum CAP of 3.0 out of 5.0 with no grade below C is required and a comprehensive health insurance that covers the whole period of stay in Sweden if admitted for less than a year is also required. ",
+  "accommodations_info": "KTH has an Accommodation Office located in the Info Center at KTH Entré (Campus Valhallavägen). KTH Accommodation rents rooms for exchange students in student housing buildings (dormitories) and apartment houses. Rooms are located in central Stockholm as well as in the suburbs of the city. The housing contract always terminates on the 31st of July and cannot be prolonged after this date. ",
+  "cost_of_living": {
+    "accommodation": "SEK3,000 – SEK6,200",
+    "food": "SEK2,000",
+    "transport": "SEK590",
+    "telephone/internet": "SEK300",
+    "others": "SEK2,250",
+    "monthly_estimate": "SEK8,140 – SEK11,310"
+  },
+  "university_description": "KTH Royal Institute of Technology is a public research university in Stockholm, Sweden. It is Sweden's largest technical university and one of the oldest and most prestigious institutions of higher education in Scandinavia.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

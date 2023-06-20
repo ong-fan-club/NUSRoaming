@@ -1,0 +1,33 @@
+{
+  "university_name": "Technical University of Darmstadt",
+  "university_website": ["https://www.tu-darmstadt.de/incoming", "http://www.tucan.tu-darmstadt.de/", "https://www.intern.tu-darmstadt.de/dez_viii/wohnengaestehaeuser/index.en.jsp", "https://www.tu-darmstadt.de/studieren/studierende_tu/internationale_studierende_1/aufenthalt_international/artikel_details_de_en_77440.en.jsp"],
+  "university_country": "Germany",
+  "sem1_months": ["Mid-October", "November", "December", "January", "February", "end March"],
+  "sem2_months": ["Mid-April", "May", "June", "July", "August", "end September"],
+  "faculties_accepted": ["Global Studies", "History", "Civil and Environmental Engineering", "Mechanical Engineering", "Electrical and Computer Engineering", "Material Science", "Biology", "Chemistry", "Physics", "Mathematics", "Computer Science", "Urban Planning"],
+  "module_restrictions": "Only for NUS students who have completed at least 2 years of studies at NUS before the exchange starts at TUD. Courses belonging to Anglistics and English Literature are not open for exchange students.",
+  "visa_info": ["EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States.", "Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. You must not under any circumstances travel to Germany on a tourist visa."],
+  "accommodations_info": {
+    "University Accommodation": "Accommodation is available in dormitories of Studierendenwerk Darmstadt. NUS students are guaranteed accommodation. The allocation of accommodation usually takes place approx. 1 – 1.5 months prior to the Kick-Off Meeting.",
+    "Alternative Accommodation": "In case rooms in dormitories are not available, the TUD department will assist the students in finding accommodation by sending them a detailed guidebook via e-mail."
+  },
+  "cost_of_living": {
+    "monthly_estimate": "€840 - €990",
+    "breakdown_of_costs": {
+      "Accommodation": "€350 - €500",
+      "Food": "€300",
+      "Transport": "Included in semester contribution",
+      "Compulsory Health Insurance": "€90",
+      "Others (Entertainment, clothes)": "€100"
+    }
+  },  
+  "university_description": "Technical University of Darmstadt is a research university focused on engineering in Darmstadt, Germany.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "Darmstadt is a city in the state of Hesse in Germany, located in the southern part of the Rhine-Main-Area (Frankfurt Metropolitan Region).",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

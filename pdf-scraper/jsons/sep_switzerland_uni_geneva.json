@@ -1,0 +1,39 @@
+{
+  "university_name": "University of Geneva",
+  "university_website": [
+    "http://www.unige.ch/geneva",
+    "www.unige.ch/progcours",
+    "www.unige.ch/geneva/english",
+    "http://cite-uni.unige.ch/"
+  ],
+  "university_country": "Switzerland",
+  "sem1_months": ["September", "October", "November", "December", "January", "February"],
+  "sem2_months": ["February", "March", "April", "May", "June"],
+  "faculties_accepted": [
+    "Geneva School of Economics and Management",
+    "Global Studies Institute (International Relations)",
+    "Faculty of Arts/Humanities",
+    "Faculty of Sciences",
+    "School of Social Sciences (Sciences De la Société)"
+  ],
+  "module_restrictions": "Students must restrict their choice of courses to 2 faculties (+ Intensive French courses). Bachelor students cannot access master courses.",
+  "visa_info": "Non-EU citizens may require a visa and must contact the nearest Swiss embassy 3 months before entering Switzerland. Some visas can take as long as 3 months. A valid health and accident insurance is obligatory to reside in Switzerland.",
+  "accommodations_info": "Students can register online for university accommodation at the Cité Universitaire de Genève. Rooms are allocated on a first-come-first-served basis.",
+  "cost_of_living": {
+    "accommodation": "CHF600-700",
+    "food": "CHF600",
+    "transportation": "CHF45 – CHF70",
+    "insurance": "CHF100",
+    "entertainment_and_clothes": "CHF380",
+    "monthly_estimate": "CHF1,800 – CHF2,000"
+  },
+  "university_description": "The University of Geneva is a public research university located in Geneva, Switzerland. It was founded in 1559 by John Calvin as a theological seminary and law school.",
+  "university_address": null,
+  "location_cost_of_living": "Geneva is known as a very expensive city, with high costs for housing, food, and transportation.",
+  "location_weather": "Geneva has a temperate climate with warm summers and cool winters. The warmest month is July and the coldest month is January. Geneva receives a moderate amount of precipitation throughout the year.",
+  "location_description": "Geneva is a global city and a center for diplomacy, with the European headquarters of the United Nations and many international organizations located there. It is known for its beautiful scenery, museums, and cultural events.",
+  "location_crime": null,
+  "location_transportation": "Geneva has an extensive public transportation system including buses, trams, and trains. The public transportation system is efficient and reliable.",
+  "location_halal": "There are many halal food options available in Geneva, including restaurants and grocery stores.",
+  "location_vegetarian": "There are many vegetarian food options available in Geneva, including restaurants and grocery stores."
+}

@@ -1,0 +1,59 @@
+{
+    "university_name": "Yonsei University",
+    "university_website": [
+        "http://www.yonsei.ac.kr",
+        "https://oia.yonsei.ac.kr/intstd/exCalendar.asp",
+        "http://oia.yonsei.ac.kr/intstd/exCourse.asp",
+        "http://portal.yonsei.ac.kr/main/indexe.jsp",
+        "http://ih.yonsei.ac.kr/"
+    ],
+    "university_country": "South Korea",
+    "sem1_months": [
+        "March",
+        "April",
+        "May",
+        "June"
+    ],
+    "sem2_months": [
+        "September",
+        "October",
+        "November",
+        "December"
+    ],
+    "faculties_accepted": [
+        "Liberal Arts",
+        "Commerce and Economics",
+        "Business",
+        "Science",
+        "Engineering",
+        "Life System",
+        "Theology",
+        "Social Science",
+        "Human Ecology",
+        "Sciences in Education",
+        "Underwood International College",
+        "Korean Language (KLI)"
+    ],
+    "module_restrictions": "Business courses are restricted to business majors only and students can take a maximum of four business courses under the School of Business and Office of International Affairs. Medicine, Dentistry, Nursing, Pharmacy, Music, MBA, Law and courses offered in Songdo International Campus are not open to exchange students.",
+    "visa_info": "Exchange students must apply for a D2 student visa before arrival in Korea. After you received the Certificate of Admission (CoA) and offer letter from your host university, you may proceed to the Korean Embassy to apply for the student visa, with the relevant supporting documents.",
+    "accommodations_info": "Students who are interested in on-campus housing are encouraged to apply online as soon as the application is available. Please note that provision of on-campus housing is not guaranteed due to limited spaces. Rooms will be allocated on a first-come, first-served basis. Exchange students will be housed at the SK Global House (single and double occupancy) or the International House (only double occupancy).",
+    "cost_of_living": {
+        "Monthly Estimate": "₩1,200,000 - ₩1,400,000",
+        "Breakdown of Costs": {
+            "Accommodation": "₩400,000 - ₩600,000",
+            "Food": "₩400,000",
+            "Transport": "₩100,000",
+            "Academic Expenses": "₩50,000",
+            "Others (Entertainment, clothes)": "₩250,000"
+        }
+    },
+    "university_description": "Yonsei University is a private research university in Seoul, South Korea. It is one of the oldest and most prestigious universities in the country. Yonsei is a comprehensive research university offering a wide range of undergraduate and graduate programs.",
+    "university_address": null,
+    "location_cost_of_living": null,
+    "location_weather": null,
+    "location_description": null,
+    "location_crime": null,
+    "location_transportation": null,
+    "location_halal": null,
+    "location_vegetarian": null
+}

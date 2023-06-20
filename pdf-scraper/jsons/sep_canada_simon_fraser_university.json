@@ -1,0 +1,21 @@
+{
+  "university_name": "Simon Fraser University",
+  "university_website": ["https://www.sfu.ca/students/deadlines/academic_dates.html", "https://www.sfu.ca/students/exchange.html", "https://www.youtube.com/watch?v=tAjQBPTZwWk"],
+  "university_country": "Canada",
+  "sem1_months": ["September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April"],
+  "faculties_accepted": null,
+  "module_restrictions": null,
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": "Exchange students will be automatically enrolled in a mandatory primary medical insurance plan called guard.me@SFU: http://www.sfu.ca/medical-insurance/1-term-exchange.html. It is recommended that you purchase a comprehensive travel insurance for the full duration of your stay abroad, including your personal travel within/outside Canada. Please review the insurance coverages to ensure that they meet your needs. Students can purchase additional health and/or travel insurance from their preferred agent.",
+  "cost_of_living": null,
+  "university_description": "Simon Fraser University is a public research university in British Columbia, Canada, with three campuses spread across the Metro Vancouver area. It is named after the explorer Simon Fraser.",
+  "university_address": null,
+  "location_cost_of_living": "Vancouver is one of the most expensive cities in Canada in terms of cost of living. According to Numbeo, the cost of living including rent for a single person in Vancouver is estimated to be around CAD 1,200-1,800 per month.",
+  "location_weather": "Vancouver has a temperate oceanic climate with mild winters and a rainy season from October to March. Summers are warm and often sunny. Average temperatures range from 20°C in summer to 5°C in winter.",
+  "location_description": "Vancouver is a coastal seaport city in western Canada, located within the Lower Mainland region of British Columbia. It is the largest city in British Columbia and the seventh-largest in Canada.",
+  "location_crime": "Vancouver's crime rate is higher than the national average, but is still considered relatively safe for a city of its size. Some neighborhoods have higher crime rates than others, so it's a good idea to research the area before choosing where to live.",
+  "location_transportation": "Vancouver has an extensive public transportation system including buses, trains, and ferries. The SkyTrain is a rapid transit system that serves the Metro Vancouver area and is a popular mode of transportation for commuters.",
+  "location_halal": "There are several halal food options available in Vancouver.",
+  "location_vegetarian": "Vancouver has a large vegetarian and vegan community, and there are many restaurants that cater to this dietary preference."
+}

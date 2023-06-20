@@ -1,0 +1,52 @@
+{
+"university_name": "Uppsala University",
+"university_website": ["http://www.uu.se/en/", "http://www.housingoffice.se/"],
+"university_country": "Sweden",
+"sem1_months": ["August", "September", "October", "November", "December", "January"],
+"sem2_months": ["January", "February", "March", "April", "May", "June"],
+"faculties_accepted": ["Theology", "Law", "Arts", "Languages", "Social sciences", "Educational sciences", "Science and Technology"],
+"module_restrictions": {
+	"Business Studies courses": "entry requirements vary considerably. Please note the early application deadline!",
+	"Economics courses": "no courses available from the Department of Economics",
+	"Government courses": "limited space on certain courses",
+	"History courses": "limited space on courses",
+	"Law courses": "entry requirement of a minimum of two years of prior full-time Law studies.",
+	"Medicine courses": "no entry-level courses are taught in English. Students must have a strong academic background within Medicine and meet the entry requirements described in the course description.",
+	"Natural Sciences courses including Physics, Chemistry, Biology and Engineering": "few to no entry-level courses taught in English. Students must have a strong academic background within these subjects and meet the entry requirements described in the course description.",
+	"Philosophy courses": "only few courses available with high entry requirements",
+	"Psychology courses": "only few courses taught in English with limited space on courses",
+	"Sociology courses": "no courses at Bachelor level are taught in English"
+},
+"visa_info": "All non-EU citizens need to apply for a residence permit to stay longer than 90 days in Sweden.",
+"accommodations_info": {
+	"University Accommodation": "Housing is not guaranteed but is prioritised for exchange students who apply within deadlines.",
+	"Housing application deadlines": {
+		"For autumn semester": "15 – 31 May",
+		"For spring semester": "15 – 30 November"
+	},
+	"Housing application link": "will be sent out to students in a separate email prior to the application period opening.",
+	"Housing types": "Exchange students may be allocated a student room or a studio.",
+	"Housing responsibility": "Students in Sweden are living in rooms and apartments like any other tenants and are expected to take full responsibility for their accommodation.",
+	"Housing website": "http://www.housingoffice.se/",
+},
+"cost_of_living": {
+	"Estimated Monthly Living Expenses": {
+		"Accommodation": "SEK5,000",
+		"Food": "SEK2,100",
+		"Transport": "SEK300",
+		"Telephone/Internet": "SEK200",
+		"Others (Entertainment, clothes)": "SEK900",
+		"Monthly Estimate": "SEK8,500"
+	},
+	"Details": "For more details, please refer to http://www.uu.se/en/admissions/exchange/housing-and-financing/"
+},
+"university_description": "Uppsala University is a research-intensive university located in Uppsala, Sweden. It was founded in 1477 and is the oldest university in Sweden. The university has a long-standing tradition of international collaboration and exchange, and welcomes exchange students from all over the world.",
+"university_address": "Uppsala University, Box 256, SE-751 05 Uppsala, SWEDEN",
+"location_cost_of_living": "According to Numbeo, the cost of living in Uppsala is relatively high, with an index score of 74.08 out of 100 as of August 2021. This includes factors like accommodation, transportation, food, and entertainment.",
+"location_weather": "Uppsala has a humid continental climate with cold winters and mild summers. Average temperatures range from -6 degrees Celsius in January to 20 degrees Celsius in July.",
+"location_description": "Uppsala is a historic town located about 70 kilometers north of Stockholm. It is home to several notable sites, including Uppsala Cathedral, the Linnaeus Museum, and the Gustavianum Museum.",
+"location_crime": "Uppsala is generally safe, with low levels of violent crime and property crime. However, students are advised to take precautions like locking doors and windows, and avoiding walking alone at night.",
+"location_transportation": "Uppsala has a well-developed public transportation system that includes buses and trains. The city is also bike-friendly, with many bike lanes and rental options available.",
+"location_halal": "Halal food options are available in Uppsala, including several halal restaurants and grocery stores.",
+"location_vegetarian": "Vegetarian food options are widely available in Uppsala, including vegetarian and vegan restaurants and grocery stores." 
+}

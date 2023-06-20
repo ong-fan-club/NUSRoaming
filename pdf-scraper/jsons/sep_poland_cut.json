@@ -1,0 +1,21 @@
+{
+"university_name": "Cracow University of Technology (CUT)",
+"university_website": ["http://iro.pk.edu.pl/incoming-exchange-students/", "http://iro.pk.edu.pl/academic-calendar/", "http://iro.pk.edu.pl/accommodation/","http://www.akademiki.pk.edu.pl/ds4-balon.html", "http://www.msz.gov.pl"],
+"university_country": "Poland",
+"sem1_months": ["Early October","November", "December", "January", "mid-February"],
+"sem2_months": ["Mid-February", "March", "April", "May", "late June"],
+"faculties_accepted": ["Faculty of Architecture", "Faculty of Physics, Mathematics and Computer Science", "Faculty of Electronical Engineering and Technology", "Faculty of Civil Engineering", "Faculty of Chemical Engineering and Technology", "Faculty of Environmental Engineering","Faculty of Mechanical Engineering"],
+"module_restrictions": {"FoE": [{"Major": "Mechanical Engineering", "semester": "2"}, {"Major": "Civil & Environmental Engineering", "semester": "2 recommended"},{"Major": "Environmental Engineering", "semester": "2"}],"FoS":[{"Major": "Mathematics"},{"Major": "Physics", "semester": "1 only"}],"SDE": [{"Major": "Architecture", "notes": "alternative assessments for semester 1 exchange can be arranged"}]},
+"visa_info": "Visa is required for a stay of more than 90 days for Singaporean and Malaysians. Non-EU students wishing to study in Poland should apply for an entry visa. All students should legalize their stay exceeding 3 months by obtaining temporary residence permit after their arrival to Poland.",
+"accommodations_info": {"University Accommodation": "CUT does not guarantee accommodation to exchange students. Co-educative student on-campus housing refers to double rooms with shared bathrooms (each bathroom is shared by four students) and shared kitchen. Students may check-in in our dormitories a few days before semester starts.", "Private Accommodation": "Students will have to source for their own private accommodation. Applicants who need accommodation should submit their accommodation application to CUT’s International Relations Office before 30 May, regardless of whether the study period commences in winter or spring semester of the following academic year."},
+"cost_of_living": {"Estimated Monthly Living Expenses": ["PLN 1,225 - 1,935", "PLN 2,850 - 3,550"], "Breakdown of Costs": {"Accommodation (CUT dormitory)": "PLN 375", "Accommodation (Private)": "PLN 2,000", "Food (3 meals a day)": "PLN 500 to 1,000", "Transport (Bus and Network Pass)": "PLN50", "Others (Entertainment, clothes)": "PLN300 to 500"}},
+"university_description": "",
+"university_address": "",
+"location_cost_of_living": "",
+"location_weather": "",
+"location_description": "",
+"location_crime": "",
+"location_transportation": "",
+"location_halal": "",
+"location_vegetarian": ""
+}

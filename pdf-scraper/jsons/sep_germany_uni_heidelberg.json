@@ -1,0 +1,10 @@
+{
+  "university_name": "Ruprecht Charles University of Heidelberg",
+  "university_website": ["https://www.uni-heidelberg.de/courses/prospective/admission_int/guide/online_guide_index.html", "http://www.uni-heidelberg.de/courses/date/dates.html", "http://www.uni-heidelberg.de/studium/imstudium/vorlesungen/", "http://www.isz.uni-heidelberg.de/e_index.html", "http://www.isz.uni-heidelberg.de/ISZ_SBK_SS2018_en.pdf", "http://www.studentenwerk.uni-heidelberg.de/wohnen"],
+  "university_country": "Germany",
+  "sem1_months": ["Mid-October", "November", "December", "January", "February"],
+  "sem2_months": ["Mid-April", "May", "June", "July", "August", "September"],
+  "faculties_accepted": "See http://www.uni-heidelberg.de/studium/imstudium/vorlesungen/",
+  "module_restrictions": "Modules from Faculty of Medicine and Faculty of Dentistry are not open to exchange students. Access to courses in Biosciences and Law is restricted. For other restrictions, please refer to this link.",
+  "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States. After entering Germany, you will have to apply for a residence permit at the local \"Auslaenderbehörde\" (Immigration Office) if you are staying for more than three months. Students from"
+}

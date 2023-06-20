@@ -1,0 +1,69 @@
+{
+  "university_name": "The Hebrew University of Jerusalem",
+  "university_website": [
+    "http://new.huji.ac.il/en",
+    "https://international.huji.ac.il/book/exchange-programs",
+    "https://overseas.huji.ac.il/academics/undergraduate-programs/exchange-students/",
+    "https://overseas.huji.ac.il/student-life/health-safety/"
+  ],
+  "university_country": "Israel",
+  "sem1_months": [
+    "Mid-October",
+    "November",
+    "December",
+    "January",
+    "Early February"
+  ],
+  "sem2_months": [
+    "Mid-March",
+    "April",
+    "May",
+    "June",
+    "Early July"
+  ],
+  "faculties_accepted": [
+    "Arabic",
+    "Archaeology",
+    "Economics (limited)",
+    "Gender studies ",
+    "Literature",
+    "History",
+    "International Relations",
+    "Philosophy",
+    "Political Science",
+    "Psychology",
+    "Religious Studies",
+    "Sociology",
+    "Neuroscience (limited)"
+  ],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. Most of the courses in the faculty level programmes are open to exchange students, pending availability. Participation in some courses requires approval from the department in which the student wishes to study. The Faculty of Social Sciences accepts exchange students only for electives.",
+  "visa_info": "All students must obtain a MULTIPLE ENTRY A/2 STUDENT VISA prior to their arrival to Israel through the closest Israeli Embassy or Consulate. Students will be required to present their acceptance letter from the Rothberg International School to the Israeli Embassy or Consulate as part of their visa application.",
+  "accommodations_info": "Housing is available at HUJI but is not guaranteed. Incoming students are mainly accommodated in student housing complexes on Mount Scopus, overlooking the incredible panorama of Jerusalem. Students are usually housed in apartments with single bedrooms. The bedrooms contain a bed, desk, chair and closet. Kitchen and bathroom facilities are shared. Internet access is available for an additional fee.",
+  "cost_of_living": [
+    {
+      "expense_type": "Housing* (including utilities)",
+      "monthly_amount_USD": "600-800"
+      },
+    {
+      "expense_type": "Medical Insurance**",
+      "monthly_amount_USD": "52"
+      },
+    {
+      "expense_type": "Transportation",
+      "monthly_amount_USD": "100"
+      },
+    {
+      "expense_type": "Personal Expenses/leisure",
+      "monthly_amount_USD": "650-750"
+    }
+  ],
+  "university_description": "The Hebrew University of Jerusalem offers a wide variety of undergraduate modules (lectures, exercises and seminars) taught in English through the Rothberg International School. Students on exchange can take courses both at the school and at different faculties, subject to availability and approval from the relevant department. ",
+  "university_address": "",
+  "location_cost_of_living": "The cost of living can vary depending on individual spending habits, but an estimated breakdown of monthly expenses is available on the university website.",
+  "location_weather": "",
+  "location_description": "Jerusalem is a city with a rich history and culture, containing many historic and religious sites of significance. It is also a modern and bustling city with a lively atmosphere and many local attractions.",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

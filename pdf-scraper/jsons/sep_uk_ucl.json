@@ -1,0 +1,34 @@
+{
+  "university_name": "University College London",
+  "university_website": [
+    "https://www.ucl.ac.uk/prospective-students/study-abroad-at-ucl/",
+    "https://www.ucl.ac.uk/students/life",
+    "http://www.ucl.ac.uk/prospective-students/study-abroad-ucl/study-abroad-guide/study-options",
+    "http://www.ucl.ac.uk/prospective-students/study-abroad-ucl/study-abroad-guide/subjects",
+    "http://www.ucl.ac.uk/prospective-students/accommodation"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": ["Late September", "October", "November", "December"],
+  "sem2_months": ["Early January", "February", "March", "April", "May", "mid-June"],
+  "faculties_accepted": [
+    "Faculty of Arts and Humanities",
+    "Faculty of Engineering Sciences",
+    "Faculty of Law",
+    "Faculty of Life Sciences",
+    "Faculty of Mathematics and Physical Sciences",
+    "Faculty of Social and & Historical Sciences"
+  ],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. UCL did not accept students for AY 19/20 and they may remain the case for future AYs.",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange. Medical insurance is recommended.",
+  "accommodations_info": "UCL guarantees accommodation to exchange students who have been accepted to study at UCL for a full academic year, provided that they submit their housing application form by the deadline set by the Student Residences Office. Students who study at UCL for less than a full academic year are not guaranteed university accommodation.",
+  "cost_of_living": "Information on cost of living can be found at https://www.ucl.ac.uk/scholarships/how-much-does-it-cost-study-ucl",
+  "university_description": "University College London (UCL) is a public research university located in London, United Kingdom. It is a top-ranked university in the UK, consistently ranked among the top 20 universities in the world. UCL has a diverse student body, with over 41,500 students from over 150 different countries.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

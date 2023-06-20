@@ -1,0 +1,21 @@
+{
+ "university_name": "The University of Edinburgh",
+ "university_website": ["http://www.ed.ac.uk/global/study-abroad","https://www.ed.ac.uk/global/study-abroad/diary"],
+ "university_country": "United Kingdom",
+ "sem1_months": ["Early September", "Late December"],
+ "sem2_months": ["Mid-January", "Late May"],
+ "faculties_accepted": ["Biological Sciences","Biomedical Sciences","Business School","Chemistry","Divinity","Economics","Engineering","Geosciences","History","Classics and Archaeology","Health in Social Science","Informatics","Law","Literatures","Languages and Cultures","Mathematics","Philosophy","Psychology and Language Sciences","Physics and Astronomy","Social and Political Science"],
+ "module_restrictions": ["Honours courses (or third year classes) with limited places.", "Medicine and Studio based classes such as Architecture, Landscape Architecture and Art and Design are not available."],
+ "visa_info": {"consular/visa_requirements": "It is the student’s responsibility to check on the visa requirements via their website before they leave for the exchange.","standard_visitor_visa_for_semester_exchange": "If you are a Singapore citizen or a citizen of another country on the UK non-visa nationals list, and if your course of studies is less than 6 months, you will request entry to the UK as a Standard Visitor when you arrive.", "student_visa_for_full_year_exchange": "You need a Student Visa for a full-year exchange in Edinburgh. Edinburgh’s information on Visa and Immigration can be found here: https://www.ed.ac.uk/student-administration/immigration"},
+ "accommodations_info": {"university_accommodation": "Exchange students are guaranteed accommodation if their application is submitted on time. However, preferred room type cannot be guaranteed. For more information about the criteria, please visit: https://www.ed.ac.uk/global/study-abroad/living-edinburgh/accommodation","private_accommodation": "If you need to look for accommodation in the Private Sector, please take note that there are various scams operating in the Private Sector. Therefore, please take note of the advice and guidance found here: http://www.accom.ed.ac.uk/for-students/private-housing/"},
+ "cost_of_living": {"estimated_monthly_living_expenses": "Detailed breakdown of living costs is available at http://www.ed.ac.uk/studying/international/finance/cost-of-living"},
+ "university_description": "Founded in 1582, the University of Edinburgh is a prestigious public research university in Scotland with five main campuses in the city of Edinburgh.",
+ "university_address": "Old College, South Bridge, Edinburgh EH8 9YL, United Kingdom",
+ "location_cost_of_living": "Edinburgh is relatively expensive, and the cost of living is around £1000 - £1200 per month as estimated by the University of Edinburgh itself.",
+ "location_weather": "Edinburgh has a moderate and mild climate, with average temperatures ranging from 1°C (33.8°F) in winter to around 19°C (66.2°F) in the summer. Edinburgh has a relatively high annual rainfall and is known for its cloudy days.",
+ "location_description": "Edinburgh is the capital city of Scotland and is known for its stunning architecture, rich history, culture, and festivals. It is also a hub for business and innovation with many scientific, medical, and technological advances.",
+ "location_crime": "Edinburgh has a low crime rate and is considered to be a safe city. However, like any other city, visitors should take the necessary precautions and avoid isolated areas, especially during the night.",
+ "location_transportation": "Edinburgh has an extensive public transportation system, including buses, trams, and trains, making it easy to get around the city. Students may also choose to get a discounted bus pass or a bike.",
+ "location_halal": "Edinburgh has several halal food options, with many halal-certified restaurants and cafes around the city.",
+ "location_vegetarian": "Edinburgh is generally vegetarian and vegan-friendly, with many vegetarian and vegan options available at most restaurants." 
+}

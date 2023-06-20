@@ -1,0 +1,85 @@
+{
+  "university_name": "University of Konstanz",
+  "university_website": [
+    "https://www.uni-konstanz.de/en/international-office/study-in-konstanz/exchange-and-non-degree-studies/"
+  ],
+  "university_country": "Germany",
+  "sem1_months": [
+    "Mid-October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "sem2_months": [
+    "Mid-April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "faculties_accepted": [
+    "FASS",
+    "FoS",
+    "SoC"
+  ],
+  "module_restrictions": null,
+  "visa_info": {
+    "countries_exempted": [
+      "Australia",
+      "Canada",
+      "Honduras",
+      "Iceland",
+      "Israel",
+      "Japan",
+      "Korea",
+      "Liechtenstein",
+      "Monaco",
+      "New Zealand",
+      "Norway",
+      "San Marino",
+      "Switzerland",
+      "United States"
+    ],
+    "visa_required": true,
+    "visa_deadline_sem1": "15 May",
+    "visa_deadline_sem2": "15 November"
+  },
+  "accommodations_info": {
+    "university_accommodation": {
+      "provider": "Studentenwerk Seezeit",
+      "guaranteed_for_exchange_students": true,
+      "rent_range": "€230 - €380",
+      "refund_policy": "No refund if student leaves earlier"
+    },
+    "private_housing_websites": [
+      "www.vierwaen.de",
+      "www.wg-gesucht.de"
+    ],
+    "private_housing_caution": "Be aware of scams and do not commit to rental if unsure"
+  },
+  "cost_of_living": {
+    "estimated_monthly_expense": "€630 - €1,300",
+    "breakdown_of_costs": {
+      "accommodation": "€230 - €420",
+      "health_insurance": "€80",
+      "food": "€120 - €250",
+      "others": "€200 - €550"
+    },
+    "additional_fees": {
+      "local_transportation": "€53",
+      "campus_fees_semester": "€90 - €160"
+    }
+  },
+  "university_description": null,
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": null,
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

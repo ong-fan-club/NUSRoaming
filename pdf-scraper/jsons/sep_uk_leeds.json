@@ -1,0 +1,43 @@
+{
+   "university_name":"University of Leeds",
+   "university_website":[
+      "https://www.leeds.ac.uk/international-exchange-and-study-abroad"
+   ],
+   "university_country":"United Kingdom",
+   "sem1_months":[
+      "late September",
+      "October",
+      "November",
+      "December",
+      "January"
+   ],
+   "sem2_months":[
+      "late January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "mid-June"
+   ],
+   "faculties_accepted":[
+      "Faculty of Arts, Humanities and Cultures",
+      "Faculty of Engineering",
+      "Faculty of Biological Sciences",
+      "School of Business",
+      "School of Environment",
+      "School of Mathematics and Physical Sciences"
+   ],
+   "module_restrictions":"Graduate modules are not open to undergraduate exchange students. Studio Art, Design and Music Performance modules may not be available to exchange students. For highly popular modules, early application is strongly recommended to avoid disappointment. There are a number of other module restrictions so it is advised that the search parameter ‘Search by Incoming Study Abroad’ is used to obtain an accurate list of what is available. Leeds would also advise students to read the school-specific module guidance in the PDF.",
+   "visa_info":"Students who are on exchange in UK for less than six months are not entitled to subsidised NHS treatment. Therefore, semester-based exchange students are encouraged to purchase additional insurance to cover medical costs, hospitalisation expenses and emergency evacuation costs which might be incurred while they are on exchange. All registered NUS students are covered under the group personal accident and medical insurance as well as the student travel insurance. For more information on the insurance coverage, please refer to https://myportal.nus.edu.sg/studentportal/student-insurance/all/. If the insurance coverage is not enough, students are advised to purchase additional health and/or travel insurance from their preferred agent. Students need a Student Visa for a full-year exchange in Leeds.",
+   "accommodations_info":"Information about university accommodation will be given in the acceptance email sent out by Leeds directly to selected students. Accommodation is guaranteed for all exchange students at the university provided that the application is received by the university's accommodation office before the given deadline. Students can apply for accommodation from mid-May after formally accepted by Leeds for the exchange. For details on the various housing options and rental, please refer to the PDF.",
+   "cost_of_living":"Estimated monthly living expenses: http://students.leeds.ac.uk/info/21504/living_in_the_uk/842/budget_and_costs. For more detailed information, please refer to the PDF. ",
+   "university_description":"",
+   "university_address":"",
+   "location_cost_of_living":"",
+   "location_weather":"",
+   "location_description":"",
+   "location_crime":"",
+   "location_transportation":"",
+   "location_halal":"",
+   "location_vegetarian":""
+}

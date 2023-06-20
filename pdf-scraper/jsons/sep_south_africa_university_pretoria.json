@@ -1,0 +1,26 @@
+{
+ "university_name": "University of Pretoria",
+ "university_website": ["http://www.up.ac.za/en/international-cooperation-division/article/2512050/exchange-and-study-abroad", "http://www.up.ac.za/", "http://www.up.ac.za/student-accommodation"],
+ "university_country": "South Africa",
+ "sem1_months": ["January", "February", "March", "April", "May", "June"],
+ "sem2_months": ["July", "August", "September", "October", "November", "December"],
+ "faculties_accepted": ["FASS", "FOE (some fields)", "FOS (some fields)"],
+ "module_restrictions": "Students are most welcome to apply for semester courses in all faculties, with the exception of the Faculty of Health Sciences.",
+ "visa_info": "Exchange students are requested to contact the nearest South African consular office in their home country, or neighboring country to obtain a study permit. The student must use the letter of admission from the University of Pretoria to apply for study permits. It is the responsibility of the student to see to it that the South African consular office issues the correct permit with the correct endorsement. Please note that students are NOT allowed to study at the University without a valid study permit. (Endorsed to study at the University of Pretoria.)",
+ "accommodations_info": {
+   "university_accommodation": "The International Students Division (ISD) is responsible for arranging accommodation for exchange and study-abroad students. However, accommodation is subject to availability of space and is allocated on a first-come-first-served basis.",
+   "private_accommodation": "http://www.up.ac.za/en/student-accommodation/article/256266/private-accommodation"
+ },
+ "cost_of_living": {
+   "estimated_monthly_living_expenses": "The amount you spend on daily necessities can vary widely, according to individual preferences and lifestyles. For more financial advice specific to University of Pretoria, please refer to the following webpage. http://www.up.ac.za/en/fees-and-funding/article/277419/residence-fees"
+ },
+ "university_description": "The University of Pretoria is a public research university in Pretoria, South Africa. It was founded in 1908 and is the fourth South African institution in continuous operation to be awarded university status.",
+ "university_address": "Lynnwood Rd, Hatfield, Pretoria, 0083, South Africa",
+ "location_cost_of_living": "According to Numbeo, the cost of living in Pretoria is 39.17% lower than in New York City. This includes the cost of accommodations, food, transportation, and other daily necessities.",
+ "location_weather": "Pretoria has a subtropical highland climate. Winters are cool and dry, while summers are sunny, humid, and hot. Average temperatures range from 9°C (48°F) in June and July to 29°C (84°F) in January.",
+ "location_description": "Pretoria is the administrative capital city of South Africa. It is known for its historic landmarks, museums, and nature reserves. It is also home to several universities and research institutions.",
+ "location_crime": "Pretoria has a high crime rate, particularly in terms of property crimes such as theft, burglary, and car theft. However, violent crimes are less common in Pretoria than in other South African cities.",
+ "location_transportation": "Public transportation options in Pretoria include the Gautrain, buses, and taxis. The Gautrain is a fast and efficient rail service that connects Pretoria with Johannesburg and other neighboring cities.",
+ "location_halal": "Halal food options are available in Pretoria, particularly in areas with a large Muslim population.",
+ "location_vegetarian": "Vegetarian food options are available in Pretoria, particularly in areas with a high concentration of restaurants and cafes." 
+}

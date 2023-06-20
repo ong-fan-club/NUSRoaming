@@ -1,0 +1,33 @@
+{
+  "university_name": "Telecom ParisTech",
+  "university_website": ["http://www.telecom-paristech.fr/eng", "https://internationaltelecomparistech.wp.mines-telecom.fr/incoming-students/how-to-apply/", "https://www.pairform.fr/doc/19/37/72/web/co/_structure.html"],
+  "university_country": "France",
+  "sem1_months": ["End August", "Mid February"],
+  "sem2_months": ["Mid February", "End June"],
+  "faculties_accepted": ["14 study tracks on the Paris Campus", "3 fields of research on the Eurecom campus: Networking and security, Multimedia communications, Mobile communications"],
+  "module_restrictions": "Students must have completed at least 4 semesters of undergraduate studies before participating in exchange programme at TELECOM ParisTech.",
+  "visa_info": ["Long-stay visas are necessary for stays exceeding 3 months.", "Students can apply up to 3 months prior to the departure."],
+  "accommodations_info": {
+    "University Accommodation": "The association that manages the student housing for Télécom ParisTech students is called Maison des Élèves (nicknamed “la Maisel”).",
+    "Private Accommodation": "No information provided."
+  },
+  "cost_of_living": {
+    "Estimated Monthly Living Expenses": "€890",
+    "Breakdown of Costs": {
+      "Accommodation": "€460",
+      "Food": "€200",
+      "Transport": "€40",
+      "Insurance": "€40",
+      "Others (Entertainment, clothes)": "€150"
+    }
+  },
+  "university_description": "Telecom ParisTech is a French engineering school specializing in ICT and founded in 1878. It is located in Paris, France, and it is one of the leading engineering schools in the country.",
+  "university_address": "46 Rue Barrault, 75013 Paris, France",
+  "location_cost_of_living": "Paris is known to be an expensive city, with a high cost of living compared to other cities in France and Europe.",
+  "location_weather": "Paris has an oceanic climate, with mild summers and cool winters, and rainfall distributed throughout the year.",
+  "location_description": "Paris is the capital and most populous city of France, known for its iconic landmarks such as the Eiffel Tower, Notre-Dame Cathedral, and Louvre Museum, among others. It is also a major center for art, fashion, culture, and a popular tourist destination.",
+  "location_crime": "Paris is considered a safe city overall, but petty crime such as pickpocketing and bag-snatching is common, particularly in crowded areas and tourist attractions.",
+  "location_transportation": "Paris has an extensive public transportation system consisting of metro, buses, trams, and regional trains, making it easy to get around the city and nearby areas.",
+  "location_halal": "Halal food options are available in Paris, with a variety of restaurants and shops serving Middle Eastern and North African cuisine.",
+  "location_vegetarian": "Paris has a growing number of vegetarian and vegan options, with many restaurants and cafes offering vegetarian and vegan menu items."
+}

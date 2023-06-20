@@ -1,0 +1,28 @@
+{
+  "university_name": "Australian National University",
+  "university_website": [
+    "http://www.anu.edu.au/",
+    "https://www.anu.edu.au/study/related-information/exchange-and-study-abroad"
+  ],
+  "university_country": "Australia",
+  "sem1_months": ["Mid February", "Late June"],
+  "sem2_months": ["Mid July", "Late November"],
+  "faculties_accepted": [],
+  "module_restrictions": null,
+  "visa_info": {
+    "visa_type": "Australian Non Award Student Visa",
+    "visa_subclass": "500",
+    "visa_application_link": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500"
+  },
+  "accommodations_info": null,
+  "cost_of_living": null,
+  "university_description": "Australian National University (ANU) is a public research university located in Canberra, Australia. It is ranked as the 27th best university in the world by the QS World University Rankings.",
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": "Canberra is the capital city of Australia. It is located in the Australian Capital Territory and is surrounded by New South Wales. The city is known for its friendly locals and outdoor attractions such as hiking, cycling and nature walks.",
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

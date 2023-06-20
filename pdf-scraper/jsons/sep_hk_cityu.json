@@ -1,0 +1,88 @@
+{
+  "university_name": "City University of Hong Kong",
+  "university_website": [
+    "http://www.cityu.edu.hk/",
+    "http://www6.cityu.edu.hk/arro/ac_calendar.asp",
+    "http://www.cityu.edu.hk/cityu/depts/facultynschool.htm",
+    "http://www.cityu.edu.hk/sro/htm/e_off-campus.htm",
+    "http://www.immd.gov.hk",
+    "http://www.cityu.edu.hk/geo",
+    "http://www.cityu.edu.hk/gso/ies_stdvisa.htm",
+    "http://www.cityu.edu.hk/geo/ies_healthninsur.htm",
+    "http://www.nus.edu.sg/uhc/general-health/billing-insurance/insurance-matters",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/"
+  ],
+  "university_country": "Hong Kong, China SAR",
+  "sem1_months": [
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "faculties_accepted": [
+    "Accountancy",
+    "Global Business",
+    "Finance",
+    "Management",
+    "Marketing",
+    "Business Operations Management",
+    "Social Sciences",
+    "Asian and International Studies",
+    "Chinese and History",
+    "Media and Communication",
+    "Political Science",
+    "Economics",
+    "Civil Engineering",
+    "Electronic Engineering",
+    "Mechanical Engineering",
+    "Biomedical Engineering",
+    "Engineering Management",
+    "Energy Science and Engineering",
+    "Law",
+    "Mathematics",
+    "Biology",
+    "Chemistry",
+    "Physics and Materials Science",
+    "Architecture",
+    "Computer Science",
+    "Systems Engineering"
+  ],
+  "module_restrictions": "Some courses with capacity limit do not accept exchange students. For pre-requisite required courses, students must have taken courses considered equivalent to the pre-requisite. Exchange students are normally allowed to take courses at undergraduate level only (course level: B1-B4) unless approved otherwise.",
+  "visa_info": "Consular/Visa Regulation Details and procedures can be found at http://www.immd.gov.hk and http://www.cityu.edu.hk/geo. Students are encouraged to apply for student visa to Hong Kong via CityU. CityU may act as the local sponsor of exchange students who are accepted for admission and meet Hong Kong visa application requirements. Completed application form and other necessary documents should be sent to the Global Services Office, Rm 3210, 3/F, Cheng Yick-chi Building, City University of Hong Kong, Tat Chee Avenue, Kowloon, Hong Kong SAR at least 6-8 weeks before the semester starts. An Administrative Fee for Student Visa/Entry Permit Application at HK$600 will be charged. The fee is non-refundable and non-transferable. As the student visa/entry permit application processing may take 8 weeks or even longer, students should file their application by the following deadline: Semester A (September Intake): 1st June / Semester B (January Intake): 1st November *Students are encouraged to file their student visa/entry permit application first even if they have not yet received the letter of acceptance.",
+  "accommodations_info": [
+    {
+      "type": "University Accommodation",
+      "info": "Exchange students may apply for accommodation at Student Residence but it is NOT guaranteed due to limited spaces. Allocation of accommodation will be made by a random ballot. Students should file their accommodation application before the deadline."
+    },
+    {
+      "type": "Private Accommodation",
+      "info": "Exchange students may choose to stay in commercially operated accommodation recommended by CityU, or rent your own flat on the market. Students will be invited to join a Facebook group with guidance on searching off-campus housing in Hong Kong and to find suitable flatmates to share a flat in the city. The rental for off-campus accommodations varies, depending on the size, location, age of the building, etc."
+    }
+  ],
+  "cost_of_living": {
+    "estimated_monthly_expenses": "HK$10,125 – HK$11,375",
+    "breakdown": {
+      "Off-campus Accommodation": "HK$5,625 – HK$6,875",
+      "Food": "HK$3,000",
+      "Transport": "HK$300",
+      "Others": "HK$1,200"
+    }
+  },
+  "university_description": "City University of Hong Kong offers professional education that prepares its students for the challenges and exciting opportunities opening up in Hong Kong, the Asia-Pacific region and throughout the world in business, science and engineering, energy and environment, law, creative media and social sciences. Through its extensive links with relevant industries, CityU provides real-life opportunities for students to work with and learn from professionals in the workplace.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

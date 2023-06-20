@@ -1,0 +1,50 @@
+{
+   "university_name": "Seoul National University",
+   "university_website": ["https://en.snu.ac.kr/"],
+   "university_country": "South Korea",
+   "sem1_months": ["March", "April", "May", "June"],
+   "sem2_months": ["September", "October", "November", "December"],
+   "faculties_accepted": [
+      "Humanities",
+      "Social Sciences",
+      "Natural Sciences",
+      "Business Administration",
+      "Engineering",
+      "Agriculture and Life Sciences",
+      "Education",
+      "Human Ecology",
+      "Pharmacy",
+      "Liberal Studies",
+      "Interdisciplinary Programs"
+   ],
+   "module_restrictions": {
+      "College of Business Administration": "Restricted to business or economics students at home university",
+      "Computer Science and Engineering": "Requires at least 15 credits in CSE-related courses",
+      "Korean History/Psychology/Statistics": "Requires proof of Korean language proficiency (KLPT Level 5 or above)",
+      "College of Law and School of Dentistry": "Not available for undergraduate exchange students",
+      "College of Medicine": "Not available for exchange students",
+      "Dept. of Vocal Music": "Restricted to vocal music students at home university"
+   },
+   "visa_info": "Exchange students are required to obtain a D2 student visa before arriving in Korea",
+   "accommodations_info": [
+      "Students may apply for the Gwanak Residence Halls, although room assignment is not guaranteed",
+      "Off-campus housing is available"
+   ],
+   "cost_of_living": {
+      "Accommodation": "₩300,000 - ₩700,000",
+      "Food": "₩400,000",
+      "Transport": "₩100,000",
+      "Academic Expenses": "₩50,000",
+      "Others (Entertainment, clothes)": "₩300,000",
+      "Monthly Estimate": "₩1,150,000 - ₩1,550,000"
+   },
+   "university_description": "Seoul National University is a public research university located in Seoul, South Korea.",
+   "university_address": null,
+   "location_cost_of_living": "Cost of living in Seoul is relatively high compared to other cities in South Korea.",
+   "location_weather": null,
+   "location_description": "Seoul is the capital and largest city of South Korea. It has a rich history and culture, and is known for its technology and fashion industries.",
+   "location_crime": null,
+   "location_transportation": "Seoul has an extensive public transportation system, including buses, subways, and trains.",
+   "location_halal": "Halal food options are available in Seoul.",
+   "location_vegetarian": "Vegetarian food options are available in Seoul."
+}

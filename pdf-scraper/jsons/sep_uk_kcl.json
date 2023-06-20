@@ -1,0 +1,38 @@
+{
+  "university_name": "King’s College London",
+  "university_website": ["https://www.kcl.ac.uk/abroad", "https://www.kcl.ac.uk/aboutkings/Academic-Calendar"],
+  "university_country": "United Kingdom",
+  "sem1_months": ["late September", "October", "November", "mid-December"],
+  "sem2_months": ["early January", "February", "March", "April", "May", "early June"],
+  "faculties_accepted": [
+    "Arts & Humanities",
+    "Natural & Mathematical Sciences",
+    "Social Science & Public Policy",
+    "Law",
+    "School of Bioscience Education"
+  ],
+  "module_restrictions": [
+    "Postgraduate modules are not open to undergraduate exchange students.",
+    "The Health and Society programme, is only available for fee-paying exchange students.",
+    "Medicine, Dentistry, Nursing & Midwifery faculties do not accept exchange students."
+  ],
+  "visa_info": [
+    "Standard Visitor Visa is applicable only to applicants who are coming for a single semester and entering on a Standard Visitor Visa.",
+    "Students can meet the English language requirement by completing a minimum of a year of degree level study or higher at their home institution (NUS) on a programme which has an English language requirement equivalent to KCL Band D.",
+    "For students requiring a Student Visa: Applicants who are attending for one semester or a full year can meet the English Language Requirements via the tests or exams that are detailed on KCL’s website under Band B."
+  ],
+  "accommodations_info": [
+    "On-campus accommodation is not guaranteed.",
+    "The College offers a variety of accommodation within its own halls of residences and also the University of London Intercollegiate Residences."
+  ],
+  "cost_of_living": "Detailed breakdown of living costs is available at https://www.kcl.ac.uk/study/london/budget and https://www.kcl.ac.uk/study/undergraduate/fees-and-funding/living-expenses",
+  "university_description": "",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

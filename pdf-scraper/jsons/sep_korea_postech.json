@@ -1,0 +1,74 @@
+{
+  "university_name": "Pohang University of Science and Technology (POSTECH)",
+  "university_website": [
+    "http://www.postech.ac.kr/",
+    "http://international.postech.ac.kr/inbound-programs/exchange-program/"
+  ],
+  "university_country": "South Korea",
+  "sem1_months": [
+    "End Feb/March",
+    "April",
+    "May",
+    "June"
+  ],
+  "sem2_months": [
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "faculties_accepted": [
+    "Mathematics",
+    "Physics",
+    "Chemistry",
+    "Life Sciences",
+    "Materials Science and Engineering",
+    "Mechanical Engineering",
+    "Industrial and Management Engineering",
+    "Electrical Engineering",
+    "Computer Science and Engineering",
+    "Chemical Engineering",
+    "Creative IT Engineering",
+    "Humanities and Social Sciences"
+  ],
+  "module_restrictions": "Students are required to meet the pre-requisites for the courses that they applied.",
+  "visa_info": "Exchange students must apply for a D2 student visa before arrival in Korea.",
+  "accommodations_info": [
+    "International exchange students will be housed at the Dormitory for International Cultural Exchange (DICE) on twin sharing basis. All rooms are equipped with free internet, LAN connections and lounges with cable TV are available on every floor. Admitted students are automatically arranged on-campus housing.",
+    "For more information about accommodation, please refer to http://www.postech.ac.kr/eng/campus-life/welfare-facilities/housing/dormitory/"
+  ],
+  "cost_of_living": {
+    "estimated_monthly_living_expenses": "₩840,000",
+    "breakdown_of_costs": [
+      {
+        "cost": "Accommodation",
+        "amount": "₩140,000"
+      },
+      {
+        "cost": "Food",
+        "amount": "₩350,000"
+      },
+      {
+        "cost": "Transport",
+        "amount": "₩50,000"
+      },
+      {
+        "cost": "Academic Expenses",
+        "amount": "₩50,000"
+      },
+      {
+        "cost": "Others (Entertainment, clothes)",
+        "amount": "₩250,000"
+      }
+    ]
+  },
+  "university_description": "Pohang University of Science and Technology (POSTECH) is a private research university located in Pohang, South Korea. It was founded in 1986 with a special focus on science and engineering, and is considered one of the top engineering schools in Asia.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

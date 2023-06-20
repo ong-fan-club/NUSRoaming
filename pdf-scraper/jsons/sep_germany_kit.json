@@ -1,0 +1,37 @@
+{
+"university_name": "Karlsruhe Institute of Technology (KIT)",
+"university_website": ["http://www.intl.kit.edu/istudies/3242.php", "http://www.intl.kit.edu/istudies/3157.php"],
+"university_country": "Germany",
+"sem1_months": ["Mid-October", "November", "December", "January", "Mid-February"],
+"sem2_months": ["Mid-April", "May", "June", "July", "August"],
+"faculties_accepted": [
+"Department of Mechanical Engineering",
+"Chemistry and Biosciences",
+"Chemical and Process Engineering",
+"Computer Science",
+"Biology",
+"Industrial Engineering and Management",
+"Mathematics (Master level)",
+"Electrical Engineering (Master level)"
+],
+"module_restrictions": "English-taught program (courses starting with the number 3xxxx in KIT’s courses catalogues) only offers limited access to exchange students.",
+"visa_info": "Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. Students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university.",
+"accommodations_info": "KIT cannot guarantee the availability of accommodation but will assist all exchange students settling down in Karlsruhe. Most students in Karlsruhe live in dormitories or share a flat. Students will be informed about housing possibilities within 8 weeks of the application deadline. KIT reserves rooms for students from partner universities in their students’ residences if possible.",
+"cost_of_living": {
+    "accommodation": "€355",
+    "insurance": "€80",
+    "transport": "€34",
+    "food": "€168",
+    "others": "€265",
+    "monthly_estimate": "€902"
+},
+"university_description": "Karlsruhe Institute of Technology (KIT) is a public research university and one of the largest research and educational institutions in Germany. It was established in 2009 following the merger of the University of Karlsruhe and the Karlsruhe Research Center.",
+"university_address": "",
+"location_cost_of_living": "",
+"location_weather": "",
+"location_description": "Karlsruhe is a city in southwest Germany and the second-largest city in the state of Baden-Württemberg. It is known for its blend of historical and modern architecture, cultural landmarks, and green spaces.",
+"location_crime": "",
+"location_transportation": "",
+"location_halal": "",
+"location_vegetarian": ""
+}

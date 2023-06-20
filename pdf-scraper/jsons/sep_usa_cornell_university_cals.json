@@ -1,0 +1,37 @@
+{
+  "university_name": "Cornell University - College of Agriculture & Life Sciences (CALS)",
+  "university_website": [
+    "http://www.cornell.edu",
+    "https://www.cornell.edu/academics/calendar/",
+    "http://living.cornell.edu/live/wheretolive/co-ops/index.cfm"
+  ],
+  "university_country": "USA",
+  "sem1_months": [
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "faculties_accepted": "College of Agriculture and Life Sciences (CALS)",
+  "module_restrictions": "Enrollment permission is often subject to class size limitations, the consent of instructors, and demonstrated academic qualifications in the form of prerequisites. Some courses require one or many prerequisites.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university.",
+  "accommodations_info": "On-campus housing is not usually available for incoming exchange students. Exchange Housing Program and Off-Campus Housing are options.",
+  "cost_of_living": "For more information on financial matters, please refer to the following link. Please keep in mind tuition fees are waived for exchange students. https://finaid.cornell.edu/cost-attend",
+  "university_description": "Cornell University is a private Ivy League research university in Ithaca, NY, USA with a focus on agriculture, life sciences, and related fields.",
+  "university_address": "Ithaca, New York, USA",
+  "location_cost_of_living": "Ithaca, NY has a relatively high cost of living compared to other cities in the USA.",
+  "location_weather": "Ithaca has a continental climate, meaning cold winters and warm summers.",
+  "location_description": "Ithaca is a small, but vibrant city located in the Finger Lakes region of New York state. It is known for its natural beauty, parks, and gorges.",
+  "location_crime": "Ithaca is generally seen as a safe city. However, like any city, it is important to take precautions.",
+  "location_transportation": "There is a free bus service that runs in Ithaca, as well as taxi and ride-sharing services.",
+  "location_halal": "Halal food options are available in Ithaca, but may be limited.",
+  "location_vegetarian": "Vegetarian food options are available in Ithaca, and there are several vegetarian and vegan restaurants."
+}

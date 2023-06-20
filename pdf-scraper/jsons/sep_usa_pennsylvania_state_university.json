@@ -1,0 +1,24 @@
+{
+  "university_name": "Pennsylvania State University",
+  "university_website": [
+    "http://www.psu.edu",
+    "https://global.psu.edu/category/incoming-exchange-students"
+  ],
+  "university_country": "USA",
+  "sem1_months": [ "August", "September", "October", "November", "December" ],
+  "sem2_months": [ "January", "February", "March", "April", "May" ],
+  "faculties_accepted": "FASS, FoS, FoE, SDE, SoC and USP",
+  "module_restrictions": "Law, education, and medicine courses not available for exchange students. Some colleges and academic departments at Penn State restrict enrollment in specific courses.",
+  "visa_info": "Students must apply for the J-1 visa. The Certificate of Non-Immigrant Eligibility for J status is the DS-2019. This is also a non-immigrant visa status. The rules for the J-1 are similar to the F-1. However, there are two important differences. Those in J-1 status may be subject to what is referred to as the \"two-year home residency requirement\" or subject to 212(e) of the Immigration and Nationality Act. The other difference is that dependents may apply for work permission.",
+  "accommodations_info": "On-campus housing and meal plans are available for exchange students but are not guaranteed. Students can also find resources for accommodation off campus.",
+  "cost_of_living": "Please refer to the following link https://cce.ais.psu.edu/tuition-calculator-ui/#!/ to estimate the cost of attending PSU. Kindly disregard tuition fees as these will be waived under the exchange agreement between NUS and PSU.",
+  "university_description": null,
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": null,
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

@@ -1,0 +1,49 @@
+{
+  "university_name": "Cornell University - College of Human Ecology (CHE)",
+  "university_website": [
+    "http://www.cornell.edu",
+    "https://www.cornell.edu/academics/calendar/",
+    "https://www.human.cornell.edu/academics/policies/requirements",
+    "http://living.cornell.edu/live/wheretolive/co-ops/index.cfm",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://finaid.cornell.edu/cost-attend"
+  ],
+  "university_country": "USA",
+  "sem1_months": [
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "faculties_accepted": [
+    "design and environmental analysis",
+    "human development",
+    "nutritional sciences",
+    "policy analysis and management",
+    "fiber science and apparel design"
+  ],
+  "module_restrictions": "Cornell CHE cannot accept students who do not have a firm interest in Human Ecology",
+  "visa_info": "Students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university.",
+  "accommodations_info": {
+    "University Housing": "On-campus housing is not usually available for incoming exchange students, Exchange Housing Program provides assistance, Off-Campus Housing is an option",
+    "University Accommodation": "Please see above"
+  },
+  "cost_of_living": "Information can be found at https://finaid.cornell.edu/cost-attend",
+  "university_description": "Cornell University is a private Ivy League research university in Ithaca, New York. It was founded in 1865 by Ezra Cornell and Andrew Dickson White.",
+  "university_address": "Ithaca, NY 14850, United States",
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": "Ithaca is a city in the Southern Tier-Finger Lakes region of New York. It is known for its natural beauty, outdoor recreation, and eco-tourism.",
+  "location_crime": "Cornell University has its own police department. For more information visit https://www.cupolice.cornell.edu/",
+  "location_transportation": "Students can reach campus by bus (free) or within 15 minutes by walking. ",
+  "location_halal": null,
+  "location_vegetarian": null
+}

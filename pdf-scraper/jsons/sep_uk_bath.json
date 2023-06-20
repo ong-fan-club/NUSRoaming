@@ -1,0 +1,47 @@
+{
+  "university_name": "University of Bath",
+  "university_website": [
+    "http://www.bath.ac.uk/campaigns/studying-at-bath-as-an-erasmus-exchange-or-visiting-student/",
+    "https://www.bath.ac.uk/corporate-information/academic-year-dates/",
+    "http://www.bath.ac.uk/catalogues/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": [
+    "Late September",
+    "October",
+    "November",
+    "December",
+    "Late January"
+  ],
+  "sem2_months": [
+    "Early February",
+    "March",
+    "April",
+    "May",
+    "Early June"
+  ],
+  "faculties_accepted": [
+    "Faculty of Science (departments of Biology/Biochemistry, Chemistry, Computer Science, Mathematical Sciences, Natural Sciences, Physics)",
+    "Faculty of Engineering & Design (departments of Chemical Engineering, Civil Engineering, Electrical and Electronics Engineering)",
+    "Faculty of Humanities & Social Sciences (departments of Economics, Education, Health, Politics, Language and International Studies, Psychology, Social and Policy Sciences)"
+  ],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students",
+  "visa_info": "Standard Visitor Visa for semester exchange; Student Visa for full-year exchange",
+  "accommodations_info": "Exchange students can choose between two city centre locations (Pulteney Court or Thornbank Gardens) and can refer to the provided links for more information on housing and accommodation prices.",
+  "cost_of_living": {
+    "accommodation": "£550 - £700 per month in student residences",
+    "food": "£250",
+    "transport": "£200 per semester (bus from city centre to University)",
+    "insurance": "https://www.bath.ac.uk/guides/getting-healthcare-in-the-uk-as-an-international-student/",
+    "other_expenses": "£300"
+  },
+  "university_description": "The University of Bath is a public university located in Bath, United Kingdom. Known for its excellence in science, engineering, humanities, social sciences, and management, the University of Bath aims to deliver world-class research and teaching that is responsive to the demands of the economy and society.",
+  "university_address": "University of Bath, Claverton Down, Bath BA2 7AY, United Kingdom",
+  "location_cost_of_living": "Bath is a relatively expensive city to live in compared to other cities in the UK. The cost of living is high due to the city's relatively high standard of living. Accommodation, food, transportation, and entertainment expenses are the highest cost areas. ",
+  "location_weather": "Bath has a temperate climate, with mild winters and cool summers. Rainfall is fairly evenly distributed throughout the year with occasional snowfall in the winter. The average temperature ranges from 1.5°C in winter to about 20°C in summer.",
+  "location_description": "Bath is a city located in the southwest of England and is known for its Roman-built baths, Georgian architecture, and natural hot springs. It is a UNESCO World Heritage site and attracts many tourists throughout the year. The city has a population of around 90,000 people and has a vibrant cultural scene.",
+  "location_crime": "Bath is considered a relatively safe city compared to other cities in the UK. However, like any city, it is important to take precautions to protect yourself and your belongings from potential theft or crime.",
+  "location_transportation": "Bath has a public transportation system consisting of buses and trains. The University of Bath is located about 3 miles from the city centre, which can be reached by a regular bus service. Buses and trains also connect Bath to other major cities in the UK.",
+  "location_halal": "There are halal food options available in Bath, particularly in the city centre where there are a number of halal restaurants and stores.",
+  "location_vegetarian": "Vegetarian food options are abundant in Bath, with many vegetarian and vegan restaurants, cafes, and stores available."
+}

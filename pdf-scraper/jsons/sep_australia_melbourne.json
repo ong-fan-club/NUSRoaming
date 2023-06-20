@@ -1,0 +1,43 @@
+{
+  "university_name": "University of Melbourne",
+  "university_website": [
+    "https://www.unimelb.edu.au/dates",
+    "https://study.unimelb.edu.au/study-with-us/visit-melbourne-on-exchange-or-study-abroad",
+    "https://study.unimelb.edu.au/__data/assets/pdf_file/0022/28048/Study-abroad.pdf",
+    "https://www.unimelb.edu.au/coronavirus",
+    "https://www.australia.gov.au/",
+    "https://covid19.homeaffairs.gov.au/",
+    "https://study.unimelb.edu.au/connect-with-us/view-our-brochures"
+  ],
+  "university_country": "Australia",
+  "sem1_months": [
+    "Late February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "Late June"
+  ],
+  "sem2_months": [
+    "Mid July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "Late November"
+  ],
+  "faculties_accepted": "N/A",
+  "module_restrictions": "N/A",
+  "visa_info": "Once you have purchased the Overseas Student Health Cover (OSHC), your host university will issue an Electronic Confirmation of Enrolment (eCoE), which is required for your Australian Student Visa Application. All exchange students must obtain an Australian Non Award Student Visa (sub-class 500) before arriving in Australia. Students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. This is to ensure that you can obtain your visa in time before the start of your exchange term. Your exchange at the host university depends on the clearance by the immigration of the host country. For more information on visa applications, please refer to https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500.",
+  "accommodations_info": "N/A",
+  "cost_of_living": "N/A",
+  "university_description": "N/A",
+  "university_address": "N/A",
+  "location_cost_of_living": "N/A",
+  "location_weather": "N/A",
+  "location_description": "N/A",
+  "location_crime": "N/A",
+  "location_transportation": "N/A",
+  "location_halal": "N/A",
+  "location_vegetarian": "N/A"
+}

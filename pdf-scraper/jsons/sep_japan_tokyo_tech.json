@@ -1,0 +1,40 @@
+{
+  "university_name": "Tokyo Institute of Technology",
+  "university_website": ["http://www.titech.ac.jp/english/"],
+  "university_country": "Japan",
+  "sem1_months": ["April", "May", "June", "July", "August", "March"],
+  "sem2_months": ["October", "November", "December", "January", "February", "September"],
+  "faculties_accepted": [
+    "School of Science",
+    "School of Engineering",
+    "School of Bioscience and Biotechnology"
+  ],
+  "module_restrictions": "Graduate courses are offered to senior year undergraduate students who have completed at least two and a half years of study at their undergraduate study.",
+  "visa_info": "Upon acceptance, Tokyo Tech will apply for a Certificate of Eligibility on your behalf with the Japanese Ministry of Justice, and send it to you when issued. The certificate is required for you to apply for a study visa.",
+  "accommodations_info": {
+    "university_accommodation": [
+      "Shofu Ryugakusei Kaikan (about 15 minutes’ walk from Aobadai station in Kanagawa prefecture)",
+      "Umegaoka Ryugakusei Kaikan (about 20 minutes’ walk from Fujigaoka station in Kanagawa prefecture)"
+    ],
+    "private_accommodation": "The COOP service at Tokyo Tech will assist students to search for a private apartment after enrollment at Tokyo Tech. Useful information will be obtainable at the COOP office."
+  },
+  "cost_of_living": {
+    "estimated_monthly_living_expenses": {
+      "accommodation": "JP¥20,000 - JP¥45,000",
+      "food": "JP¥30,000 - JP¥60,000",
+      "transport": "JP¥8,000 - JP¥20,000",
+      "insurance": "JP¥2,000 - JP¥3,000",
+      "others": "JP¥25,000",
+      "monthly_estimate": "JP¥85,000 - JP¥153,000"
+    }
+  },
+  "university_description": "Tokyo Institute of Technology is a national research university located in Greater Tokyo Area, Japan. Tokyo Tech is the largest institution for higher education in Japan dedicated to science and technology, featuring a prominent international presence among universities focused on science and technology.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

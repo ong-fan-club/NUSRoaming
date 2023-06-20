@@ -1,0 +1,30 @@
+{
+	"university_name": "Albert-Ludwig University of Freiburg",
+	"university_website": [
+		"http://www.studium.uni-freiburg.de/de/beratung/austausch/freiburg-global-exchange/freiburg-global-exchange",
+		"http://www.studium.uni-freiburg.de/en/counseling/exchange-programs-and-studying-abroad/freiburg-global-exchange/exchange-at-the-university-of-freiburg"
+	],
+	"university_country": "Germany",
+	"sem1_months": ["October", "November", "December", "January", "February", "March"],
+	"sem2_months": ["April", "May", "June", "July", "August", "September"],
+	"faculties_accepted": "For detailed information please see current course catalogue and search for English taught classes carefully. You should also or consult Freiburg’s study advisors at the respective faculties. Information about the courses available can be found here: http://www.studium.uni-freiburg.de/de/studienangebot/englischsprachige-studienfaecher.",
+	"module_restrictions": "Exchange students are not eligible to pursue the following fields of study: Medicine, Dentistry, Liberal Arts and Sciences (from University College Freiburg), Psychology, Pharmacy and Molecular Medicine",
+	"visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States. However, after entering Germany, you will have to apply for a residence permit at the local 'Auslaenderbehörde' (Immigration Office) if you are staying for more than three months. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. You must not under any circumstances travel to Germany on a tourist visa.",
+	"accommodations_info": "The International Office will provide accommodation in a student dormitory to all University of Freiburg Global Exchange students upon application. Student dormitories with single apartments or single rooms in shared apartments are available. They are 5-15 minutes by tram or bus, 5-20 minutes by bicycle, 10-40 minutes on foot from the university, depending on dorm location. Meals are not included. Please note that rooms in the student dormitory are only rented for the whole semester (Summer semester: 1st April till 30th September).",
+	"cost_of_living": {
+		"accommodation": "€250 - €400",
+		"food": "€200",
+		"insurance": "€90",
+		"others": "€260 - €320",
+		"total": "€800 - €1,010"
+	},
+	"university_description": "Albert-Ludwig University of Freiburg is a leading research institution in Germany, known for its excellence in a wide range of disciplines including the sciences, humanities, and social sciences. It is located in the city of Freiburg, which is known for its beautiful surroundings and vibrant student life.",
+	"university_address": "Albert-Ludwig University of Freiburg, Fahnenbergplatz, 79085 Freiburg im Breisgau, Germany",
+	"location_cost_of_living": "Freiburg is known to be on the expensive side, with the cost of living being higher than in many other cities in Germany. However, it is still possible to live affordably as a student.",
+	"location_weather": "Freiburg has a mild climate, with warm summers and cool winters. It is known for being sunny throughout the year.",
+	"location_description": "Freiburg is a historic city in southwestern Germany, located at the edge of the Black Forest. It is known for its beautiful architecture, vibrant student life, and rich cultural scene.",
+	"location_crime": "Freiburg is generally a safe city, with relatively low levels of crime.",
+	"location_transportation": "Freiburg has a good public transportation system, with buses and trams connecting the city and surrounding areas. Bicycles are also a popular mode of transportation.",
+	"location_halal": "There are halal food options available in Freiburg, although they may be limited.",
+	"location_vegetarian": "Vegetarian food options are widely available in Freiburg, and the city is known for its vegetarian and vegan restaurants."
+}

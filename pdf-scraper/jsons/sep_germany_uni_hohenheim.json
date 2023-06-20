@@ -1,0 +1,37 @@
+{
+    "university_name": "University of Hohenheim",
+    "university_website": ["https://exchange.uni-hohenheim.de/startseite"],
+    "university_country": "Germany",
+    "sem1_months": ["Middle of October", "End of February"],
+    "sem2_months": ["Middle of April", "Early August"],
+    "faculties_accepted": [
+        "Bioeconomy",
+        "Food Science and Engineering",
+        "Environmental Protection and Agricultural Food Production",
+        "Landscape Ecology",
+        "Crop Sciences",
+        "Organic Agriculture and Food Systems",
+        "Environmental Science - Soil, Water and Biodiversity"
+    ],
+    "module_restrictions": "Most bachelor level modules are in German.",
+    "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States.",
+    "accommodations_info": "Students from the University of Hohenheim could be allocated a room at one of several halls of residences run by Student Services Tuebingen-Hohenheim.",
+    "cost_of_living": {
+        "estimated_monthly_living_expenses": "€630 - €730",
+        "breakdown_of_costs": {
+            "accommodation": "€250 - €300",
+            "insurance": "€65",
+            "food": "€150 - €200",
+            "others": "€165"
+        }
+    },
+    "university_description": "The University of Hohenheim is a public university located in Stuttgart, Germany. It specializes in the fields of agriculture, natural sciences, business, and economics.",
+    "university_address": "Garbenstrasse 30, 70599 Stuttgart, Germany",
+    "location_cost_of_living": "The cost of living in Stuttgart, the city where the university is located, is higher than the German average.",
+    "location_weather": "Stuttgart has a moderate climate with warm summers and mild winters.",
+    "location_description": "Stuttgart is the capital city of the German state of Baden-Württemberg. It is known for its cultural institutions, museums, and parks.",
+    "location_crime": "Stuttgart is considered one of the safest cities in Germany.",
+    "location_transportation": "Stuttgart has an advanced public transportation system that includes buses, trains, and trams.",
+    "location_halal": "Halal food options are available in Stuttgart.",
+    "location_vegetarian": "Vegetarian food options are widely available in Stuttgart."
+}

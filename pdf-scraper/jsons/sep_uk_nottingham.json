@@ -1,0 +1,41 @@
+{
+  "university_name": "The University of Nottingham",
+  "university_website": ["https://www.nottingham.ac.uk/studywithus/international- applicants/spend-part-of-your-degree-here/international-exchange.aspx"],
+  "university_country": "United Kingdom",
+  "sem1_months": ["Late September", "October", "November", "December", "January"],
+  "sem2_months": ["Late January", "February", "March", "April", "May", "June"],
+  "faculties_accepted": [
+    "Faculty of Arts",
+    "Faculty of Engineering",
+    "Faculty of Science",
+    "Faculty of Social Science (excluding School of Law and Nottingham University Business School)",
+    "School of Life Science"
+  ],
+  "module_restrictions": [
+    "Postgraduate modules are not open to undergraduate exchange students.",
+    "Business modules are excluded from the exchange.",
+    "Law students should apply through NUS Law for the exchange at Nottingham Law School."
+  ],
+  "visa_info": "Singapore citizens or citizens of countries on the UK non-visa nationals list can request entry to the UK as a Standard Visitor if their course of studies is less than 6 months. Student Visa is required for full-year exchange.",
+  "accommodations_info": {
+    "university": "Students apply online directly to the University Accommodation Office for university-allocated accommodation. Private rented accommodation is available.",
+    "recommended_semester": "Nottingham strongly recommends that Autumn or Spring semester students consider university-allocated accommodation as private landlords usually prefer one-year study students.",
+    "private_accomm_warning": "Students are STRONGLY ADVISED NOT to sign up for private rented accommodation until they have seen it in person.",
+    "council_tax_info": "One-semester students who wish to live in private rented accommodation should be aware that they may be charged Council Tax of up to £200."
+  },
+  "cost_of_living": {
+    "info_link": "http://www.nottingham.ac.uk/jobs/applyingfromoverseas/finance/cost-of-living.aspx",
+    "estimated_monthly_expenses": {
+      "GBP": 1300
+    }
+  },
+  "university_description": "The University of Nottingham is a public research university in Nottingham, United Kingdom. It was founded in 1881 and is a member of the Russell Group of leading British universities.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

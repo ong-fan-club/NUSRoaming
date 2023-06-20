@@ -1,0 +1,39 @@
+{
+   "university_name":"Aarhus University",
+   "university_website":[
+      "https://international.au.dk/education/admissions/exchange/",
+      "https://international.au.dk/education/admissions/exchange/living-in-denmark/"
+   ],
+   "university_country":"Denmark",
+   "sem1_months":[
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+   ],
+   "sem2_months":[
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+   ],
+   "faculties_accepted":[
+      "All faculties except Business, Design & Environment, Law"
+   ],
+   "module_restrictions":"It is important that you have the relevant academic background for the courses that you apply for. You must have taken modules at NUS within the specific subject field to be accepted to any of the departments at Aarhus University. It is important that you choose at least 20 ECTS at one department.",
+   "visa_info":"Information about immigration-related issues is available at: https://studerende.au.dk/en/internationalstudents/arriving-in-denmark/residencecertificatepermitandcpr/. Additionally, you can contact the Denmark embassy in Singapore if you have a specific enquiry that the host university is unable to address.",
+   "accommodations_info":"Information about student housing is available at: https://international.au.dk/education/admissions/exchange/admission-to-aarhus-university/preparing-to-apply/consider-housing-options/",
+   "cost_of_living":"Denmark’s currency is the krone. Information about the cost of living and estimated expenses in Denmark and Aarhus is available at: https://international.au.dk/education/admissions/exchange/living-in-denmark/",
+   "university_description":"",
+   "university_address":"",
+   "location_cost_of_living":"",
+   "location_weather":"",
+   "location_description":"",
+   "location_crime":"",
+   "location_transportation":"",
+   "location_halal":"",
+   "location_vegetarian":""
+}

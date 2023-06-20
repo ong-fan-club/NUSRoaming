@@ -1,0 +1,28 @@
+{
+  "university_name": "University of Michigan at Ann Arbor",
+  "university_website": ["http://www.umich.edu/", "https://housing.umich.edu/", "http://ro.umich.edu/calendar/"],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": ["FASS", "FoS", "SoC", "College of Literature, Science and Arts"],
+  "module_restrictions": ["School of Dentistry", "Law School", "Medical School", "college of Pharmacy", "Business", "Engineering", "Medical School", "School of Architecture and Urban Planning", "School of Dentistry", "Law", "Medicine", "Nursing", "Pharmacy and Public Health"],
+  "visa_info": "Students are responsible for obtaining necessary visas and for all associated costs. Requirements for student visas vary from program to program, country to country, consulate to consulate, and term to term.",
+  "accommodations_info": {
+    "on_campus": ["Residence Halls", "Northwood Apartments"],
+    "off_campus": ["Off-Campus Apartments/Shared Houses"],
+    "url": "https://housing.umich.edu/"
+  },
+  "cost_of_living": {
+    "tuition": "waived for exchange students",
+    "monthly_living_expenses": "https://finaid.umich.edu/cost-of-attendance/"
+  },
+  "university_description": "The University of Michigan is a public research university in Ann Arbor, Michigan. It is the state's oldest university and flagship campus of the University of Michigan system.",
+  "university_address": "503 Thompson Street, Ann Arbor, Michigan, 48109, USA",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "Ann Arbor is a city in the US state of Michigan. It is home to the University of Michigan and is known for its vibrant arts scene and outdoor recreation opportunities.",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

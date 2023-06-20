@@ -1,0 +1,37 @@
+{
+  "university_name": "Warsaw University of Technology",
+  "university_website": [
+     "https://www.cwm.pw.edu.pl/index.php/en/Education-programmes/Bilateral-exchange/Incoming-students",
+     "http://www.students.pw.edu.pl/index.php?id=95",
+     "http://www.students.pw.edu.pl/index.php?id=31"
+  ],
+  "university_country": "Poland",
+  "sem1_months": ["October", "November", "December", "January"],
+  "sem2_months": ["February", "March", "April", "May", "June"],
+  "faculties_accepted": [
+    "Faculty of Engineering",
+    "Faculty of Science",
+    "Faculty of Architecture"
+  ],
+  "module_restrictions": "Students are reminded to review the online course list carefully as it contains important information which is often ignored.",
+  "visa_info": "All students should legalize their stay exceeding 3 months by obtaining temporary residence permit after their arrival to Poland with the help from WUT.",
+  "accommodations_info": "WUT dormitories are located outside the campus but not very far. Most rooms are usually double or triple sharing. University accommodation is not guaranteed.",
+  "cost_of_living": {
+    "Accommodation": "PLN480 – PLN700",
+    "Food": "PLN125 - PLN200",
+    "Transport": "PLN50 – PLN75",
+    "Telecommunication": "PLN60",
+    "Insurance (purchased in WUT)": "PLN50",
+    "Others (Entertainment, clothes)": "PLN50 - PLN100",
+    "Monthly Estimate": "PLN815 – PLN1,185"
+  },
+  "university_description": "Warsaw University of Technology is a public polytechnic founded in 1826.",
+  "university_address": null,
+  "location_cost_of_living": "Living expenses in Poland are lower as compared to many other European countries.",
+  "location_weather": null,
+  "location_description": "Warsaw is the capital and largest city of Poland.",
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": "Halal food options are available in the city.",
+  "location_vegetarian": "Vegetarian food options are available in the city."
+}

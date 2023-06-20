@@ -1,0 +1,60 @@
+{
+  "university_name": "Boston College",
+  "university_website": [
+    "https://www.bc.edu/",
+    "https://www.bc.edu/content/bc-web/offices/office-of-international-programs/exchange-students.html"
+  ],
+  "university_country": "USA",
+  "sem1_months": [
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "faculties_accepted": [
+    "FASS",
+    "FoS",
+    "SoC"
+  ],
+  "module_restrictions": {
+    "Economics and Finance Department": "enroll students in only one class",
+    "limited range of classes in the following departments": [
+      "Communications",
+      "Computer Science",
+      "Marketing"
+    ]
+  },
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": {
+    "University Accommodation": "The availability of on-campus accommodations for exchange students is extremely limited and rooms are assigned by lottery. Most exchange students live in off-campus accommodations such as shared houses or apartments with other BC and international students. The BC Off-Campus Housing Services office provides assistance to exchange students in locating housing both before and after arrival in Boston."
+  },
+  "cost_of_living": {
+    "Estimated Monthly Living Expenses": {
+      "On-Campus Housing": "USD $4,890 - $6,530 per semester",
+      "Meal Plan": "USD $2,911 per semester for meal plan (required by certain dorms)",
+      "BC Mandatory Medical Insurance": {
+        "Amounts": "USD $1,500 fall semester; $3,620 full year (cannot be waived)",
+        "Link": "https://www.bc.edu/content/bc-web/offices/student-services/billing-student-accounts/medical-insurance.html"
+      },
+      "University Fees": "USD $1,211 per year",
+      "Books & Personal expenses": "USD $2,650 per semester (does not include entertainment or travel"
+    }
+  },
+  "university_description": "Boston College is a private Jesuit research university in Chestnut Hill, Massachusetts. The university has more than 9,300 full-time undergraduates and nearly 5,000 graduate students.",
+  "university_address": "140 Commonwealth Ave, Chestnut Hill, MA 02467, United States",
+  "location_cost_of_living": "Boston is known to be an expensive city to live in.",
+  "location_weather": "Boston has a humid continental climate with cold winters and warm summers. The city is known for its unpredictable weather patterns.",
+  "location_description": "Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States.",
+  "location_crime": "Boston has a higher crime rate than the national average, with a focus on property crimes.",
+  "location_transportation": "Boston has an extensive public transportation system, including buses, subway, and commuter rail.",
+  "location_halal": "There are numerous halal food options available in Boston.",
+  "location_vegetarian": "There are numerous vegetarian food options available in Boston."
+}

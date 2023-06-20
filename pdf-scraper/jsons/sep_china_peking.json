@@ -1,0 +1,21 @@
+{
+ "university_name": "Peking University",
+ "university_website": ["https://www.pku.edu.cn/detail/2686.html", "http://www.dean.pku.edu.cn/service/web/courseSearch.php", "http://www.studyatpku.com", "https://intl.ziroom.com/", "http://oldisd.pku.edu.cn/HOME/VISA_SERVICE/Visas_and_Residence_Permit.htm", "https://www.isd.pku.edu.cn/procedures/detail/206.html", "http://www.oir.pku.edu.cn/", "http://www.isd.pku.edu.cn/exchange.html"],
+ "university_country": "China",
+ "sem1_months": ["September", "October", "November", "December", "January"],
+ "sem2_months": ["February", "March", "April", "May", "June"],
+ "faculties_accepted": ["Refer to Schools & Departments"],
+ "module_restrictions": ["Most courses are taught in Chinese. English courses shown in Remarks column.", "Health Science Centre", "School of Software and Microelectronics", "Faculty with special pre-requisites", "Tailor-made programmes", "Double-degree courses", "Shenzhen Graduate School", "English-taught graduate courses of special Master programs (MBA, Master in International Relations, Master in Public Policy, LLM in Chinese Law, Yenching Academy, etc.)", "Chinese-taught Master-level courses are only available with the faculty's permission"],
+ "visa_info": "Exchange students in China are required to apply for student visa in person at the China Visa Application Service Centre in Singapore with the relevant documents before start of academic semester.",
+ "accommodations_info": ["PKU offers many dormitory types to international students.", "Online dorm booking starts in mid-July/mid-January.", "Off-campus housing offers more choices in room type and monthly rent range from RMB2,000 to RMB5,000.", "Exchange students MUST purchase the designated medical insurance plan in China for a cost of RMB 400 per semester."],
+ "cost_of_living": "ranging from S$5,000 to S$15,000 per semester, subject to the country and local conditions at the overseas Partner University during the period of exchange.",
+ "university_description": "Peking University is a major Chinese research university located in Beijing and a member of the C9 League.",
+ "university_address": "Yiheyuan Road 5, Haidian District, Beijing, China, 100871",
+ "location_cost_of_living": "Beijing's cost of living is generally higher than other Chinese cities.",
+ "location_weather": "Beijing has four distinct seasons. Winters are cold and dry, while summers are hot and humid.",
+ "location_description": "Beijing is the capital of China and home to many historical landmarks such as the Great Wall of China and the Forbidden City.",
+ "location_crime": "Beijing has a relatively low crime rate compared to other major cities in the world.",
+ "location_transportation": "Beijing has a well-developed public transportation system, including subway, bus, and taxi services.",
+ "location_halal": "Halal food options are available in Beijing.",
+ "location_vegetarian": "Vegetarian food options are available in Beijing."
+}

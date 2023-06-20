@@ -1,0 +1,51 @@
+{
+  "university_name": "Newcastle University",
+  "university_website": [
+    "https://www.ncl.ac.uk/mobility/experience-newcastle/studyabroad/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December",
+    "January"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June"
+  ],
+  "faculties_accepted": [
+    "Humanities and Social Science",
+    "Medical Sciences",
+    "Science, Agriculture and Engineering"
+  ],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. Business, Economics, Psychology and Mechanical Engineering modules are excluded from the bilateral exchange.",
+  "visa_info": {
+    "visa_website": "https://www.ncl.ac.uk/international/visa/",
+    "student_visa_required": true,
+    "length_of_stay_for_standard_visitor_visa": "less than 6 months",
+    "visa_application_timelines": "All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university"
+  },
+  "accommodations_info": {
+    "university_accommodation": true,
+    "private_accommodation": "If Newcastle is unable to allocate a place in University accommodation, they will provide information and guidance on how to look for accommodation in the private sector."
+  },
+  "cost_of_living": {
+    "cost_breakdown_website": "https://www.ncl.ac.uk/study/student-life/cost/",
+    "estimated_monthly_living_expenses": "unknown"
+  },
+  "university_description": "unknown",
+  "university_address": "unknown",
+  "location_cost_of_living": "unknown",
+  "location_weather": "unknown",
+  "location_description": "unknown",
+  "location_crime": "unknown",
+  "location_transportation": "unknown",
+  "location_halal": "unknown",
+  "location_vegetarian": "unknown"
+}

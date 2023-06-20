@@ -1,0 +1,49 @@
+{
+  "university_name": "The Hong Kong Polytechnic University",
+  "university_website": [
+    "https://www.polyu.edu.hk/"
+  ],
+  "university_country": "Hong Kong, China SAR",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "faculties_accepted": [
+    "BIZ",
+    "FASS",
+    "FoE",
+    "FoS",
+    "SDE",
+    "SoC"
+  ],
+  "module_restrictions": "All registrations are subject to the approval of the respective departments.",
+  "visa_info": "Global Engagement Office (GEO) will act as your visa sponsor and send all the required documents to the Hong Kong Immigration Department on your behalf.",
+  "accommodations_info": "Exchange students are guaranteed accommodation at the University-managed Accommodation (including the Student Halls and Off-campus Housing) for a twin-sharing room, no single room is available.",
+  "cost_of_living": {
+    "estimated_monthly_cost": "HK$6,000",
+    "breakdown": {
+      "Accommodation": "HK$1,600",
+      "Food": "HK$3,000",
+      "Transport": "HK$300",
+      "Others (Entertainment, clothes, books, electricity etc)": "HK$1,100"
+    }
+  },
+  "university_description": "The Hong Kong Polytechnic University (PolyU) is the largest publicly funded tertiary institution in Hong Kong in terms of student population. It has an international community with over 1,000 international students on campus from over 40 countries and over 1,200 academic staff, many who are recruited globally. The 'Jockey Club Innovation Tower' designed by Zaha Hadid can facilitate further inter-disciplinary research and design education, reinforcing Hong Kong as Asia's design hub.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

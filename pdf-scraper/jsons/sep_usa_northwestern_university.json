@@ -1,0 +1,42 @@
+{
+  "university_name": "Northwestern University",
+  "university_website": [
+    "http://www.northwestern.edu/",
+    "https://www.northwestern.edu/abroad/incoming-exchange/"
+  ],
+  "university_country": "USA",
+  "sem1_months": [
+    "Fall"
+  ],
+  "sem2_months": [
+    "Winter",
+    "Spring"
+  ],
+  "faculties_accepted": "FASS, FoS, FoE and SoC",
+  "module_restrictions": "Integrated Marketing Communications (Medill), Kellogg School of Management, Pritzker School of Law, Feinberg School of Medicine and Bienen School of Music",
+  "visa_info": "Exchange students will apply for a J-1 Visa through Northwestern’s International Office after their acceptance.",
+  "accommodations_info": {
+    "university_accommodation": [
+      "residence halls",
+      "residential colleges",
+      "residential communities",
+      "special-interest housing"
+    ],
+    "off-campus_housing": "apartment or shared house in the Evanston or Chicago area"
+  },
+  "cost_of_living": [
+    {
+      "expense_type": "Estimated Monthly Living Expenses",
+      "cost": "https://www.northwestern.edu/abroad/incoming-exchange/prepare-and-go/money-matters.html"
+    }
+  ],
+  "university_description": "Northwestern University is a private research university in Evanston, Illinois. It was founded in 1851 and has a highly competitive admissions process with an acceptance rate of 8.4%.",
+  "university_address": null,
+  "location_cost_of_living": "Evanston has a high cost of living compared to other cities in Illinois, with an overall cost of living index of 137.8 (as of 2021). Housing is the biggest factor in the cost of living index.",
+  "location_weather": "Evanston has a humid continental climates with cold winters and warm summers. Temperature ranges from 20°F to 84°F with an average temperature of 52°F.",
+  "location_description": "Evanston is a suburban city located in Cook County, Illinois, United States, situated north of downtown Chicago, and bordered by Chicago to the south, Skokie to the west, and Wilmette to the north. Northwestern University is located in Evanston.",
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

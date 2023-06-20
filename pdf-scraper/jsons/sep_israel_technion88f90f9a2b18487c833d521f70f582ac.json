@@ -1,0 +1,60 @@
+{
+  "university_name": "Technion – Israel Institute of Technology",
+  "university_website": [
+    "https://www.technion.ac.il/en/home-2/",
+    "https://int.technion.ac.il/academics/annual-calendar-2/",
+    "https://int.technion.ac.il/wp-content/uploads/2020/10/Spring-courses-2020-2021.pdf",
+    "https://int.technion.ac.il/wp-content/uploads/2020/10/Winter-courses-2020-2021.pdf",
+    "https://int.technion.ac.il/programs/incoming-spring/housing/",
+    "http://int.web3.technion.ac.il/prospective-students-2/useful-information/health-insurance/"
+  ],
+  "university_country": "Israel",
+  "sem1_months": [
+    "October",
+    "November",
+    "December",
+    "January"
+  ],
+  "sem2_months": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "June"
+  ],
+  "faculties_accepted": [
+    "FoE - Chemical Engineering",
+    "FoE - Civil Engineering",
+    "FoE - Mechanical Engineering"
+  ],
+  "module_restrictions": "Postgraduate modules are not opened to undergraduate exchange students.",
+  "visa_info": "All students must obtain a MULTIPLE ENTRY A/2 STUDENT VISA prior to their arrival to Israel through the closest Israeli Embassy or Consulate.",
+  "accommodations_info": {
+    "University Accommodation": {
+      "description": "Housing is available at Technion but is not guaranteed.",
+      "on-campus": {
+        "description": "On-campus housing on the main Technion campus (science and technology complex) consists of 6-person apartments.",
+        "bedroom": "equipped with a bed, a closet and a desk. Linens are not provided.",
+        "kitchen": "comes with a gas or electric burner and refrigerator. Microwaves, stoves and kitchenware are not provided.",
+        "internet": "All apartments have wireless internet.",
+        "laundry": "There are laundromats equipped with washers and dryers in every dorm village."
+      }
+    },
+    "Private Accommodation": {
+      "description": "Locations close to the Technion campus include Neve Shaanan, Ramot Remez, Ramat Alon and Nesher or Ramot Yitzhak."
+    }
+  },
+  "cost_of_living": {
+    "estimated_monthly_expenses": "It is generally recommended by Technion’s International Office to budget USD$500–$600 per month for food, entertainment, transportation, telephone and other expenses. On-campus housing rates for visiting students are around USD $400 per month (depending on the dorm). Electricity, phone and internet expenses are paid separately.",
+    "typical_cost_of_living": "While costs may vary according to your spending habits, you can find a useful list of the typical costs of living in Haifa here."
+  },
+  "university_description": "Technion – Israel Institute of Technology is a leading science and technology research university located in Haifa, Israel.",
+  "university_address": "Technion City, Haifa 3200003, Israel",
+  "location_cost_of_living": "According to Numbeo, the cost of living in Haifa is relatively higher than in other cities in Israel.",
+  "location_weather": "Haifa has a typically Mediterranean climate characterized by hot and dry summers and wet, mild winters.",
+  "location_description": "Haifa is a coastal city in northern Israel, home to the Bahai Gardens and many other historical and cultural landmarks.",
+  "location_crime": "The crime rate in Haifa is generally low compared to other places in Israel.",
+  "location_transportation": "Haifa has an extensive public transportation network, including bus and train services.",
+  "location_halal": "Halal food options are available in Haifa.",
+  "location_vegetarian": "Vegetarian food options are available in Haifa."
+}

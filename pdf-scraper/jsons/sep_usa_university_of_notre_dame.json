@@ -1,0 +1,27 @@
+{
+"university_name": "University of Notre Dame",
+"university_website": ["http://www.nd.edu/", "Webpage for Incoming Exchange Students"],
+"university_country": "USA",
+"sem1_months": ["August", "September", "October", "November", "December"],
+"sem2_months": ["January", "February", "March", "April", "May"],
+"faculties_accepted": ["College of Arts & Letters", "College of Science", "College of Engineering", "School of Architecture"],
+"module_restrictions": {
+    "College of Arts & Letters": "limited core courses in Economics",
+    "College of Engineering": "limited courses in Aerospace, Mechanical, and Computer Science Engineering",
+    "School of Architecture": "limited 2nd- and 4th-year courses, with eligibility requirements and additional application materials"
+},
+"visa_info": "J-1 student visa required, with assistance provided by UND's International Student and Scholar Affairs",
+"accommodations_info": {
+    "University Accommodation": ["on-campus dormitories available through a lottery system, meal plan included in program cost", "off-campus housing required for some students, with assistance provided by NDI"],
+},
+"cost_of_living": "Monthly living expense estimates available on UND's website",
+"university_description": "The University of Notre Dame is a private Catholic research university in Notre Dame, Indiana. It was founded in 1842 by Father Edward Sorin, CSC, a Holy Cross priest. The university is known for its traditional Catholic character, but also offers a variety of academic programs in different fields.",
+"university_address": "Notre Dame, Indiana, USA",
+"location_cost_of_living": "Information on cost of living in Notre Dame, Indiana is available through UND's website or external sources",
+"location_weather": "Information on weather in Notre Dame, Indiana is available through external sources",
+"location_description": "Notre Dame, Indiana is a suburban town on the outskirts of South Bend, Indiana. The town is known for its association with the University of Notre Dame, one of the most well-known Catholic universities in the United States.",
+"location_crime": "Information on crime rate and safety in Notre Dame, Indiana is available through external sources",
+"location_transportation": "Information on transportation options in Notre Dame, Indiana is available through external sources",
+"location_halal": "Information on halal food options in Notre Dame, Indiana is available through external sources",
+"location_vegetarian": "Information on vegetarian food options in Notre Dame, Indiana is available through external sources"
+}

@@ -1,0 +1,26 @@
+{
+  "university_name": "Norwegian University of Science and Technology (NTNU)",
+  "university_website": [
+    "https://www.ntnu.edu/studies/exchange",
+    "https://www.ntnu.edu/studies/academiccalendar",
+    "https://www.ntnu.edu/lifeandhousing/trondheim/housing",
+    "http://www.ntnu.edu/studies/exchange_students/how_to_apply"
+  ],
+  "university_country": "Norway",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May", "June"],
+  "faculties_accepted": ["FoS", "FoE", "SoC"],
+  "module_restrictions": "Most faculties will consider undergraduate exchange students except for Architecture, Marine Technology and Electric Power Engineering. Only courses at a master’s level (year 4 and 5) are offered in English for Architecture students, while pre-requisites apply to some courses.",
+  "visa_info": "Students need to apply for the necessary visa immediately after receiving the official offer letter/email from their host university, with some visa application processes taking up to 2 months. Students staying in Norway for more than three months have to apply for a student residence permit, and register with the Trondheim Police, Foreign Section within 7 days after arrival. ",
+  "accommodations_info": "Exchange students from non-EU/non-EEA countries who applied within the deadline are guaranteed housing, and it is recommended that students go in Semester 2 where more housing is available.",
+  "cost_of_living": "Estimated monthly living expenses include NOK 3,000-6,000 for accommodation, NOK 500 for transportation, NOK 3,000 for food, and NOK 6,500 for others (books, entertainment etc.), with a monthly estimate of NOK 13,000-15,500.",
+  "university_description": "The Norwegian University of Science and Technology (NTNU) is a public research university in Norway which offers study opportunities for international students",
+  "university_address": "",
+  "location_cost_of_living": "Norway is known for being one of the most expensive countries in the world to live in, with high costs for food, accommodation, and transportation.",
+  "location_weather": "Norway has a temperate maritime climate, with mild winters and cool summers influenced by its coastal location and warm Gulf Stream.",
+  "location_description": "Norway is a Scandinavian country known for its natural beauty of fjords, mountains, and northern lights, as well as for its strong welfare state and high living standards.",
+  "location_crime": "Norway has a relatively low crime rate and is considered to be a safe country to study and live in.",
+  "location_transportation": "Norway has an extensive public transportation system of buses, trains, and ferries, with many cities and towns easily accessible by bike or walking.",
+  "location_halal": "Halal food options are available in some areas of Norway, particularly in bigger cities like Oslo, but may be limited in other regions.",
+  "location_vegetarian": "Norway has a variety of vegetarian food options available in most restaurants, cafes, and supermarkets."
+}

@@ -1,0 +1,27 @@
+{
+  "university_name": "Université de Technologie Compiègne (UTC)",
+  "university_website": ["https://www.utc.fr/en.html", "https://www.utc.fr/en/international/studying-at-utc/exchange-students/course-choices-and-french-language-classes.html", "http://uvs.utc.fr"],
+  "university_country": "France",
+  "sem1_months": ["September","October","November","December","January"],
+  "sem2_months": ["February", "March", "April", "May", "June"],
+  "faculties_accepted": ["Biological Engineering", "Mechanical Engineering", "Computer Engineering", "Industrial Process Engineering", "Mechanical Systems Engineering", "Urban Systems Engineering", "Technology and Human Sciences"],
+  "module_restrictions": "Exchange students can choose CCs in the Core Programme and/or elective major specialties provided that the courses taken are effectively taught (and taken) during the appropriate semester and that the choice is compatible with the overall university course schedules.",
+  "visa_info": "Long-Stay visas are necessary for stays exceeding 3 months. Upon arrival in France, students are required to register with the French Immigration and Integration Office (OFII) for a residence permit. All students who wish to study in France must follow the Campus France procedure on Etudes en France online platform before applying for a visa.",
+  "accommodations_info": {
+    "university_accommodation": "There are two types of accommodation available: student residences managed by the French government (CROUS) and private residences. Student residences are generally situated at a walking distance from the campus facilities and academic departments. Students who wish to stay in the student residence must contact the international office by sending an email to sadia.baiche@utc.fr.",
+    "private_accommodation": null
+  },
+  "cost_of_living": {
+    "estimated_monthly_living_expenses": ["Accommodation= €600", "Food= €290", "Transport= €50 - €100", "Others (Entertainment, clothes)= €100 - €120"],
+    "monthly_estimate_total": "€1,040 - €1,110"
+  },
+  "university_description": "Université de Technologie Compiègne (UTC) is located in Compiègne, northern France, and is a leading engineering school. It offers a flexible course system whereby the students gain and accumulate Credit Course (CCs) points, over a two-semester period.",
+  "university_address": null,
+  "location_cost_of_living": "Compiègne is an affordable place to live. The city is small, and the cost of living is generally lower when compared to Paris or other large French cities.",
+  "location_weather": null,
+  "location_description": "Compiègne is a charming city rich in history and culture. It is known for its beautiful forest and the Château de Compiègne, the former summer residence of French kings.",
+  "location_crime": null,
+  "location_transportation": "Public transportation options in Compiègne include buses and trains. The city has a train station with regular connections to Paris and other major cities in France.",
+  "location_halal": null,
+  "location_vegetarian": null
+}

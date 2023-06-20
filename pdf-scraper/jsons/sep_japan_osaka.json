@@ -1,0 +1,54 @@
+{
+  "university_name": "Osaka University",
+  "university_website": [
+    "http://www.osaka-u.ac.jp/en"
+  ],
+  "university_country": "Japan",
+  "sem1_months": [
+    "April",
+    "May",
+    "June",
+    "July",
+    "August"
+  ],
+  "sem2_months": [
+    "September",
+    "October",
+    "November",
+    "December",
+    "January",
+    "February"
+  ],
+  "faculties_accepted": [
+    "Economics",
+    "Engineering",
+    "Engineering Science",
+    "Foreign Studies",
+    "Human Sciences",
+    "Letters",
+    "Pharmaceutical Sciences",
+    "Science",
+    "Center for Education in Liberal Arts and Sciences"
+  ],
+  "module_restrictions": "Check http://www.osaka-u.ac.jp/en/international/inbound/exchange_program for any module restrictions and prerequisites",
+  "visa_info": "Upon acceptance, Osaka U will apply for a Certificate of Eligibility on your behalf with the Japanese Ministry of Justice, and send it to you when issued. Students must obtain a “College Student” visa for the duration of their study in Japan. For more information on visa applications, please refer to https://iss-intl.osaka-u.ac.jp/supportoffice/eng/visa/",
+  "accommodations_info": "Exchange students will be housed in the university housing, but placement in their preferred dormitory is not guaranteed, with fees ranging from JP¥20,000 – JP¥40,000 per month. Applications for housing will be accepted through the exchange program application webpage simultaneously with the confirmation of intent to enter the university after acceptance into the exchange program. For more information about accommodation, please refer to https://iss-intl.osaka-u.ac.jp/supportoffice/eng/housing/",
+  "cost_of_living": {
+    "accommodation": "JP¥16,000 - JP¥40,000",
+    "food": "~ JP¥30,000",
+    "transport": "JP¥5,000 - JP¥15,000",
+    "insurance": "JP¥2,000 - JP¥3,000",
+    "general_school_related_expenses": "JP¥6,000",
+    "others": "~ JP¥30,000",
+    "monthly_estimate": "JP¥89,000 - JP¥124,000"
+  },
+  "university_description": "Osaka University is a national research university located in Osaka, Japan. It was founded in 1724 as Kaitokudō (懐徳堂) and renamed to Osaka University in 1931. It is one of Japan's National Seven Universities and is generally considered one of Japan's most prestigious institutions of higher learning.",
+  "university_address": "",
+  "location_cost_of_living": "The cost of living in Osaka is generally considered to be higher than the rest of Japan. However, it is still lower compared to other major cities in the world.",
+  "location_weather": "The climate in Osaka is considered to be a humid subtropical climate with four distinct seasons. Summers are hot and humid, and winters are cool with occasional cold spells.",
+  "location_description": "Osaka is the third-largest city in Japan and is located on the island of Honshu. It is known for being a commercial center, with many businesses concentrated in the city center.",
+  "location_crime": "Osaka is generally considered to be a relatively safe city, with a low crime rate compared to other major cities in the world.",
+  "location_transportation": "Osaka has an extensive public transportation network, including buses, subways, and trains. The city is also served by Osaka International Airport and Kansai International Airport.",
+  "location_halal": "There are several halal food options available in Osaka, including restaurants and grocery stores.",
+  "location_vegetarian": "There are vegetarian options available in Osaka, but they may be limited compared to other cities." 
+}

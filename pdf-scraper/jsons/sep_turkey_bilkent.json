@@ -1,0 +1,21 @@
+{
+    "university_name": "Bilkent University",
+    "university_website": ["http://www.bilkent.edu.tr/index.html", "http://www.bilkent.edu.tr/bilkent/academic/exchange/calendar.html", "http://www.bilkent.edu.tr/bilkent-tr/admin-unit/yurt/exchange_index.html", "http://www.bilkent.edu.tr/bilkent/academic/exchange/bilateral_agreements.html", "http://www.bilkent.edu.tr/bilkent/academic/exchange/visa_permit.html", "http://www.bilkent.edu.tr/bilkent/academic/exchange/cost.html"],
+    "university_country": "Turkey",
+    "sem1_months": ["August", "September", "October", "November", "December", "January"],
+    "sem2_months": ["January", "February", "March", "April", "May"],
+    "faculties_accepted": null,
+    "module_restrictions": "Language of instruction in some departments are mainly in Turkish. Students need the approval of the instructor if they wish to take courses that have pre-requisite requirements and courses from graduate programmes. Previous semester course offerings are for reference only and are subject to changes.",
+    "visa_info": "Students coming from the countries, which are exempted from the visa requirement to Turkey, do not have to apply to the Turkish Embassy/Consulates for any type of visa and may directly come to Turkey with their passports. Students who need \"student visa\" to enter Turkey are supposed to apply for the student visa at the Turkish Consulate as soon as they receive their acceptance letter. Students are advised to have adequate time for the visa to be processed prior to the departure.",
+    "accommodations_info": "Bilkent University offers FREE on-campus housing for all exchange students. The offer is valid for double rooms and allocations are on first-come-first-served basis.",
+    "cost_of_living": "Details can be found at http://www.bilkent.edu.tr/bilkent/academic/exchange/cost.html",
+    "university_description": null,
+    "university_address": null,
+    "location_cost_of_living": null,
+    "location_weather": null,
+    "location_description": null,
+    "location_crime": null,
+    "location_transportation": "http://w3.bilkent.edu.tr/bilkent/transportation/",
+    "location_halal": null,
+    "location_vegetarian": null
+}

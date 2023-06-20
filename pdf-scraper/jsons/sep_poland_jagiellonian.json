@@ -1,0 +1,44 @@
+{
+    "university_name": "Jagiellonian University",
+    "university_website": ["http://www.dmws.uj.edu.pl/en_GB/przyjezdzajacy-studenci/inne-programy-wymiany/umowy-dwustronne", "http://www.en.uj.edu.pl/en/studying/academic-calendar", "http://www.dmws.uj.edu.pl/programy-studiow/programy-wymiany-studenckiej"],
+    "university_country": "Poland",
+    "sem1_months": ["October", "November", "December", "January", "February"],
+    "sem2_months": ["February", "March", "April", "May", "June"],
+    "faculties_accepted": {
+        "FASS": ["Political Sciences", "Sociology", "Global Studies", "Geography", "Psychology"],
+        "FoS": ["Mathematics", "Environmental Sciences", "Physics", "Chemistry", "Biophysics and Biotechnology"]
+    },
+    "module_restrictions": ["Modules offered by the Faculty of Medicine", "Faculty of Pharmacy", "Faculty of Health Sciences", "Department of Management under the Faculty of Management & Social Communication"],
+    "visa_info": "Non-EU students must obtain a visa from the consulate of Poland in their country of residence.",
+    "accommodations_info": {
+        "university_accommodation": {
+            "dorms": ["Żaczek (al. 3-go Maja 5)", "Piast (ul. Piastowska 47)"],
+            "cost": "about 400 PLN per person per month, including internet access",
+            "availability": "based on a first-come first-serve system"
+        },
+        "private_accommodation": {
+            "cost": "PLN 300-2,000 depending on various factors",
+            "helpful_organization": "Erasmus Student Network"
+        }
+    },
+    "cost_of_living": {
+        "estimated_monthly_living_expenses": {
+            "Breakdown of Costs": {
+                "accommodation": "PLN 400",
+                "food (3 meals a day)": "PLN 600",
+                "transport (Bus and Network Pass)": "PLN 50",
+                "others (Entertainment, clothes, utilities)": "PLN 200 to PLN 300"
+            },
+            "monthly_estimate": "PLN 1,250 - PLN 1,350"
+        }
+    },
+    "university_description": "The Jagiellonian University is a public research university located in Kraków, Poland. Founded in 1364 by Casimir III the Great, it is the oldest university in Poland, one of the oldest universities in Europe, and the second oldest university in Central Europe.",
+    "university_address": "Golebia 24, 31-007 Kraków, Poland",
+    "location_cost_of_living": "Kraków was ranked 179th in the 2019 Mercer Cost of Living Survey.",
+    "location_weather": "Kraków has a humid continental climate (Dfb), characterized by cold, snowy winters and mild summers.",
+    "location_description": "Kraków is the second-largest city in Poland and has traditionally been one of the leading centres of Polish academic, cultural, and artistic life.",
+    "location_crime": "The 2019 crime rate index in Kraków is 29.99, which is considered low.",
+    "location_transportation": "Transportation options in the city include buses, trams, trains, and taxis.",
+    "location_halal": "There are several halal food options available in Kraków, including restaurants and supermarkets.",
+    "location_vegetarian": "Kraków has several vegetarian and vegan-friendly restaurants and cafes."
+}

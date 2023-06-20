@@ -1,0 +1,46 @@
+{
+  "university_name": "Technical University of Munich",
+  "university_website": [
+    "https://www.international.tum.de/en/global/comingtotum/tumexchange/",
+    "https://www.tum.de/studium/bewerbung/infoportal-bewerbung/termine-und-fristen",
+    "https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/login?$ctx=lang=en"
+  ],
+  "university_country": "Germany",
+  "sem1_months": ["October", "November", "December", "January", "February", "March"],
+  "sem2_months": ["April", "May", "June", "July", "August", "September"],
+  "faculties_accepted": [
+    "Department of Civil, Geo and Environmental Engineering",
+    "Physics",
+    "Life Sciences",
+    "Architecture",
+    "Department of Chemistry",
+    "Landscape Architecture and Landscape Planning",
+    "Department of Electrical and Computer Engineering",
+    "Mathematics",
+    "Department of Mechanical Engineering",
+    "Informatics",
+    "Munich School of Engineering"
+  ],
+  "module_restrictions": [
+    "Some master-level courses conducted in English are not open to NUS students",
+    "Business modules from TUM School of Management are excluded from the exchange",
+    "NUS Department of Architecture administers its own faculty-level exchange programme with TUM Architecture"
+  ],
+  "visa_info": {
+    "EU citizens and citizens from the following countries": "Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States. However, after entering Germany, you will have to apply for a residence permit at the local \"Auslaenderbehörde\" (Immigration Office) if you are staying for more than three months. ",
+    "Students from all other countries": "must apply for a visa for study purposes via the German diplomatic representation in their home country. You must not under any circumstances travel to Germany on a tourist visa."
+  },
+  "accommodations_info": {
+    "university_accommodation": "For more information about accommodation, please refer to https://www.international.tum.de/en/global/accommodation/. Due to the housing shortage in Munich, please take note that student accommodation might not be available.",
+    "private_accommodation": "Students can also search for an apartment or a room on the private market, as well as apply for a room in a dormitory run by a social/private organization. Click here for more info: https://www.tum.de/studium/im-studium/wohnen-und-arbeiten/wohnen/privater-wohnungsmarkt"
+  },
+  "cost_of_living": {
+    "estimated_monthly_living_expenses": "€800 - €1400",
+    "breakdown_of_costs": {
+      "accomodation": "€300 - €700",
+      "food_and_others": "€200 – €400",
+      "transport": "€50",
+      "insurance": "€110",
+      "others": "€200"
+    },
+    "financial_support_statement_requirement": "In order to receive a residence

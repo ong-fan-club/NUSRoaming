@@ -1,0 +1,21 @@
+{
+   "university_name": "Texas A&M University",
+   "university_website": ["http://www.tamu.edu/", "Webpage for Incoming Exchange Students"],
+   "university_country": "USA",
+   "sem1_months": ["August", "September", "October", "November", "December"],
+   "sem2_months": ["January", "February", "March", "April", "May"],
+   "faculties_accepted": ["FASS", "FoS", "FoE", "SoC"],
+   "module_restrictions": "Biomedical Sciences; Mays School of Business courses (limited); Industrial and Systems Engineering",
+   "visa_info": "Valid passport, J-1 or F-1 visa for the U.S., DS-2019 or I-20 (Certificate of Eligibility which should be stamped upon your entry into the U.S.)",
+   "accommodations_info": "Incoming exchange students have the option to live on or off campus. Please note that most A&M students that live in the on-campus dorms are usually freshmen which are first year students. A&M students that live in on-campus apartments are generally sophomore classification and up.  Recommended off-campus apartments:  Park West, The Domain, Northpointe Crossing. NUS nor Texas A&M have any affiliation with any one particular apartment complex.",
+   "cost_of_living": "Estimated Monthly Living Expenses information can be found on http://admissions.tamu.edu/freshman/cost",
+   "university_description": "Texas A&M University is a comprehensive university suitable for FASS, FoS, FoE, and SoC students",
+   "university_address": "College Station, Texas, USA",
+   "location_cost_of_living": "Information on cost of living in College Station, Texas, can be found through the links on the university website",
+   "location_weather": "Text describing the weather of the city is unavailable.",
+   "location_description": "College Station is a city in East-Central Texas in the heart of the Brazos Valley. It is located within the most populated region of Texas near three of the 10 largest cities in the United States and is home to Texas A&M University",
+   "location_crime": "Text describing the crime rate/situation of the city is unavailable.",
+   "location_transportation": "Text describing transportation options in the city is unavailable.",
+   "location_halal": "Text describing the availability of halal food options in College Station, Texas, is unavailable.",
+   "location_vegetarian": "Text describing the availability of vegetarian food options in College Station, Texas, is unavailable."
+}

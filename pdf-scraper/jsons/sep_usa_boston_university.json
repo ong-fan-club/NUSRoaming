@@ -1,0 +1,29 @@
+{
+  "university_name": "Boston University",
+  "university_website": [
+    "http://www.bu.edu",
+    "http://www.bu.edu/abroad/international-exchange-students-at-bu/"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": [
+    "Faculty of Arts & Social Sciences (FASS)",
+    "Faculty of Engineering (FoE)",
+    "Faculty of Science (FoS)",
+    "School of Computing (SoC)"
+  ],
+  "module_restrictions": "Exchange students may not enrol in courses offered at the BU Medical School, School of Dental Medicine, Law School, Graduate School of Management, and Kilachand Honors College.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university.",
+  "accommodations_info": "Upon acceptance exchange students will receive a brochure outlining Boston University on-campus housing options and costs.",
+  "cost_of_living": "Information on the cost of living and attendance at Boston University can be found via: http://www.bu.edu/abroad/plan/financial-aid/ (Budgeting Tab). Exchange students can deduct the cost of tuition which they will not need to pay to BU.",
+  "university_description": "Boston University is a private research university in Boston, Massachusetts. The university offers undergraduate and graduate programs across 17 schools and colleges.",
+  "university_address": "One Silber Way, Boston, MA 02215, USA",
+  "location_cost_of_living": "Boston has a high cost of living, with rent, transportation, and food being particularly expensive.",
+  "location_weather": "Boston has a humid continental climate with warm summers and cold winters, with occasional rainfall throughout the year.",
+  "location_description": "Boston is known for its rich history, cultural landmarks, and world-renowned universities. It is a major commercial, financial, and cultural center in the United States.",
+  "location_crime": "Boston has a low crime rate compared to other major cities in the United States, but incidents of theft and petty crime can occur.",
+  "location_transportation": "Boston has an extensive public transportation system, including a subway system, buses, and commuter rails.",
+  "location_halal": "There are several halal food options available in Boston, particularly in the neighborhoods of Allston and Brighton.",
+  "location_vegetarian": "Boston has many vegetarian and vegan restaurants, particularly in the neighborhoods of Cambridge and Somerville."
+}

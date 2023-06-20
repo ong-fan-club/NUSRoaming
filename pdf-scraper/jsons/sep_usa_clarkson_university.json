@@ -1,0 +1,21 @@
+{
+  "university_name": "Clarkson University",
+  "university_website": ["http://www.clarkson.edu/", "http://www.clarkson.edu/sas/calendar.html", "https://www.clarkson.edu/international-center/inbound-exchange", "https://www.clarkson.edu/residence-life", "https://www.clarkson.edu/dining-services"],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": ["FASS", "FoE", "FoS", "SoC"],
+  "module_restrictions": "Undergraduate classes are numbered 100-499. Students must meet prerequisites to enroll in a class.",
+  "visa_info": "Exchange students are eligible to apply for a J-1 or F-1 Visa. Clarkson will guide you through obtaining your visa.",
+  "accommodations_info": "Exchange students are guaranteed housing and required to live on campus. Students will be assigned apartment-style housing in either Woodstock Village, Riverside Apartments, or Townhouse Apartments.",
+  "cost_of_living": "Exchange students do not pay tuition. Students pay for their living expenses (housing and food) as well as other entertainment types (travel, books, incidental, and health insurance) of expenses. A link for an estimated expense breakdown from the 2019-2020 semesters is provided.",
+  "university_description": "Clarkson University is a private research university located in Potsdam, New York. It was founded in 1896 and offers over 50 programs in 4 schools: the School of Arts & Sciences, the School of Business, the Wallace H. Coulter School of Engineering, and the Institute for a Sustainable Environment.",
+  "university_address": "8 Clarkson Ave, Potsdam, NY 13699-5715, United States",
+  "location_cost_of_living": "The cost of living in Potsdam, NY is lower than the national average.",
+  "location_weather": "Potsdam, NY has a humid continental climate, with cold, snowy winters and warm, humid summers.",
+  "location_description": "Potsdam, NY is a small town in the northern part of New York State. It is situated in the foothills of the Adirondack Mountains and is known for its scenic beauty and outdoor recreational activities.",
+  "location_crime": "Potsdam, NY has a low crime rate.",
+  "location_transportation": "Transportation options in Potsdam, NY include buses, taxis, and rental cars.",
+  "location_halal": "Halal food options are available in Potsdam, NY.",
+  "location_vegetarian": "Vegetarian food options are available in Potsdam, NY."
+}

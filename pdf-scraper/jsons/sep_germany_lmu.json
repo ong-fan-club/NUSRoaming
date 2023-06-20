@@ -1,0 +1,27 @@
+{
+  "university_name": "Ludwig-Maximilians-University of Munich (LMU)",
+  "university_website": ["https://www.en.uni-muenchen.de/students/exchange/incomings/austausch_engl/index.html", "https://www.en.uni-muenchen.de/students/int_student_guide/studying_at_lmu/academic_schedule_workload/academic_calendar/index.html", "www.lmu.de/international/incoming/housing", "www.lmu.de/international/incoming/visa", "www.lmu.de/international/incoming/insurance"],
+  "university_country": "Germany",
+  "sem1_months": ["Mid-October", "Mid-November", "December", "January", "Mid-February"],
+  "sem2_months": ["Mid-April", "May", "June", "July", "Mid-July"],
+  "faculties_accepted": ["Faculty of Catholic Theology", "Faculty of Protestant Theology", "Faculty of Economics", "Faculty of History and the Arts", "Faculty of Philosophy, Philosophy of Science and Religious Studies", "Faculty of Psychology and Educational Sciences", "Faculty of Cultural Sciences", "Faculty of Languages and Literatures", "Faculty of Social Sciences", "Faculty of Mathematics, Computer Science and Statistics", "Faculty of Physics", "Faculty of Chemistry (exclude Pharmacy)", "Faculty of Biology", "Faculty of Geosciences"],
+  "module_restrictions": ["Undergraduate students are not permitted to take master-level courses", "Courses related to Business Administration, Medicine and Dentistry, Pharmacy, Veterinary Science, and special fee-paying programs offered by individual departments are not open to exchange students"],
+  "visa_info": "EU citizens and citizens from certain countries do not need a visa to enter Germany. All other students must apply for a visa for study purposes via the German diplomatic representation in their home country.",
+  "accommodations_info": ["The 'Studentenwerk' is responsible for providing accommodation for LMU exchange students. Housing may be limited due to a shortage in Munich.", "Accommodation provided by the Studentenwerk München requires commitment to a stated duration of stay on contract."],
+  "cost_of_living": {
+    "monthly_estimate": "€455 - €600",
+    "monthly_breakdown": {
+      "Accommodation": "€200 - €300",
+      "Food": "€100",
+      "Insurance": "€80",
+      "Others (Entertainment, clothes)": "€75 - €120"
+    },
+    "additional_info": "Students must provide a statement of financial support proving that they have at least €735 to live on for each month of their stay."
+  },
+  "university_description": "Ludwig-Maximilians-University of Munich is a research university located in Munich, Germany. It is one of the oldest and highest-ranked universities in Germany.",
+  "university_address": null,
+  "location_cost_of_living": "Munich is considered one of the most expensive cities in Germany, with high costs for rent, food, and entertainment.",
+  "location_weather": null,
+  "location_description": null,
+  "location_crime": null
+}

@@ -1,0 +1,35 @@
+{
+  "university_name": "Alberta University",
+  "university_website": [
+    "https://www.ualberta.ca/registrar/calendar/index.html",
+    "https://www.ualberta.ca/admissions-programs/exchange-programs/incoming-exchange-application-guide/health-insurance-requirements.html",
+    "https://www.ualberta.ca/admissions-programs/exchange-programs/incoming-exchange-application-guide/index.html"
+  ],
+  "university_country": "Canada",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April"
+  ],
+  "faculties_accepted": "",
+  "module_restrictions": "",
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": "The University of Alberta requires all incoming exchange students to enroll in the University of Alberta Health Insurance Plan (UAHIP). UAHIP is a mandatory health insurance that is similar to the Alberta Health Care Insurance Plan (AHCIP) provided by the Government of Alberta. It is recommended that you purchase a comprehensive travel insurance for the full duration of your stay abroad, including your personal travel within/outside Canada. Students can purchase additional health and/or travel insurance from their preferred agent.",
+  "cost_of_living": "",
+  "university_description": "",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

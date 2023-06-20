@@ -1,0 +1,32 @@
+{
+   "university_name": "Communauté Université Grenoble Alpes",
+   "university_website": ["https://www.communaute-univ-grenoble-alpes.fr/en/"],
+   "university_country": "France",
+   "sem1_months": ["Early September", "Mid-January"],
+   "sem2_months": ["Mid-January", "Late May"],
+   "faculties_accepted": ["ENSAG (architecture)", "Grenoble INP (engineering)", "Sciences Po Grenoble (political science)", "Université Grenoble Alpes (multidisciplinary)", "Université Savoie Mont-Blanc (multidisciplinary)"],
+   "module_restrictions": "Refer to the course catalogues of each institution.",
+   "visa_info": "Long-Stay visas are necessary for stays exceeding 3 months.",
+   "accommodations_info": {
+      "University Accommodation": "Housing is available but on-campus housing is not guaranteed. Exchange students will be provided with the housing application link in their offer/admission package. Students are strongly recommended to apply for housing as soon as they receive the acceptance letter in order not to miss the housing application deadline.",
+      "Private Accommodation": "No information provided."
+   },
+   "cost_of_living": {
+      "Estimated Monthly Living Expenses": "€830",
+      "Breakdown of Costs": {
+         "Accommodation": "€350",
+         "Food": "€250",
+         "Transport": "€30",
+         "Others (Entertainment, clothes)": "€200"
+      }
+   },
+   "university_description": "No information provided.",
+   "university_address": "",
+   "location_cost_of_living": "",
+   "location_weather": "",
+   "location_description": "",
+   "location_crime": "",
+   "location_transportation": "",
+   "location_halal": "",
+   "location_vegetarian": ""
+}

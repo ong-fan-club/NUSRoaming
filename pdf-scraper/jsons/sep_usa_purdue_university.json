@@ -1,0 +1,62 @@
+{
+  "university_name": "Purdue University",
+  "university_website": [
+    "http://www.purdue.edu/",
+    "https://www.purdue.edu/IPPU/SA/Incoming/index.html "
+  ],
+  "university_country": "USA",
+  "sem1_months": [
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "faculties_accepted": [
+    "FASS",
+    "FoS",
+    "FoE",
+    "SoC",
+    "USP",
+    "Other faculties/schools/departments except for Aviation, Education, Nursing, Pharmacy, and Vet Med"
+  ],
+  "module_restrictions": "Aviation, Education, Nursing, Pharmacy, and Vet Med.",
+  "visa_info": {
+    "visa_type": "J-1 student visa",
+    "processing_time": "4-6 weeks",
+    "SEVIS_fee": "required"
+  },
+  "accommodations_info": {
+    "on-campus_housing": {
+      "application_process": "apply online after admission, pay fees through university account",
+      "room_options": "no single rooms for undergrads in fall semester"
+    },
+    "off-campus_housing": "not officially assisted, information available on Dean of Students' website or in person"
+  },
+  "cost_of_living": {
+    "estimated_expenses": "$7,230 USD for one semester (room & board, books, and personal expenses)",
+    "additional_expenses": {
+      "not_included": ["tuition and fees"],
+      "insurance": {
+        "mandatory": "SEP host university insurance",
+        "recommended": "supplemental travel insurance"
+      }
+    }
+  },
+  "university_description": "",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

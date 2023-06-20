@@ -1,0 +1,21 @@
+{
+"university_name": "University of Amsterdam",
+"university_website": ["https://www.uva.nl/en/home", "https://www.auc.nl/home"],
+"university_country": "Netherlands",
+"sem1_months": ["August", "September", "October", "November", "December", "January"],
+"sem2_months": ["January", "February", "March", "April", "May", "June"],
+"faculties_accepted": ["All except Business and Design & Environment at UvA", "USP and Science only at AUC"],
+"module_restrictions": "Must have taken relevant modules at NUS within the specific subject field to be accepted into any faculty/department at UvA.",
+"visa_info": "Information about immigration-related issues is available on the university's website, and the Dutch embassy can be contacted for specific enquiries beyond the university's expertise.",
+"accommodations_info": {"UvA housing information": "https://www.uva.nl/en/education/other-programmes/exchange/practical-matters/housing/housing.html", "AUC student residences": "https://www.auc.nl/life-at-auc-students/campus/student-residences/student-residences.html"},
+"cost_of_living": {"Living expenses in Amsterdam": "https://www.uva.nl/en/education/other-programmes/exchange/practical-matters/living-in-amsterdam/living-expenses/living-expenses.html", "Currency": "Euro"},
+"university_description": "The University of Amsterdam is a public university located in the Netherlands which offers courses in a variety of disciplines that range from the humanities, social sciences to the natural sciences.",
+"university_address": "Spui 21, 1012 WX Amsterdam, Netherlands",
+"location_cost_of_living": "Amsterdam is one of the more expensive cities to live in with high housing costs and transportation costs.",
+"location_weather": "Amsterdam has a temperate maritime climate with mild winters and moderate precipitation throughout the year.",
+"location_description": "Amsterdam is a small, but bustling and diverse city known for its scenic canals, cultural museums, nightlife, and tolerance towards drugs and sexuality.",
+"location_crime": "While Amsterdam's crime rate is relatively low, tourists may still be targeted by pickpockets and bike theft is common.",
+"location_transportation": "Public transportation in Amsterdam is efficient and includes trams, buses, and ferries. Biking is popular as well.",
+"location_halal": "Halal food options are available in Amsterdam for Muslim students.",
+"location_vegetarian": "Amsterdam has a variety of options for vegetarian students."
+}
