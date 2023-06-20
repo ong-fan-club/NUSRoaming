@@ -1,0 +1,50 @@
+{
+  "university_name": "Trinity College Dublin",
+  "university_website": [
+    "https://www.tcd.ie/study/study-abroad/inbound/apply/sa-exchange/index.php",
+    "https://www.tcd.ie/calendar/academic-year-structure/",
+    "https://www.tcd.ie/study/non-eu/study-abroad/to-trinity/ModuleDirectory/",
+    "https://www.tcd.ie/accommodation/"
+  ],
+  "university_country": "Ireland",
+  "sem1_months": ["End August", "Mid-December"],
+  "sem2_months": ["Mid-January", "Beginning May"],
+  "faculties_accepted": [
+    "Faculty of Arts, Humanities & Social Sciences",
+    "Faculty of Science, Technology, Engineering and Mathematics"
+  ],
+  "module_restrictions": "NUS students are not permitted to take Dentistry, Medicine and Business modules.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university.",
+  "accommodations_info": "Accommodation on-campus is extremely limited and not guaranteed. Incoming students are mainly accommodated in College residences at Trinity Hall, Binary Hub and Kavanagh Court. Non-EU students can apply as soon as they have confirmed acceptance of an offer of a place in Trinity College and have received their TCD ID number. If you do not secure university housing, or wish to find your own accommodation, TCD’s Accommodation Advisory Service helps students to find accommodation by providing them with advice and access to house-hunting resources. Students are advised to arrive in Dublin at least 2-3 weeks before the teaching begins in order to secure suitable and affordable accommodation.",
+  "cost_of_living": [
+    {
+      "expense_type": "Accommodation",
+      "estimated_cost": "€1000 approx."
+    },
+    {
+      "expense_type": "Food",
+      "estimated_cost": "approx. €200 a month"
+    },
+    {
+      "expense_type": "Transport",
+      "estimated_cost": "depending on location, approx. €120 a month"
+    },
+    {
+      "expense_type": "Insurance",
+      "estimated_cost": "can range in price from €200 – €1,800 annually"
+    },
+    {
+      "expense_type": "Others",
+      "estimated_cost": "€75-100 a month"
+    }
+  ],
+  "university_description": "Trinity College Dublin is Ireland's oldest university, founded in 1592. It has a historic campus located in the heart of Dublin and is known for its academic excellence and research facilities.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

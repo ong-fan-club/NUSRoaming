@@ -1,0 +1,49 @@
+{
+   "university_name": "The University of Warwick",
+   "university_website": [
+      "https://warwick.ac.uk/study/studyabroad/",
+      "https://warwick.ac.uk/services/studentopportunity/studentmobility/studyaatwarwick/",
+      "https://warwick.ac.uk/services/accommodation",
+      "https://myportal.nus.edu.sg/studentportal/student-insurance/all/"
+   ],
+   "university_country": "United Kingdom",
+   "sem1_months": [],
+   "sem2_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+   ],
+   "faculties_accepted": [
+      "Faculty of Arts",
+      "Faculty of Science",
+      "Faculty of Social Sciences (excluding School of Law and Warwick Business School)"
+   ],
+   "module_restrictions": [
+      "Postgraduate modules are not open to undergraduate exchange students.",
+      "The Warwick Business School and Warwick School of Law modules are not available for NUS students with no matching major.",
+      "Exchange students are expected to select most of their modules from their base department."
+   ],
+   "visa_info": [
+      "All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university.",
+      "Students on exchange in the UK for less than six months are not entitled to subsidised NHS treatment.",
+      "Semester-based exchange students are encouraged to purchase additional insurance to cover medical costs, hospitalisation expenses, and emergency evacuation costs incurred while they are on exchange.",
+      "For more information on insurance coverage, please refer to https://myportal.nus.edu.sg/studentportal/student-insurance/all/."
+   ],
+   "accommodations_info": [
+      "Warwick offers accommodation subject to availability of rooms and meeting the deadlines and conditions as outlined on the apply webpage.",
+      "It is more usual for exchange students to live on-campus, however, for students wishing to live off-campus there are options available."
+   ],
+   "cost_of_living": "https://warwick.ac.uk/study/international/admissions/finance/livingcosts",
+   "university_description": "The University of Warwick is a public research university located in Coventry, UK. It was founded in 1965 and is consistently ranked among the top ten universities in the UK. It offers a wide range of undergraduate and postgraduate courses across its four faculties and is known for its strong research culture.",
+   "university_address": "",
+   "location_cost_of_living": "",
+   "location_weather": "",
+   "location_description": "",
+   "location_crime": "",
+   "location_transportation": "",
+   "location_halal": "",
+   "location_vegetarian": ""
+}

@@ -1,0 +1,21 @@
+{
+  "university_name": "University of Washington, Seattle",
+  "university_website": ["http://www.washington.edu/", "https://www.washington.edu/studyabroad/visitingexchange/application/undergraduates/"],
+  "university_country": "USA",
+  "sem1_months": ["September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May", "June"],
+  "faculties_accepted": ["FASS", "FoS", "SoC", "NUS Business School"],
+  "module_restrictions": ["Communications", "Economics", "Psychology", "Design", "Law, Societies & Justice"],
+  "visa_info": "Exchange students will enter the US on a J-1 visa and should familiarize themselves with the rules and regulations of this visa category.",
+  "accommodations_info": "As an incoming exchange student to the University of Washington, you are free to make your own housing arrangements. To help you decide which option is best for you, please review the various housing options at the following link: https://www.washington.edu/studyabroad/visitingexchange/practical-matters/housing/",
+  "cost_of_living": "http://www.washington.edu/studyabroad/visitingexchange/practical-matters/cost-of-attendance/",
+  "university_description": "The University of Washington (UW) is a top-ranked public research university located in Seattle, USA. It is known for its strong programs in areas such as computer science, engineering, and medicine, as well as its beautiful campus and innovative culture.",
+  "university_address": "1400 NE Campus Parkway, Seattle, WA 98195, United States",
+  "location_cost_of_living": "Seattle is known for being one of the most expensive cities in the USA, with a high cost of living index. However, this is balanced by the high standard of living and excellent career opportunities available in the area.",
+  "location_weather": "Seattle has a mild, temperate climate with cool, rainy winters and mild summers. The city is known for its overcast skies and frequent rain, but also for its greenery and picturesque landscapes.",
+  "location_description": "Seattle is a vibrant, fast-growing city with a booming tech industry, lively cultural scene, and beautiful natural surroundings. It is home to a diverse array of people, neighborhoods, and attractions, including the iconic Space Needle, Pike Place Market, and many museums, parks, and outdoor activities.",
+  "location_crime": "Seattle has a relatively low crime rate compared to other major American cities, although like all urban areas it can experience some crime and safety concerns. It is generally considered a safe and welcoming place for visitors and residents alike.",
+  "location_transportation": "Seattle has an extensive public transportation system, including buses, light rail, and ferries. There are also many bike lanes and bike-friendly streets for cyclists, and a thriving network of ride-sharing and car-sharing services.",
+  "location_halal": "Seattle has a diverse and multicultural population, including a large Muslim community, which means that halal food options are widely available throughout the city.",
+  "location_vegetarian": "Seattle is also known for its thriving vegetarian and vegan food scene, with many restaurants, cafes, and food trucks specializing in plant-based cuisine."
+}

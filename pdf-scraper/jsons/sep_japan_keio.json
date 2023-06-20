@@ -1,0 +1,68 @@
+{
+   "university_name": "Keio University",
+   "university_website": [
+      "http://www.keio.ac.jp",
+      "https://www.keio.ac.jp/en/academics/calendar/index.html",
+      "http://www.ic.keio.ac.jp/en/study/exchange/courses/kip.html",
+      "www.ic.keio.ac.jp/en/study/exchange/courses/jlp.html",
+      "http://www.ic.keio.ac.jp/en/aboutic/aboutcourse#icc",
+      "http://www.ic.keio.ac.jp/en/study/exchange/courses.html",
+      "http://www.ic.keio.ac.jp/en/study/exchange/housing.html",
+      "http://www.ic.keio.ac.jp/en/life/housing/ryu_boshu.html",
+      "http://www.ic.keio.ac.jp/en/student-life/housing.html",
+      "http://www.ic.keio.ac.jp/en/study/exchange/visa.html",
+      "http://www.mofa.go.jp/j_info/visit/visa/index.html",
+      "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+      "http://www.ic.keio.ac.jp/handbook/2014/en/health.pdf",
+      "http://www.ic.keio.ac.jp/en/study/exchange/index.html"
+   ],
+   "university_country": "Tokyo, Japan",
+   "sem1_months": [
+      "Early April",
+      "May",
+      "June",
+      "July",
+      "Early August"
+   ],
+   "sem2_months": [
+      "Late September",
+      "October",
+      "November",
+      "December",
+      "January",
+      "Early February"
+   ],
+   "faculties_accepted": [
+      "Letters",
+      "Economics",
+      "Law",
+      "Business and Commerce",
+      "Science and Technology",
+      "Policy Management",
+      "Environment and Information Studies",
+      "Pharmacy"
+   ],
+   "module_restrictions": "Physical education courses, foreign language courses, and courses in School of Medicine are not open to exchange students. KIP students who wish to take Japanese language courses will go through a self-graded test and will be placed in the level determined by his/her score for the test. In addition, students who wish to take advanced subjects must take the JLP placement test to be placed into advanced or higher study levels. All JLP students are required to take the Japanese language program placement test at the beginning of each semester.",
+   "visa_info": "Upon acceptance, Keio will apply for a Certificate of Eligibility on your behalf with the Japanese Ministry of Justice, and send it to you when issued. The certificate is required for you to apply for a study visa. Exchange students must obtain a “College Student” visa for the duration of their study in Japan. Please visit the Japan Embassy website for the required supporting documents for your visa application. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. This is to ensure that you can obtain your visa in time before the start of your exchange term. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+   "accommodations_info": "Keio housing (accommodations subsidized by Keio) is GUARANTEED for exchange students if they apply for housing on time. The rent charged to students varies from ¥55,000 to ¥79,100. Students will also be charged a one-time, additional maintenance fee of ¥20,000 for their first month’s rent. Deposits and key money are not required. Housing information and application form will be sent to students together with the acceptance letter. For more information about accommodation, please refer to http://www.ic.keio.ac.jp/en/study/exchange/housing.html and http://www.ic.keio.ac.jp/en/life/housing/ryu_boshu.html and https://www.keio.ac.jp/en/student-life/housing.html",
+   "cost_of_living": {
+      "Estimated Monthly Living Expenses": "JP¥139,000 - JP¥215,400",
+      "Breakdown of Costs": {
+         "Accommodation": "JP¥55,000 - JP¥78,400",
+         "Food": "JP¥30,000 - JP¥60,000",
+         "Books": "JP¥7,000",
+         "Transport": "JP¥8,000 - JP¥20,000",
+         "Insurance": "JP¥2,000 - JP¥3,000",
+         "Others (Entertainment, clothes)": "JP¥37,000 - JP¥47,000"
+      }
+   },
+   "university_description": "",
+   "university_address": "",
+   "location_cost_of_living": "",
+   "location_weather": "",
+   "location_description": "",
+   "location_crime": "",
+   "location_transportation": "",
+   "location_halal": "",
+   "location_vegetarian": ""
+}

@@ -1,0 +1,21 @@
+{
+    "university_name": "University of Arizona",
+    "university_website": ["http://www.arizona.edu/", "https://catalog.arizona.edu/2021-2022-academic-calendar"],
+    "university_country": "USA",
+    "sem1_months": ["August", "September", "October", "November", "December"],
+    "sem2_months": ["January", "February", "March", "April", "May"],
+    "faculties_accepted": ["FASS", "FoS", "FoE", "SoC", "USP"],
+    "module_restrictions": "Undergraduate exchange students cannot take classes in any business department (including Accounting, Administration, Economics, Entrepreneurship, Finance, Management, Management Information Systems, or Marketing).",
+    "visa_info": "Students must create their NetID, NetID+ and password, and upload necessary documents to request their DS-2019. Students must also pay the SEVIS fee and apply for a J-1 student visa, except for citizens of Canada and Bermuda.",
+    "accommodations_info": ["University has two offices to help students find on-campus and off-campus housing options. Housing is not guaranteed but early applicants are usually provided with housing. Students are encouraged to purchase supplemental travel insurance to ensure they are adequately covered during their exchange semester."],
+    "cost_of_living": "Tuition is waived for exchange students. Estimated monthly living expenses can be found on the financial aid website.",
+    "university_description": "A comprehensive university located in Tucson, Arizona, with a variety of faculties accepted.",
+    "university_address": "Tucson, Arizona, USA",
+    "location_cost_of_living": "",
+    "location_weather": "",
+    "location_description": "",
+    "location_crime": "Campus safety information can be found on the university website.",
+    "location_transportation": "",
+    "location_halal": "",
+    "location_vegetarian": ""
+}

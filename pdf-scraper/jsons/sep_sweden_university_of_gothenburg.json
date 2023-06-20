@@ -1,0 +1,29 @@
+{
+  "university_name": "University of Gothenburg",
+  "university_website": ["http://www.gu.se/english", "https://www.gu.se/en/study-in-gothenburg/when-you-are-here/academic-calendar", "https://www.gu.se/en/study-in-gothenburg/exchange-student", "https://www.gu.se/en/study-in-gothenburg/exchange-student/courses?hits=20", "https://www.gu.se/en/study-in-gothenburg/when-you-are-here/student-housing", "https://www.gu.se/en/about-the-university/welcome-services/residence-permit-and-insurance", "https://studentportal.gu.se/english/coronavirus/?languageId=100001&skipSSOCheck=true"],
+  "university_country": "Sweden",
+  "sem1_months": ["August", "September", "October", "November", "December", "January"],
+  "sem2_months": ["January", "February", "March", "April", "May", "June"],
+  "faculties_accepted": ["Science", "Arts", "IT- Faculty", "Social Sciences", "Business, Economics and Law (one seat in Law is reserved)", "Fine arts, applied and performing arts", "Education", "Pharmacy"],
+  "module_restrictions": "None",
+  "visa_info": "Non-EU/EEA citizens must have a valid passport, be admitted to full-time studies, be able to support themselves financially, and have comprehensive health insurance while studying in Sweden. Swedish residence permit must be obtained before entering Sweden.",
+  "accommodations_info": "Exchange students for the University of Gothenburg can apply for housing after submitting their online application. Housing application deadlines are the same as online application deadlines. Accommodations are provided by SGS Studentbostäder and come with basic furniture and amenities. Rent includes electricity, water, heating, internet access, and laundry facilities.",
+  "cost_of_living": {
+    "accommodation": "SEK4,000 – SEK7,000",
+    "food": "SEK3,000 – SEK4,000",
+    "transport": "SEK580",
+    "telephone/internet": "SEK300",
+    "others": "SEK2,000",
+    "monthly_estimate": "SEK10,300 – SEK14,000",
+    "source": "https://www.gu.se/en/about-the-university/welcome-services/cost-of-living"
+  },
+  "university_description": "The University of Gothenburg is a public research university located in Gothenburg, Sweden. It is one of the largest universities in Sweden with over 37,000 students and 6,000 employees.",
+  "university_address": "Förvaltningshuset Vasaparken, 411 26 Gothenburg, Sweden",
+  "location_cost_of_living": "Gothenburg’s cost of living is considered high and is comparable to other Scandinavian cities. However, it is still lower than cities like Paris or London.",
+  "location_weather": "Gothenburg experiences a temperate maritime climate with mild winters and cool summers. Average temperatures range from -1°C to 2°C in January and 13°C to 20°C in July.",
+  "location_description": "Gothenburg is the second-largest city in Sweden and is located on the west coast. The city is known for its art and culture scene, as well as its parks and gardens.",
+  "location_crime": "Gothenburg has a low crime rate compared to other European cities of similar size. However, like all cities, there are areas that are more prone to crime than others.",
+  "location_transportation": "Gothenburg has an extensive public transportation system that includes buses, trams, and ferries. The city also has a bike-sharing program.",
+  "location_halal": "Halal food options are available in Gothenburg, with a variety of restaurants and grocery stores that sell halal products.",
+  "location_vegetarian": "Vegetarian food options are widely available in Gothenburg, with many restaurants and cafes offering vegetarian and vegan dishes."
+}

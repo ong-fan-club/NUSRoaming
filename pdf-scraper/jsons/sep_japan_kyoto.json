@@ -1,0 +1,45 @@
+{
+  "university_name": "Kyoto University",
+  "university_website": ["http://www.kyoto-u.ac.jp/en"],
+  "university_country": "Kyoto, Japan",
+  "sem1_months": ["Early April", "End September", "Early August (for KUINEP English class)"],
+  "sem2_months": ["Early October", "End March", "Early February (for KUINEP English class)"],
+  "faculties_accepted": [
+    "Institute for Liberal Arts and Sciences",
+    "Faculty of Economics",
+    "Faculty of Education",
+    "Faculty of Engineering",
+    "Faculty of Integrated Human Studies",
+    "Faculty of Law",
+    "Faculty of Letters",
+    "Faculty of Pharmaceutical Science",
+    "Faculty of Science"
+  ],
+  "module_restrictions": [
+    "Graduate level courses are not available to undergraduate students",
+    "Exchange students can take courses which start and end within the period of their exchange at Kyoto U",
+    "Courses of Faculty of Medicine are not open to exchange students",
+    "Some courses offered by the Faculties, including almost all courses offered by Faculty of Letters start in April and end in March. Such courses can be taken only by students who stay at Kyoto U for one full year exchange."
+  ],
+  "visa_info": "Kyoto U will apply for a Certificate of Eligibility on your behalf with the Japanese Ministry of Justice, and send it to you when issued. The certificate is required for you to apply for a study visa. Exchange students must obtain a “College Student” visa for the duration of their study in Japan.",
+  "accommodations_info": "Kyoto U has one on-campus and four off-campus International Houses, and other dormitories available to international students. Students do not have to apply for accommodation by themselves but will be required to send back the pre-registration form enclosed in the acceptance package. Students can choose to stay in one of the following accommodations - Yoshida International House (located on campus), Shugakuin International House and Misasagi International House. Other accommodation options include Mizuki-Dormitory, Satuski-Domitory and Dormitory Hyakumanben.",
+  "cost_of_living": {
+    "estimated_monthly_living_expenses": "JP¥77,000 - JP¥158,000",
+    "breakdown_of_costs": [
+      {"cost": "Accommodation", "range": "JP¥12,000 - JP¥50,000"},
+      {"cost": "Food", "range": "JP¥30,000 - JP¥60,000"},
+      {"cost": "Transport", "range": "JP¥8,000 - JP¥20,000"},
+      {"cost": "Insurance", "range": "JP¥2,000 - JP¥3,000"},
+      {"cost": "Others (Entertainment, clothes)", "range": "JP¥25,000"}
+    ]
+  },
+  "university_description": "Kyoto University is a national university in Kyoto, Japan. It is the second oldest Japanese university, one of the highest ranked universities in Asia and one of Japan's National Seven Universities.",
+  "university_address": "",
+  "location_cost_of_living": "Kyoto has a reputation for being expensive due to its rich cultural heritage and many attractions. However, its cost of living is still relatively affordable compared to other major Japanese cities like Tokyo and Osaka.",
+  "location_weather": "Kyoto has a humid subtropical climate with hot, humid summers and cool winters.",
+  "location_description": "Kyoto is a city located in the central part of the island of Honshu, Japan. It has a population close to 1.5 million people and is famous for its numerous classical Buddhist temples, gardens, imperial palaces, Shinto shrines and traditional wooden houses.",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

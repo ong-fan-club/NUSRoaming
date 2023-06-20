@@ -1,0 +1,59 @@
+{
+  "university_name": "Université de Technologie de Troyes (UTT)",
+  "university_website": [
+    "http://www.utt.fr/en/index.html",
+    "https://www.utt.fr/international/study-at-utt/academic-calendar/",
+    "https://www.utt.fr/international/study-at-utt/courses-in-english/",
+    "http://www.utt.fr/en/international/to-study-at-the-utt/exchange-studies.html",
+    "http://www.utt.fr/en/international/to-study-at-the-utt/practical-information.html",
+    "http://www.singapour.campusfrance.org/page/student-visa-stays-france-more-90-days",
+    "http://www.ambafrance-sg.org/-English-"
+  ],
+  "university_country": "France",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December",
+    "January"
+  ],
+  "sem2_months": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "June"
+  ],
+  "faculties_accepted": [
+    "Industrial Systems",
+    "Mechanical Systems",
+    "Materials Science and Technology",
+    "Informatics and Information Systems",
+    "Systems, Networks and Telecommunications",
+    "Materials Processes and Manufacture"
+  ],
+  "module_restrictions": "All faculties are open for exchange students at the undergraduate and graduate levels if they fulfil the requirements.",
+  "visa_info": "Long-Stay visas are necessary for stays exceeding 3 months. Upon arrival in France, students are required to register with the French Immigration and Integration Office (OFII) for a residence permit. Students can apply up to 3 months prior to the departure. All students who wish to study in France must follow the Campus France procedure on Etudes en France online platform before applying for a visa.",
+  "accommodations_info": {
+    "University Accommodation": "The UTT can book accommodation for students coming from partner universities. Accommodation is guaranteed for students if the application is submitted on time.",
+    "Private Accommodation": null
+  },
+  "cost_of_living": {
+    "Estimated Monthly Living Expenses": {
+      "Accommodation": "€420",
+      "Food": "€200 - €250",
+      "Transport": "€50 - €100",
+      "Others (Entertainment, clothes)": "€100 - €120",
+      "Monthly Estimate": "€770 - €890"
+    }
+  },
+  "university_description": "The Université de Technologie de Troyes (UTT) is a French university, founded in 1994. It is a member of the University of Technology network and has a focus on engineering.",
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": "Troyes is a commune and the capital of the department of Aube in north-central France. It is located on the Seine river",
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

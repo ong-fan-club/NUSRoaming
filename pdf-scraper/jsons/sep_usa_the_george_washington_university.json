@@ -1,0 +1,36 @@
+{
+  "university_name": "George Washington University",
+  "university_website": ["https://www.gwu.edu/", "https://studyabroad.gwu.edu/gw-exchange-program"],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": [
+    "Columbian College of Arts and Sciences",
+    "Milken Institute School of Public Health",
+    "School of Media and Public Affairs",
+    "Elliott School of International Affairs",
+    "School of Engineering and Applied Science"
+  ],
+  "module_restrictions": "Law, nursing, medicine, interior design, architecture and Semester in Washington Program (denoted as PGMT) courses are restricted. Exchange students may not enrol in graduate level courses (labelled 4999 and above).",
+  "visa_info": "Students will be guided through the visa application with help from the ISO and the GW Exchange Team. A DS-2019 can only be issued once sufficient funding is documented for you and any accompanying dependents. Students are required to enrol in the compulsory health insurance policy or scheme at their SEP host university.",
+  "accommodations_info": {
+    "University Accommodation": {
+      "description": "Campus housing is the most convenient place for students to reside while studying at GW. Exchange students are guaranteed housing on campus and are housed in apartment style dorms (including a kitchen) with two or more suitemates. Students typically only share an immediate bedroom and bathroom with one other person.",
+      "weblink": "https://studyabroad.gwu.edu/housing-incoming-exchange"
+    },
+    "Off-Campus Accommodation": null
+  },
+  "cost_of_living": {
+    "description": "Estimated monthly living expenses are provided on the GWU website. Cost of living information correct as of July 2021.",
+    "weblink": "https://studyabroad.gwu.edu/costs-incoming-exchange"
+  },
+  "university_description": "GW provides a rare combination of academic resources in an engaging university setting in the heart of Washington, D.C. Offering a wide selection of learning experiences from lectures and seminars to hands-on labs, partnerships with organizations and museums, a world-class library, and state-of-the-art technology, GW’s goal is to prepare students to become citizens of a global society ready to face the challenges of this still new century.",
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": "Washington, D.C. is the capital of the United States and a world-renowned city with a rich cultural, political, and historical background.",
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

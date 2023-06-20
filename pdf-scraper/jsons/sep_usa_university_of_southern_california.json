@@ -1,0 +1,36 @@
+{
+  "university_name": "University of Southern California (USC)",
+  "university_website": [
+    "http://www.usc.edu/",
+    "http://ois.usc.edu/",
+    "https://academics.usc.edu/calendar/",
+    "https://classes.usc.edu/",
+    "https://catalogue.usc.edu/",
+    "https://viterbiundergrad.usc.edu/overseas/exchange/housing/",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://viterbiundergrad.usc.edu/overseas/exchange/prearrival/",
+    "https://viterbiundergrad.usc.edu/overseas/exchange/finances/"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": [
+    "USC Viterbi School of Engineering",
+    "NUS FoE",
+    "NUS SoC",
+    "NUS Business School (for Business-specific exchange with USC)"
+  ],
+  "module_restrictions": "Students can only take courses from USC Viterbi School of Engineering, with the exception of appropriate math and science courses. All other Schools and Programmes at USC are unavailable.",
+  "visa_info": "Your J-1 visa will be good for the length of the programme of study. USC requires that all international students either have proof of U.S.-based health insurance or enroll in the USC Student Health Insurance Plan.",
+  "accommodations_info": "Exchange students may apply for USC Housing. Space is not guaranteed, but USC will try their best to place all interested exchange students in on-campus housing.",
+  "cost_of_living": "Please refer to the USC links for the latest information on estimated monthly living expenses.",
+  "university_description": "The University of Southern California (USC) is a private research university in Los Angeles, California. USC's academic programs range from business, law, engineering, and medicine, to the humanities and the social sciences. It is a globally recognized university, with around 20,000 students from over 150 countries.",
+  "university_address": "Los Angeles, California, USA",
+  "location_cost_of_living": "Los Angeles is known to be an expensive city in the United States to live in. Housing is particularly expensive with high rent and utility costs.",
+  "location_weather": "Los Angeles generally has a Mediterranean climate, with warm to hot summers and mild winters. January is the coldest month, and August is the warmest month. The city experiences plenty of sunshine throughout the year.",
+  "location_description": "Los Angeles is a sprawling city, known for its association with the entertainment industry, including Hollywood, Universal Studios, and Paramount Pictures. The city has a diverse population and is home to many iconic landmarks such as Beverly Hills, Santa Monica Pier, and the Hollywood Walk of Fame.",
+  "location_crime": "Los Angeles has a higher crime rate than the average US city. However, crime rates vary depending on the neighborhood and time of day, and certain areas are considerably safer than others.",
+  "location_transportation": "Los Angeles has a public transportation system, including buses and trains, but private transportation in the form of cars or taxis is the most common way of getting around the city.",
+  "location_halal": "Los Angeles is known for its diverse food options, including halal food options. Halal food availability should not be an issue for Muslim students.",
+  "location_vegetarian": "Similarly, vegetarian food options are abundant in Los Angeles and should not be difficult to find."
+}

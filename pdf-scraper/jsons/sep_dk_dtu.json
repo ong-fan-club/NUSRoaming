@@ -1,0 +1,41 @@
+{
+  "university_name": "Technical University of Denmark",
+  "university_website": [
+    "https://www.dtu.dk/english/Education/Incoming-students/Exchange"
+  ],
+  "university_country": "Denmark",
+  "sem1_months": [
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+    "January"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June"
+  ],
+  "faculties_accepted": [
+    "Computing",
+    "Engineering",
+    "Science"
+  ],
+  "module_restrictions": "It is important that you have the relevant academic background for the courses that you apply for.",
+  "visa_info": "Information about immigration-related issues is available at: https://www.dtu.dk/english/education/student-guide/living-in-demark/residence-permit Additionally, you can contact the Denmark embassy in Singapore if you have a specific enquiry that the host university is unable to address.",
+  "accommodations_info": "Information about student housing is available at: https://bdtu.dk/students/exchange-students/",
+  "cost_of_living": "Denmark’s currency is the krone. Information about the cost of living and estimated expenses in Denmark and Copenhagen is available at: https://www.dtu.dk/english/education/student-guide/living-in-demark/living-expenses",
+  "university_description": "Technical University of Denmark (DTU) is a leading technical university globally recognized for the excellence of its research, education, innovation, and scientific advice. It is a hub of world-class research and has been Denmark's leading engineering institution for over 180 years. DTU has a strong focus on sustainability and holds a leading position in the European Green Deal.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "Copenhagen is the capital of Denmark and one of the most livable and bike-friendly cities in the world. It is a beautiful city known for its waterfront, historic architecture, culture, and culinary scene. Copenhagen is also home to multiple green spaces and historic landmarks like Tivoli Gardens, Rosenborg Castle, and Christiansborg Palace.",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

@@ -1,0 +1,32 @@
+{
+  "university_name": "University of Hawaiʻi at Mānoa",
+  "university_website": ["http://hawaii.edu", "http://manoa.hawaii.edu/mix/#"],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": ["BIZ", "FASS", "FoE", "FoS", "SDE", "SoC"],
+  "module_restrictions": "Inbound exchange students are restricted from taking courses in Medicine, Law, Nursing, and Dental Hygiene. Graduate exchange students who want to take graduate level UHM courses in Second Language Studies (SLS) should have a TOEFL score of 100+. Students who want to take Business courses should already have a good foundation in business at their home university and a solid command of the English language, as normally demonstrated by a TOEFL score of 80+ (550+) or IELTS 6.5+.",
+  "visa_info": "All international students (in F-1 and J-1 status) are required to begin the mandatory online Visa Clearance provided by UHM International Student Services (ISS) (https://www.hawaii.edu/issmanoa/?page_id=2227). ",
+  "accommodations_info": {
+    "university": {
+      "on-campus_housing": "During the fall semester, there is a limited amount of on-campus housing available to international exchange students. Students coming to UHM for just the fall semester or for the academic year may apply for on-campus housing online, but are encouraged to explore off-campus housing options. Undergraduates are given preference for on-campus housing. During the spring semester, on-campus housing is widely available. International exchange students coming to UHM for the spring semester or calendar year are welcome to apply for on-campus housing online, and have a high likelihood of being placed. Apply for On-Campus Housing – In order to apply for on-campus housing, you need a UH Number (found on your Acceptance letter). Students may apply for on-campus housing online at UHM Student Housing Services. There is a $25 application fee that should be paid with a credit card. Please be sure to use the “Non-Freshman” application form; do NOT use the “Freshman” application form. Please note that the housing contracts at UHM are for the entire academic year (two semesters). If you will only be studying at UHM for the Fall semester, that’s OK. We will inform Student Housing Services and later they will be able to release you from the second half of your contract. ",
+      "off-campus_housing": [
+        "Hawaii Student Suites – Several student-friendly properties, including “Beachwalk” apartments located one block from Waikiki Beach, and “Kalo Terrace” community dormitories located one block from the UHM campus.",
+        "Off-Campus Housing Referral Program  – This website lists several good options. The Off-Campus Housing Referral Program website includes much useful information, including links to temporary housing, hostels and other off-campus options. Applications and/or reservations would need to be sent/made as soon as possible to insure a space when you arrive. Prices vary as do application procedures.",
+        "East-West Center – Next to campus and has two housing facilities for students: Hale Manoa and Hale Kuahine. Both facilities are primarily reserved for graduate students formally affiliated with the East-West Center, but any students are welcome to apply. Space is limited, and priority will be given to students majoring in Asia-Pacific related studies."
+      ]
+    }
+  },
+  "cost_of_living": {
+    "monthly_living_expenses": "http://www.hawaii.edu/fas/basics/student_budget/index.php"
+  },
+  "university_description": "University of Hawaiʻi at Mānoa is a comprehensive university.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

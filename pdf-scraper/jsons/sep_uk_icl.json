@@ -1,0 +1,39 @@
+{
+  "university_name": "Imperial College London",
+  "university_website": [
+    "http://www.imperial.ac.uk/placements/student-exchanges/information-for-student-exchange-partner-universities/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": [
+    "Late September",
+    "October",
+    "November",
+    "Mid-December"
+  ],
+  "sem2_months": [
+    "Early January",
+    "February",
+    "March",
+    "Late March"
+  ],
+  "faculties_accepted": [
+    "Aeronautics Engineering",
+    "Bioengineering Engineering",
+    "Chemical Engineering",
+    "Electrical and Electronic Engineering",
+    "Mechanical Engineering"
+  ],
+  "module_restrictions": "Imperial is unable to offer study plans involving teaching from more than one department or from both the undergraduate curriculum (BEng/MEng/BSc/MSci) and postgraduate curriculum (MSc/MRes).",
+  "visa_info": "Students must obtain a Student Visa for a full year exchange in Imperial. Specific questions concerning visas can be addressed to the Imperial’s International Student Support Team: international@imperial.ac.uk.",
+  "accommodations_info": "Imperial College London is normally only able to guarantee the offer of a room in a College hall of residence to undergraduate exchange students who accept admission for a full academic year and who have met any conditions of entry which may apply. Students can apply for Imperial’s accommodation once they receive the conditional offer from Imperial via Student e-Service.",
+  "cost_of_living": "Students can find information and advice on living costs at managing your money (UG) and details can also be found at http://www.imperial.ac.uk/study/ug/fees-and-funding/managing-your-money/living-costs/",
+  "university_description": "Imperial College London is a public research university located in London, United Kingdom. It is a world-class institution, particularly well known for its science, engineering, and medical programmes.",
+  "university_address": null,
+  "location_cost_of_living": "London is known to be one of the most expensive cities in the world. The cost of living will depend on various factors, such as accommodation, food, transportation, and entertainment. Students should budget accordingly.",
+  "location_weather": "London has a temperate maritime climate, meaning that it tends to be mild and rainy throughout the year. Summers are usually warm and humid, while winters can be chilly. Students should be prepared for variable weather conditions.",
+  "location_description": "London is the capital and largest city of England and the United Kingdom. It is a global hub for business, finance, culture, and entertainment. Students will have access to a wide range of museums, galleries, parks, and restaurants, as well as excellent transportation options.",
+  "location_crime": null,
+  "location_transportation": "London has an extensive public transportation system, including buses, underground trains, and overground trains. Students may also consider walking or cycling around the city.",
+  "location_halal": "London has a large Muslim population, and there are many halal food options available throughout the city.",
+  "location_vegetarian": "London has a wide range of vegetarian and vegan food options available, including many restaurants and grocery stores that specifically cater to these dietary requirements."
+}

@@ -1,0 +1,36 @@
+{
+  "university_name": "York University",
+  "university_website": [
+    "https://registrar.yorku.ca/enrol/dates/",
+    "https://yorkinternational.yorku.ca/uhip/",
+    "https://yorkinternational.yorku.ca/coming-to-yorku-on-exchange/"
+  ],
+  "university_country": "Canada",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April"
+  ],
+  "faculties_accepted": null,
+  "module_restrictions": null,
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp. ",
+  "accommodations_info": "It is recommended that you purchase a comprehensive travel insurance for the full duration of your stay abroad, including your personal travel within/outside Canada. Please review the insurance coverages to ensure that they meet your needs.",
+  "cost_of_living": null,
+
+  "university_description": null,
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": null,
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

@@ -1,0 +1,47 @@
+{
+  "university_name": "Zhejiang University",
+  "university_website": [
+    "http://www.zju.edu.cn/english/19600/list.htm",
+    "https://www.intl.zju.edu.cn/en",
+    "https://www.zju.edu.cn/english/19598/list.htm",
+    "http://www.zju.edu.cn/english/19997/list.htm",
+    "https://www.zju.edu.cn/english/2018/0523/c19996a813004/page.htm"
+  ],
+  "university_country": "China",
+  "sem1_months": [
+    "September", 
+    "October", 
+    "November", 
+    "December", 
+    "January"
+  ],
+  "sem2_months": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July"
+  ],
+  "faculties_accepted": [],
+  "module_restrictions": "Students are required to have some basic knowledge or record of course learning for some advanced-level courses.",
+  "visa_info": "Exchange students in China are required to apply for student visa (X2 visa for those intending to study in China for a period of no more than 180 days and X1 visa for those intending to study in China for a period of more than 180 days).",
+  "accommodations_info": {
+    "on_campus": {
+      "description": "ZJU reserve on-campus accommodation for exchange students near the campus where student specialty college/department is located. The cost is approximately RMB1,500 per person per month on twin sharing basis.",
+      "refundable_deposit": "A RMB800 refundable room deposit is required upon checking-in.",
+      "link": "https://www.zju.edu.cn/english/19598/list.htm"
+    },
+    "off_campus": {}
+  },
+  "cost_of_living": "Estimated cost range of S$5,000 to S$15,000 per semester, subject to the country and local conditions at the overseas Partner University during the period of exchange.",
+  "university_description": "Zhejiang University is located in Hangzhou, China and is considered one of China’s top higher education institutions. The university consists of 7 faculties which include 36 schools with various specializations.",
+  "university_address": "38 Zheda Rd, Xihu District, Hangzhou, Zhejiang, China, 310027",
+  "location_cost_of_living": "Living expenses in Hangzhou can be considered affordable compared to other major cities in China. Housing is a major expense, but other expenses such as food, transportation and entertainment are much more affordable.",
+  "location_weather": "Hangzhou has a subtropical monsoon humid climate. It has four distinct seasons, with a rainy season in early summer. Winters are cool and dry while summers are long, very hot and humid.",
+  "location_description": "Hangzhou is a city located in the eastern part of China. It is a popular tourist destination known for its scenic beauty, West Lake, Silk production as well as being one of China’s major technology hubs.",
+  "location_crime": "Hangzhou is considered to be a safe city with a low crime rate.",
+  "location_transportation": "The Hangzhou Metro railways and public bus systems are the main modes of public transportation, with buses being affordable and metro systems being efficient and cost-effective.",
+  "location_halal": "Halal food options are available in Hangzhou. It is important for students to inform the dining hall staff or the restaurant staff if they have any dietary restrictions.",
+  "location_vegetarian": "Vegetarian food options are available in Hangzhou. It is important for students to inform the dining hall staff or the restaurant staff if they have any dietary restrictions."
+}

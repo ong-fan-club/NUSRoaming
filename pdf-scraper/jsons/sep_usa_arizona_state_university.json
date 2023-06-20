@@ -1,0 +1,21 @@
+{
+  "university_name": "Arizona State University",
+  "university_website": ["http://www.asu.edu/", "https://mystudyabroad.asu.edu/international", "https://students.asu.edu/academic-calendar", "https://mystudyabroad.asu.edu/international/academic-info", "https://mystudyabroad.asu.edu/international/housing", "https://www.healthinsurancecare.org/student-health-insurance/asu-student-health-insurance-plan"],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": ["FASS", "FoS", "FoE", "SoC", "SDE", "USP"],
+  "module_restrictions": ["Online courses: ASU offers several courses that are 100% online; international exchange students are limited to enrolling in up to 3 credits of online courses per semester.", "Hybrid courses: ASU offers several courses that have both an in-person and online component. International exchange students are not restricted from taking hybrid classes.", "Business Courses", "Design School: most courses are restricted to exchange students, students may need to submit a portfolio if they are eligible for some design courses.", "Engineering: Engineering students cannot take any engineering capstone courses at ASU. In addition, some schools in engineering have further enrolment restrictions for engineering students.", "Journalism and Mass Communication: JMC courses are restricted, MCO (limited course offerings), COM, ENG, and FMS courses are available", "Kinesiology, Department of: seats are limited depending on the specific academic unit or course", "Law, College of: graduate-level courses are only available to graduate-level law students; undergraduate courses are available to all other exchange students", "Nursing and Health Innovation, College of: most courses restricted", "Master of Business Administration (MBA): prior approval required during exchange program nomination phase (limited course offerings)", "Technology and Innovation, College of: seats are limited depending on the specific academic unit or course"],
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process.",
+  "accommodations_info": "While international students can live where they would like, they are encouraged to live on campus in ASU residence halls. On-campus living provides more opportunities to make lasting friendships. On-campus housing is NOT guaranteed for exchange students, and is assigned on a first-come, first-served basis. Students should apply for on-campus housing immediately after they receive their official university acceptance for the best chance of receiving an on-campus assignment; however, being placed in university housing is never guaranteed. Students who are not successful in securing on-campus housing, or who do not want to live in the student dormitories, can search for off-campus housing in homestays or apartments. Most apartments require a contract between seven to twelve months, and are not furnished.",
+  "cost_of_living": "International exchange students do not pay ASU tuition, but must pay student initiated fees that are mandatory for ASU students. Approximately USD $350 per semester. More information on fees can be found here. Students should also budget for additional costs such as mandatory health insurance (see above), special course fees, books and supplies, housing, meals, local transportation, and personal expenses.",
+  "university_description": "Arizona State University (ASU) is a public research university with five campuses across the Phoenix metropolitan area. Founded in 1885, ASU has a student body of over 100,000, making it the largest public university by enrollment in the United States.",
+  "university_address": "Tempe, Arizona, USA",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

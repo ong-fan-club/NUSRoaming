@@ -1,0 +1,33 @@
+{
+  "university_name": "University of Auckland",
+  "university_website": [
+    "https://www.auckland.ac.nz/dates",
+    "http://www.auckland.ac.nz/studyabroad-exchange",
+    "https://covid19.govt.nz/",
+    "https://drive.google.com/file/d/1nCbxIo7ktmBbdE8XUTMGPODCpzlJS8wG/view",
+    "https://www.auckland.ac.nz/en/study/international-students/study-options-for-international-students/study-abroad-and-exchange/study-abroad-programme-options/download-study-abroad-brochures.html"
+  ],
+  "university_country": "New Zealand",
+  "sem1_months": [
+    "Early March",
+    "End June"
+  ],
+  "sem2_months": [
+    "End July",
+    "Mid November"
+  ],
+  "faculties_accepted": null,
+  "module_restrictions": null,
+  "visa_info": "Exchange students must apply to New Zealand Immigration for a student visa and obtain the visa before entering New Zealand. Please note that it is NOT possible for exchange students to travel to New Zealand on a visitor's visa and apply for a student permit upon arrival in New Zealand, even if you are a citizen of a country with which New Zealand has a visa waiver agreement. It is imperative that all exchange students get their student visa BEFORE travelling to New Zealand, as you may be refused a student permit if you apply from within New Zealand. Students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. This is to ensure that you can obtain your visa in time before the start of your exchange term. Your exchange at the host university depends on the clearance by the immigration of the host country. For more information on visa applications, please refer to https://www.immigration.govt.nz/new-zealand-visas/options/study",
+  "accommodations_info": "Exchange students are required to purchase a compulsory medical and travel insurance when studying in New Zealand. The University of Auckland’s  preferred insurance policy for International students is Studentsafe-University. The estimated cost is NZ$350 per semester. The Studentsafe insurance fee will be charged to students account automatically upon enrolment. It is recommended that you purchase a comprehensive travel insurance for the full duration of your stay abroad, including your personal travel within/outside Australia. Please review the insurance coverages to ensure that they meet your needs. Students can purchase additional health and/or travel insurance from their preferred agent.",
+  "cost_of_living": null,
+  "university_description": "The University of Auckland is the largest university in New Zealand, located in the country's largest city, Auckland. It is the highest-ranked university in the country, and was ranked 81st worldwide in the 2019/20 QS World University Rankings. It was established in 1883 as a constituent college of the University of New Zealand.",
+  "university_address": null,
+  "location_cost_of_living": "Auckland is considered more expensive than most other cities in New Zealand. The cost of living in Auckland varies depending on the student's lifestyle, but on average, students can expect to spend around NZD 15,000 - NZD 20,000 per year on accommodation, food, transportation, and other living expenses.",
+  "location_weather": "Auckland has a temperate, maritime climate, with warm, humid summers and mild, damp winters. The average temperature in summer (December/January/February) is around 24°C (75°F), while average winter (June/July/August) temperatures hover around 14°C (57°F).",
+  "location_description": "Auckland is the largest city in New Zealand and is located on the North Island. It is a vibrant and multicultural city that offers a range of cultural and outdoor activities. The city is known for its harbor, beaches, and parks, as well as its thriving arts and culture scene.",
+  "location_crime": "Auckland is generally considered a safe city, but like any urban area, it is important to remain aware of your surroundings and take basic precautions to avoid becoming a victim of crime.",
+  "location_transportation": "Auckland has an extensive public transportation system that includes buses, trains, and ferries. The Auckland Transport website provides information on routes, schedules, and fares.",
+  "location_halal": "There are a number of halal food options available in Auckland, particularly in areas with a high Muslim population like the suburb of Mt Roskill.",
+  "location_vegetarian": "Vegetarian food is readily available in Auckland, with many restaurants and cafes offering vegetarian and vegan options."
+}

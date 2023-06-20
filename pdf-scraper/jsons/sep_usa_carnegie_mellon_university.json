@@ -1,0 +1,33 @@
+{
+    "university_name": "Carnegie Mellon University",
+    "university_website": [
+      "http://www.cmu.edu/",
+      "https://www.cmu.edu/housing/",
+      "https://www.cmu.edu/sfs/tuition/undergraduate/index.html",
+      "https://www.cmu.edu/oie/foreign-students/maintain-legal-status/index.html",
+      "https://www.cmu.edu/police/"
+    ],
+    "university_country": "USA",
+    "sem1_months": ["August", "September", "October", "November", "December"],
+    "sem2_months": ["January", "February", "March", "April", "May"],
+    "faculties_accepted": ["FASS", "FoS", "FoE", "SoC"],
+    "module_restrictions": "Course restrictions may be limited as pre-requisites may be required. Maximum of two Business courses may be taken per semester. CMU's School of Design, within their College of Fine Arts, is unable to welcome students at this time due to special constraints. This may be possible in the future.",
+    "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university.",
+    "accommodations_info": "University housing is available both on and off campus to all first-year students 17 years of age or older. First-year students under the age of 17 are asked to contact the Office of Housing Services. Transfer student housing is subject to availability and transfer students should contact the Office of Housing Services for more information. Housing facilities, located on the campus proper, are conveniently close to the academic buildings. The Oakland Community Apartments are located within a 5-10 minute walking distance to campus. The Oakland Community Apartments are serviced by the University's shuttle service on a regular basis.",
+    "cost_of_living": {
+      "living_expenses": "$7,486",
+      "books_supplies_fees_misc": "$1,664",
+      "cmu_health_insurance": "$2,573",
+      "total": "$11,723"
+    },
+    "university_description": "Carnegie Mellon University is a private research university in Pittsburgh, Pennsylvania. It was founded in 1900 by Andrew Carnegie as the Carnegie Technical Schools. It became Carnegie Mellon University in 1967. The university's seven colleges and independent schools offer over 80 degree programs.",
+    "university_address": "Carnegie Mellon University, 5000 Forbes Ave, Pittsburgh, PA 15213, United States",
+    "location_cost_of_living": "Pittsburgh's cost of living is 8.6% lower than the national average, according to Bestplaces.net.",
+    "location_weather": "Pittsburgh has a four-season climate characterized by cold snowy winters, mild to warm rainy springs, hot and humid summers, and mild and pleasant autumns.",
+    "location_description": "Pittsburgh is a city in the state of Pennsylvania in the United States. It is known as the Steel City and for its many bridges. It is also home to many museums and cultural sites, including the Andy Warhol Museum and the Carnegie Museum of Natural History.",
+    "location_crime": "The crime rate in Pittsburgh is higher than the national average but has been decreasing in recent years.",
+    "location_transportation": "Pittsburgh's public transit system, known as the Port Authority of Allegheny County, includes buses, light rail (known as the T), and inclines that climb steep hillsides.",
+    "location_halal": "There are several halal food options in Pittsburgh including Salem's Halal Market & Grill, Pittsburgh Halal Food, and Nayaab Restaurant.",
+    "location_vegetarian": "There are many vegetarian and vegan options in Pittsburgh including apteka, B52 Cafe, and Onion Maiden."
+  }
+  

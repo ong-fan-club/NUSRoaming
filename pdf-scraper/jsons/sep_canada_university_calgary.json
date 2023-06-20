@@ -1,0 +1,35 @@
+{
+  "university_name": "University of Calgary",
+  "university_website": [
+    "http://ucalgary.ca/pubs/calendar/current/academic-schedule.html",
+    "https://www.ucalgary.ca/student-services/iss-old/resources/medical-insurance"
+  ],
+  "university_country": "Canada",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April"
+  ],
+  "faculties_accepted": "NUS students can go to any faculty, but the Faculty of Law is not recommended.",
+  "module_restrictions": "None mentioned.",
+  "visa_info": "Exchange students studying for less than 6 months are not required to apply for a study permit but may have to apply for an eTA or visitor visa depending on their country of citizenship.",
+  "accommodations_info": "None mentioned.",
+  "cost_of_living": "No information provided in the PDF",
+
+  "university_description": "The University of Calgary is a public research university located in Calgary, Alberta, Canada.",
+  "university_address": "2500 University Dr NW, Calgary, AB T2N 1N4, Canada",
+  "location_cost_of_living": "Calgary is the most expensive city in Alberta and one of the most expensive in Canada with a higher cost of living compared to other Canadian cities due to its booming economy.",
+  "location_weather": "The city has a humid continental climate with long cold winters and short but moderately warm summers.",
+  "location_description": "Calgary is a cosmopolitan city that blends Western fun and country roots in a mix of old and new. The city is known for hosting the annually held Calgary Stampede, a rodeo that draws visitors from all over the world.",
+  "location_crime": "Calgary is generally a safe city with a lower crime rate compared to other Canadian cities like Vancouver and Toronto.",
+  "location_transportation": "Public transportation in the city includes buses and a light rail transit system known as the C-Train. The city has a bike-share program called Lime as well.",
+  "location_halal": "There is a wide variety of halal food options available in Calgary.",
+  "location_vegetarian": "Calgary has a variety of vegetarian food options available."
+}

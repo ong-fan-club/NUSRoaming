@@ -1,0 +1,30 @@
+{
+"university_name": "Tohoku University",
+"university_website": ["http://www.tohoku.ac.jp/english/", "http://www.insc.tohoku.ac.jp/english/exchange/jype/", "http://www.insc.tohoku.ac.jp/english/exchange/ipla/", "http://www.insc.tohoku.ac.jp/english/exchange/deep-u/"],
+"university_country": "Japan",
+"sem1_months": ["Early April", "May", "June", "July", "Early August"],
+"sem2_months": ["Early October", "November", "December", "January", "Mid-February"],
+"faculties_accepted": ["Arts and Letters", "Education", "Law", "Economics", "Science", "Pharmaceutical Sciences", "Engineering", "Agriculture"],
+"module_restrictions": "Students are required to meet the pre-requisites (if applicable) in order to be enrolled into the respective courses.",
+"visa_info": "Tohoku U will apply for a Certificate of Eligibility on your behalf with the Japanese Ministry of Justice, and send it to you when issued. Exchange students must obtain a “College Student” visa for the duration of their study in Japan.",
+"accommodations_info": "Exchange students are required to live in the university dormitories. Tohoku University International House (1&2), University House Aobayama, and University House Sanjo (A/B/II/III) are available for exchange students. Dorm preferences are not guaranteed due to the limited number of rooms.",
+"cost_of_living": {
+  "Estimated Monthly Living Expenses": "JP¥90,000 - JP¥138,000",
+  "Breakdown of Costs": {
+    "Accommodation": "JP¥13,000 - JP¥40,000",
+    "Food": "JP¥40,000 - JP¥50,000",
+    "Transport": "JP¥5,000 - JP¥15,000",
+    "Insurance": "JP¥2,000 - JP¥3,000",
+    "Others (Entertainment, clothes)": "~ JP¥30,000"
+  }
+},
+"university_description": "Tohoku University is a Japanese national university located in Sendai, Miyagi, Japan. It is a highly-regarded university with a strong research focus.",
+"university_address": "2-1-1, Katahira, Aoba-ku, Sendai, Miyagi, Japan 980-8577",
+"location_cost_of_living": "Sendai is known to be relatively inexpensive compared to other major Japanese cities.",
+"location_weather": "Sendai has a humid subtropical climate characterized by hot, humid summers and cold winters with heavy snowfall.",
+"location_description": "Sendai is the largest city in the Tōhoku region of Japan and a transportation hub with numerous universities and scientific research institutes.",
+"location_crime": "Sendai is considered a safe city with a low crime rate.",
+"location_transportation": "Sendai has an extensive public transportation system that includes buses, subways, and trains.",
+"location_halal": "Halal food options are not widely available in Sendai.",
+"location_vegetarian": "Vegetarian food options may be limited, but are available at some restaurants." 
+}

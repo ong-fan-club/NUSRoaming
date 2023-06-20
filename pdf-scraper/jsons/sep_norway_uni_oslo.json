@@ -1,0 +1,27 @@
+{
+  "university_name": "University of Oslo",
+  "university_website": ["http://www.uio.no/english/studies/admission/exchange/bilateral/index.html", "https://www.uio.no/english/studies/courses/", "http://www.uio.no/english/student-life/services/housing/", "http://www.uio.no/english/student-life/budget/"],
+  "university_country": "Norway",
+  "sem1_months": ["Mid-August", "Mid-December"],
+  "sem2_months": ["Early January", "Mid-June"],
+  "faculties_accepted": ["Humanities", "Social Sciences", "Educational Sciences", "Mathematics and Natural Sciences", "Theology", "Law"],
+  "module_restrictions": "Courses within Nutrition and Health Sciences, Geoscience, courses at the University Centre in Svalbard and Psychology might have restrictions and prerequisites may apply. Courses with the codes ENG and NORAM tend to get fully booked quite fast, and Oslo degree-seeking students who have these courses as compulsory in their programme are given priority. Please check the list of courses which are discontinued at Oslo: https://www.uio.no/english/studies/courses/all/?filter.level=bachelor&filter.semester=v19&filter.status=discontinued",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application process could take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country. Non-EU/EEA-citizens must apply for a visa and residence permit immediately after they have received their Letter of Admission from the University of Oslo. All Non-EU/EEA students are advised to apply for a residence permit from home. Details on how to apply can be found on http://www.uio.no/english/studies/admission/exchange/application.html",
+  "accommodations_info": "Prices for a single, furnished room vary from approximately NOK 2,200 to NOK 4,200 a month. International students are generally offered accommodation in the lower price range, where they share bathrooms (2-5 students) and kitchens (4-6 students). However, they may apply for transfer at a later date if they should wish to change their accommodation within the same category. Please note that family apartments or flats for students who wish to bring along their spouse or family cannot be guaranteed by SiO or the International Education Office. Students who wish to bring along their spouse or family have to find an apartment on the open market.",
+  "cost_of_living": {
+    "accommodation": "NOK3500",
+    "transport": "NOK600",
+    "food": "NOK3000",
+    "others": "NOK2400",
+    "monthly_estimate": "NOK 10,500"
+  },
+  "university_description": "The University of Oslo is the oldest and largest university in Norway, located in the Norwegian capital of Oslo. It was founded in 1811 as The Royal Frederick University and is now a leading public research university.",
+  "university_address": "Universitetet i Oslo, Problemveien 7, 0315 Oslo, Norway",
+  "location_cost_of_living": "Oslo is known to be an expensive city. The cost of living is high, with rent, food, and transportation being particularly expensive.",
+  "location_weather": "Oslo has a continental climate with warm summers and cold winters. The average temperature in August ranges from 12°C to 20°C, and in January it ranges from -6°C to -1°C.",
+  "location_description": "Oslo is the capital city of Norway and a vibrant cultural hub, known for its beautiful fjords, museums, parks, and architecture. It is a modern city with a rich history.",
+  "location_crime": "Oslo is generally considered a safe city, with a low crime rate. However, tourists and international students should still take normal precautions to avoid theft and pickpocketing.",
+  "location_transportation": "Oslo has an extensive public transportation system, including trams, buses, and subways. Students can purchase a discount travel pass to make transportation more affordable.",
+  "location_halal": "There are many halal food options available in Oslo, including restaurants and grocery stores.",
+  "location_vegetarian": "There are also many vegetarian food options available in Oslo, including restaurants and grocery stores."
+}

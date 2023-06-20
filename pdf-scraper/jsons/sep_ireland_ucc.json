@@ -1,0 +1,43 @@
+{
+   "university_name": "University College Cork",
+   "university_website": [
+      "https://www.ucc.ie/en/international/studyatucc/visitingusandnoneustudents/",
+      "https://www.ucc.ie/en/international/studentinfohub/beforeyouarrive/visaandimmigration/",
+      "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+      "https://www.ucc.ie/en/international/studentinfohub/beforeyouarrive/healthinsurance/",
+      "https://www.ucc.ie/en/international/studentinfohub/beforeyouarrive/costofliving/"
+   ],
+   "university_country": "Ireland",
+   "sem1_months": [
+      "September",
+      "October",
+      "November",
+      "December"
+   ],
+   "sem2_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+   ],
+   "faculties_accepted": [
+      "College of Arts, Celtic Studies, Social Sciences",
+      "College of Business and Law (Law modules are not available to visiting students)",
+      "College of Science, Engineering and Food Science",
+      "College of Medicine and Health (a small number of modules available as outlined in the Visiting Student Book of Modules)"
+   ],
+   "module_restrictions": "This exchange is for students from FASS and SoC (subject to places available each semester). Book of modules for visiting students can be accessed via: https://www.ucc.ie/admin/registrar/visiting/",
+   "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. The visa application process could take up to 2 months to process. Your exchange at the host university depends on clearance by the immigration of the host country. Please check if you need a visa here: https://www.irishimmigration.ie/wp-content/uploads/2021/07/Immigration-Service-Delivery-Visa-and-Non-Visa-Required-Countries.pdf All students who do NOT hold an EU passport must register with the Irish Naturalisation and Immigration Service (INIS) after arrival in Ireland. Further information on the requirements to register can be found on the INIS website: https://www.irishimmigration.ie/coming-to-study-in-ireland/before-and-after-you-arrive/what-do-i-need-to-do-after-arriving/",
+   "accommodations_info": "UCC on-campus accommodation is not guaranteed. More information about on-campus accommodation will be sent to students once accepted for the exchange by UCC.",
+   "cost_of_living": "Information on cost of living can be found at: https://www.ucc.ie/en/international/studentinfohub/beforeyouarrive/costofliving/",
+   "university_description": "University College Cork (UCC) was established in 1845 and is one of the oldest universities in Ireland. It is a leading research-intensive university that offers a wide range of undergraduate and postgraduate programmes across various faculties. UCC is internationally recognized for its research in areas such as science, engineering, food science, and health sciences. The university is known for its international outlook and has established partnerships with institutions around the world.",
+   "university_address": "University College Cork, College Road, Cork, T12 YN60, Ireland",
+   "location_cost_of_living": "Cork is generally considered to be an expensive city for students, with cost of living higher than the national average in Ireland. However, this can vary depending on your lifestyle and accommodation options. In general, accommodation can be a major expense for students in Cork.",
+   "location_weather": "Cork experiences a temperate oceanic climate, with mild winters and cool summers. Temperatures in winter typically range from 4-10 °C (39-50 °F), while temperatures in summer range from 15-20 °C (59-68 °F). Cork also receives a moderate amount of rain throughout the year, with the wettest months being October and November.",
+   "location_description": "Cork is a city located on the south coast of Ireland. It is the second largest city in the Republic of Ireland after Dublin, and is known for its rich history, vibrant culture, and beautiful natural scenery. Cork has a thriving arts and music scene, and is home to many historic landmarks and museums. The city is also located close to several natural attractions, including beaches, parks, and hiking trails.",
+   "location_crime": "Cork is generally a safe city, but it is still important to take precautions and stay aware of your surroundings. Petty theft and pickpocketing can occur in busy tourist areas, so it is advisable to keep valuables secure and avoid carrying large amounts of cash. The Irish police force, known as the Garda Síochána, are responsible for maintaining law and order in Cork and throughout the country.",
+   "location_transportation": "Cork has a good public transportation system that includes buses, trains, and taxis. The bus network is operated by Bus Éireann, and provides service to most areas of the city and surrounding countryside. The train network is operated by Iarnród Éireann, and connects Cork with other major cities in Ireland. There are also several taxi companies operating in Cork, and Uber is available in the city.",
+   "location_halal": "There are several halal food options available in Cork, including restaurants and grocery stores. Some popular halal restaurants in Cork include Sultan Restaurant, Zaytoon, and Spicy Nights. There are also several halal meat shops in the city, including Cork Halal Meat and Kaheen's Halal Butchers.",
+   "location_vegetarian": "Cork has a variety of vegetarian food options available, including restaurants, cafes, and grocery stores. Some popular vegetarian restaurants in Cork include Café Paradiso, Quay Co-op, and The Rocket Man. Most restaurants in Cork also offer vegetarian options on their menus." 
+}

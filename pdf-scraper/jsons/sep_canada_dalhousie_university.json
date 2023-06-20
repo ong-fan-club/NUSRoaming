@@ -1,0 +1,35 @@
+{
+  "university_name": "Dalhousie University",
+  "university_website": [
+    "https://www.dal.ca/academics/important_dates.html",
+    "https://www.dal.ca/campus_life/health-and-wellness/my-insurance-plan.html",
+    "https://www.dal.ca/campus_life/international-centre/inbound_exchange.html"
+  ],
+  "university_country": "Canada",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April"
+  ],
+  "faculties_accepted": "N/A",
+  "module_restrictions": "N/A",
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": "N/A",
+  "cost_of_living": "N/A",
+  "university_description": "Dalhousie University is a public research university located in Nova Scotia, Canada.",
+  "university_address": "6299 South Street, Halifax, Nova Scotia, B3H 4R2",
+  "location_cost_of_living": "Halifax is known for being one of the least expensive cities in Canada, with a relatively low cost of living compared to other major cities like Toronto and Vancouver.",
+  "location_weather": "Halifax tends to have a mild climate with warm summers and cold winters, with moderate rainfall throughout the year.",
+  "location_description": "Halifax is the capital city of the province of Nova Scotia in Canada. It is known for its vibrant culture and history, and is home to many universities and colleges.",
+  "location_crime": "Halifax has a relatively low crime rate compared to other major Canadian cities, though it's always important to stay aware of your surroundings and take appropriate safety precautions.",
+  "location_transportation": "Halifax has a comprehensive public transportation system, including buses, ferries, and a light rail network.",
+  "location_halal": "Halifax has a small but growing halal food scene, with a handful of restaurants and specialty markets that cater to halal dietary restrictions.",
+  "location_vegetarian": "Halifax is known for having a robust vegetarian and vegan food scene, with many restaurants and cafes that offer plant-based options."
+}

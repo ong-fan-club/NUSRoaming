@@ -1,0 +1,21 @@
+{
+  "university_name": "University of Auckland",
+  "university_website": ["https://www.auckland.ac.nz/dates", "http://www.auckland.ac.nz/studyabroad-exchange", "https://covid19.govt.nz/", "https://drive.google.com/file/d/1nCbxIo7ktmBbdE8XUTMGPODCpzlJS8wG/view", "https://www.auckland.ac.nz/en/study/international-students/study-options-for-international-students/study-abroad-and-exchange/study-abroad-programme-options/download-study-abroad-brochures.html"],
+  "university_country": "New Zealand",
+  "sem1_months": ["March", "April", "May", "June"],
+  "sem2_months": ["July", "August", "September", "October", "November"],
+  "faculties_accepted": "N/A",
+  "module_restrictions": "N/A",
+  "visa_info": "Exchange students must apply to New Zealand Immigration for a student visa and obtain the visa before entering New Zealand. Please note that it is NOT possible for exchange students to travel to New Zealand on a visitor's visa and apply for a student permit upon arrival in New Zealand, even if you are a citizen of a country with which New Zealand has a visa waiver agreement. It is imperative that all exchange students get their student visa BEFORE travelling to New Zealand, as you may be refused a student permit if you apply from within New Zealand. Students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. This is to ensure that you can obtain your visa in time before the start of your exchange term. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "Exchange students are required to purchase a compulsory medical and travel insurance when studying in New Zealand. The University of Auckland’s preferred insurance policy for International students is Studentsafe-University. The estimated cost is NZ$350 per semester. The Studentsafe insurance fee will be charged to students account automatically upon enrolment. It is recommended that you purchase a comprehensive travel insurance for the full duration of your stay abroad, including your personal travel within/outside Australia. Please review the insurance coverages to ensure that they meet your needs. Students can purchase additional health and/or travel insurance from their preferred agent.",
+  "cost_of_living": "N/A",
+  "university_description": "The University of Auckland is the largest university in New Zealand, located in the country's largest city, Auckland. It is the highest-ranked New Zealand university in the QS World University Rankings.",
+  "university_address": "The University of Auckland, Auckland, New Zealand",
+  "location_cost_of_living": "The cost of living in Auckland is relatively high compared to other cities in New Zealand.",
+  "location_weather": "Auckland has a subtropical climate, with mild, damp winters and warm, humid summers.",
+  "location_description": "Auckland is the largest city in New Zealand, known for its vibrant cultural scene and natural beauty. The city is home to many museums, galleries, and theaters, as well as numerous parks and beaches.",
+  "location_crime": "Auckland has a moderate crime rate, with most crimes being non-violent property crimes.",
+  "location_transportation": "Auckland has a well-developed transportation system, including buses, trains, and ferries.",
+  "location_halal": "There are many halal food options available in Auckland.",
+  "location_vegetarian": "There are many vegetarian food options available in Auckland."
+}

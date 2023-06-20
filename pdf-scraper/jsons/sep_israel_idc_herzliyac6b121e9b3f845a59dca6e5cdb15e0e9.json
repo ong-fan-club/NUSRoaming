@@ -1,0 +1,41 @@
+{
+   "university_name": "Reichman University",
+   "university_website": ["https://www.idc.ac.il/en/pages/home.aspx", "https://www.idc.ac.il/en/students/pages/calendar.aspx", "https://www.idc.ac.il/en/students/pages/hrs.aspx", "https://www.idc.ac.il/en/schools/rris/pages/health-insurance.aspx"],
+   "university_country": "Israel",
+   "sem1_months": ["Early October", "November", "December", "January"],
+   "sem2_months": ["Late February", "March", "April", "May", "June"],
+   "faculties_accepted": ["BiZ", "FASS", "SoC"],
+   "module_restrictions": ["Zell Entrepreneurship courses and Argov Fellowship courses are closed to students without expressed permission from the director of the programs, respectively.", "Public Diplomacy courses 422,4691, 4516 are not available to exchange students", "Communications Workshops and Seminars are not open to students outside of the School of Communications.", "Courses with Pre-requisites: Students may not take these courses without the required pre-requisites or permission from the instructor."],
+   "visa_info": "All students must obtain a MULTIPLE ENTRY A/2 STUDENT VISA prior to their arrival to Israel through the closest Israeli Embassy or Consulate.",
+   "accommodations_info": {
+      "university_accommodation": "Housing is available at Reichman University but is not guaranteed. Incoming students will have the option of enjoying a high standard of living offered in the 500 new, fully equipped residential units located in two 13-story towers on campus. Please note that room in the dormitories for exchange students are limited and placement is subject to availability on a first-come-first-served basis. More information is available online here.",
+      "private_accommodation": "Herzliya and Tel Aviv offer other great housing alternatives. Students may choose to look independently for other non-university related living arrangements."
+   },
+   "cost_of_living": [
+      {
+         "expense_type": "Housing (including utilities)",
+         "amount": "$3,000 - $3,500"
+      },
+      {
+         "expense_type": "Food/Meals",
+         "amount": "$1,400 – $1,900"
+      },
+      {
+         "expense_type": "Transportation",
+         "amount": "$400"
+      },
+      {
+         "expense_type": "Personal Expenses/leisure",
+         "amount": "$650-$750"
+      }
+   ],
+   "university_description": "",
+   "university_address": "",
+   "location_cost_of_living": "",
+   "location_weather": "",
+   "location_description": "",
+   "location_crime": "",
+   "location_transportation": "",
+   "location_halal": "",
+   "location_vegetarian": ""
+}

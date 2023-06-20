@@ -1,0 +1,27 @@
+{
+    "university_name": "University of Manchester",
+    "university_website": ["https://www.manchester.ac.uk/study/international/study-abroad-programmes/non-eu/", "http://www.manchester.ac.uk/international/studyabroadandexchanges/exchange/keydates/"],
+    "university_country": "United Kingdom",
+    "sem1_months": ["Mid-September", "late January"],
+    "sem2_months": ["Late January", "early June"],
+    "faculties_accepted": ["Faculty of Engineering & Physical Sciences (excluding School of Electrical and Electronic Engineering)", "Faculty of Humanities", "School of Biological Sciences (within the Faculty of Biology, Medicine and Health)", "Division of Psychology and Mental Health (within the School of Health Sciences)"],
+    "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. University of Manchester is not suitable for Architecture students. Following disciplines are not available to Study Abroad students: Dentistry, Pharmacy, Medicine, Midwifery.",
+    "visa_info": "For less than 6 months, you can request entry to the UK as a Standard Visitor when you arrive. For a full-year exchange in Manchester, you need a Student Visa. Please check the latest UK visa requirements before leaving.",
+    "accommodations_info": {
+        "university_accommodation": "Study Abroad/Exchange students who go to Manchester for a year as part of their degree are guaranteed a room in University-owned accommodation for their time in Manchester. Study Abroad/Exchange students on single semester exchange at Manchester are not guaranteed accommodation but are almost always allocated University accommodation under normal circumstances.",
+        "private_accommodation": "Private accommodation can be more expensive than University accommodation. However, some very good deals can still be found in Manchester. If you choose to stay in private accommodation, Manchester has its own service, Manchester Student Homes, based on campus to help and advise students on finding private accommodation."
+    },
+    "cost_of_living": {
+        "estimated_monthly_expenses": "Detailed breakdown of living costs is available at http://www.manchester.ac.uk/study/international/finance/living-costs/",
+        "emergency_numbers": "+44 161 306 9966"
+    },
+    "university_description": "The University of Manchester is a public research university in Manchester, England, formed in 2004 by the merger of the University of Manchester Institute of Science and Technology and the Victoria University of Manchester.",
+    "university_address": null,
+    "location_cost_of_living": null,
+    "location_weather": null,
+    "location_description": null,
+    "location_crime": null,
+    "location_transportation": null,
+    "location_halal": null,
+    "location_vegetarian": null
+}

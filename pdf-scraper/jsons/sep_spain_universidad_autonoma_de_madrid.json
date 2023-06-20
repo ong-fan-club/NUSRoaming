@@ -1,0 +1,96 @@
+{
+  "university_name": "Universidad Autónoma de Madrid",
+  "university_website": [
+    "https://www.uam.es/uam/inicio",
+    "https://www.uam.es/uam/estudios/grado/matricula/calendario",
+    "https://www.uam.es/uam/en/international/incoming/estudiantes-intercambio",
+    "https://www.uam.es/uam/media/doc/1606850857614/uam-english-courses.pdf",
+    "https://www.uam.es/uam/grado",
+    "https://uam.es/CentroEstudiosPosgrado/Home/1446755956185.htm?language=es_ES",
+    "https://www.uam.es/uam/media/doc/1606851974487/uam-factsheet-en.pdf",
+    "https://www.uam.es/uam/media/doc/1606850857450/restricciones-de-matricula-estudiantes-entrantes-de-intercambio.pdf",
+    "https://www.uam.es/uam/en/internacional/alojamiento",
+    "http://www.fotocasa.es/",
+    "http://www.segundamano.es/",
+    "https://www.uam.es/uam/en/internacional/visado-nie-tie",
+    "http://www.exteriores.gob.es/Embajadas/SINGAPUR/en/Embajada/ServiciosConsulares/Pages/Visas.aspx",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://www.uam.es/uam/en/internacional/seguro-medico",
+    "https://www.uam.es/uam/en/international/incoming/estudiantes/actualidad"
+  ],
+  "university_country": "Spain",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December",
+    "January"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June"
+  ],
+  "faculties_accepted": [
+    "Faculty of Philosophy and Liberal Arts",
+    "Faculty of Law",
+    "Faculty of Economical Science and Business Management",
+    "Faculty of Sciences",
+    "Faculty of Psychology",
+    "Superior Polytechnic School"
+  ],
+  "module_restrictions": "First year courses are not open to exchange students. Some of the courses are extremely popular (economics, philosophy), places will be assigned in order of application. Students must enroll a minimum of 2 courses worth 6 ECTS each for a semester stay. If they would like to read more than 2 courses, at least 51% of the courses selected must belong to one faculty/school where you have been accepted (for example, 3 courses from 3 different schools will not be accepted, 2 courses must belong to one school, and the 3rd course can be taken at a different school).",
+  "visa_info": "Students studying in Spain for longer than 3 months are required to obtain a student visa before travelling to Spain. Contact your local embassy for information. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application process could take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": {
+    "university_accommodation": "UAM does not provide accommodation for our incoming students. However, we could help you with some information about lodging in Madrid: In the Campus of Cantoblanco you have the option of staying at Residencia Universitaria Erasmo (managed privately) The UAM also offers housing with the Colegio Mayor Juan Luis Vives, which is located in Plaza de Castilla, which allows an easy commute to the campus.",
+    "private_accommodation": [
+      {
+        "name": "ALUNI",
+        "description": "For those students who wish to live in the center of Madrid, in shared flats with students of all nationalities or with a Spanish family. It also has weekly schedules of cultural activities for all students. All arrangements are done through ALUNI. Administration fees are 125 euros, but because you’re a student at the UAM you enjoy a 20 % discount.",
+        "website": "https://www.aluni.net/"
+      },
+      {
+        "name": "UNIPLACES",
+        "description": "Is the largest student accommodation platform in Europe operating in more than 40 cities. It is fast, simple and safe. Furthermore, we have a 25% discount off our service fee for being a student in the UAM.",
+        "website": "https://www.uniplaces.com/"
+      },
+      {
+        "name": "Residencia de estudiantes Ciudad Escolar",
+        "description": "Mixed",
+        "website": ""
+      },
+      {
+        "name": "Masterhome residencia",
+        "description": "",
+        "website": ""
+      },
+      {
+        "name": "www.nexoresidencias.com",
+        "description": "",
+        "website": "https://www.nexoresidencias.com/"
+      }
+    ]
+  },
+  "cost_of_living": {
+    "estimated_monthly_living_expenses": {
+      "accommodation": "€470 - €570 + utilities",
+      "food": "€350 - €750",
+      "transport": "€60 - €70",
+      "insurance": "€100 - €150",
+      "others": "€100 - €200"
+    },
+    "monthly_estimate": "€1,080 - €1,740"
+  },
+  "university_description": "",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

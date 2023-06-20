@@ -1,0 +1,21 @@
+{
+   "university_name": "University of Alaska Fairbanks",
+   "university_website": ["https://www.uaf.edu/", "https://www.uaf.edu/calendars/academic/", "http://catalog.uaf.edu/overview/colleges-schools/", "http://catalog.uaf.edu/programs/", "http://www.uaf.edu/facts/#college", "http://www.uaf.edu/reslife/rates/", "https://myportal.nus.edu.sg/studentportal/student-insurance/all/", "https://www.uaf.edu/oip/handbook/", "https://www.uaf.edu/police/"],
+   "university_country": "USA",
+   "sem1_months": ["August", "September", "October", "November", "December"],
+   "sem2_months": ["January", "February", "March", "April", "May"],
+   "faculties_accepted": ["FASS", "FoS", "FoE"],
+   "module_restrictions": "Students must meet prerequisites of courses",
+   "visa_info": "Students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university",
+   "accommodations_info": "All on-campus housing (except the Sustainable Village) requires the purchase of a meal plan.",
+   "cost_of_living": "Students should be prepared to pay approximately USD $2,500 in mandatory fees each semester.",
+   "university_description": "The University of Alaska Fairbanks (UAF) is a public research university in Fairbanks, Alaska.",
+   "university_address": "505 South Chandalar Drive, Fairbanks, Alaska, USA",
+   "location_cost_of_living": "The cost of living in Fairbanks, Alaska is generally higher than the national average due to the remote location of the city and harsh winters.",
+   "location_weather": "Fairbanks has a subarctic climate with long, cold winters and short, warm summers.",
+   "location_description": "Fairbanks is a small city located in the interior of Alaska, known for its outdoor recreational opportunities and proximity to the Arctic Circle.",
+   "location_crime": "Fairbanks has a relatively high crime rate compared to other cities in Alaska.",
+   "location_transportation": "Fairbanks has limited public transportation options, and most people rely on personal vehicles or walking/biking to get around.",
+   "location_halal": "Halal food options in Fairbanks are limited.",
+   "location_vegetarian": "Vegetarian food options are available in Fairbanks, but may be limited compared to larger cities."
+}

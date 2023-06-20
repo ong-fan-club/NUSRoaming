@@ -1,0 +1,27 @@
+{
+  "university_name": "Hamburg University of Technology",
+  "university_website": ["https://www.tuhh.de/alt/tuhh/international/incoming-international-students/exchange-students.html", "https://www.tuhh.de/alt/tuhh/education/students/organisational-details-about-your-studies/dates-respites.html"],
+  "university_country": "Germany",
+  "sem1_months": ["October", "November", "December", "January", "February"],
+  "sem2_months": ["April", "May", "June", "July", "August", "September"],
+  "faculties_accepted": ["Civil Engineering", "Electrical Engineering", "Mechanical Engineering", "Chemical Engineering", "Mathematics", "Computer Science"],
+  "module_restrictions": "Most modules in TUHH are taught in German, limited undergraduate modules are taught in English. More master level modules are taught in English.",
+  "visa_info": "EU citizens and citizens from select countries do not require a visa to enter Germany, all other students must apply for a visa. Students are advised to open a German bank account and apply for the visa as soon as possible.",
+  "accommodations_info": "Student accommodation in Hamburg is limited and application should be made as early as possible. The deadline for accommodation application is June 15 for semester 1, and December 15 for semester 2. More information is available at https://www.tuhh.de/alt/tuhh/international/incoming-international-students/accommodation-office.html.",
+  "cost_of_living": {
+    "accommodation": "€350 - €500",
+    "food": "€200",
+    "insurance": "€90",
+    "others": "€200",
+    "total": "€840 - €990"
+  },
+  "university_description": "Hamburg University of Technology is a research university focusing on engineering and its application in the natural and social sciences.",
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": "Hamburg is the second largest city in Germany and is a major cultural and economic center of the country. It is home to many museums, galleries, and theaters, and is known for its architecture and urban design.",
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

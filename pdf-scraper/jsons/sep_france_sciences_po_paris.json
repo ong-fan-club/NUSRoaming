@@ -1,0 +1,21 @@
+{
+"university_name": "Sciences Po Paris",
+"university_website": ["http://www.sciencespo.fr/en", "http://formation.sciences-po.fr/en/contenu/university-calendar", "http://college.sciences-po.fr/siteparis/etudiants-echange", "http://college.sciences-po.fr/siteparis/course-catalogue", "http://formation.sciences-po.fr/node/219", "http://www.sciencespo.fr/campus-du-havre/en/content/housing", "http://college.sciences-po.fr/sitementon/en/node/253", "http://www.sciencespo.fr/campus-de-reims/en/content/housing-reims", "https://www.sciencespo.fr/students/en/living/housing", "https://www.ahloet.fr/en/"],
+"university_country": "France",
+"sem1_months": ["September", "October", "November", "December"],
+"sem2_months": ["January", "February", "March", "April", "May"],
+"faculties_accepted": ["International Relations", "Economics", "Political Science", "History", "Journalism", "European Studies", "Law", "Humanities", "Sociology"],
+"module_restrictions": "Students who wish to take master level classes must request permission prior to arrival.",
+"visa_info": "All students coming to study at Sciences Po for longer than 3 months who come from a non-EU member state must apply for a residence permit in order to reside in France. All students who wish to study in France must follow the Campus France procedure on Etudes en France online platform before applying for a visa.",
+"accommodations_info": "Sciences Po does not offer on-campus housing. Students are responsible to find accommodation on their own and are encouraged to start searching early. Private accommodation options are available, as well as a university service to help students find accommodation in France.",
+"cost_of_living": {"Accommodation": "€600", "Food": "€200-€250", "Transport": "€35-€70", "Others (Entertainment, clothes)": "€100-€120", "Monthly Estimate": "€935-€1,045"},
+"university_description": "Sciences Po Paris is a public research institution founded in 1872 as a private school to provide a new approach to social science education. It has since become a leading institution in the social sciences in France and specializes in fields such as international relations, political science, and economics.",
+"university_address": null,
+"location_cost_of_living": null,
+"location_weather": null,
+"location_description": "Paris is the capital city of France and is known for its architecture, art, and fashion.",
+"location_crime": null,
+"location_transportation": null,
+"location_halal": null,
+"location_vegetarian": null
+}

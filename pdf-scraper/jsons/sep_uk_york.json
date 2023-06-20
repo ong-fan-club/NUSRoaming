@@ -1,0 +1,21 @@
+{
+"university_name": "The University of York",
+"university_website": ["http://www.york.ac.uk/study/international/visiting-students/","https://www.york.ac.uk/"],
+"university_country": "United Kingdom",
+"sem1_months": ["Late September", "October", "November", "December", "Mid-January"],
+"sem2_months": ["Mid-January", "February", "March", "April", "May", "Mid-June"],
+"faculties_accepted": ["Faculty of Arts & Humanities", "Faculty of Science", "Faculty of Social Sciences"],
+"module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. Students should take same level courses from the same department to avoid clashing timetable.",
+"visa_info": "Exchange students on a full-year exchange need a student visa. Students on a semester exchange can request entry to the UK as a Standard Visitor.",
+"accommodations_info": {"University Accommodation": "Visiting students are guaranteed accommodation if they have applied for their course place by the stipulated deadline. They can choose between an en-suite single bedroom or a room with a washbasin and share a common bathroom. They can cook in a shared kitchen or eat in the dining rooms or snack-bars on campus. Each college has common rooms, a bar, a television room, laundry, telephone facilities and a reception service.","Private Accommodation": "York has a ready supply of good quality, competitively-priced private accommodation close to the University."},
+"cost_of_living": "Detailed breakdown of living costs is available at https://www.york.ac.uk/students/housing-and-money/financial-support/budgeting/budgets/.",
+"university_description": "The University of York is a research-intensive university located in York, England. It is a member of the Russell Group and is consistently ranked as one of the top 20 universities in the UK.",
+"university_address": "University of York, Heslington, York YO10 5DD, UK",
+"location_cost_of_living": "York is an expensive city to live in, with accommodation and groceries being particularly pricey. However, dining out and transportation costs are relatively reasonable.",
+"location_weather": "York has a temperate maritime climate, with cool summers and mild winters. Rainfall is evenly distributed throughout the year.",
+"location_description": "York is a historic city in North Yorkshire, England, known for its well-preserved medieval walls and buildings, as well as its Viking heritage.",
+"location_crime": "Crime rates in York are lower than the national average, and the city is generally considered safe.",
+"location_transportation": "York has an extensive public transport network, including buses and trains. Bicycles are a popular mode of transport in the city.",
+"location_halal": "There are many halal food options available in York, including several restaurants and grocery stores.",
+"location_vegetarian": "Vegetarian food options are widely available in York, with many restaurants and cafes offering vegetarian and vegan dishes." 
+}

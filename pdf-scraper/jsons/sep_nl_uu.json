@@ -1,0 +1,21 @@
+{
+"university_name": "Utrecht University",
+"university_website": ["https://www.uu.nl/en/", "https://www.ucu.nl/", "https://www.umcutrecht.nl/en/"],
+"university_country": "The Netherlands",
+"sem1_months": ["August", "September", "October", "November", "December", "January"],
+"sem2_months": ["January", "February", "March", "April", "May", "June"],
+"faculties_accepted": ["All faculties except Business and Design & Environment for UU", "USP only for UCU", "Science only (Biomedical/Pharmaceutical Science) for UMCU"],
+"module_restrictions": "You can only read courses from a maximum of two faculties. At least half of your courses should be at the main UU faculty of your choice. Bachelor-level courses are widely available in English. Access to graduate courses is assessed on a case-by-case basis. Only courses in Biomedical Sciences are available to exchange students for UMCU.",
+"visa_info": "Information about immigration-related issues is available at: https://www.uu.nl/en/education/exchange-and-visiting-students/arriving-and-living/practical-matters. Additionally, you can contact the Dutch embassy in Singapore if you have a specific enquiry that the host university is unable to address.", 
+"accommodations_info": "Information about student housing is available at: https://www.uu.nl/en/education/exchange-and-visiting-students/arriving-and-living/finding-accommodation", 
+"cost_of_living": "The Netherlands uses the Euro for its currency. Information about the cost of living and estimated expenses in Utrecht is available at: https://www.uu.nl/en/education/exchange-and-visiting-students/arriving-and-living/costs-of-living",
+"university_description": "Utrecht University is a public research university located in Utrecht, Netherlands. Established in 1636, it is one of the oldest universities in the Netherlands.",
+"university_address": "Heidelberglaan 8, 3584 CS Utrecht, Netherlands",
+"location_cost_of_living": "Utrecht is known to be a relatively expensive city in the Netherlands. However, it is still cheaper compared to cities like Amsterdam and Rotterdam.",
+"location_weather": "Utrecht experiences a moderate maritime climate with mild winters and cool summers, but also with occasional cold spells as well as heat waves.",
+"location_description": "Utrecht is a charming medieval city located in the central Netherlands.",
+"location_crime": "Utrecht is generally a safe city, but petty crimes such as pickpocketing and bike theft can occur. It is always advisable to be cautious and aware of your surroundings.",
+"location_transportation": "Utrecht has well-maintained and efficient public transportation with buses, trams, and trains. Bikes are also a popular mode of transportation in the city.",
+"location_halal": "Halal food options are available in Utrecht.",
+"location_vegetarian": "Vegetarian food options are available in Utrecht."
+}

@@ -1,0 +1,56 @@
+{
+  "university_name": "Rheinische Friedrich-Wilhelms-Universität Bonn (University of Bonn)",
+  "university_website": [
+    "www.studyabroad.uni-bonn.de",
+    "https://www.uni-bonn.de/studying/international-students/study-abroad-in-bonn/jyp/academic-calendar",
+    "https://www.uni-bonn.de/studying/international-students/short-term-junior-year-and-exchange-programs/jyp/courses/university-courses",
+    "www.basis.uni-bonn.de",
+    "www.studentenwerk-bonn.de/wohnen/"
+  ],
+  "university_country": "Germany",
+  "sem1_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February"
+  ],
+  "sem2_months": [
+    "April",
+    "May",
+    "June",
+    "July"
+  ],
+  "faculties_accepted": [
+    "FASS - History",
+    "FASS - Philosophy",
+    "FASS - Global Studies",
+    "FASS - Political Science",
+    "FASS - English Literature",
+    "FoS - Mathematics",
+    "FoS - Chemistry",
+    "FoS - Physics",
+    "FoS - Life Sciences"
+  ],
+  "module_restrictions": "Modules offered by Bonn’s medical school is not open to exchange students.",
+  "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States. However, after entering Germany, you will have to apply for a residence permit at the local 'Auslaenderbehörde' (Immigration Office) if you are staying for more than three months. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country.",
+  "accommodations_info": "Students will be housed in one of several student dorms, which are located in different areas of town. All dorms are easily accessible either by foot or by public transportation. All rooms are single rooms. Some are equipped with a kitchenette and a private bathroom while others have shared facilities. Rent is about €200-350 per month. Meals are not included.",
+  "cost_of_living": {
+    "Monthly Estimate": "€665 - €870",
+    "Breakdown of Costs": {
+      "Accommodation (student form)": "€200- €400",
+      "Insurance": "€90 - €95",
+      "Food": "€165",
+      "Others (Books, entertainment etc.)": "€210"
+    }
+  },
+  "university_description": "",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

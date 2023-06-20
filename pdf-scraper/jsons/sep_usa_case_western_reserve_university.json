@@ -1,0 +1,36 @@
+{
+    "university_name": "Case Western Reserve University",
+    "university_website": [
+        "https://case.edu/international/international-student-services/exchange-programs",
+        "https://studyabroad.case.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10839"
+    ],
+    "university_country": "USA",
+    "sem1_months": ["August", "September", "October", "November", "December"],
+    "sem2_months": ["January", "February", "March", "April", "May"],
+    "faculties_accepted": ["Arts & Sciences", "Engineering", "Management"],
+    "module_restrictions": "400 level courses and above are PG courses, and are not available to students participating in this exchange program.",
+    "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university.",
+    "accommodations_info": {
+        "university_owned_housing": [
+            "North and South Campus Residence Halls",
+            "The Village at 115th",
+            "North Property Management Apartments",
+            "The Apartments at 1576",
+            "The Triangle Apartments"
+        ],
+        "off_campus_housing": "Numerous off-campus options are available for you to explore. The Uptown Apartments, located minutes away from campus with convenient access to Uptown’s many shops and restaurants, are particularly popular. If you are interested in living off-campus you can search ALOHA, the Off-Campus Housing Listing Service available online: students.case.edu/services/aloha/.",
+        "on_campus_dining": "Students who live on- or off-campus can have meals in campus dining halls. If desired, you will sign up for a meal plan as part of your housing application. The cost of the meal plan will vary depending on the plan you choose.",
+        "living_in_university_circle": "University Circle is a dynamic modern arts and cultural district. Home to a variety of museums, excellent restaurants, coffee shops, and festivals, there is always something to do in University Circle. Wade Oval hosts year-round outdoor programming including live concerts, movie nights, art walks, parades, and ice skating.",
+        "linens_and_towels": "Linens and towels are typically not included and should be planned for accordingly."
+    },
+    "cost_of_living": "For more information on financial matters, please refer to the following link. Please note tuition fees are waived for exchange students. https://case.edu/financialaid/undergraduates/cost-undergraduate-attendance",
+    "university_description": "Case Western Reserve University is a private research university located in Cleveland, Ohio. It was founded in 1826 and now has over 10,000 students across its undergraduate, graduate, and professional programs.",
+    "university_address": "",
+    "location_cost_of_living": "",
+    "location_weather": "",
+    "location_description": "",
+    "location_crime": "",
+    "location_transportation": "",
+    "location_halal": "",
+    "location_vegetarian": ""
+}

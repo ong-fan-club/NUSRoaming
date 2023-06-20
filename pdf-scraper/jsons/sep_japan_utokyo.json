@@ -1,0 +1,61 @@
+{
+    "university_name": "University of Tokyo",
+    "university_website": [
+        "http://www.u-tokyo.ac.jp/en/",
+        "https://www.u-tokyo.ac.jp/en/current-students/university_calendar.html",
+        "http://www.u-tokyo.ac.jp/en/administration/housing-office/index.html",
+        "https://www.u-tokyo.ac.jp/en/academics/ustep-type-u.html",
+        "http://www.mofa.go.jp/j_info/visit/visa/index.html",
+        "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+        "http://www.u-tokyo.ac.jp/en/about/international_handbook.html"
+    ],
+    "university_country": "Tokyo, Japan",
+    "sem1_months": [
+        "April",
+        "May",
+        "June",
+        "July",
+        "August"
+    ],
+    "sem2_months": [
+        "September",
+        "October",
+        "November",
+        "December",
+        "January",
+        "February",
+        "March"
+    ],
+    "faculties_accepted": [
+        "College of Arts and Sciences",
+        "Faculty of Agriculture",
+        "Faculty of Economics",
+        "Faculty of Education",
+        "Faculty of Engineering",
+        "Faculty of Law",
+        "Faculty of Letters",
+        "Faculty of Science"
+    ],
+    "module_restrictions": "First year and second year undergraduate students are not accepted at U Tokyo due to the internal structure of the university.\nFaculty of Pharmaceutical Sciences and Faculty of Medicine are not open to exchange students.\nGraduate courses are generally not applicable for undergraduate students.",
+    "visa_info": "Upon acceptance, U Tokyo will apply for a Certificate of Eligibility on your behalf with the Japanese Ministry of Justice, and send it to you when issued. The certificate is required for you to apply for a study visa. \nExchange students must obtain a “College Student” visa for the duration of their study in Japan.  Please visit the Japan Embassy website for the required supporting documents for your visa application. \nAll students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. This is to ensure that you can obtain your visa in time before the start of your exchange term. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+    "accommodations_info": "Exchange students may apply for university housing arranged by U Tokyo which are located off-campus. University housing is not guaranteed due to limited capacity. U Tokyo will contact students about housing application procedures after their exchange applications have been approved. ",
+    "cost_of_living": {
+        "monthly_estimate": "JP¥96,000 - JP¥163,000",
+        "breakdown_of_costs": {
+            "accommodation": "JP¥16,000 - JP¥60,000",
+            "food": "JP¥40,000 - JP¥50,000",
+            "transport": "JP¥8,000 - JP¥20,000",
+            "insurance": "JP¥2,000 - JP¥3,000",
+            "others": "~ JP¥30,000"
+        }
+    },
+    "university_description": "The University of Tokyo is a national research university located in Tokyo, Japan. Established in 1877, it is the first of the imperial universities, and now one of Japan's National Seven Universities. The university has 10 faculties, 15 graduate schools, and employs over 2,500 faculty members and 33,000 students. The university is considered one of the most prestigious universities in Japan and in the world.",
+    "university_address": "",
+    "location_cost_of_living": "",
+    "location_weather": "",
+    "location_description": "",
+    "location_crime": "",
+    "location_transportation": "",
+    "location_halal": "",
+    "location_vegetarian": ""
+}

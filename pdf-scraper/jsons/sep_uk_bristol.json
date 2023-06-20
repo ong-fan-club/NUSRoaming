@@ -1,0 +1,54 @@
+{
+  "university_name": "University of Bristol",
+  "university_website": [
+    "https://www.bristol.ac.uk/global-opportunities/at-bristol/",
+    "http://www.bristol.ac.uk/global-opportunities/at-bristol/academic-life/academic-dates/",
+    "https://www.bristol.ac.uk/global-opportunities/at-bristol/student-life/accommodation/",
+    "http://www.bristol.ac.uk/directory/visas/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": [
+    "Late September",
+    "October",
+    "November",
+    "December",
+    "Late January"
+  ],
+  "sem2_months": [
+    "Late January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "Late June"
+  ],
+  "faculties_accepted": [
+    "Faculty of Arts",
+    "Faculty of Social Sciences and Law",
+    "Faculty of Engineering",
+    "Faculty of Science"
+  ],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. Medicine, Dentistry and Veterinary Science are not open to exchange students.",
+  "visa_info": {
+    "consular/visa_regulation": {
+      "website": [
+        "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+        "https://www.gov.uk/uk-border-control"
+      ],
+      "standard_visitor_visa_for_semester_exchange": "If you are a Singapore citizen or a citizen of another country on the UK non-visa nationals list, and if your course of studies is less than 6 months, you will request entry to the UK as a Standard Visitor when you arrive.",
+      "student_visa_for_full-year_exchange": "You need a Student Visa for a full-year exchange in Bristol."
+    },
+    "health/medical_insurance": "Students who are on exchange in UK for less than six months are not entitled to subsidised NHS treatment. Therefore, semester-based exchange students are encouraged to purchase additional insurance to cover medical costs, hospitalisation expenses and emergency evacuation costs which might be incurred while they are on exchange. All registered NUS students are covered under the group personal accident and medical insurance as well as the student travel insurance."
+  },
+  "accommodations_info": "Students who have already been accepted by Bristol for the Study Abroad Programme should refer to the email received when they accepted their offer for the link to the Accommodation Application Form.",
+  "cost_of_living": "http://www.bristol.ac.uk/fees-funding/advice/living-expenses/",
+  "university_description": null,
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": null,
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

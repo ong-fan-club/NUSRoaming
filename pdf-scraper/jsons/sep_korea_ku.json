@@ -1,0 +1,48 @@
+{
+  "university_name": "Korea University",
+  "university_website": ["http://www.korea.edu/"],
+  "university_country": "South Korea",
+  "sem1_months": ["March", "April", "May", "June"],
+  "sem2_months": ["September", "October", "November", "December"],
+  "faculties_accepted": [
+    "Business",
+    "Liberal Arts",
+    "Life Sciences and Biotechnology",
+    "Political Science and Economics",
+    "Science",
+    "Engineering",
+    "Information and Communication",
+    "Health Sciences",
+    "Media and Communication",
+    "Interdisciplinary Studies",
+    "International Studies"
+  ],
+  "module_restrictions": "Medicine, Nursing, Pharmacy, Law, Teacher Education, Information Security (Cyber Defense), Art & Design and all courses at Sejong Campus are not open to exchange students. Undergraduate students are not allowed to take postgraduate courses. KU is experiencing high demand for Business and Management courses. Therefore the chances of enrolling into these courses are very slim. NUS Business students should apply via the faculty-level SEP agreement in order to take Business courses at KU.",
+  "visa_info": "Exchange students must apply for a D2 student visa before arrival in Korea. After you received the Certificate of Admission (CoA) and offer letter from your host university, you may proceed to the Korean Embassy to apply for the student visa, with the relevant supporting documents.",
+  "accommodations_info": {
+    "University Accommodation": {
+      "on-campus": ["CJ International House (I-House)", "Anam Hall 2"],
+      "off-campus": ["https://gsc.korea.ac.kr/usr/service/accommodation.do"]
+    },
+    "Private Accommodation": ["https://gsc.korea.ac.kr/usr/service/accommodation.do"]
+  },
+  "cost_of_living": {
+    "monthly_estimate": "₩1,100,000 - ₩1,300,000",
+    "breakdown_of_costs": {
+      "Accommodation": "₩300,000 - ₩500,000",
+      "Food": "₩400,000",
+      "Transport": "₩100,000",
+      "Academic Expenses": "₩50,000",
+      "Others (Entertainment, clothes)": "₩250,000"
+    }
+  },
+  "university_description": "Korea University is a private research university in Seoul, South Korea. It is one of the SKY universities, known for being one of the best universities in the country.",
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": null,
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

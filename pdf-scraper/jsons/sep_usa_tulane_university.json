@@ -1,0 +1,21 @@
+{
+   "university_name": "Tulane University",
+   "university_website": ["http://www.tulane.edu", "https://registrar.tulane.edu/calendars", "https://classschedule.tulane.edu/Search.aspx", "https://catalog.tulane.edu/", "https://housing.tulane.edu/", "https://global.tulane.edu/oiss/students/newly-admitted-students", "https://www.facebook.com/groups/Tulane.Classifieds/", "https://www.facebook.com/groups/400435710128375/"],
+   "university_country": "USA",
+   "sem1_months": ["August", "September", "October", "November", "December"],
+   "sem2_months": ["January", "February", "March", "April", "May"],
+   "faculties_accepted": ["School of Science and Engineering", "School of Liberal Arts", "School of Public Health and Tropical Medicine"],
+   "module_restrictions": "Exchange students are not allowed to take courses within Tulane's School of Law or School of Business. Students are eligible to take courses for which they meet the prerequisite, assuming the course has seats available.",
+   "visa_info": "International students who are accepted to a Tulane University exchange programme must obtain a J-1 visa. Upon acceptance, the Center for International Students and Scholars (CISS) will issue each exchange student a visa application form (Form DS-2019). Students must bring the form to the nearest American Embassy/Consulate in their country to obtain a visa.",
+   "accommodations_info": "Exchange Students are to send complete Tulane Exchange Student Application and Housing Application to Center for International Studies. Only complete applications will be forwarded to the Admissions Office. For more information on housing options and costs, please refer to the following links: https://housing.tulane.edu/ and https://global.tulane.edu/oiss/students/newly-admitted-students. Exchange students may also choose to live off-campus.",
+   "cost_of_living": "https://admission.tulane.edu/tuition-aid/cost",
+   "university_description": "Tulane University is a private research university located in New Orleans, Louisiana, USA. It was founded in 1834 and is one of the most well-respected universities in the country. Tulane is known for its strong academic programs in the sciences, engineering, architecture, business, law, and public health.",
+   "university_address": "",
+   "location_cost_of_living": "New Orleans is known for its high cost of living, particularly when it comes to housing and entertainment.",
+   "location_weather": "New Orleans has a warm and humid subtropical climate, with hot summers and mild winters.",
+   "location_description": "New Orleans is a vibrant city that is rich in history, culture, and entertainment. It is known for its lively music scene, delicious Cajun and Creole cuisine, and unique architecture. Students who attend Tulane University will find themselves in the heart of one of America's most dynamic and exciting cities.",
+   "location_crime": "New Orleans has a high crime rate, particularly when it comes to violent crime. Students are advised to take precautions and be aware of their surroundings at all times.",
+   "location_transportation": "New Orleans has a comprehensive public transportation system that includes buses and streetcars. Taxis and ride-sharing services are also widely available.",
+   "location_halal": "",
+   "location_vegetarian": ""
+}

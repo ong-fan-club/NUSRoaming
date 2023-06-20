@@ -1,0 +1,31 @@
+{
+  "university_name": "Xiamen University",
+  "university_website": ["http://en.xmu.edu.cn/"],
+  "university_country": "China",
+  "sem1_months": ["September", "October", "November", "December", "January"],
+  "sem2_months": ["February", "March", "April", "May", "June"],
+  "faculties_accepted": ["School of Economics", "School of Management", "School of Medicine"],
+  "module_restrictions": "Students should select courses within a faculty per semester. In principle, undergraduate exchange students can only select undergraduate courses and postgraduate exchange students can only select postgraduate courses. Exchange students should get approval from both colleges for cross college course selection.",
+  "visa_info": "Exchange students in China are required to apply for student visa (X2 visa for those intending to study in China for a period of no more than 180 days and X1 visa for those intending to study in China for a period of more than 180 days). You will receive the admission letter and visa application form (JW202) once you are accepted by the host university for the student exchange programme. Exchange students are required to apply for the student visa in person at the China Visa Application Service Centre in Singapore with the relevant documents before the start of the academic semester.",
+  "accommodations_info": {
+    "university_accommodation": {
+      "Siming Campus": {
+        "description": "The overseas student apartment buildings on the Siming Campus are set in picturesque surroundings and enjoy a view of the sea and fresh air. The dorms are equipped with a range of amenities.",
+        "application_info": "Newly enrolled students on Siming campus should apply online for on-campus accommodation. Detail information about on-campus accommodation application will be available in the Enrolment Instruction for New Students."
+      }
+    },
+    "private_accommodation": {
+      "description": "Living off campus provides greater opportunities for international students to interact with the locals and to learn about the local community and culture. Students can choose to rent off-campus apartments and the monthly rental is around RMB 2,500 per room. When living off-campus, international students will enjoy a quite learning environment."
+    }
+  },
+  "cost_of_living": "The necessary expenses for the duration of the SEP range from S$5,000 to S$15,000 per semester, subject to the country and local conditions at the overseas Partner University during the period of exchange.",
+  "university_description": "Xiamen University is a public research university in Siming, Xiamen, Fujian province, China. Founded in 1921 by Tan Kah Kee, a businessman and philanthropist, Xiamen University is one of China's oldest higher-learning institutions and one of the country's most selective universities.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": "",
+}

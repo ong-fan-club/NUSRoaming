@@ -1,0 +1,24 @@
+{
+"university_name": "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+"university_website": ["https://www.insa-lyon.fr/en/"],
+"university_country": "France",
+"sem1_months": ["September", "October", "November", "December", "January"],
+"sem2_months": ["February", "March", "April", "May", "June"],
+"faculties_accepted": ["Biochemistry", "Civil Engineering and Urban Planning", "Electrical Engineering", "Energetics & Environmental Engineering", "Mechanical Engineering Design", "Mechanical Engineering Development", "Mechanical Engineering Plastics Conversion Processes", "Industrial Engineering", "Information Technology", "Science and Materials Engineering", "Telecommunications, Services and Uses"],
+"module_restrictions": "Energetics & Environmental Engineering (GEN) and Industrial Engineering (GI) accept full year exchange students or semester 1/autumn semester exchange students. Students have to choose at least 80 % of their courses in one single department (main department), but are allowed to pick up 20% of courses from other departments, should schedules permit.",
+"visa_info": "Long-Stay visas are necessary for stays exceeding 3 months. Upon arrival in France, students are required to register with the French Immigration and Integration Office (OFII) for a residence permit.",
+"accommodations_info": ["INSA Lyon provides accommodation on-campus for all exchange students: 360 to 550 €. A total of eleven Halls, divided into two categories, are available at INSA Lyon. The first category is referred to as traditional halls of residence, with shared rooms for two students. The second category of Halls is called new residences, where larger flats which offer more comfort are available for students. All rooms are furnished (bed, desk, chair, wardrobe or cupboard) and are equipped with a kitchenette (refrigerator and hotplate)." ],
+"cost_of_living": {
+"monthly_breakdown": {"accommodation": "€305 - €525", "food": "€230", "transport": "€30", "insurance": "€40", "others": "€150"},
+"monthly_estimate": "€755 - €975"
+},
+"university_description": "INSA Lyon is one of France’s top engineering schools, with a strong focus on research and innovation. The school is well-known for its highly selective and specialised curriculum, which emphasises practical applications of engineering theory in a wide variety of fields.",
+"university_address": "Université de Lyon, 20 Avenue Albert Einstein, 69621 Villeurbanne Cedex, France",
+"location_cost_of_living": "France is generally considered an expensive country to live in, especially in major cities like Lyon. However, Lyon is known for having a lower cost of living than Paris, making it a popular destination for students and young professionals.",
+"location_weather": "Lyon has a temperate climate with distinct seasons. Winters can be cold, with temperatures averaging around freezing, while summers are warm and sunny, with temperatures averaging around 25°C.",
+"location_description": "Lyon is a historic city in east-central France, known for its beautiful architecture, world-renowned cuisine, and vibrant cultural scene. The city is home to many universities and research institutions, making it a hub for innovation and intellectual activity.",
+"location_crime": "Lyon is generally considered a safe city, with a relatively low crime rate compared to other major cities in Europe.",
+"location_transportation": "Lyon has an extensive transportation network, including buses, trams, and metro lines. Students on exchange at INSA Lyon can purchase a monthly transit pass at a discounted rate.",
+"location_halal": "Halal food options are widely available in Lyon, which has a large Muslim population.",
+"location_vegetarian": "Vegetarian food options are also widely available in Lyon, with many restaurants and cafes offering vegetarian and vegan menus." 
+}

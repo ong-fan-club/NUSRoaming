@@ -1,0 +1,24 @@
+{
+  "university_name": "Tallinn University of Technology",
+  "university_website": ["https://www.ttu.ee/studying/exchange-studies/exchange-studies-incomingoutgoing/", "https://www.ttu.ee/studying/exchange-studies/exchange-studies-incomingoutgoing/before-studies/b_academic-calendar/", "https://www.ttu.ee/studying/exchange-studies/exchange-studies-incomingoutgoing/before-studies/courses-in-english/", "https://www.ttu.ee/studying/exchange-studies/exchange-studies-incomingoutgoing/before-studies/b_application/", "https://www.ttu.ee/studying/exchange-studies/exchange-studies-incomingoutgoing/before-studies/b_accommodation/tips-private-housing/", "https://www.ttu.ee/studying/exchange-studies/exchange-studies-incomingoutgoing/before-studies/cost-of-livinf/"],
+  "university_country": "Estonia",
+  "sem1_months": ["Late August", "September", "October", "November", "December", "January"],
+  "sem2_months": ["Late January", "February", "March", "April", "May", "Mid-June"],
+  "faculties_accepted": ["Faculty of Social Sciences (Economics only)", "Faculty of Information Technology", "Faculty of Mechanical Engineering", "Faculty of Chemical & Materials Technology", "Faculty of Science"],
+  "module_restrictions": "Undergraduates and postgraduate Business and Law modules are not offered to NUS students.",
+  "visa_info": "Students staying in Estonia for more than three months must apply for a long-stay (D) visa. Necessary supporting documents should be submitted to TalTech. Students are advised to apply for a visa as early as 2 months before the start of their exchange.",
+  "accommodations_info": {
+    "University Accommodation": "Limited accommodation is offered by the Academic Hostels in the university campus and in the city centre. Accommodation is not guaranteed and easier to get in semester 2. Students who fail to secure university accommodation can find private accommodation.",
+    "Private Accommodation": "Students who fail to secure university accommodation need to find private accommodation. Tips on how to find private housing are provided by Tallinn University of Technology."
+  },
+  "cost_of_living": "Monthly living expenses are estimated and can be found on Tallinn University of Technology's website.",
+  "university_description": "Tallinn University of Technology, also known as TalTech, is Estonia's only technological university and one of the most important educational, research and development institutions in the country.",
+  "university_address": "Ehitajate tee 5, 19086 Tallinn, Estonia",
+  "location_cost_of_living": "Cost of living details beyond monthly estimates are not provided in the PDF.",
+  "location_weather": "Tallinn's climate is humid, with warm summers and cold winters. Temperature averages are around 22°C (72°F) in summer and -2°C (28°F) in winter.",
+  "location_description": "Tallinn is the capital and largest city of Estonia. It is a hub for tech start-ups and a popular tourist destination, known for its well-preserved medieval Old Town.",
+  "location_crime": "No information about crime rate/situation in Tallinn is provided in the PDF.",
+  "location_transportation": "Transportation options in Tallinn include buses, trams, trolleys, taxis, and bikes. The city also has a well-developed public transportation system.",
+  "location_halal": "Halal food options in Tallinn are available at some restaurants and grocery stores, but a comprehensive list is not provided in the PDF.",
+  "location_vegetarian": "Vegetarian food options in Tallinn are available at many restaurants and grocery stores, but a comprehensive list is not provided in the PDF."
+}

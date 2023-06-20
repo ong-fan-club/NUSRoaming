@@ -1,0 +1,30 @@
+{
+"university_name": "École Polytechnique Fédérale de Lausanne (EPFL)",
+"university_website": ["https://www.epfl.ch/en/","http://memento.epfl.ch/academic-calendar/", "https://www.epfl.ch/education/international/en/coming-to-epfl/semester-courses/","https://www.epfl.ch/campus/services/internal-trainings/language-centre/languages/all-modules-in-french/","https://www.epfl.ch/education/international/en/coming-to-epfl/semester-courses/studies/english-bachelor-courses/","https://www.epfl.ch/education/international/en/coming-to-epfl/semester-courses/studies/english-master-courses/","https://www.epfl.ch/campus/services/housing/en/","https://www.epfl.ch/education/studies/en/epfl-studies/immigration-en/detail-visa-en/","https://www.eda.admin.ch/countries/singapore/en/home/visa/residency/studying.html","https://www.epfl.ch/education/studies/en/epfl-studies/immigration-en/residence-permit/","http://www.nus.edu.sg/uhc/general-health/billing-insurance/insurance-matters","https://myportal.nus.edu.sg/studentportal/student-insurance/all/","https://www.epfl.ch/education/studies/en/epfl-studies/insurance/","https://www.epfl.ch/campus/security-safety/en/health/coronavirus-covid19/","https://www.epfl.ch/education/studies/en/financing-study/cost-of-living/"],
+"university_country": "Switzerland",
+"sem1_months": ["September", "October", "November", "December"],
+"sem2_months": ["February", "March", "April", "May", "June"],
+"faculties_accepted": ["School of Architecture , Civil and Environment Engineering (students are not allowed to take Architecture modules)", "School of Computer and Communication Sciences", "School of Sciences", "School of Engineering Sciences and Techniques", "School of Life Sciences", "College of Humanities (only 1 module – students would have to take a majority of their modules from other schools)", "College of Management of Technology"],
+"module_restrictions": ["The courses and projects listed here are not accessible to exchange students.", "Exchange students can take courses on the Master level, but they have to meet the pre-requisites. Incoming Bachelor students are advised to take courses starting with 2xxx or 3xxx."],
+"visa_info": ["If you need a visa, the visa application must be submitted at least 3 months prior to the start of your study curriculum by means of the appropriate visa application form.","Foreign nationals who are not EU/EFTA citizens and who do not require a visa should consult the Swiss embassy or consulate in their country for the current entry and residence requirements and formalities."],
+"accommodations_info": ["Accommodation is guaranteed for NUS students. EPFL books rooms on behalf of the students. Students will be offered room’s proposal directly from the FMEL."],
+"cost_of_living": {
+  "monthly_estimate": "CHF2,000",
+  "breakdown": {
+     "Accommodation": "CHF600 – CHF800",
+     "Food": "CHF600",
+     "Transport": "CHF60",
+     "Insurance": "CHF90",
+     "Others (Entertainment, clothes)": "CHF450"
+   }
+},
+"university_description": "EPFL is a research institute and university in Lausanne, Switzerland, that specializes in natural sciences and engineering. It is one of the two Swiss Federal Institutes of Technology, and it has three main missions: teaching, research and technology transfer at the highest international level.",
+"university_address": "",
+"location_cost_of_living": "Lausanne is one of the most expensive cities in Switzerland. Switzerland is known for its high cost of living, and expenses such as accommodation, food and transportation can be quite expensive.",
+"location_weather": "Lausanne has a temperate climate with mild temperatures throughout the year. It is generally sunny and dry in the summer months, while winter temperatures can be cold and snowy.",
+"location_description": "Lausanne is a city on the shores of Lake Geneva, in the French-speaking region of Vaud, Switzerland. It is home to many international organizations, including the International Olympic Committee. The city has a rich cultural heritage and is known for its museums, galleries, theatres and other cultural institutions.",
+"location_crime": "Lausanne is generally a safe city with a low crime rate. However, as with any city, visitors should take normal precautions and be aware of their surroundings.",
+"location_transportation": "Lausanne has an extensive public transportation system, which includes buses, trains, trams and a metro line. The transportation system is reliable and efficient, and it is easy to get around the city using public transport.",
+"location_halal": "There are several halal food options available in Lausanne, including restaurants and grocery stores.",
+"location_vegetarian": "There are many vegetarian food options available in Lausanne, including restaurants and grocery stores."
+}

@@ -1,0 +1,37 @@
+{
+  "university_name": "University of New South Wales",
+  "university_website": [
+    "http://www.international.unsw.edu.au/study-abroad-at-unsw",
+    "https://www.covid-19.unsw.edu.au/",
+    "https://www.australia.gov.au/",
+    "https://covid19.homeaffairs.gov.au/"
+  ],
+  "university_country": "Australia",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "faculties_accepted": "Not provided in PDF",
+  "module_restrictions": "Not provided in PDF",
+  "visa_info": "All exchange students must obtain an Australian Non Award Student Visa before arriving in Australia. For more information on visa application: https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500.",
+  "accommodations_info": "Not provided in PDF",
+  "cost_of_living": "Not provided in PDF",
+  "university_description": "The University of New South Wales is an Australian public research university located in the Sydney suburb of Kensington.",
+  "university_address": "UNSW Sydney, NSW 2052, Australia",
+  "location_cost_of_living": "Sydney is considered one of the most expensive cities in the world, with high costs for accommodation, food, transportation, etc.",
+  "location_weather": "Sydney has a temperate climate with mild winters and warm summers, with an average temperature of 18-25°C.",
+  "location_description": "Sydney is the state capital of New South Wales and the most populous city in Australia and Oceania. It is known for its iconic landmarks such as the Opera House, Harbour Bridge, and Bondi Beach.",
+  "location_crime": "Sydney is considered a safe city, with low crime rates compared to other major cities around the world.",
+  "location_transportation": "Sydney has an extensive public transportation network, including buses, trains, ferries, and light rail.",
+  "location_halal": "There are many halal food options in Sydney, particularly in areas with a large Muslim population such as Lakemba and Auburn.",
+  "location_vegetarian": "There are many vegetarian and vegan food options in Sydney, particularly in areas with a large alternative/hipster population such as Newtown and Surry Hills."
+}

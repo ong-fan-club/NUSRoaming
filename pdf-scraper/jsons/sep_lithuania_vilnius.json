@@ -1,0 +1,21 @@
+{
+  "university_name": "Vilnius University",
+  "university_website": ["http://www.vu.lt/en/studies/exchange-students", "http://www.vu.lt/en/studies/academic-calendar", "http://www.vu.lt/en/studies/exchange-students/courses-taught-in-foreign-languages", "http://www.vu.lt/en/studies/practical-information"],
+  "university_country": "Lithuania",
+  "sem1_months": ["Early September", "Late January"],
+  "sem2_months": ["Early February", "Late June"],
+  "faculties_accepted": ["Political Science", "Global Studies", "History", "Philosophy", "Chemistry", "Mathematics", "Biology", "Physics", "Computer Science"],
+  "module_restrictions": ["Business, Economics and Management modules are excluded from the exchange between NUS and Vilnius", "Limited courses are also available at the Lithuanian Academy of Music & Theatre and Vilnius Academy of Fine Arts."],
+  "visa_info": ["Non-degree students from non-EU countries must get national Type D Visa prior to arrival in Lithuania. Required documents: Completed application, Letter of Acceptance from Vilnius University, visa application processing fee (if applicable), proofs of sufficient means of support (at least €200 per month + €400 for the return journey), 1 photo (colour, 35 x 45mm), valid passport, health insurance valid in Schengen countries (minimum coverage of €30,000), and letter of mediation (will be sent via e-mail by Vilnius University together with the Letter of Acceptance; validity 1 month)."],
+  "accommodations_info": ["Dormitories are situated in Saulėtekio, Olandų or Didlaukio Street which can be around 20 minutes bus ride from the main campus at Vilnius’ old town. Only twin or triple sharing rooms are available. A group of five to six students will share a common bathroom. Common kitchens will be shared by around 20 students. There will be no gender division based on room, floor or building. Students can request to share rooms with the same gender. There will be 24/7 security officer manning the reception area of every dormitory building. Online application for accommodation must be submitted at least one month before the scheduled arrival."],
+  "cost_of_living": ["Details can be found at http://www.vu.lt/en/studies/practical-information/56-studies/studies/2507"],
+  "university_description": "Vilnius University is a prestigious university in Lithuania with a diverse range of faculties and courses. It is located in Vilnius’ old town in Lithuania.",
+  "university_address": "Universiteto g. 3, Vilnius 01513, Lithuania",
+  "location_cost_of_living": "The cost of living in Vilnius is generally lower than other capital cities in Europe. It is estimated that a student would need around €400-€500 per month for accommodation, food, and other expenses.",
+  "location_weather": "Vilnius has a humid continental climate with four distinct seasons. Summers are warm and sometimes humid, while winters are cold and snowy.",
+  "location_description": "Vilnius is the capital city of Lithuania and has a rich history and culture. It is known for its baroque architecture and is a popular tourist destination in Eastern Europe.",
+  "location_crime": "Vilnius has a relatively low crime rate compared to other European cities.",
+  "location_transportation": "Vilnius has a good public transportation system with buses and trolleybuses servicing the city. There is also a bike sharing system and taxis are readily available.",
+  "location_halal": "Halal food options are limited in Vilnius, but there are a few halal restaurants and markets available.",
+  "location_vegetarian": "Vegetarian food options are available in Vilnius, with many restaurants offering vegetarian dishes and there are also vegan and vegetarian specialty cafes." 
+}

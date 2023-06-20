@@ -1,0 +1,45 @@
+{
+  "university_name": "Rice University",
+  "university_website": [
+    "http://www.rice.edu/",
+    "https://abroad.rice.edu/prospective-students"
+  ],
+  "university_country": "United States of America",
+  "sem1_months": [
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "faculties_accepted": [
+    "School of Engineering",
+    "Natural Sciences",
+    "Social Sciences",
+    "Humanities",
+    "FASS",
+    "FoS",
+    "FoE",
+    "SoC"
+  ],
+  "module_restrictions": "Courses in the Jesse H. Jones Graduate School of Management, the Shepherd School of Music, and the School of Architecture are not available to exchange students unless they are offered specifically to non-major undergraduates.",
+  "visa_info": "Upon receiving your DS-2019, you will need to apply for your J-1 visa at a U.S. consulate or embassy. We recommend you visit the website of the US Embassy/Consulate where you wish to apply for your visa, and follow the procedures for documentation, interview request, etc. In general, you will need to present: \n\n1.    A valid passport from your own government. \n2.    A “Certificate of Eligibility” for a temporary stay in the U.S. (Form DS-2019 by Rice University or another   sponsor). \n3.    Financial documents to prove you have the funds required for a least a year’s stay in the U.S. (as   indicated on the DS-2019).  \n4.    Proof of payment of the SEVIS fee. All J-1 visa applicants need   to pay the one time SEVIS fee prior to   applying for a visa. Keep your receipt as proof of payment to present to the US Consulate, port of entry   officials when entering the U.S., OISS upon check-in, and for your records. For more information visit:   www.FMJfee.com. \n5.    Completed visa application forms – be sure to indicate your name as stated on your passport and your   DS-2019 documents to better ensure that your name on your visa stamp will be displayed properly.",
+  "accommodations_info": "On-campus housing: automatic placement for admitted students (no separate application needed). For more information on Rice’s Residential Colleges, please refer here: https://housing.rice.edu/",
+  "cost_of_living": "For more information on the cost of attending Rice university, please refer to the following page:  \nhttps://ga.rice.edu/undergraduate-students/student-services-organizations/tuition-fees-expenses/",
+  "university_description": "Rice University is a private research university in Houston, Texas. It is consistently ranked among the top 20 universities in the United States and is known for its focus on undergraduate education.",
+  "university_address": "Rice University, 6100 Main St, Houston, TX 77005, United States",
+  "location_cost_of_living": "Houston is an affordable city to live in compared to many other major cities in the United States. Housing is generally affordable, although transportation and healthcare costs can add up.",
+  "location_weather": "Houston has a humid subtropical climate, with hot summers and mild winters. Temperatures can range anywhere from the low 40s to the high 90s Fahrenheit.",
+  "location_description": "Houston is the fourth-largest city in the United States and is located in southeast Texas. It is known for its space center, many museums, and prominent theater scene.",
+  "location_crime": "Houston has a higher-than-average crime rate compared to other cities in the United States. However, most of the crime is concentrated in certain areas of the city and is generally not a major concern for visitors or residents in other areas.",
+  "location_transportation": "Houston has a comprehensive public transportation system, with buses, light rail, and a commuter rail system. Many students and residents also use bicycles or walk.",
+  "location_halal": "Houston has many halal food options, particularly in areas with a large Muslim community such as the Mahatma Gandhi District.",
+  "location_vegetarian": "Vegetarian food options are widely available in Houston, with many restaurants offering vegetarian menus or options." 
+}

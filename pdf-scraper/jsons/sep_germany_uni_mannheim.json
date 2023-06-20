@@ -1,0 +1,50 @@
+{
+  "university_name": "University of Mannheim",
+  "university_website": [
+    "https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/",
+    "https://www.uni-mannheim.de/studium/termine/semesterzeiten/",
+    "https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/courses/course-catalog/",
+    "https://www.phil.uni-mannheim.de/en/international/coming-to-mannheim-from-abroad/",
+    "https://www.sowi.uni-mannheim.de/en/international/exchange-students/",
+    "https://www.jura.uni-mannheim.de/en/international/information-for-incoming-students/",
+    "https://www.vwl.uni-mannheim.de/en/international/incoming-exchange-students-bachelors-level/",
+    "https://www.wim.uni-mannheim.de/en/international/information-for-incoming-students/"
+  ],
+  "university_country": "Germany",
+  "sem1_months": ["August", "September", "October", "November", "December", "January"],
+  "sem2_months": ["February", "March", "April", "May", "June", "July"],
+  "faculties_accepted": [
+    "Political Science",
+    "Sociology",
+    "Psychology",
+    "New Media and Communication Studies",
+    "Global Studies",
+    "Mathematics",
+    "Business Informatics",
+    "Humanities",
+    "Social Sciences",
+    "Law",
+    "Economics",
+    "Business Informatics and Mathematics"
+  ],
+  "module_restrictions": "Exchange students should take courses matching their field. Business modules are meant for Business major students from NUS Business School.",
+  "visa_info": "EU citizens and citizens from certain countries do not need a visa to enter Germany. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country.",
+  "accommodations_info": "Students can apply for student housing or private accommodations. The university recommends all exchange students from non-EU countries to purchase a statutory German health insurance for about €89/month.",
+  "cost_of_living": {
+    "accommodation": ["€280 - €390"],
+    "food": "€160",
+    "transport": "€160",
+    "insurance": "€90",
+    "others": ["€100"],
+    "monthly_estimate": ["€790 - €900"]
+  },
+  "university_description": "The University of Mannheim is a public research university located in Mannheim, Germany. It has a notable reputation for Business and Economics programs.",
+  "university_address": "Schloss, 68161 Mannheim, Germany",
+  "location_cost_of_living": "Mannheim is known to be an affordable city for students, even though the cost of living may vary depending on personal lifestyle choices.",
+  "location_weather": "Mannheim experiences a temperate oceanic climate with relatively mild winters and warm summers.",
+  "location_description": "Mannheim is the third-largest city in the state of Baden-Württemberg, Germany, and has a rich history, having served as the royal capital of the Electorate of the Palatinate.",
+  "location_crime": "Mannheim has a relatively low crime rate compared to other cities in Germany.",
+  "location_transportation": "Mannheim has an extensive public transportation network with trams, buses, and trains servicing the city and the surrounding area.",
+  "location_halal": "Halal food options are available in Mannheim.",
+  "location_vegetarian": "Vegetarian food options are available in Mannheim."
+}

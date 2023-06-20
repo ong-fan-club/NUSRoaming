@@ -1,0 +1,43 @@
+{
+  "university_name": "University of Adelaide",
+  "university_website": [
+    "http://www.adelaide.edu.au/student/dates/academic/",
+    "https://www.adelaide.edu.au/inbound-study-abroad/exchange/"
+  ],
+  "university_country": "Australia",
+  "sem1_months": [
+    "February",
+    "March",
+    "April",
+    "May",
+    "June"
+  ],
+  "sem2_months": [
+    "July",
+    "August",
+    "September",
+    "October",
+    "November"
+  ],
+  "faculties_accepted": [],
+  "module_restrictions": "",
+  "visa_info": {
+    "visa_type": "Australian Non Award Student Visa (sub-class 500)",
+    "visa_website": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+    "documents_required": [
+      "Overseas Student Health Cover (OSHC)",
+      "Electronic Confirmation of Enrolment (eCoE)"
+    ]
+  },
+  "accommodations_info": "",
+  "cost_of_living": "",
+  "university_description": "",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

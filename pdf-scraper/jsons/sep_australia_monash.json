@@ -1,0 +1,25 @@
+{
+    "university_name": "Monash University",
+    "university_website": [
+        "https://www.monash.edu/students/dates/summary-dates",
+        "https://www.monash.edu/study-abroad/inbound",
+        "https://www.youtube.com/watch?v=969i7d4g_ZE"
+    ],
+    "university_country": "Australia",
+    "sem1_months": ["February", "March", "April", "May", "June"],
+    "sem2_months": ["July", "August", "September", "October", "November"],
+    "faculties_accepted": "",
+    "module_restrictions": "",
+    "visa_info": "All exchange students must obtain an Australian Non Award Student Visa\n(sub-class 500) before arriving in Australia.\nStudents are advised to apply for the necessary visa immediately after they\nreceived the official offer letter/email from their host university. This is to\nensure that you can obtain your visa in time before the start of your\nexchange term.",
+    "accommodations_info": "",
+    "cost_of_living": "",
+    "university_description": "Monash University is a public research university based in Melbourne, Australia. It was founded in 1958 and is the largest university in Australia, with five campuses located across Victoria and one in Malaysia.",
+    "university_address": "",
+    "location_cost_of_living": "",
+    "location_weather": "",
+    "location_description": "Melbourne is the capital city of Victoria, a state in southeast Australia. It is known for its cultural diversity, vibrant arts scene, and world-famous sporting events. It is consistently ranked as one of the most liveable cities in the world.",
+    "location_crime": "",
+    "location_transportation": "",
+    "location_halal": "",
+    "location_vegetarian": ""
+}

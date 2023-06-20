@@ -1,0 +1,25 @@
+{
+  "university_name": "Georgetown University",
+  "university_website": ["https://www.georgetown.edu/", "https://myguabroad.georgetown.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10103", "https://global.georgetown.edu/exchange-programs"],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": [
+    "College of Arts and Sciences",
+    "School of Foreign Service",
+    "College of Nursing and Health Studies"
+  ],
+  "module_restrictions": "Exchange is not available for School for Continuing Studies (Liberal Studies), School of Medicine; School of Law; Masters of Business Administration (MBA); Master of Science in Foreign Service (MSFS); Communication, Culture, &amp; Technology (CCT); Public Policy (PBPO); and National Security Studies (NSST).",
+  "visa_info": "Students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university.",
+  "accommodations_info": "Georgetown is unable to guarantee housing for all exchange students as spaces are limited. However, Georgetown will try to try award on campus housing to as many students as possible. If on-campus housing is not available, the Office of Global Education will assist students with their housing search. Meal plans are available and purchased separately.",
+  "cost_of_living": "https://finaid.georgetown.edu/undergrad/aid-for-undergrads/# (tuition fees waived for exchange students)",
+  "university_description": "Georgetown University is a private research university in Washington, D.C. It is the oldest Catholic and Jesuit-affiliated university in the United States.",
+  "university_address": "37th and O St NW, Washington, DC 20057, USA",
+  "location_cost_of_living": "Washington D.C. has a high cost of living, with one-bedroom apartment rents averaging over $2,000 per month.",
+  "location_weather": "Washington D.C. has a humid subtropical climate, with hot summers and cold winters.",
+  "location_description": "Washington D.C. is the capital city of the United States. It is home to numerous museums, monuments, and government buildings.",
+  "location_crime": "Washington D.C. has a moderate to high crime rate, with high rates of property crime. It is generally safe in more touristy and central areas.",
+  "location_transportation": "Washington D.C. has an extensive public transportation system, with a metro rail system, buses, and taxis available.",
+  "location_halal": "There are many halal food options in Washington D.C.",
+  "location_vegetarian": "There are many vegetarian food options in Washington D.C."
+}

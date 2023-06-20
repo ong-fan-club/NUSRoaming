@@ -1,0 +1,38 @@
+{
+    "university_name": "University of Florida",
+    "university_website": [
+        "http://www.ufl.edu/",
+        "https://one.uf.edu/dashboard/"
+    ],
+    "university_country": "USA",
+    "sem1_months": [
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+    ],
+    "sem2_months": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May"
+    ],
+    "faculties_accepted": [
+        "College of Liberal Arts & Sciences"
+    ],
+    "module_restrictions": "Individual departments may restrict access to specific courses.",
+    "visa_info": "Students must complete all required forms and questionnaires, provide a copy of their valid passport and proof of sufficient funding.",
+    "accommodations_info": "On-campus accommodation is available at Weaver Hall only. Spaces are limited and placement is not guaranteed.",
+    "cost_of_living": "As a Partner School Exchange Student, you do not pay for the cost of your courses ('tuition') since this is waived under the exchange agreement between UF and your home university. This agreement ONLY covers tuition and DOES NOT cover fees for on-campus housing, library fines, labs, computer services, parking tickets, sports courses, leisure courses, etc. You are responsible for paying non-tuition fees in a timely manner.",
+    "university_description": "The University of Florida is a public research university in Gainesville, Florida. It is a senior member of the State University System of Florida and traces its origins to 1853 and has operated continuously on its Gainesville campus since September 1906.",
+    "university_address": "Gainesville, Florida, USA",
+    "location_cost_of_living": "",
+    "location_weather": "",
+    "location_description": "Gainesville is a city in Alachua County, Florida, United States. It is the county seat and the largest city in the county.",
+    "location_crime": "",
+    "location_transportation": "Students can ride any Gainesville RTS bus free with their Gator 1 ID card.",
+    "location_halal": "",
+    "location_vegetarian": ""
+}

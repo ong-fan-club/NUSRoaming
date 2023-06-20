@@ -1,0 +1,39 @@
+{
+   "university_name": "University of Guelph",
+   "university_website": [
+      "https://www.uoguelph.ca/",
+      "https://calendar.uoguelph.ca/undergraduate-calendar/schedule-dates/",
+      "https://www.cic.gc.ca/english/visit/visas.asp",
+      "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+      "https://www.uoguelph.ca/cip/incoming-students/pre-arrival-information/health-and-dental-insurance/uhip-university-health",
+      "https://www.uoguelph.ca/cip/incoming-exchange/incoming-exchange",
+      "https://www.youtube.com/watch?v=hrL8IOAbjT4"
+   ],
+   "university_country": "Canada",
+   "sem1_months": [
+      "September",
+      "October",
+      "November",
+      "December"
+   ],
+   "sem2_months": [
+      "January",
+      "February",
+      "March",
+      "April"
+   ],
+   "faculties_accepted": "",
+   "module_restrictions": "",
+   "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa.",
+   "accommodations_info": "",
+   "cost_of_living": "",
+   "university_description": "",
+   "university_address": "",
+   "location_cost_of_living": "",
+   "location_weather": "",
+   "location_description": "",
+   "location_crime": "",
+   "location_transportation": "",
+   "location_halal": "",
+   "location_vegetarian": ""
+}

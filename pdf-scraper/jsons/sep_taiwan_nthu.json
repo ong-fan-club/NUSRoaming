@@ -1,0 +1,35 @@
+{
+  "university_name": "National Tsing Hua University",
+  "university_website": ["http://nthu-en.web.nthu.edu.tw/bin/home.php", "http://oga.nthu.edu.tw/web.page/detail/sn/43/lang/en", "http://sthousing.web.nthu.edu.tw/bin/home.php?Lang=en", "https://www.roc-taiwan.org/sg_en/post/34.html", "https://www.boca.gov.tw/cp-166-284-6f5f7-2.html", "https://myportal.nus.edu.sg/studentportal/student-insurance/all/", "http://oga.nthu.edu.tw/web.page/detail/sn/21/lang/en", "https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/JH/6/6.2/6.2.H/JH62h001.php"],
+  "university_country": "Taiwan",
+  "sem1_months": ["September", "October", "November", "December", "January"],
+  "sem2_months": ["February", "March", "April", "May", "June"],
+  "faculties_accepted": {
+    "BIZ": ["Quantitative Finance"],
+    "FASS": ["Chinese Literature", "Foreign Languages and Literature", "Philosophy", "History", "Anthropology", "Sociology", "Linguistics", "Taiwan Literature", "Economics"],
+    "FoE": ["Engineering and System Science", "Biomedical Engineering and Environmental Sciences", "Nuclear Engineering and Science", "Electrical Engineering", "Electronics Engineering", "Communications Engineering", "Photonics Technologies", "Chemical Engineering", "Materials Science and Engineering", "Power Mechanical Engineering", "Industrial Engineering and Engineering Management", "NanoEngineering and MicroSystems", "Biomedical Engineering"],
+    "FoL": ["Law for Science and Technology"],
+    "FoS": ["Physics", "Mathematics", "Chemistry", "Statistics", "Life Science", "Medical Science", "Biotechnology", "Molecular Medicine", "Molecular and Cellular Biology", "Bioinformatics and Structural Biology", "Systems Neuroscience"],
+    "SoC": ["Computer Science", "Information Systems and Applications"]
+  },
+  "module_restrictions": ["EMBA is not available to exchange students."],
+  "visa_info": "Students whose exchange period is one semester (or less than 180 days) will have to apply a Visitor Visa while students whose exchange period is more than 180 days will have to apply for a Resident Visa. Chinese, Hong Kong and Macau passport holders will need to apply for a Taiwan Entry Permit.",
+  "accommodations_info": "On-campus accommodation is available to exchange students. (4-person room for undergraduate and 2-person room for graduate students)",
+  "cost_of_living": {
+    "monthly_estimate": "NTD$20 000 - NTD $23 560",
+    "breakdown_of_costs": {
+      "Accommodation": "NTD $1512- NTD $6640",
+      "Food and transport": "NTD $8000",
+      "Others (Entertainment, clothes, etc)": "NTD $12 000"
+    }
+  },
+  "university_description": "National Tsing Hua University is a research university with a long and proud tradition. Since the re-establishment in Hsinchu in 1956, the university has been known for her excellent academic programmes as well as her spacious verdant campus. NTHU initially began in Taiwan with nuclear sciences studies, and gradually expanded to include general sciences and engineering; in the past twenty years, the social sciences and humanities, life sciences, information sciences, and management sciences were added.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

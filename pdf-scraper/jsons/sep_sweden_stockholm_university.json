@@ -1,0 +1,21 @@
+{
+"university_name": "Stockholm University",
+"university_website": ["http://www.su.se/english/", "https://www.su.se/english/education/exchange-students","https://www.su.se/english/education/admissions/housing-for-international-students", "https://www.migrationsverket.se/English/Private-individuals/Studying-in-Sweden.html", "https://www.kammarkollegiet.se/engelska/start/all-services/insurance-for- foreign-visitors/student-insurance/exchange-students-in-sweden", "http://www.su.se/coursecatalogue", "http://www.su.se/studyswedish"],
+"university_country": "Sweden",
+"sem1_months": ["August", "September", "October", "November", "December", "January"],
+"sem2_months": ["January", "February", "March", "April", "May", "June"],
+"faculties_accepted": ["Faculty of Humanities", "Faculty of Social Sciences (excluding School of Business)", "Faculty of Science"],
+"module_restrictions": "There are special eligibility requirements for most courses, which are determined by the departments. Students may choose any course in the study area named in the agreement, provided that they meet the prerequisites specified for each course. It is important that the home university approves the courses students plan to take at Stockholm University. Students should choose courses together with the department at the home university and the department at Stockholm University.",
+"visa_info": "Students from outside the EU/EEA must apply for a residence permit at the Swedish Embassy/Consulate in their country of residence, directly after receiving the headed admissions letter from Stockholm University. Applications for a residence permit can under no circumstances be submitted after entering Sweden. Students are strongly advised to apply as soon as they receive their Letter of Acceptance, since it may take up to three months to get the documentation finalised.",
+"accommodations_info": "Stockholm University does not own any student dormitories and does not normally organise accommodation for students. A special exception is made for exchange students from universities with which Stockholm University has a signed co-operation agreement. The Housing Office at the International Exchange Unit manages a limited number of rooms in Stockholm. Unfortunately, due to the high demand and shortage of accommodation in Stockholm, it cannot guarantee accommodation for every exchange student.",
+"cost_of_living": {"Accommodation": "SEK4,000", "Food": "SEK2,000", "Transport": "SEK600", "Telephone/Internet": "SEK300", "Others (Entertainment, clothes)": "SEK1,100", "Monthly Estimate": "SEK8,000"},
+"university_description": "Stockholm University is a public university in Stockholm, Sweden, founded as a college in 1878, with university status since 1960. Stockholm University has two scientific fields: the natural sciences and the humanities/social sciences. There are about 34,000 students at the university, 1,800 doctoral students, and over 5,000 staff members.",
+"university_address": "",
+"location_cost_of_living": "The cost of living in Stockholm is generally higher than in other cities in Sweden. According to studyinsweden.se, the average cost of living is SEK 8,000 per month. ",
+"location_weather": "",
+"location_description": "Stockholm is the capital, as well as the economic and political center of Sweden. The city is located on 14 islands connected by 57 bridges, giving it an extensive and picturesque waterfront. It is known for its beautiful architecture, world-class museums, and stunning natural surroundings. It is considered a sustainable city due to its dedication to biking and public transport.",
+"location_crime": "",
+"location_transportation": "",
+"location_halal": "",
+"location_vegetarian": ""
+}

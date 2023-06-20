@@ -1,0 +1,29 @@
+{
+   "university_name": "Mahidol University",
+   "university_website": ["https://www.mahidol.ac.th/en/", "https://muic.mahidol.ac.th/eng/programs/undergraduate-programs/", "https://callforexchange.mahidol.ac.th/inbound", "https://op.mahidol.ac.th/ea/program_profile-en/", "https://muic.mahidol.ac.th/eng/study-abroad/incoming-students/academic-overview-calendar/", "https://muic.mahidol.ac.th/eng/study-abroad/incoming-students/housing-list/", "https://muic.mahidol.ac.th/eng/study-abroad/incoming-students/visa-matter/", "https://muic.mahidol.ac.th/eng/study-abroad/incoming-students/banking/"],
+   "university_country": "Bangkok, Thailand",
+   "sem1_months": ["September", "October", "November", "December"],
+   "sem2_months": ["January", "February", "March"],
+   "faculties_accepted": ["Engineering", "Information and Communication Technology", "International College", "Science", "Business", "Design and Media", "Humanities"],
+   "module_restrictions": "Ensure that you meet the pre-requisites for the courses you are applying for.",
+   "visa_info": "International students require a Non-Immigrant Education Visa to study in Thailand. Applications should be made at the Royal Thai Embassy before departure to Thailand.",
+   "accommodations_info": "Affordable housing is available both on and off campus including shared housing, private flats (condos) and boarding houses.",
+   "cost_of_living": {
+      "breakdown_of_costs": {
+         "Accommodation": "THB5,500 – THB15,000",
+         "Food": "THB5,000 – THB12,000",
+         "Transport": "THB1,000 – THB3,000",
+         "Others": "THB5,000 – THB8,000"
+      },
+      "monthly_estimate": "THB16,500 – THB38,000"
+   },
+   "university_description": "Mahidol University is an autonomous research institution based in Bangkok, Thailand. Its international college runs courses in English within the fields of engineering, environment and resources, information and communication studies, liberal arts, medical technology, nursing, physical therapy, social sciences and humanities, and veterinary sciences.",
+   "university_address": null,
+   "location_cost_of_living": null,
+   "location_weather": null,
+   "location_description": "Bangkok is the capital and most populous city of Thailand. It is known for its vibrant street life, cultural landmarks, and renowned shopping centers.",
+   "location_crime": null,
+   "location_transportation": null,
+   "location_halal": null,
+   "location_vegetarian": null
+}

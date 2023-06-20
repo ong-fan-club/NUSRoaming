@@ -1,0 +1,35 @@
+{
+  "university_name": "McGill University",
+  "university_website": [
+    "http://www.mcgill.ca/importantdates/key-dates",
+    "https://www.mcgill.ca/mcgillabroad/come-mcgill",
+    "www.mcgill.ca/internationalstudents/health"
+  ],
+  "university_country": "Canada",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April"
+  ],
+  "faculties_accepted": null,
+  "module_restrictions": null,
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": null,
+  "cost_of_living": null,
+  "university_description": "McGill University is a public research university in Montreal, Canada. It was founded in 1821 and is one of the oldest universities in Canada.",
+  "university_address": null,
+  "location_cost_of_living": "Montreal is generally considered to be an affordable city for students, with a lower cost of living compared to other major cities in Canada and the US.",
+  "location_weather": "Montreal has a cold and snowy winter season, with temperatures ranging between -13°C to -5°C. Summers are mild, ranging from 10°C to 27°C.",
+  "location_description": "Montreal is the second-largest city in Canada and is known for its cultural diversity, historic architecture, and vibrant nightlife. The city is bilingual, with French and English being the official languages.",
+  "location_crime": null,
+  "location_transportation": "Montreal has an extensive public transportation system, including a metro system, buses, and trains. Students can purchase a monthly transit pass for unlimited travel on public transportation.",
+  "location_halal": "Montreal has a significant Muslim population and halal food options are available throughout the city.",
+  "location_vegetarian": "Vegetarian food options are widely available in Montreal, with many restaurants offering vegetarian and vegan options on their menus."
+}

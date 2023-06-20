@@ -1,0 +1,30 @@
+{
+   "university_name": "Chongqing University",
+   "university_website": ["http://study.cqu.edu.cn"],
+   "university_country": "China",
+   "sem1_months": ["August", "September", "October", "November", "December", "January"],
+   "sem2_months": ["February", "March", "April", "May", "June", "July"],
+   "faculties_accepted": ["Schools & Departments at Chongqing University"],
+   "module_restrictions": null,
+   "visa_info": {
+      "visa_type": ["X1 visa", "X2 visa"],
+      "visa_application_website": "https://www.visaforchina.cn/SGP2_EN/index.shtml"
+   },
+   "accommodations_info": {
+      "on_campus": ["Songlinpo International Student Apartment", "Xuelin International Student Apartment", "No. 6 Orchid Building International Students Dormitory"],
+      "off_campus": null
+   },
+   "cost_of_living": {
+      "range": ["S$5,000 to S$15,000 per semester"],
+      "breakdown": ["subject to the country and local conditions at the overseas Partner University during the period of exchange"]
+   },
+   "university_description": null,
+   "university_address": null,
+   "location_cost_of_living": null,
+   "location_weather": null,
+   "location_description": null,
+   "location_crime": null,
+   "location_transportation": null,
+   "location_halal": null,
+   "location_vegetarian": null
+}

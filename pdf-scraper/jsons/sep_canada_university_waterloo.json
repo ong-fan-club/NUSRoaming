@@ -1,0 +1,36 @@
+{
+  "university_name": "University of Waterloo",
+  "university_website": [
+    "https://ugradcalendar.uwaterloo.ca/page/uWaterloo-Undergraduate-Calendar-Access",
+    "https://uwaterloo.ca/campus-wellness/health-services/student-medical-clinic/student-medical-insurance",
+    "https://uwaterloo.ca/student-success/exchange-and-study-abroad/come-waterloo/exchange",
+    "https://uwaterloo.ca/about/"
+  ],
+  "university_country": "Canada",
+  "sem1_months": [
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April"
+  ],
+  "faculties_accepted": null,
+  "module_restrictions": null,
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": null,
+  "cost_of_living": null,
+  "university_description": "The University of Waterloo is a public research university located in Waterloo, Ontario, Canada. It is most famous for its cooperative education (co-op) programs, which allow students to integrate their education with applicable work experiences.",
+  "university_address": null,
+  "location_cost_of_living": "Waterloo has a relatively low cost of living compared to other Canadian cities. The cost of living index is 51.89, which is 48% lower than in New York.",
+  "location_weather": "Waterloo has a continental climate, with cold, snowy winters and warm summers. The average temperature in January is -7.6°C (18.4°F), while the average temperature in July is 20.6°C (69.1°F).",
+  "location_description": "Waterloo is located in southern Ontario, approximately an hour's drive from Toronto. With a population of over 100,000, it is home to two universities and a thriving tech industry.",
+  "location_crime": null,
+  "location_transportation": "Waterloo has a well-developed public transportation system, run by Grand River Transit (GRT). The university is serviced by several GRT bus routes, which run frequently throughout the day. There are also several ride-sharing services available in the area.",
+  "location_halal": "Waterloo has several halal food options, including restaurants and grocery stores.",
+  "location_vegetarian": "Waterloo has several vegetarian food options, including restaurants and grocery stores."
+}

@@ -1,0 +1,45 @@
+{
+   "university_name": "University of Pennsylvania",
+   "university_website": [
+      "http://www.upenn.edu",
+      "https://almanac.upenn.edu/penn-academic-calendar",
+      "http://www.college.upenn.edu/",
+      "https://www.upenn.edu/life-at-penn/housing-and-dining",
+      "https://www.publicsafety.upenn.edu/contact/",
+      "https://global.upenn.edu/pennabroad/exchangeapplication",
+      "https://myportal.nus.edu.sg/studentportal/student-insurance/all/"
+   ],
+   "university_country": "USA",
+   "sem1_months": [
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+   ],
+   "sem2_months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+   ],
+   "faculties_accepted": [
+      "FASS",
+      "FoS",
+      "SoC"
+   ],
+   "module_restrictions": "Any graduate (500-level or above) courses, including courses in the Medical School, Law School, School of Education, etc. Wharton courses are restricted to students on Wharton exchange.",
+   "visa_info": "All exchange students who are not US citizens are required to obtain an F-1 or J-1 student visa for their exchange studies in the United States. Students must produce financial documentation showing that they have at least USD $14,323 in assets. Students are required to maintain approved health insurance coverage for the duration of their stay at U Penn.",
+   "accommodations_info": "All exchange students are required to live in on-campus housing and enroll in a dining plan.",
+   "cost_of_living": "Tuition fee charges are waived for exchange students. Exchange students who are not US citizens will be required to show adequate financial documentation to prove they can sustain themselves during the duration of their exchange.",
+   "university_description": "The University of Pennsylvania, commonly referred to as U Penn or just Penn is a private Ivy League research university located in Philadelphia, Pennsylvania.",
+   "university_address": "Philadelphia, Pennsylvania, USA",
+   "location_cost_of_living": "Philadelphia is the fifth most expensive city in the United States, with a cost of living of 139, which is higher than the national average.",
+   "location_weather": "Philadelphia has a humid subtropical climate with four distinct seasons and precipitation throughout the year.",
+   "location_description": "Philadelphia is a historic and culturally rich city known for its art, history, and architecture. It was the first capital city of the United States.",
+   "location_crime": "Philadelphia has a higher than average crime rate, particularly in property crimes, although violent crime has been decreasing in recent years.",
+   "location_transportation": "Philadelphia has a public transportation system including buses, trains, and subways. There are also bike sharing and car rental options available.",
+   "location_halal": "There are several halal food options available in Philadelphia.",
+   "location_vegetarian": "There are several vegetarian food options available in Philadelphia."
+}

@@ -1,0 +1,53 @@
+{
+    "university_name": "Chalmers University of Technology",
+    "university_website": [
+      "http://www.chalmers.se/en",
+      "https://student.portal.chalmers.se/en/chalmersstudies/incomingexchange/Pages/default.aspx",
+      "https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/Pages/course-information.aspx",
+      "https://student.portal.chalmers.se/en/studentlife/accommodation-housing/Pages/Accommodation-housing.aspx",
+      "https://www.migrationsverket.se/English/Private-individuals.html"
+    ],
+    "university_country": "Sweden",
+    "sem1_months": ["September", "October", "November", "December", "January"],
+    "sem2_months": ["January", "February", "March", "April", "May", "June"],
+    "faculties_accepted": [
+      "Applied Information Technology",
+      "Applied Mechanics",
+      "Applied Physics",
+      "Architecture",
+      "Biology and Biological Engineering",
+      "Chemistry and Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Computer Science and Engineering",
+      "Earth and Space Sciences",
+      "Energy and Environment",
+      "Fundamental Physics",
+      "Materials and Manufacturing Technology",
+      "Mathematical Sciences",
+      "Microtechnology and Nanoscience",
+      "Product and Production Development",
+      "Shipping and Marine Technology",
+      "Signals and Systems"
+    ],
+    "module_restrictions": "Most Bachelor level courses are taught in Swedish. Only students in 3rd year and above are able to participate in SEP to Chalmers University of Technology. Architecture students must be in 4th year to participate in exchange to Chalmers. NUS students cannot attend courses from Chalmers Department of Technology Management and Economics which includes Industrial Engineering and Business courses.",
+    "visa_info": "Students from non EU/EEA countries need to apply for a residence permit for studies before entering Sweden. Further information and application forms regarding residence permit may be obtained from the Swedish Embassy or Consulate in the home country of the student, or from Migrationsverket (the Migration Board). Students are strongly advised to apply as soon as they receive their Letter of Acceptance.",
+    "accommodations_info": "Chalmers cannot guarantee accommodation for exchange students but will try best to provide accommodation to incoming exchange students. Incoming exchange students from NUS receive an email from Chalmers with instruction on how to apply for housing in Gothenburg. Chalmers has agreements with the housing agencies SGS Studentbostäder and Chalmers studentbostäder.",
+    "cost_of_living": {
+      "Accommodation": "SEK4,000 – SEK6,300",
+      "Food": "SEK2,500",
+      "Transport": "SEK580 – SEK 1,060",
+      "Telephone/Internet": "SEK400",
+      "Others (Entertainment, clothes)": "SEK1,800",
+      "Monthly Estimate": "SEK10,180 – SEK 13,089"
+    },
+    "university_description": "Chalmers University of Technology is a Swedish university located in Gothenburg, Sweden. It was founded in 1829 and has a focus on research-based education.",
+    "university_address": "Chalmers University of Technology, SE-412 96 Gothenburg, Sweden",
+    "location_cost_of_living": "Gothenburg is known to be more expensive than other Swedish cities. As of 2021, the estimated monthly living expenses range from SEK10,180 – SEK 13,089.",
+    "location_weather": "Gothenburg has a temperate oceanic climate, with cool summers and mild winters. The weather can be unpredictable and rainy, so it's important to pack accordingly.",
+    "location_description": "Gothenburg is the second-largest city in Sweden and is known for its vibrant cultural scene, including music and art festivals. It's also situated on the west coast of Sweden, which allows for easy access to the archipelago and the sea.",
+    "location_crime": "Gothenburg has a moderate crime rate, with pickpocketing being the most common crime for tourists. It's important to be aware of your surroundings and keep valuable belongings secure.",
+    "location_transportation": "Gothenburg has an extensive public transportation system, including buses, trams, and ferries. The city also has a bike-sharing program, which is a popular means of transportation for both locals and tourists.",
+    "location_halal": "Halal food options are available in Gothenburg, with several halal restaurants and grocery stores throughout the city.",
+    "location_vegetarian": "Vegetarian food options are widely available in Gothenburg, with many restaurants offering vegetarian and vegan options on their menus."
+  }
+  

@@ -1,0 +1,55 @@
+{
+   "university_name": "Kyushu University",
+   "university_website": [
+      "http://www.kyushu-u.ac.jp/en/",
+      "https://www.kyushu-u.ac.jp/en/education/schedule/",
+      "http://www.isc.kyushu-u.ac.jp/jtw/",
+      "http://www.isc.kyushu-u.ac.jp/center/f/japanese.html",
+      "http://www.isc.kyushu-u.ac.jp/intlweb/en/admission/e-class",
+      "http://www.isc.kyushu-u.ac.jp/supportcenter/en/housing",
+      "http://www.isc.kyushu-u.ac.jp/supportcenter/en/visa-application",
+      "http://www.mofa.go.jp/j_info/visit/visa/index.html",
+      "https://myportal.nus.edu.sg/studentportal/student-insurance/all/"
+   ],
+   "university_country": "Kyushu, Japan",
+   "sem1_months": [
+      "Early April",
+      "End July"
+   ],
+   "sem2_months": [
+      "Early October",
+      "End February"
+   ],
+   "faculties_accepted": [
+      "School of Letters",
+      "School of Education",
+      "School of Law",
+      "School of Economics",
+      "School of Sciences",
+      "School of Engineering",
+      "School of Design",
+      "School of Agriculture"
+   ],
+   "module_restrictions": "Practical courses such as Medicine, Pharmacy and Dental Sciences are not open to exchange students. Courses offered by Kyushu U Business School and Law School are not open to JTW students.",
+   "visa_info": "Exchange students must obtain a “College Student” visa for the duration of their study in Japan. Upon acceptance, Kyushu U will apply for a Certificate of Eligibility on your behalf with the Japanese Ministry of Justice, and send it to you when issued.",
+   "accommodations_info": "Exchange students will be housed at the residence halls (Dormitory 1, Dormitory 2, or Kyosokan (Harmony House).",
+   "cost_of_living": {
+      "estimated_monthly_cost": "JP¥82,000 - JP¥158,000",
+      "cost_breakdown": {
+         "Accommodation": "JP¥15,000 - JP¥50,000",
+         "Food": "JP¥30,000 - JP¥60,000",
+         "Transport": "JP¥10,000 - JP¥20,000",
+         "Insurance": "JP¥2,000 - JP¥3,000",
+         "Others (Entertainment, clothes)": "JP¥25,000"
+      }
+   },
+   "university_description": "Kyushu University is a public research university in Fukuoka, Japan. It is one of Japan's National Seven Universities and is also a member of the Kyushu-Ryukyu University Association.",
+   "university_address": "",
+   "location_cost_of_living": "",
+   "location_weather": "",
+   "location_description": "Fukuoka is the capital city of Fukuoka Prefecture, situated on the northern shore of the Japanese island of Kyushu. It is an important economic hub of the island, and is home to various cultural institutions and universities.",
+   "location_crime": "",
+   "location_transportation": "",
+   "location_halal": "",
+   "location_vegetarian": ""
+}

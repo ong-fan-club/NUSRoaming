@@ -1,0 +1,32 @@
+{
+  "university_name": "Tongji University",
+  "university_website": [
+    "https://study.tongji.edu.cn/English/CURRENT_STUDENTS/Calendar.htm",
+    "https://fao.tongji.edu.cn/faoenglish/7498/list.htm",
+    "https://is.tongji.edu.cn/10289/list.htm",
+    "https://caup.tongji.edu.cn/caupen/11069/list.htm",
+    "https://study.tongji.edu.cn/English/CURRENT_STUDENTS/Visa___Residence_permits.htm"
+  ],
+  "university_country": "China",
+  "sem1_months": ["September", "October", "November", "December", "January"],
+  "sem2_months": ["February", "March", "April", "May", "June", "July"],
+  "faculties_accepted": [
+    "College of Architecture and Urban Planning",
+    "School of Economic and Management",
+    "College of Design and Innovation",
+    "College of Civil Engineering"
+  ],
+  "module_restrictions": ["Modules offered by the Chinese-German Institute for Applied Sciences are not available to exchange students."],
+  "visa_info": "Exchange students in China are required to apply for student visa (X2 visa for those intending to study in China for a period of no more than 180 days and X1 visa for those intending to study in China for a period of more than 180 days).  You will receive the admission letter and visa application form (JW202) once you are accepted by the host university for the student exchange programme.  Exchange students are required to apply for the student visa in person at the China Visa Application Service Centre in Singapore with the relevant documents before the start of the academic semester.",
+  "accommodations_info": "There are four dormitory buildings for international students located in three campuses (Siping, Zhangwu, Jiading campuses). Basically two students share one room and the cost. Each room is equipped with a toilet, shower and air-conditioner.  Each floor has a public kitchen equipped with microwave oven and induction cooker. In addition, you can also use self-service laundry conveniently.  For exchange students nominated at the University-wide level, students will be guaranteed a twin-sharing room during the semester by Tongji University.  This arrangement is not guaranteed over semester breaks.  Please confirm with the service centre at the on-campus accommodation directly.",
+  "cost_of_living": "ranging from S$5,000 to S$15,000 per semester, subject to the country and local conditions at the overseas Partner University during the period of exchange",
+  "university_description": "Tongji University is a public research university located in Shanghai, China. The university is especially known for its engineering, architecture, and business programs.",
+  "university_address": "1239 Siping Rd, Yangpu Qu, Shanghai Shi, China, 200092",
+  "location_cost_of_living": "The cost of living in Shanghai is generally higher than in other cities in China. However, it varies depending on the location, accommodation, and lifestyle. It is recommended to budget around RMB 7,000 to 10,000 per month.",
+  "location_weather": "Shanghai has a humid subtropical climate with four distinct seasons. Summers are hot and humid, while winters can be cold but usually not freezing. Spring and autumn are generally mild and pleasant.",
+  "location_description": "Shanghai is China's largest city and a global financial hub. It is known for its modern skyscrapers, vibrant nightlife, and rich history and culture.",
+  "location_crime": "Shanghai is generally a safe city with low crime rates. However, like any major city, it is important to take precautions and be aware of your surroundings.",
+  "location_transportation": "Shanghai has an extensive public transportation system that includes metros, buses, taxis, and bicycles. The metro is the most convenient and efficient way to get around the city.",
+  "location_halal": "There are many halal food options available in Shanghai, especially in the many Muslim communities throughout the city.",
+  "location_vegetarian": "Vegetarian food options are also widely available in Shanghai, with many vegetarian and vegan restaurants and options in most dining establishments."
+}

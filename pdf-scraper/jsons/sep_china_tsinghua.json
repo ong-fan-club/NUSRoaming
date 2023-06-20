@@ -1,0 +1,21 @@
+{
+ "university_name": "Tsinghua University",
+ "university_website": ["https://www.tsinghua.edu.cn/en/", "https://www.tsinghua.edu.cn/en/Campus/Student_Life/Academic_Calendar.htm", "https://www.tsinghua.edu.cn/en/Campus/Student_Life/Housing___Dinin g.htm", "https://is.tsinghua.edu.cn/vp/FIS.htm"],
+ "university_country": "China",
+ "sem1_months": ["September", "October", "November", "December", "January"],
+ "sem2_months": ["February", "March", "April", "May", "June"],
+ "faculties_accepted": ["Schools & Departments at Tsinghua University"],
+ "module_restrictions": ["MBA and the Master of Law programmes are not open to exchange students.", "Cross faculty modules are allowed but should not exceed 8 credits.", "Courses conducted by Academy of Arts and Design and Physical training courses are not open to exchange students; LLM, MBA, MPA, courses taught in English offered by the School of Architecture are not open to exchange students."],
+ "visa_info": "Exchange students in China are required to apply for student visa (X2 visa for those intending to study in China for a period of no more than 180 days and X1 visa for those intending to study in China for a period of more than 180 days). Exchange students are required to apply for the student visa in person at the China Visa Application Service Centre in Singapore with the relevant documents before the start of the academic semester. Exchange students are required to report to International Students Office, Tsinghua University for admission registration before the deadline indicated on the Admission Notice.",
+ "accommodations_info": "Tsinghua will prioritise university-level exchange students with on-campus accommodation at Zijing Foreign Student Apartments. The apartment charges different prices for different room types. Typical double room charges RMB 40 per day and single room charges RMB 80 per day. Students may visit https://www.tsinghua.edu.cn/en/Campus/Student_Life/Housing___Dinin g.htm for more details. As there are limited on-campus accommodation, exchange students who have received Tsinghua University’s Admission Notice are required to reserve the rooms in advance by the specific deadline and to follow the application instructions found in the Foreign Students Dormitory Application System along with the admission package.",
+ "cost_of_living": "N/A",
+ "university_description": null,
+ "university_address": null,
+ "location_cost_of_living": null,
+ "location_weather": null,
+ "location_description": null,
+ "location_crime": null,
+ "location_transportation": null,
+ "location_halal": null,
+ "location_vegetarian": null
+}

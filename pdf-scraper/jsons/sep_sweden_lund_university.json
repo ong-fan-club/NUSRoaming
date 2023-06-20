@@ -1,0 +1,54 @@
+{
+  "university_name": "Lund University",
+  "university_website": [
+    "https://www.lunduniversity.lu.se/",
+    "http://www.lunduniversity.lu.se/international-admissions/why-study-at-lund-university/academic-calendar",
+    "www.lunduniversity.lu.se/sas",
+    "www.lunduniversity.lu.se/exchange-swedish",
+    "http://www.lunduniversity.lu.se/international-admissions/exchange-study-abroad/exchange-studies/find-exchange-courses",
+    "http://luaccommodation.lu.se",
+    "http://www.lunduniversity.lu.se/student-life/housing",
+    "http://www.lunduniversity.lu.se/student-life/housing/accommodation-agencies",
+    "https://www.lunduniversity.lu.se/student-life/you-arrive/residence-permits",
+    "https://www.migrationsverket.se/English/Private-individuals/Studying-in-Sweden.html",
+    "https://www.lunduniversity.lu.se/student-life/you-arrive/health-and-insurance",
+    "https://www.lunduniversity.lu.se/about-university/universitys-handling-coronavirus",
+    "https://www.lunduniversity.lu.se/student-life/you-arrive/money-and-living-costs"
+  ],
+  "university_country": "Sweden",
+  "sem1_months": [
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+    "January"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June"
+  ],
+  "faculties_accepted": [
+    "Humanities and Theology",
+    "Medicine",
+    "Law",
+    "Economics and Management",
+    "Social Sciences",
+    "Science",
+    "Engineering"
+  ],
+  "module_restrictions": "Some courses have prerequisites, and some courses are not open to exchange students. Lund University allows exchange students to read a maximum of 30 credits per semester + a 3 credits introductory course in Swedish (SUSA) per semester. Courses may vary in the number of credits.",
+  "visa_info": [
+    "Students from countries outside the EU/EEA need a residence permit to study in Sweden.",
+    "Exchange students coming to Sweden from a non-EU/EEA country may need a residence permit or visa to enter Sweden, depending on your citizenship."
+  ],
+  "accommodations_info": [
+    "Lund University provides various housing options, and students are encouraged to actively search for housing through different agencies.",
+    "Application periods: Autumn semester: 1–25 April, Spring semester: 1–25 October"
+  ],
+  "cost_of_living": "The estimated monthly living expenses are SEK8,100–SEK9,700, which include accommodation, food, transport, telephone/internet, and other expenses. Students requiring a residence permit must demonstrate that they have funds of at least SEK 8,514 per month of study.",
+  "university_description

@@ -1,0 +1,21 @@
+{
+    "university_name": "Emory University",
+    "university_website": ["http://www.emory.edu", "http://abroad.emory.edu/?go=OISPExchange", "http://atlas.college.emory.edu/index.html", "https://housing.emory.edu/"],
+    "university_country": "USA",
+    "sem1_months": ["August", "September", "October", "November", "December"],
+    "sem2_months": ["January", "February", "March", "April", "May"],
+    "faculties_accepted": ["Faculty of Arts and Social Sciences (FASS)", "Faculty of Science (FoS)", "Department of Mathematics and Computer Science"],
+    "module_restrictions": ["NUS students cannot read courses in the Business School, Law School and courses at School of Medicine.", "Students on exchange may register only for courses that are not filled by degree candidates.", "Emory require NUS applicants to have completed at least three semesters at their home university upon application for the Exchange Programme to Emory; and at least two years of study at NUS upon admission to Emory."],
+    "visa_info": "All registered NUS students are covered under the university health insurance and the blanket travel insurance. In addition, students will be required to enrol in the compulsory health insurance policy or scheme at their SEP host university. The cost of quality medical care in the United States is very expensive. Without medical insurance the cost of treatment for an illness or an injury resulting from an accident can be devastating. Indeed, receiving treatment is difficult if you do not have health insurance. Medical insurance is mandatory for ALL students at Emory University.",
+    "accommodations_info": "Exchange students are required to live on campus at Emory University.",
+    "cost_of_living": "Information on the cost of living and attendance at Emory University can be found via the following link. Please note tuition fees are waived for exchange students. http://apply.emory.edu/apply/tuition.php",
+    "university_description": "Emory University is a private research university in Atlanta, Georgia. The university offers undergraduate and graduate programs and has nine academic divisions.",
+    "university_address": "201 Dowman Drive, Atlanta, GA 30322, United States",
+    "location_cost_of_living": "The cost of living in Atlanta, Georgia, is higher than the national average. However, it is considered to be lower than other major US cities like New York or San Francisco.",
+    "location_weather": "The climate in Atlanta is humid subtropical, characterized by hot summers and mild winters. Summers are usually hot and humid, while winters are cool and sometimes rainy.",
+    "location_description": "Atlanta is the capital of the state of Georgia and is known for its rich cultural heritage, diverse attractions, and lively arts community. Home to major landmarks like the Martin Luther King Jr. National Historic Site, the world's busiest airport, and the headquarters of many major corporations, it is a hub for commerce, media, and culture in the southeastern United States.",
+    "location_crime": "Atlanta is known for having a relatively high crime rate, with property crime being the most common type of crime.",
+    "location_transportation": "Atlanta has an extensive public transportation system, including buses, trains, and a streetcar. The city is also served by Hartsfield-Jackson Atlanta International Airport, which is the world's busiest airport by passenger traffic.",
+    "location_halal": "There are many halal food options available in Atlanta, especially in areas with a significant Muslim population like Decatur and Lilburn.",
+    "location_vegetarian": "Atlanta has a growing vegetarian and vegan food scene, with many restaurants offering plant-based options on their menus."
+}

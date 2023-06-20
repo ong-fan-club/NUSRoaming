@@ -1,0 +1,25 @@
+{
+  "university_name": "Tecnológico de Monterrey",
+  "university_website": [
+    "https://studyinmexico.tec.mx/",
+    "https://intercambioseguro.com/en/",
+    "https://linktr.ee/ipo.tec"
+  ],
+  "university_country": "Mexico",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["February", "March", "April", "May", "June"],
+  "faculties_accepted": null,
+  "module_restrictions": null,
+  "visa_info": "Exchange students who study for one semester only (180 days or less) are not required to apply for a student visa. However, depending on your country of citizenship, you may have to apply for a visitor visa to travel to Mexico.  Singapore citizens do not require a visa to travel to Mexico for a period of entry not exceeding 180 days and for non-gainful activities (tourist). Please check your visa requirement and the latest advice on visa regulations from the Embassy of Mexico in Singapore. https://embamex.sre.gob.mx/singapur/index.php/consular-services/visas",
+  "accommodations_info": null,
+  "cost_of_living": null,
+  "university_description": null,
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": null,
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

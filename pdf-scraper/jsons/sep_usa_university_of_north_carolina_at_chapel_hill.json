@@ -1,0 +1,50 @@
+{
+  "university_name": "University of North Carolina at Chapel Hill",
+  "university_website": [
+    "http://www.unc.edu/",
+    "https://studyabroad.unc.edu/incoming-exchange/"
+  ],
+  "university_country": "USA",
+  "sem1_months": [
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "faculties_accepted": [
+    "NUS Business School",
+    "Faculty of Arts & Social Sciences",
+    "Faculty of Science",
+    "University Scholars Programme",
+    "School of Computing"
+  ],
+  "module_restrictions": "Please check with your home School or Faculty's Dean's Office.",
+  "visa_info": "International exchange students will apply for an F1 visa. This visa will allow you to enter the US 30 days prior to the program start date listed on your I-20 form and depart the US 60 days after the program end date listed on your I-20 form.",
+  "accommodations_info": {
+    "on_campus_housing": [
+      "International students can select from the 31 campus residence halls. Double occupancy rooms are the only option. Apartment style housing is limited. Click here for additional housing information."
+    ],
+    "off_campus_housing": "International students can reside in off campus housing. You would be responsible for identifying the type of housing and make the necessary arrangements.",
+    "meals_info": "Students are not required to purchase a campus meal plan, but it is strongly recommended. Several meal plan options are available that can meet a student's dining habits. Click here for details and description of the various meal plan options."
+  },
+  "cost_of_living": {
+    "estimated_monthly_living_expenses": "Please refer to the following link for an estimated cost of living at UNC: \nhttp://studentaid.unc.edu/cost-of-attendance/undergraduate/\n(Tuition fees are waived for exchange students)"
+  },
+  "university_description": "The University of North Carolina at Chapel Hill is a public research university in Chapel Hill, North Carolina. It is one of the 17 campuses of the University of North Carolina system.",
+  "university_address": "Chapel Hill, North Carolina, USA",
+  "location_cost_of_living": "The cost of living in the city of Chapel Hill, North Carolina is generally affordable for students.",
+  "location_weather": "The climate of Chapel Hill is characterized by hot and humid summers and mild winters.",
+  "location_description": "Chapel Hill is a college town in North Carolina which is known for its history, music, and friendly atmosphere.",
+  "location_crime": "Chapel Hill is considered to be a safe city to live in.",
+  "location_transportation": "The transportation options in Chapel Hill include buses, taxis, and ride-sharing services.",
+  "location_halal": "Halal food options are available in Chapel Hill.",
+  "location_vegetarian": "Vegetarian food options are available in Chapel Hill."
+}

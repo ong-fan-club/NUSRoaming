@@ -1,0 +1,49 @@
+{
+  "university_name": "Chulalongkorn University",
+  "university_website": [
+    "http://www.chula.ac.th/en/"
+  ],
+  "university_country": "Bangkok, Thailand",
+  "sem1_months": [
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "sem2_months": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May"
+  ],
+  "faculties_accepted": [],
+  "module_restrictions": "Ensure that you meet the pre-requisites for the courses you are applying for.",
+  "visa_info": "International students require a Non-Immigrant Education Visa (category ED) to study in Thailand.",
+  "accommodations_info": {
+    "university_accommodation": "Chulalongkorn University International House (CU iHouse) is a 26-storey, 846-unit, on campus residence for international students and lecturers. Rooms come fully furnished with air conditioner, modern conveniences, 24-hour security and safety systems. The residence is included in the university’s shuttle bus services. Kindly note that CU iHouse has limited availability. Please apply as early as possible or explore other alternative accommodation options.",
+    "private_accommodation": [
+      "Nonsi-residence http://www.nonsiresidence.com/",
+      "I-sanook https://www.i-sanook.com/en-us"
+    ]
+  },
+  "cost_of_living": {
+    "estimated_cost": "THB25,000 – THB45,000",
+    "cost_breakdown": {
+      "Accommodation": "THB14,000 – THB22,000",
+      "Food": "THB5,000 – THB12,000",
+      "Transport": "THB1,000 – THB3,000",
+      "Others (Entertainment, clothes)": "THB5,000 – THB8,000"
+    }
+  },
+  "university_description": "Chulalongkorn University is a public and autonomous research university in Bangkok, Thailand. It is the oldest and one of the most prestigious universities in Thailand.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

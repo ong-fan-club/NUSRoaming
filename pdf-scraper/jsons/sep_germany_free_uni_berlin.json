@@ -1,0 +1,8 @@
+{
+   "university_name": "Free University Berlin",
+   "university_website": ["https://www.fu-berlin.de/en/studium/international/studium_ausland/direkt/index.html", "https://www.fu-berlin.de/en/studium/studienorganisation/termine/index.html", "https://www.fu-berlin.de/vv/en/fb_archiv?id=411506&sm=411506", "http://www.sprachenzentrum.fu-berlin.de/en/sprachangebot/sprachen/deutsch/vorkurs_deutsch/index.html", "http://www.sprachenzentrum.fu-berlin.de/en/sprachangebot/sprachen/deutsch/index.html", "http://www.fu-berlin.de/en/studium/international/studium_fu/einreise_aufenthalt/visum/index.html", "http://www.fu-berlin.de/en/studium/international/studium_fu/einreise_aufenthalt/krankenversicherung/index.html"],
+   "university_country": "Germany",
+   "sem1_months": ["October", "November", "December", "January", "February", "March"],
+   "sem2_months": ["April", "May", "June", "July", "August", "September"],
+   "faculties_accepted": "All except Medicine and Veterinary Medicine",
+   "module_restrict

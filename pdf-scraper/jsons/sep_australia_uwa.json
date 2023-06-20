@@ -1,0 +1,29 @@
+{
+  "university_name": "University of Western Australia",
+  "university_website": ["http://www.education.uwa.edu.au/students/timetables", "https://www.uwa.edu.au/study/courses-and-careers/study-abroad-and-student-exchange/Completing-exchange-at-UWA"],
+  "university_country": "Australia",
+  "sem1_months": ["Late February", "Mid June"],
+  "sem2_months": ["Late July", "Mid November"],
+  "faculties_accepted": null,
+  "module_restrictions": null,
+  "visa_info": {
+    "visa_type": "Australian Non Award Student Visa (sub-class 500)",
+    "visa_application_link": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+    "visa_application_timing": "Immediately after receiving official offer letter/email from host university",
+    "visa_requirement": "Electronic Confirmation of Enrolment (eCoE) from host university after purchasing Overseas Student Health Cover (OSHC)"
+  },
+  "accommodations_info": null,
+  "cost_of_living": {
+    "total_cost": null,
+    "breakdown": null
+  },
+  "university_description": null,
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": null,
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

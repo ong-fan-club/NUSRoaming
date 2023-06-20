@@ -1,0 +1,21 @@
+{
+"university_name": "Delft University of Technology",
+"university_website": ["https://www.tudelft.nl/en/education/programmes/exchange/"],
+"university_country": "The Netherlands",
+"sem1_months": ["August", "September", "October", "November", "December", "January"],
+"sem2_months": ["February", "March", "April", "May", "June", "July"],
+"faculties_accepted": ["All faculties except Arts & Social Sciences and Law"],
+"module_restrictions": "Only students who are in Year 3 of their study when embarking for SEP, can apply to go to TU Delft. It is important that you have the relevant academic background for the courses that you apply for. You must have taken modules at NUS within the specific subject field to be accepted to any of the faculties / departments at TU Delft.",
+"visa_info": "Information about immigration-related issues is available at: https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/",
+"accommodations_info": "Information about student housing is available at: https://www.tudelft.nl/en/education/practical-matters/housing/",
+"cost_of_living": "The Netherlands uses the Euro for its currency. Information about the cost of living and estimated expenses in Delft is available at: https://www.tudelft.nl/en/education/practical-matters/tuition-fee-finances/.",
+"university_description": "Delft University of Technology, also known as TU Delft, is the largest and oldest Dutch public technical university, located in Delft, Netherlands. It consistently ranks as one of the best universities in the Netherlands and is known for its research in engineering and technology.",
+"university_address": null,
+"location_cost_of_living": "The cost of living in the Netherlands is generally regarded as high, however, Delft is regarded as an affordable city compared to Amsterdam, The Hague, and Rotterdam.",
+"location_weather": "Delft has a moderate oceanic climate (Cfb) according to the Köppen climate classification.",
+"location_description": "Delft is a city in the province of South Holland in the Netherlands, located halfway between Rotterdam and The Hague. It is known for its historic canals, Delftware pottery, and architecture.",
+"location_crime": "Delft is generally known as a safe city with low levels of crime.",
+"location_transportation": "Delft has a good public transportation network, including an extensive bus system as well as trains that connect to other major cities.",
+"location_halal": "Halal food options are available in Delft.",
+"location_vegetarian": "Vegetarian food options are available in Delft."
+}

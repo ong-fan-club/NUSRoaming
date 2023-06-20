@@ -1,0 +1,21 @@
+{
+	"university_name": "Eindhoven University of Technology",
+	"university_website": ["https://www.tue.nl/en/education/become-a-tue-student/exchange-students/"],
+	"university_country": "The Netherlands",
+	"sem1_months": ["August","September","October","November","December","January"],
+	"sem2_months": ["February","March","April","May","June","July"],
+	"faculties_accepted": ["All faculties except Arts & Social Sciences and Law (recommended for SDE students from Architecture and Industrial Design)"],
+	"module_restrictions": "Only students who are in Year 3 of their study when embarking for SEP can apply to go to TU/e",
+	"visa_info": "Information about immigration-related issues will be sent to you by TU/e after you have been accepted.",
+	"accommodations_info": "https://www.tue.nl/en/education/become-a-tue-student/housing/",
+	"cost_of_living": "https://www.tue.nl/en/education/become-a-tue-student/tuition-fees-and-other-study-costs/",
+	"university_description": "",
+	"university_address": "",
+	"location_cost_of_living": "",
+	"location_weather": "",
+	"location_description": "",
+	"location_crime": "",
+	"location_transportation": "",
+	"location_halal": "",
+	"location_vegetarian": ""
+}

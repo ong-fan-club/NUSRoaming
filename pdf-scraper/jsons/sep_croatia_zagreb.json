@@ -1,0 +1,15 @@
+{
+"university_name": "University of Zagreb",
+"university_website": ["http://www.unizg.hr/homepage/"],
+"university_country": "Croatia",
+"sem1_months": ["Early October", "November","December", "January", "Mid-February"],
+"sem2_months": ["Late February", "March", "April", "May", "Early July"],
+"faculties_accepted": {
+    "FASS": ["Political Science"],
+    "FoE": ["Chemical Engineering and Technology", "Mechanical Engineering", "Electrical Engineering and Computing", "Geology and Petroleum Engineering"],
+    "FoS": ["Biochemistry", "Food Technology and Biotechnology", "Forestry", "Transport and Traffic Sciences"]
+},
+"module_restrictions": ["Business, Law and Military Studies modules not opened to NUS students participating in the Exchange Programme in Zagreb.", "Economics modules offered at University of Zagreb are more literature-based and not mathematical or statistical-based."],
+"visa_info": {
+    "Singapore passport holders": ["may enter Croatia with a valid passport before applying for a residence permit in Zagreb", "are advised to"]
+}}

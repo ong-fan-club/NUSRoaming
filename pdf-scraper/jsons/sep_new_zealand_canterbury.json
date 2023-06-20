@@ -1,0 +1,25 @@
+{
+ "university_name": "University of Canterbury",
+ "university_website": ["https://www.canterbury.ac.nz/study/keydates/", "https://www.canterbury.ac.nz/study/study-abroad-and-exchange/incoming-student-exchange/", "https://covid19.govt.nz/", "https://www.youtube.com/watch?v=MgENzPHwXUU"],
+ "university_country": "New Zealand",
+ "sem1_months": ["End February", "End March", "April", "May", "June"],
+ "sem2_months": ["Mid July", "August", "September", "Early November"],
+ "faculties_accepted": [],
+ "module_restrictions": null,
+ "visa_info": "Exchange students must apply to New Zealand Immigration for a student visa. It is NOT possible for exchange students to travel to New Zealand on a visitor's visa and apply for a student permit upon arrival in New Zealand. Students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Exchange students are required to purchase a compulsory medical and travel insurance when studying in New Zealand. ",
+ "accommodations_info": null,
+ "cost_of_living": {
+     "default_insurance_cover": "Studentsafe-University insurance",
+     "estimated_cost_per_semester": "NZ$350",
+     "comprehensive_travel_insurance": "Recommended for the full duration of your stay abroad, including personal travel within/outside Australia"
+ },
+ "university_description": null,
+ "university_address": null,
+ "location_cost_of_living": null,
+ "location_weather": null,
+ "location_description": null,
+ "location_crime": null,
+ "location_transportation": null,
+ "location_halal": null,
+ "location_vegetarian": null
+}

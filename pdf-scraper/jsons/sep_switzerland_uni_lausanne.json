@@ -1,0 +1,56 @@
+{
+   "university_name": "University of Lausanne",
+   "university_website": [
+      "https://www.unil.ch/central/en/home.html",
+      "https://www.unil.ch/international/incoming",
+      "https://www.unil.ch/international/studyatunil",
+      "https://www.unil.ch/fle",
+      "http://www.unil.ch/international/insurance",
+      "https://www.unil.ch/coronavirus/en/home.html",
+      "https://www.unil.ch/international/comingtolausanne"
+   ],
+   "university_country": "Switzerland",
+   "sem1_months": [
+      "September",
+      "October",
+      "November",
+      "December",
+      "January"
+   ],
+   "sem2_months": [
+      "February",
+      "March",
+      "April",
+      "May",
+      "June"
+   ],
+   "faculties_accepted": [
+      "Faculty of Theology and Religious Studies",
+      "Faculty of Law and Criminal Justice",
+      "Faculty of Arts",
+      "Faculty of Social and Political Sciences",
+      "Faculty of Business and Economics",
+      "Faculty of Geosciences and Environment",
+      "Faculty of Biology and Medicine"
+   ],
+   "module_restrictions": "Some courses may require specific prerequisites and the approval of the Master programme’s director. The following areas are restricted from exchange students:\n-School of Medicine (except specific SEMP agreements)\n-School of Criminal Justice (except Master of Law in Criminology and Security; for courses of the Bachelor and Master in Forensic Sciences, a written request must be addressed to the Direction of the School).\n-MSc in Medical Biology\n-MSc in Accounting, Control and Finance\n-Executive programmes (EMBA, MAS, etc.)",
+   "visa_info": "Foreign students must have a health and accident insurance coverage that complies with Swiss regulations. If a foreign health and accident insurance does not offer the minimum coverage required by Swiss law, the exchange student will have to contract a Swiss health and accidence insurance. Students should apply to the Swiss diplomatic representation in their own country in order to complete the necessary administrative procedure. It is very important that these formalities are started within the time limits set, i.e. 2 to 3 months before their arrival in Switzerland.",
+   "accommodations_info": "UNIL cannot guarantee housing for all exchange students. Priority is given to overseas exchange students. University halls of residence are open to bachelor and master students only. Advanced studies and continuing education students (Master of Advanced Studies) have no access to university halls of residence. Students who did not get a room through our office can ask for a room rent list.",
+   "cost_of_living": {
+      "Accommodation": "CHF500 – CHF750",
+      "Food": "CHF600",
+      "Transport": "CHF80",
+      "Insurance": "CHF100",
+      "Others (Entertainment, clothes)": "CHF500",
+      "Monthly Estimate": "CHF1,900"
+   },
+   "university_description": "The University of Lausanne (UNIL) is a higher teaching and research institution composed of seven faculties where approximately 15,500 students and nearly 5,000 collaborators, professors, and researchers work and study. UNIL is focused on several academic domains: Arts, Theology, Humanities, Social Sciences, Economics, Business, Law, Criminal Justice, Sciences, Medicine, and Geosciences.",
+   "university_address": "",
+   "location_cost_of_living": "",
+   "location_weather": "",
+   "location_description": "",
+   "location_crime": "",
+   "location_transportation": "",
+   "location_halal": "",
+   "location_vegetarian": ""
+}

@@ -1,0 +1,29 @@
+{
+   "university_name": "University of Sydney",
+   "university_website": ["https://sydney.edu.au/students/key-dates.html", "https://www.sydney.edu.au/study/why-choose-sydney/study-abroad-and-exchange/study-abroad-at-sydney.html", "https://covid19.homeaffairs.gov.au/", "https://www.sydney.edu.au/content/dam/corporate/documents/study/study-abroad/study-abroad-inbound-guide.pdf", "https://youtu.be/ap2XBUgk_Ak", "https://www.youtube.com/user/uniofsydney", "https://www.youtube.com/watch?v=wuUK-mmpiZY"],
+   "university_country": "Australia",
+   "sem1_months": ["Late February", "Late March", "April", "May", "June"],
+   "sem2_months": ["Late July", "August", "September", "October", "Late November"],
+   "faculties_accepted": "Unknown",
+   "module_restrictions": "Unknown",
+   "visa_info": {
+      "visa_type": "Australian Non Award Student Visa (sub-class 500)",
+      "visa_cost": "Unknown",
+      "visa_website": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500",
+      "health_coverage_required": "Overseas Student Health Cover (OSHC) policy",
+      "health_coverage_cost": "Approximately A$350 for 6 months",
+      "health_coverage_website": "Unknown",
+      "other_requirements": "Clearance by the immigration of the host country"
+   },
+   "accommodations_info": "Unknown",
+   "cost_of_living": "Unknown",
+   "university_description": "Unknown",
+   "university_address": "Unknown",
+   "location_cost_of_living": "Unknown",
+   "location_weather": "Unknown",
+   "location_description": "Unknown",
+   "location_crime": "Unknown",
+   "location_transportation": "Unknown",
+   "location_halal": "Unknown",
+   "location_vegetarian": "Unknown"
+}

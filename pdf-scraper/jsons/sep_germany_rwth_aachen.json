@@ -1,0 +1,78 @@
+{
+  "university_name": "RWTH Aachen University",
+  "university_website": [
+    "http://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Internationales/~bqtq/Exchange-Incomings/?lidx=1",
+    "http://www.rwth-aachen.de/cms/root/Studium/Im-Studium/~egv/Semestertermine/lidx/1/",
+    "http://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Internationales/Exchange-Incomings/Bewerbung/~iprm/Fachliche-Vorbereitung/lidx/1/",
+    "http://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Internationales/Exchange-Incomings/~djtn/Planung-des-Aufenthaltes/lidx/1/",
+    "http://www.rwth-aachen.de/go/id/hngs/lidx/1",
+    "http://www.rwth-aachen.de/go/id/bqmn/lidx/1"
+  ],
+  "university_country": "Germany",
+  "sem1_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "sem2_months": [
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September"
+  ],
+  "faculties_accepted": [
+    "Data Science",
+    "Electrical Engineering",
+    "Computer Engineering",
+    "Physics"
+  ],
+  "module_restrictions": [
+    "School of Business and Economics",
+    "Helmholtz Institute for Biomedical Engineering"
+  ],
+  "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. ",
+  "accommodations_info": "As an exchange student from NUS, you can also apply for so-called “quota rooms”. The International Office has arranged a limited allotment of rooms in the dorms with Studierendenwerk (226 rooms). If you are eligible for a quota room, the International Office Housing Service will inform you about the application procedure in a separate email (around December for summer term) after you have applied as an exchange student or scholarship holder.",
+  "cost_of_living": {
+    "Accommodation": {
+      "min": 250,
+      "max": 440,
+      "currency": "EUR"
+    },
+    "Insurance": {
+      "amount": 80,
+      "currency": "EUR"
+    },
+    "Food": {
+      "amount": 350,
+      "currency": "EUR"
+    },
+    "University fees": {
+      "amount": 42,
+      "currency": "EUR"
+    },
+    "Others": {
+      "amount": 150,
+      "currency": "EUR"
+    },
+    "Monthly Estimate": {
+      "min": 872,
+      "max": 1062,
+      "currency": "EUR"
+    },
+    "Statement of Financial Support": "In order to receive a residence permit, you need to present to the Ausländerbehörde (local foreigner’s registration office) a statement of financial support proving that you have at least €735 to live on for each month of your stay. This can either be a bank statement, a notarized parental letter or a scholarship certificate."
+  },
+  "university_description": "RWTH Aachen University is a research university located in Aachen, North Rhine-Westphalia, Germany. It is one of the country's leading science and engineering universities, and is especially famous for its engineering programmes.",
+  "university_address": "Templergraben 55, 52062 Aachen, Germany",
+  "location_cost_of_living": "According to numbeo.com, the cost of living in Aachen is relatively affordable in comparison to other cities in Germany. However, it is still advisable to budget accordingly to ensure a comfortable stay. ",
+  "location_weather": "Aachen experiences a moderate oceanic climate that is influenced by its proximity to the North Sea. The summers are mildly warm with temperatures averaging between 17-21 degrees Celsius, while the winters can get quite cold, with average temperatures ranging from 2-6 degrees Celsius. It is advisable to pack accordingly if visiting during the winter season.",
+  "location_description": "Aachen is a historic spa town located in western Germany, close to the borders of Belgium and the Netherlands. It is home to several historic landmarks, such as Aachen Cathedral, which is a UNESCO World Heritage Site. The city also has a lively cultural scene, with many museums, galleries, and theatres.",
+  "location_crime": "Aachen is considered to be a safe and peaceful city, with relatively low crime rates. However, it is still advisable to exercise caution and take reasonable safety measures, particularly when travelling alone or at night.",
+  "location_transportation": "Aachen has a well-developed public transportation system that includes buses, trams, and trains. The most convenient way to travel within the city is by bus, and tickets can be purchased at most local convenience stores and kiosks. The Deutsche Bahn railway also provides connections to other major German cities and nearby countries.",
+  "location_halal": "Halal food options are available in Aachen, particularly in the city centre where there are several halal restaurants and grocery stores.",
+  "location_vegetarian": "Vegetarian food options are readily available in Aachen, with many restaurants and cafes offering vegetarian dishes on their menus."
+}

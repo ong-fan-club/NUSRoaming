@@ -1,0 +1,43 @@
+{
+  "university_name": "The College of William and Mary",
+  "university_website": ["http://www.wm.edu", "https://www.wm.edu/offices/registrar/calendarsandexams/ugcalendars/index.php", "http://catalog.wm.edu/index.php", "http://www.wm.edu/offices/revescenter/issp/life/index.php", "http://www.wm.edu/offices/wellness/healthcenter/studentinsurance/plan/index.php"],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "Exchange students cannot take Law, Business Administration and Graduate-level courses.",
+  "visa_info": "Exchange students will apply for a J-1 visa. To receive necessary paperwork to apply for a J-1 visa, students need to complete the iStart application. Students are strongly encouraged to complete the immigration paperwork at their earliest to avoid delays in visa issuance.",
+  "accommodations_info": {
+    "university_accommodation": {
+      "on-campus": [{
+        "type": "residence hall",
+        "description": "shared room",
+        "cost": "$2,400 to $3,200 per semester",
+        "additional_info": "Each student must pay a refundable room damage deposit of USD $75."
+      }, {
+        "type": "special housing",
+        "description": "fraternity/sorority housing, language houses, Reves Hall (for students interested in International Studies)",
+        "cost": null,
+        "additional_info": null
+      }],
+      "off-campus": null
+    },
+    "meal_plan_required": true,
+    "meal_plan_options": ["varies depending on social class and living location"],
+    "early_arrivals": "International on-campus students who arrive before designated arrival dates are responsible for finding their own housing accommodations. Temporary on-campus housing is not available."
+  },
+  "cost_of_living": {
+    "monthly_living_expenses": null,
+    "additional_info": ["As a visiting exchange student, you will not be billed for W&M’s standard tuition; rather, you will continue to pay your home university’s tuition."],
+    "currency": "USD"
+  },
+  "university_description": "The College of William & Mary is a comprehensive university located in Williamsburg, Virginia. Founded in 1693, it is the second-oldest institution of higher education in the US after Harvard University. The university has a strong focus on undergraduate education and attracts students from all over the world.",
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": "Williamsburg is a city in the state of Virginia, known for its history and historic landmarks. It is a popular tourist destination and also attracts a large number of students due to the presence of the College of William & Mary. The city is located on the Virginia Peninsula and is part of the Hampton Roads metropolitan area.",
+  "location_crime": null,
+  "location_transportation": null,
+  "location_halal": null,
+  "location_vegetarian": null
+}

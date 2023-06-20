@@ -1,0 +1,44 @@
+{
+   "university_name":"University of Wisconsin Madison",
+   "university_website":[
+      "http://www.wisc.edu/",
+      "www.studyabroad.wisc.edu/exchange"
+   ],
+   "university_country":"USA",
+   "sem1_months":[
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+   ],
+   "sem2_months":[
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+   ],
+   "faculties_accepted":[
+      "FASS",
+      "FoE",
+      "FoS",
+      "SoC"
+   ],
+   "module_restrictions":"Exchange students are rarely, if ever, allowed to enroll in courses from UW-Madison professional schools (Medicine, Veterinary Medicine, Pharmacy, Nursing, Law, Education, etc).",
+   "visa_info":"Students who hold F-1 or J-1 student visas are not eligible to transfer this status to UW-Madison while holding a student visa issued from another school, except for the summer term.",
+   "accommodations_info":[
+      "On-campus housing is available through the Division of University Housing. The University residence halls are a short walk or short ride on the campus circular bus route (Route 80) to class. All University residence hall students have access to University residence hall dining rooms.",
+      "Off-campus housing is available, but it is up to the student to find and arrange appropriate accommodations."
+   ],
+   "cost_of_living":"Please refer to the following link: https://financialaid.wisc.edu/cost-of-attendance/ (Please note tuition fees are waived due to exchange status).",
+   "university_description":"The University of Wisconsin-Madison is one of the oldest and most prestigious public universities in the United States. It is a flagship institution of the University of Wisconsin System and offers a wide range of undergraduate and graduate programs.",
+   "university_address":"University of Wisconsin-Madison, 500 Lincoln Dr, Madison, WI 53706, USA",
+   "location_cost_of_living":"Madison, Wisconsin is an affordable city to live in, with a low cost of living compared to other major cities in the US.",
+   "location_weather":"Madison, Wisconsin has a humid continental climate, with warm summers and cold winters. Average temperatures range from the low 20s °F (-6 to -4 °C) in January to the high 70s °F (24 to 26 °C) in July.",
+   "location_description":"Madison, Wisconsin is the capital of Wisconsin and home to the University of Wisconsin-Madison. It is a vibrant city with a diverse population, a thriving arts scene, and many cultural and recreational opportunities.",
+   "location_crime":"Madison, Wisconsin has a low crime rate compared to other cities of similar size in the US. The city has a well-funded and highly-regarded police force that is dedicated to keeping the city safe.",
+   "location_transportation":"Madison, Wisconsin has a public transportation system that includes buses and a light rail system. The city is also bike-friendly, with many bike lanes and trails.",
+   "location_halal":"Halal food options are available in Madison, Wisconsin.",
+   "location_vegetarian":"Vegetarian food options are available in Madison, Wisconsin."
+}

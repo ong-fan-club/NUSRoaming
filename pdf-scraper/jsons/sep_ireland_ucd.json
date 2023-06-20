@@ -1,0 +1,45 @@
+{
+   "university_name":"University College Dublin",
+   "university_website":[
+      "https://www.ucd.ie/global/learningabroad/exchanges/inboundexchange-students/"
+   ],
+   "university_country":"Ireland",
+   "sem1_months":[
+      "September",
+      "October",
+      "November",
+      "December"
+   ],
+   "sem2_months":[
+      "January",
+      "February",
+      "March",
+      "April",
+      "May"
+   ],
+   "faculties_accepted":[
+      "College of Arts & Humanities",
+      "College of Business",
+      "College of Social Sciences & Law",
+      "College of Engineering & Architecture",
+      "College of Science",
+      "College of Health & Agricultural Science (excluding Medicine, Nursing, and Veterinary Medicine)"
+   ],
+   "module_restrictions":"Graduate modules are not open to undergraduate exchange students. Please note that module restrictions may apply in the areas of Health & Agriculture Sciences, Education, Psychology, Business, Law, English Literature, and History.",
+   "visa_info":{
+      "requirements":"All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. The visa application process could take up to 2 months to process. Your exchange at the host university depends on clearance by the immigration of the host country.",
+      "visa_website":"https://www.irishimmigration.ie/wp-content/uploads/2021/07/Immigration-Service-Delivery-Visa-and-Non-Visa-Required-Countries.pdf",
+      "registration_requirements":"All students who do NOT hold an EU passport must register with the Irish Naturalisation and Immigration Service (INIS) after arrival in Ireland. Further information on the requirements to register can be found on the INIS website: https://www.irishimmigration.ie/coming-to-study-in-ireland/before-and-after-you-arrive/what-do-i-need-to-do-after-arriving/"
+   },
+   "accommodations_info":{
+      "on_campus":{
+         "description":"UCD has on-campus accommodation for over 2,500 students in both halls of residence and three, four, five and six-bedroom self-catering apartments. These are spread across five locations, with 300 places located on the nearby Blackrock Campus. However, places are limited and on-campus accommodation is not guaranteed.",
+         "website":"https://www.ucd.ie/residences/bookings/finance/",
+         "rental_cost":"The on-campus accommodation rental cost must be paid in full at the start of each semester."
+      },
+      "off_campus":{
+         "description":"For more information on off-campus housing, please visit https://www.ucd.ie/global/study-at-ucd/accommodation/offcampusaccommodation/. Alternatively, students can arrive 2-3 weeks before term begins in order to search for suitable accommodation. There is enormous demand for accommodation in the areas of Dublin surrounding UCD. The search starts in August and increases throughout September/October. Students should note that it is always advisable to view private accommodation in advance and read the fine print in order to ascertain that it suits your requirements."
+      }
+   },
+   "cost_of_living":"Information on cost of living can be found at https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/livingcosts/."
+}

@@ -1,0 +1,52 @@
+{
+  "university_name": "University of Bologna",
+  "university_website": ["http://www.unibo.it/en"],
+  "university_country": "Italy",
+  "sem1_months": ["September", "October", "November", "December", "January", "February"],
+  "sem2_months": ["February", "March", "April", "May", "June", "July"],
+  "faculties_accepted": [
+    "Agriculture and Veterinary Medicine",
+    "Arts, Humanities, and Cultural Heritage",
+    "Economics, Management, and Statistics",
+    "Engineering and Architecture",
+    "Foreign Languages and Literature, Interpreting and Translation",
+    "Law",
+    "Pharmacy, Biotechnology and Sport Science",
+    "Political Science",
+    "Psychology and Education",
+    "Science"
+  ],
+  "module_restrictions": "There are no specific language requirements for studying at the University of Bologna. Students without sufficient Italian proficiency are only allowed to read English-taught courses. The normal course load is 30 ECTS per semester.",
+  "visa_info": "Non-EU citizen students going to UNIBO for more than 90 days will need to apply for a Visa for study purposes to enter Italy. Students should request the health insurance to be stamped by the Embassy/Consulate when applying for the visa such that it can be used for application of residency Permit, which is to be done upon arrival in Italy. When arriving in Italy, students must also apply for a Residence Permit. This is a compulsory procedure for all non-EU citizens wishing to stay in Italy for more than 90 days.",
+  "accommodations_info": "Bologna welcomes a large number of students and finding accommodation can be difficult, especially in September at the beginning of the academic year. Start looking for accommodation well in advance. It is advisable to book an accommodation before arriving in Bologna.",
+  "cost_of_living": {
+    "Monthly Estimate": "€800-1000",
+    "Breakdown of Costs": [
+      {
+        "Cost": "Accommodation",
+        "Amount": "€500 + utilities"
+      },
+      {
+        "Cost": "Food",
+        "Amount": "€240"
+      },
+      {
+        "Cost": "Transport",
+        "Amount": "€40"
+      },
+      {
+        "Cost": "Others (Entertainment, clothes)",
+        "Amount": "€140"
+      }
+    ]
+  },
+  "university_description": "",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

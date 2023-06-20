@@ -1,0 +1,21 @@
+{
+  "university_name": "Brandeis University",
+  "university_website": ["http://www.brandeis.edu/", "https://www.brandeis.edu/abroad/approved-programs/exchanges/incoming-exchange/index.html"],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "It can be difficult to register for courses in the Business department due to high demand. Graduate-level courses are not available to exchange students.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Students are expected to obtain a J-1 Student Entry Visa. Students must present the required documents to the consular section of the U.S. Embassy, as instructed by Brandeis closer to the time of application. Please note that there will be a SEVIS Fee which must be paid before you go to the embassy for your visa interview.",
+  "accommodations_info": "More information on housing will be provided by Brandeis university following acceptance to the programme. https://www.brandeis.edu/abroad/approved-programs/exchanges/incoming-exchange/housing.html",
+  "cost_of_living": "More information on cost estimates can be seen at: https://www.brandeis.edu/abroad/approved-programs/exchanges/incoming-exchange/financial.html",
+  "university_description": "Brandeis University is a private research university located in Waltham, Massachusetts. With a student population of approximately 5,800, the university offers undergraduate and graduate programmes across a wide range of academic fields, including arts, humanities, natural and social sciences, and management.",
+  "university_address": "",
+  "location_cost_of_living": "",
+  "location_weather": "",
+  "location_description": "Waltham is a city located in Middlesex County, Massachusetts. It is located approximately 10 miles west of Boston, and is known for its historic sites and cultural attractions. The city has a population of approximately 70,000 people, and features a variety of shopping and dining options as well as many parks and recreational facilities.",
+  "location_crime": "",
+  "location_transportation": "",
+  "location_halal": "",
+  "location_vegetarian": ""
+}

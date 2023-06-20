@@ -1,0 +1,21 @@
+{
+  "university_name": "The University of Texas at Austin",
+  "university_website": ["http://www.utexas.edu/", "https://world.utexas.edu/isss/students/exchange"],
+  "university_country": "USA",
+  "sem1_months": ["August", "September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": ["FASS", "FoS", "FoE", "SoC", "Law"],
+  "module_restrictions": "Some programs at UT are either highly selective due to high student demand, require specific application requirements, or are completely unavailable to exchange students.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university.",
+  "accommodations_info": "On-campus housing is not guaranteed at UT Austin. For more information on housing options and estimated costs, please refer to the following page:  https://world.utexas.edu/isss/life/housing",
+  "cost_of_living": "Tuition is waived for exchange students. Estimated monthly living expenses can be found at http://www.collegecalc.org/colleges/texas/the-university-of-texas-at-austin/",
+  "university_description": "The University of Texas at Austin is a public research university in Austin, Texas. It was founded in 1883 and is one of the largest universities in the United States.",
+  "university_address": "The University of Texas at Austin, Austin, TX 78712, USA",
+  "location_cost_of_living": "The cost of living in Austin, Texas is generally considered to be higher than the national average. However, it may be lower than other major urban areas in the United States such as New York City, Los Angeles, or San Francisco.",
+  "location_weather": "Austin has a humid subtropical climate, with hot summers and mild winters. The city generally receives a significant amount of rain throughout the year, though more commonly in the spring and fall.",
+  "location_description": "Austin is the capital city of the U.S. state of Texas and is known for its vibrant music, arts, and cultural scene. It is also home to numerous technology companies and startup businesses.",
+  "location_crime": "Austin has a relatively low crime rate compared to other major U.S. cities. However, like any urban area, there are certain areas or situations that may be more dangerous than others.",
+  "location_transportation": "Austin has a public transportation system that includes buses and a light rail system known as Capital Metro. The city also has several ride-sharing services, such as Uber and Lyft, as well as taxi and car rental companies.",
+  "location_halal": "Halal food options are available in Austin, though they may be less common than other types of cuisine. There are several restaurants and grocery stores that specialize in halal food.",
+  "location_vegetarian": "Vegetarian food options are widely available in Austin, with many restaurants and cafes offering vegetarian and vegan options on their menus."
+}
