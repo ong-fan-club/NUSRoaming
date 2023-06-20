@@ -40,28 +40,23 @@ function CountryItem(props: CountryItemProps) {
   )
 }
 
-function CountryList() {
-  // TODO: Connect to backend
-  const popular = [
-    ['south-korea', 'South Korea'],
-    ['taiwan', 'Taiwan'],
-    ['japan', 'Japan'],
-    ['canada', 'Canada'],
-    ['brazil', 'Brazil'],
-    ['usa', 'USA'],
-    ['uk', 'United Kingdom'],
-    ['sweden', 'Sweden'],
-    ['france', 'France'],
-    ['norway', 'Norway'],
-    ['spain', 'Spain']
-  ]
+async function CountryList() {
+  
+  // TODO: Make an APIService and do this properly with state management
+  
+  interface University {
+    university_country: string;
+  }
+  
+  const popular: string[] = (await (await fetch('http://localhost:8000/query?query=select university_country from (select university_country, count(*) as count from partner_unis group by university_country order by count desc limit 10)')).json()).map((university: University) => university.university_country)
+
 
   return (
     <div className='w-full my-20 flex flex-row justify-center'>
       <div className='max-w-5xl flex flex-col'>
         <div className='text-2xl ml-5 mb-10'>Popular Destinations ✈️</div>
         <div className='flex flex-row flex-wrap'>
-          { popular.map(x => <CountryItem slug={x[0]} name={x[1]} />) }
+          { popular.map(x => <CountryItem slug={x} name={x} />) }
         </div>
       </div>
 
