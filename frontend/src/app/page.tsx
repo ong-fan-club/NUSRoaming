@@ -50,16 +50,23 @@ async function CountryList() {
   
   const popular: string[] = (await (await fetch('http://localhost:8000/query?query=select university_country from (select university_country, count(*) as count from partner_unis group by university_country order by count desc limit 10)')).json()).map((university: University) => university.university_country)
 
-
   return (
     <div className='w-full my-20 flex flex-row justify-center'>
       <div className='max-w-5xl flex flex-col'>
-        <div className='text-2xl ml-5 mb-10'>Popular Destinations ✈️</div>
+        <div className='text-2xl ml-5 mb-10'>Popular Destinations
+          <Image 
+            src="/airplane-landing.svg"
+            alt="Airplane landing"
+            width={0}
+            height={0}
+            sizes="100vw"
+            className="ml-4 h-12 w-auto inline-block"
+          />
+        </div>
         <div className='flex flex-row flex-wrap'>
           { popular.map(x => <CountryItem slug={x} name={x} />) }
         </div>
       </div>
-
     </div>
   )
 }
