@@ -16,24 +16,24 @@
 
 2. `partner_unis` table -- this isn't really set in stone and should be adjusted based on business requirements. The data isn't great (some empty some invalid) and cleaning / augmenting process will be carried out a bunch of times.
 
-| column_name              | column_type  | null |
-|--------------------------|--------------|------|
-| university_name          | VARCHAR      | YES  |
-| university_website       | VARCHAR[]    | YES  |
-| university_country       | VARCHAR      | YES  |
-| sem1_months              | VARCHAR[]    | YES  |
-| sem2_months              | VARCHAR[]    | YES  |
-| faculties_accepted       | JSON         | YES  |
-| module_restrictions      | JSON         | YES  |
-| visa_info                | JSON         | YES  |
-| accommodations_info      | JSON         | YES  |
-| cost_of_living           | JSON         | YES  |
-| university_description   | VARCHAR      | YES  |
-| university_address       | VARCHAR      | YES  |
-| location_cost_of_living  | VARCHAR      | YES  |
-| location_weather         | VARCHAR      | YES  |
-| location_description     | VARCHAR      | YES  |
-| location_crime           | VARCHAR      | YES  |
-| location_transportation  | VARCHAR      | YES  |
-| location_halal           | VARCHAR      | YES  |
-| location_vegetarian      | VARCHAR      | YES  |
+| column_name              | column_type  |
+|--------------------------|--------------|
+| university_name          | VARCHAR      |
+| university_website       | VARCHAR[]    |
+| university_country       | VARCHAR      |
+| sem1_months              | VARCHAR[]    |
+| sem2_months              | VARCHAR[]    |
+| faculties_accepted       | JSON         |
+| module_restrictions      | JSON         |
+| visa_info                | JSON         |
+| accommodations_info      | JSON         |
+| cost_of_living           | JSON         |
+| university_description   | VARCHAR      |
+| university_address       | VARCHAR      |
+| location_cost_of_living  | VARCHAR      |
+| location_weather         | VARCHAR      |
+| location_description     | VARCHAR      |
+| location_crime           | VARCHAR      |
+| location_transportation  | VARCHAR      |
+| location_halal           | VARCHAR      |
+| location_vegetarian      | VARCHAR      |
