@@ -2,9 +2,9 @@ import os
 import json
 import pandas as pd
 
-directory = './jsons'
-output_file = 'combined.json'
-output_parquet_file = 'combined.parquet'
+directory = './gpt-info-jsons'
+output_file = 'gpt-info-combined.json'
+output_parquet_file = 'gpt-info-combined.parquet'
 
 json_array = []
 
@@ -20,7 +20,7 @@ for file in os.listdir(directory):
 with open(output_file, 'w') as outfile:
     json.dump(json_array, outfile)
 
-# df = pd.json_normalize(json_array)
+df = pd.json_normalize(json_array)
 
-# # Save DataFrame to Parquet
-# df.to_parquet(output_parquet_file)
+# Save DataFrame to Parquet
+df.to_parquet(output_parquet_file)

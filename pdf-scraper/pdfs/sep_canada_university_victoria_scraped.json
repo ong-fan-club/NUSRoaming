@@ -1,0 +1,28 @@
+{
+  "university_name": "University of Victoria",
+  "university_website": [
+    "https://www.uvic.ca/calendar/dates/",
+    "https://www.cic.gc.ca/english/visit/visas.asp",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://www.uvic.ca/international/inbound-students/living-canada/health-insurance/index.php",
+    "https://www.uvic.ca/international/inbound-students/index.php"
+  ],
+  "university_country": "Canada",
+  "sem1_months": [
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR"
+  ],
+  "faculties_accepted": [],
+  "module_restrictions": "",
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": "All incoming exchange students are automatically enrolled in the guard.me@UVic plan upon course registration at UVic. It is recommended that you purchase a comprehensive travel insurance for the full duration of your stay abroad, including your personal travel within/outside Canada. Please review the insurance coverages to ensure that they meet your needs. Students can purchase additional health and/or travel insurance from their preferred agent.",
+  "cost_of_living": ""
+}

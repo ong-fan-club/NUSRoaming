@@ -1,0 +1,20 @@
+{
+  "university_name": "The George Washington University",
+  "university_website": [
+    "https://www.gwu.edu/",
+    "https://studyabroad.gwu.edu/gw-exchange-program"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": [
+    "FASS",
+    "FoS",
+    "FoE",
+    "SoC"
+  ],
+  "module_restrictions": "Most courses at GW are open to exchange students who meet the prerequisite requirements. Law, nursing, medicine, interior design, architecture and Semester in Washington Program (denoted as PGMT) courses are restricted. In addition, exchange students may not enrol in graduate level courses (labelled 4999 and above).",
+  "visa_info": "After you have submitted the documentation mentioned in the application section above, the GW Office for Study Abroad’s Exchange Team will do a preliminary application scan for completeness. The Exchange Team will then forward your file on to the International Services Office which will process your documentation to create a DS-2019 (a Visa request document). You will be guided through the visa application with help from the ISO and the GW Exchange Team. As part of the exchange application process, students will be asked to submit a Financial Certificate Form as well as proof of funds in order to receive a DS-2019. Please note that applications from prospective students requiring a DS-2019 from GW are not considered complete without these materials. Please note that a DS-2019 can only be issued once sufficient funding is documented for you and any accompanying dependents, whether that funding comes from you, a third party, GW, or a combination of these. Funds must be certified in U.S. currency and, if your documents are in a language other than English, an original, certified English translation must be provided. Financial documents should be as current as possible and may not be more than 12 months old at the time your GW studies will begin. Unless you are offered a University assistantship at the time of admission, you should not plan to work in the U.S. to support your studies.",
+  "accommodations_info": "Campus housing is the most convenient place for students to reside while studying at GW. Over 7,000 students live on campus and enjoy the proximity to the academic buildings, library, dining hall, basketball stadium, and Office for Study Abroad. Exchange students are guaranteed housing on campus and are housed in apartment style dorms (including a kitchen) with two or more suitemates. Students typically only share an immediate bedroom and bathroom with one other person. In the past, exchange students have lived in 1959 E Street, City Hall, Ivory Tower, and Amsterdam Hall. The housing team works hard to try and ensure that exchange students are mixed in with American students and exchange students from countries other than your own.",
+  "cost_of_living": "The estimated monthly living expenses at The George Washington University vary depending on personal spending habits. However, some general costs include housing (on-campus or off-campus), groceries, transportation, personal expenses, and health insurance. More information can be found at https://studyabroad.gwu.edu/costs-incoming-exchange"
+}

@@ -1,0 +1,14 @@
+{
+  "university_name": "Fudan University",
+  "gpt_university_description": "Fudan University is a prestigious institution, founded in 1905. It is one of the top universities in China, offering a wide range of undergraduate and postgraduate programs in arts, sciences, engineering, medicine, and business. The campus is located in the Yangpu District of Shanghai, providing students with a vibrant, modern environment as they pursue their studies.",
+  "gpt_university_address": "220 Handan Road, Yangpu District, Shanghai, China",
+  "gpt_university_city": "Shanghai",
+  "gpt_nearest_airport": "Shanghai Pudong International Airport (PVG)",
+  "gpt_location_cost_of_living": "Shanghai has a relatively high cost of living compared to other cities in China, primarily due to its status as a global financial center. However, students can still find affordable accommodation and food options by living on-campus or exploring nearby neighborhoods.",
+  "gpt_location_weather": "Shanghai experiences a humid subtropical climate, characterized by warm, wet summers and cool, damp winters. Temperatures range from an average of 4°C in January to 28°C in July. The city also experiences typhoons and frequent rain, especially during the summer months.",
+  "gpt_location_description": "Shanghai is a bustling metropolis known for its modern architecture, historic sites, and vibrant culture. Despite its rapid development, the city retains a mix of traditional and contemporary elements, providing residents with a diverse and exciting urban landscape. As one of Asia's leading cities, Shanghai offers a wealth of entertainment, shopping, and dining options.",
+  "gpt_location_crime": "Shanghai is generally considered to be safe, with a relatively low crime rate compared to other major cities. Petty crimes like pickpocketing can occur in crowded areas, but by taking reasonable precautions, visitors can avoid most issues.",
+  "gpt_location_transportation": "Public transportation in Shanghai is extensive and efficient, with options such as the subway, buses, and taxis. The Shanghai Metro is a popular choice for navigating the city, with its extensive network of lines and stations. Bicycles can also be rented for short trips, providing a greener alternative to motorized transportation.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

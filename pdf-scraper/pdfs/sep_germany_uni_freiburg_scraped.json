@@ -1,0 +1,15 @@
+{
+  "university_name": "Albert-Ludwig University of Freiburg (University of Freiburg)",
+  "university_website": [
+    "http://www.studium.uni-freiburg.de/de/beratung/austausch/freiburg-global-exchange/freiburg-global-exchange",
+    "http://www.studium.uni-freiburg.de/en/counseling/exchange-programs-and-studying-abroad/freiburg-global-exchange/exchange-at-the-university-of-freiburg"
+  ],
+  "university_country": "Germany",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN", "FEB"],
+  "sem2_months": ["APR", "MAY", "JUN", "JUL", "AUG", "SEP"],
+  "faculties_accepted": ["FASS", "FoS", "SoC", "CDE", "LAW"],
+  "module_restrictions": "Exchange students are not eligible to pursue the following fields of study: Medicine, Dentistry, Liberal Arts and Sciences (from University College Freiburg), Psychology, Pharmacy, and Molecular Medicine. Course registration is around February for students joining in April. Please contact study advisors at the faculties.",
+  "visa_info": "EU citizens and citizens from Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland, and the United States do not need a visa to enter Germany. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university.",
+  "accommodations_info": "The International Office will provide accommodation in a student dormitory to all University of Freiburg Global Exchange students upon application. Student dormitories with single apartments or single rooms in shared apartments are available. They are 5-15 minutes by tram or bus, 5-20 minutes by bicycle, 10-40 minutes on foot from the university, depending on dorm location. Meals are not included. Please note that rooms in the student dormitory are only rented for the whole semester (Summer semester: 1st April till 30th September). Students who have a contract that ends in September are expected to pay for the rental until September even if they are returning back to NUS by early August. There will be no refund of the rental if you leave the student accommodation earlier. A deposit of €400 to €500 for the dormitory will be refunded at the end of the contract.",
+  "cost_of_living": "The estimated monthly living expenses include accommodation (€250 - €400), food (€200), insurance (€90), and other expenses like entertainment and clothes (€260 - €320). The monthly estimate ranges from €800 - €1,010. Exchange students need to present a statement of financial support proving that they have at least €735 to live on for each month of their stay in order to receive a residence permit."
+}

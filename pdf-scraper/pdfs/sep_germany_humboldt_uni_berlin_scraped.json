@@ -1,0 +1,12 @@
+{
+  "university_name": "Humboldt University of Berlin (HUB)",
+  "university_website": ["https://www.international.hu-berlin.de/en/studierende/aus-dem-ausland?set_language=en"],
+  "university_country": "Germany",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN", "FEB"],
+  "sem2_months": ["APR", "MAY", "JUN", "JUL"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "Medicine, Business, and Law courses are not open to exchange students.",
+  "visa_info": "EU citizens and citizens from Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland, and the United States do not need a visa to enter Germany. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country.",
+  "accommodations_info": "There is no student accommodation offered by HUB in Berlin city. However, students could consider private apartments if they prefer to stay in the city. Halls of residence (Wohnheime) are located in various parts outside the city and vary in standard and price from €250 to €500 per month. The average traveling time from the student accommodation to HUB (central campus) is about 45 minutes to 1 hour on bus/train.",
+  "cost_of_living": "The estimated monthly living expenses for students in Berlin are as follows:\n\n- Accommodation: €250 - €500\n- Insurance: €80\n- Food: €200 - €300\n- Others (Books, entertainment, etc.): €300\n\nThe monthly estimate ranges from €830 to €1,180."
+}

@@ -1,0 +1,19 @@
+{
+  "university_name": "University of Guelph",
+  "gpt_university_description": "The University of Guelph is a comprehensive public research university located in Guelph, Ontario, Canada. It was established in 1964 and offers a wide range of undergraduate, graduate, and professional programs. The university is known for its strong emphasis on life sciences, agriculture, and veterinary medicine, and it consistently ranks among the top universities in Canada for its research initiatives.",
+  "gpt_university_address": "50 Stone Road East, Guelph, ON N1G 2W1, Canada",
+  "gpt_university_city": "Guelph, Ontario",
+  "gpt_nearest_airport": "Toronto Pearson International Airport (YYZ)",
+  "gpt_location_cost_of_living": "While the cost of living in Guelph is generally lower than in larger cities such as Toronto, students can expect to pay for housing, groceries, transportation, and leisure activities. Rental prices for off-campus housing can vary, and students should budget for both tuition and living expenses.",
+
+  "gpt_location_weather": "Guelph experiences a humid continental climate with warm summers and cold winters. Average summer temperatures range from 20°C to 25°C, while winter temperatures can drop as low as -10°C. Snowfall is common during the winter months, and the city receives a fair amount of precipitation across the year.",
+
+  "gpt_location_description": "Situated in southern Ontario, Guelph is a vibrant city with a rich cultural scene and a strong emphasis on arts and music. Often referred to as the 'Royal City,' Guelph boasts a beautiful blend of historic buildings and modern urban amenities. Its excellent parks and green spaces provide the community with ample opportunities for outdoor activities and recreation.",
+
+  "gpt_location_crime": "Guelph has a low crime rate compared to other cities in the region, and it is considered a safe and friendly city for students and residents. However, like any urban area, it is always recommended that individuals take precautions to protect their personal safety and belongings.",
+
+  "gpt_location_transportation": "Public transportation in Guelph is primarily provided by Guelph Transit, which operates a network of bus routes throughout the city. The city is also served by GO Transit and Via Rail, offering convenient access to other nearby cities, such as Toronto and Hamilton.",
+
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

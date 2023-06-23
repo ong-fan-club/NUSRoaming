@@ -1,0 +1,20 @@
+{
+  "university_name": "University of Western Australia",
+  "university_website": [
+    "http://www.education.uwa.edu.au/students/timetables",
+    "https://www.uwa.edu.au/study/courses-and-careers/study-abroad-and-student-exchange/Completing-exchange-at-UWA",
+    "https://www.uwa.edu.au/covid-19-faq",
+    "https://www.australia.gov.au/",
+    "https://covid19.homeaffairs.gov.au/",
+    "https://youtu.be/xD68ijfTMkQ",
+    "https://youtu.be/9L7XqyKcP7M"
+  ],
+  "university_country": "Australia",
+  "sem1_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "sem2_months": ["JUL", "AUG", "SEP", "OCT", "NOV"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)", "Faculty of Arts and Social Sciences (FASS)", "NUS Business School (BIZ)", "School of Computing (SoC)", "College of Design and Engineering (CDE or FoE)", "Yong Loo Lin School of Medicine (YLLSOM)", "School of Law (LAW)"],
+  "module_restrictions": "",
+  "visa_info": "Once you have purchased the Overseas Student Health Cover (OSHC), your host university will issue an Electronic Confirmation of Enrolment (eCoE), which is required for your Australian Student Visa Application. All exchange students must obtain an Australian Non Award Student Visa (sub-class 500) before arriving in Australia. Students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. This is to ensure that you can obtain your visa in time before the start of your exchange term. Your exchange at the host university depends on the clearance by the immigration of the host country. For more information on visa applications, please refer to https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500.",
+  "accommodations_info": "All international students studying in Australia are required to purchase an approved Overseas Student Health Cover (OSHC) policy. OSHC is a condition of the Overseas Student Visa issued by the Australian Immigration authorities. The cost is approximately A$350 for 6 months. Students can purchased OSHC through your host university. It is recommended that you purchase a comprehensive travel insurance for the full duration of your stay abroad, including your personal travel within/outside Australia. Please review the insurance coverages to ensure that they meet your needs. Students can purchase additional health and/or travel insurance from their preferred agent.",
+  "cost_of_living": "There is no specific information available about the cost of living."
+}

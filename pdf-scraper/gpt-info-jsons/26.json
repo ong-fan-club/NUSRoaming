@@ -1,0 +1,14 @@
+{
+  "university_name": "University of Concordia",
+  "gpt_university_description": "Concordia University is a public comprehensive research university located in Montreal, Quebec, Canada. Founded in 1974, the university has two campuses: Sir George Williams Campus in downtown Montreal and Loyola Campus in the residential west end. It offers a wide range of undergraduate and graduate programs, including engineering, fine arts, business administration, and humanities.",
+  "gpt_university_address": "1455 De Maisonneuve Blvd. W., Montreal, Quebec H3G 1M8, Canada",
+  "gpt_university_city": "Montreal, Quebec",
+  "gpt_nearest_airport": "Montréal-Pierre Elliott Trudeau International Airport (YUL)",
+  "gpt_location_cost_of_living": "The cost of living in Montreal is relatively affordable compared to other major Canadian cities. Rent and utilities are generally cheaper, but groceries, dining out, and other expenses may be on par with other cities. On average, an individual can expect to spend around CAD 12,000 to 16,000 per year on living expenses.",
+  "gpt_location_weather": "Montreal experiences a humid continental climate with four distinct seasons. Summers are warm and often humid, with temperatures typically ranging from 20 to 30 degrees Celsius. Winters are cold and snowy, with temperatures frequently falling below -10 degrees Celsius. Spring and fall have mild temperatures and moderate precipitation.",
+  "gpt_location_description": "Montreal is a vibrant, multicultural city that blends its rich history with modern amenities. Known for its artistic scene, gastronomy, and lively festivals, Montreal offers a unique and exciting environment for students. The city is known for its innovation in various industries, providing ample opportunities for internships and career growth.",
+  "gpt_location_crime": "Montreal has a relatively low crime rate compared to other major cities. However, like any large city, it is essential to take precautions when out in public or using public transportation. Petty crimes, such as pickpocketing and purse snatching, are the most common occurrences in crowded areas.",
+  "gpt_location_transportation": "Montreal has an extensive public transportation system, which includes buses, metro lines, and commuter trains. The city is also bicycle-friendly, with numerous bike paths and a public bike-sharing system called BIXI. Taxis and ride-sharing services are also available for convenient transportation options.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

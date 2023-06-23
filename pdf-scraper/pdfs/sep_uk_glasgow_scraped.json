@@ -1,0 +1,20 @@
+{
+  "university_name": "University of Glasgow",
+  "university_website": [
+    "https://www.gla.ac.uk/study/visiting/studyabroadexchange",
+    "https://www.gla.ac.uk/study/visiting/studyabroadexchange/applicationdeadlinesandsemesterdates/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": [
+    "The College of Arts",
+    "School of Life Sciences",
+    "The College of Science and Engineering",
+    "The College of Social Sciences"
+  ],
+  "module_restrictions": "Visiting students are unable to take courses in the areas of Medicine, Vet Medicine, and Dentistry. They also cannot take Level 5 courses. Postgraduate modules are not open to undergraduate exchange students.",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange. Singapore citizens or citizens of another country on the UK non-visa nationals list, and if the course of studies is less than 6 months, can request entry to the UK as a Standard Visitor when they arrive.",
+  "accommodations_info": "All students on the Exchange programme are guaranteed university accommodation but are not guaranteed preferred choice of accommodation. Once accepted onto the programme, students will be emailed details on how to apply for accommodation. Rooms are allocated on a first-come, first-served basis.",
+  "cost_of_living": "The estimated cost of living per month can be found at https://www.gla.ac.uk/study/studentlife/costofliving/#costpermonth-examples."
+}

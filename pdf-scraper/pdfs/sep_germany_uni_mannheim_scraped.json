@@ -1,0 +1,20 @@
+{
+  "university_name": "University of Mannheim",
+  "university_website": [
+    "https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/",
+    "https://www.uni-mannheim.de/en/academics/coming-to-mannheim/exchange-students/courses/course-catalog/",
+    "https://www.phil.uni-mannheim.de/en/international/coming-to-mannheim-from-abroad/",
+    "https://www.sowi.uni-mannheim.de/en/international/exchange-students/",
+    "https://www.jura.uni-mannheim.de/en/international/information-for-incoming-students/",
+    "https://www.vwl.uni-mannheim.de/en/international/incoming-exchange-students-bachelors-level/",
+    "https://www.wim.uni-mannheim.de/en/international/information-for-incoming-students/"
+  ],
+  "university_country": "Germany",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN", "JUL"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "Exchange students should take courses in the field for which the exchange was established. However, they can choose one or two courses from other schools/faculties if places are available. Business modules are meant for Business major students from NUS Business School. Students do not need to sign up for most classes beforehand, but can choose their courses upon arrival (except German language and culture courses offered by the International Office).",
+  "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States. However, after entering Germany, you will have to apply for a residence permit at the local 'Auslaenderbehörde' (Immigration Office) if you are staying for more than three months. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. You must not under any circumstances travel to Germany on a tourist visa. All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university.",
+  "accommodations_info": "Students can apply for student residences or look for a room on the private market. For exchange students from overseas, there are very limited number of places in Mannheim’s off-campus student residences: single bedrooms in student residences for €280 - €390, apartments €340 - €390. Rooms on the private market start at €280. There are furnished rooms (shared kitchen and bathroom) in several residences in different areas of Mannheim. After being accepted by the University of Mannheim, the student will receive the link and personal password for our online portal myUniMA, along with detailed information on the private housing market. Please note that the housing situation in Mannheim is a lot more relaxed in the spring semester. Thus, if students have the option between fall and spring, we recommend students to come during the spring semester.",
+  "cost_of_living": "The estimated monthly living expenses in Mannheim are as follows:\n\n- Accommodation: €280 - €390\n- Food: €160\n- Transport: €160\n- Insurance: €90\n- Others (Entertainment, clothes): €100\n\nThe monthly estimate ranges from €790 to €900. In order to receive a residence permit, you need to present to the Ausländerbehörde (local foreigner’s registration office) a statement of financial support proving that a student has at least €735 to live on for each month of his or her stay. This can either be a bank statement, a notarized parental letter, or a scholarship certificate."
+}

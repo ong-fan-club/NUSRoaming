@@ -1,0 +1,27 @@
+{
+  "university_name": "Simon Fraser University",
+  "university_website": [
+    "https://www.sfu.ca/students/exchange.html",
+    "https://www.sfu.ca/students/deadlines/academic_dates.html",
+    "https://www.sfu.ca/medical-insurance/1-term-exchange.html"
+  ],
+  "university_country": "Canada",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR"],
+  "faculties_accepted": [],
+  "module_restrictions": "",
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": "",
+  "cost_of_living": "There is no specific cost of living information provided in the PDF.",
+  "gpt_university_description": "Simon Fraser University is a public research university located in British Columbia, Canada. It is known for its strong programs in the social sciences and humanities, as well as its innovative approaches to interdisciplinary education. SFU is committed to supporting student success and fostering a dynamic learning environment.",
+  "gpt_university_address": "8888 University Dr, Burnaby, BC V5A 1S6, Canada",
+  "gpt_university_city": "Burnaby",
+  "gpt_nearest_airport": "Vancouver International Airport (YVR)",
+  "gpt_location_cost_of_living": "The cost of living in Burnaby, Canada is generally affordable but can vary depending on one's lifestyle and accommodation choices. Rent, transportation, and groceries are some of the main expenses to consider.",
+  "gpt_location_weather": "Burnaby experiences a temperate oceanic climate with mild, wet winters and warm, dry summers. Average temperatures range from 0°C (32°F) in winter to 25°C (77°F) in summer.",
+  "gpt_location_description": "Burnaby is a city located in the province of British Columbia, Canada. It is a vibrant and multicultural city with a thriving arts and culture scene. With its close proximity to Vancouver, Burnaby offers a mix of urban amenities and natural beauty, including parks, lakes, and mountains.",
+  "gpt_location_crime": "Burnaby has a relatively low crime rate compared to other cities in Canada. The local authorities take proactive measures to ensure the safety and security of residents and visitors.",
+  "gpt_location_transportation": "Burnaby has a well-developed transportation system, including buses, SkyTrain (light rail), and cycling infrastructure. These options provide convenient access to various parts of the city and surrounding areas.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

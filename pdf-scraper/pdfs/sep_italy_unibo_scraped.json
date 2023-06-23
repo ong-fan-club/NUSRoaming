@@ -1,0 +1,52 @@
+{
+  "university_name": "University of Bologna",
+  "university_website": [
+    "http://www.unibo.it/en",
+    "https://www.unibo.it/en/teaching/academic-calendar",
+    "https://www.unibo.it/en/teaching/course-timetable-and-exams/times-and-classrooms",
+    "https://www.unibo.it/en/international/incoming-exchange-students",
+    "https://www.unibo.it/en/teaching/course-unit-catalogue",
+    "https://www.unibo.it/en/international/incoming-exchange-students/contacts-for-exchange-students-at-unibo",
+    "http://www.cla.unibo.it/corsi/italian-language-courses-for-foreigners/italian-language-courses-for-foreigners",
+    "https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/housing-and-residences/housing-and-residences",
+    "https://www.unibo.it/en/teaching/enrolment-transfer-and-final-examination/visa-and-rules-for-residence-in-italy/on-arrival-in-italy-declaration-of-presence-and-residence-permit-permesso-di-soggiorno",
+    "http://www.nus.edu.sg/uhc/general-health/billing-insurance/insurance-matters",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://www.unibo.it/en/services-and-opportunities/health-and-assistance/health-and-medical-assistance-in-bologna-cesena-forli-ravenna-e-rimini/medical-assistance-for-foreign-students",
+    "https://www.unibo.it/en/university/covid-19-The-measures-adopted-by-the-University-of-Bologna",
+    "https://www.unibo.it/en/services-and-opportunities/studying-and-beyond/living-in-the-city/living-costs-in-bologna"
+  ],
+  "university_country": "Italy",
+  "sem1_months": [
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC",
+    "JAN",
+    "FEB"
+  ],
+  "sem2_months": [
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN",
+    "JUL"
+  ],
+  "faculties_accepted": [
+    "Agriculture and Veterinary Medicine",
+    "Arts, Humanities, and Cultural Heritage",
+    "Economics, Management, and Statistics",
+    "Engineering and Architecture",
+    "Foreign Languages and Literature, Interpreting and Translation",
+    "Law",
+    "Pharmacy, Biotechnology and Sport Science",
+    "Political Science",
+    "Psychology and Education",
+    "Science"
+  ],
+  "module_restrictions": "There are no specific language requirements for studying at the University of Bologna. However, before coming to Bologna students are strongly advised to have at least basic knowledge of Italian (level A2) for daily conversation, and, in order to be able to study and make the most of the lessons, students are strongly advised to have level B1.",
+  "visa_info": "Non-EU citizen students going to UNIBO for more than 90 days will need to apply for a Visa for study purposes to enter Italy. An invitation letter from UNIBO will be sent to students for applying the Visa from the Italian Embassy or Consulate in the home country. The visa issuing procedure can take several months therefore students are suggested to apply early. Students should request the health insurance to be stamped by the Embassy/Consulate when applying for the visa such that it can be used for application of residency Permit, which is to be done upon arrival in Italy. When arrive in Italy, students must also apply for a Residence Permit. This is a compulsory procedure for all non-EU citizens wishing to stay in Italy for more than 90 days.",
+  "accommodations_info": "Bologna welcomes a large number of students and finding accommodation can be difficult, especially in September at the beginning of the academic year. Start looking for accommodation well in advance. It is advisable to book an accommodation before arriving in Bologna.",
+  "cost_of_living": "The estimated monthly living expenses in Bologna are as follows:\n\n- Accommodation: €500 + utilities\n- Food: €240\n- Transport: €40\n- Others (Entertainment, clothes): €140\n\nThe monthly estimate is between €800-1000."
+}

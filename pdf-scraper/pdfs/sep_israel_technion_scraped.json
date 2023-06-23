@@ -1,0 +1,22 @@
+{
+  "university_name": "Technion – Israel Institute of Technology",
+  "university_website": [
+    "https://www.technion.ac.il/en/home-2/",
+    "https://int.technion.ac.il/academics/annual-calendar-2/",
+    "https://int.technion.ac.il/wp-content/uploads/2020/10/Spring-courses-2020-2021.pdf",
+    "https://int.technion.ac.il/wp-content/uploads/2020/10/Winter-courses-2020-2021.pdf",
+    "https://int.technion.ac.il/programs/incoming-spring/housing/",
+    "https://embassies.gov.il/singapore/Pages/default.aspx",
+    "https://www.nus.edu.sg/finance/students/student-travel.html",
+    "http://int.web3.technion.ac.il/prospective-students-2/useful-information/health-insurance/",
+    "http://int.technion.ac.il/prospective-students-2/useful-information/pre-departure-information/"
+  ],
+  "university_country": "Israel",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["FoE", "Chemical Engineering", "Civil Engineering", "Mechanical Engineering"],
+  "module_restrictions": "Postgraduate modules are not opened to undergraduate exchange students. Most of the courses in the faculty level programs are open to exchange students, pending availability. Participation in some courses requires approval from the department in which the student wishes to study.",
+  "visa_info": "All students must obtain a MULTIPLE ENTRY A/2 STUDENT VISA prior to their arrival to Israel through the closest Israeli Embassy or Consulate. Students will be required to present their acceptance letter from the Rothberg International School to the Israeli Embassy or Consulate as part of their visa application. This visa is issued for the duration of study. Students in one-year programs or longer are advised to obtain the visa as close to their date of departure as possible, since a visa is only issued for a maximum of 12 months. The student’s passport must be valid for the full period of the visa. Students who arrive to Israel without an A/2 student visa may be required by the Israeli authorities to leave the country in order to obtain the correct visa.",
+  "accommodations_info": "Housing is available at Technion but is not guaranteed. Incoming students will have the option to live in on-campus housing. On-campus housing on the main Technion campus (science and technology complex) consists of 6-person apartments; in each apartment, there are 3 bedrooms for 2 roommates each. These units are designed with a shared kitchen and bathroom. Students receive on-campus accommodations based on the program they are in. Bedrooms are equipped with a bed, a closet, and a desk. Linens are not provided. Kitchens come with a gas or electric burner and refrigerator. Microwaves, stoves, and kitchenware are not provided. All apartments have wireless internet. Electricity and internet expenses are paid for separately. There are laundromats equipped with washers and dryers in every dorm village. All dorm rooms are non-smoking; each building has a terrace where smoking is permitted. Private accommodation options are available in locations close to the Technion campus.",
+  "cost_of_living": "While costs may vary according to your spending habits, it is generally recommended by Technion’s International Office to budget USD$500–$600 per month for food, entertainment, transportation, telephone, and other expenses. On-campus housing rates for visiting students are around USD $400 per month (depending on the dorm). Electricity, phone, and internet expenses are paid separately."
+}

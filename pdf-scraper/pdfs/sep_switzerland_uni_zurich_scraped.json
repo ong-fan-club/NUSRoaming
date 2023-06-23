@@ -1,0 +1,33 @@
+{
+   "university_name": "University of Zurich",
+   "university_website": [
+      "http://www.uzh.ch/en.html",
+      "https://www.int.uzh.ch/en/in/program/world/university.html"
+   ],
+   "university_country": "Switzerland",
+   "sem1_months": [
+      "SEP",
+      "OCT",
+      "NOV",
+      "DEC"
+   ],
+   "sem2_months": [
+      "FEB",
+      "MAR",
+      "APR",
+      "MAY",
+      "JUN"
+   ],
+   "faculties_accepted": [
+      "Humanities (including Social Sciences)",
+      "Theology",
+      "Law",
+      "Economics",
+      "Business Administration and Information Technology*",
+      "Natural Sciences"
+   ],
+   "module_restrictions": "Cross-faculty course booking is allowed, however students should attend most of their courses in their major and minor(s). Restrictions also apply to specific departments.",
+   "visa_info": "Nominated students from countries with visa obligation will receive a form for immigration and further information directly from the International Relations Office of the University of Zurich.",
+   "accommodations_info": "The University of Zurich does not own student dormitories. However, the International Relations Office has access to a limited number of rooms for exchange students from partner universities, which are administered by the Housing Office of the University of Zurich and ETH.",
+   "cost_of_living": "The estimated monthly living expenses include accommodation (CHF 620 - 790), food (CHF 450), transport (CHF 100), insurance (CHF 100), and other expenses such as entertainment and clothes (CHF 600). The total monthly estimate is approximately CHF 1,870 - 2,040."
+}

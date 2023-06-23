@@ -1,0 +1,47 @@
+{
+  "university_name": "AARHUS UNIVERSITY",
+  "university_website": [
+    "https://international.au.dk/education/admissions/exchange/"
+  ],
+  "university_country": "Denmark",
+  "sem1_months": [
+    "AUG",
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN"
+  ],
+  "faculties_accepted": [
+    "College of Humanities and Sciences (CHS)",
+    "Faculty of Science (FoS)",
+    "Faculty of Arts and Social Sciences (FASS)",
+    "School of Computing (SoC)",
+    "Faculty of Dentistry (DENT)",
+    "College of Design and Engineering (CDE or FoE)",
+    "Yong Loo Lin School of Medicine (YLLSOM)",
+    "School of Law (LAW)"
+  ],
+  "module_restrictions": "It is important that you have the relevant academic background for the courses that you apply for. You must have taken modules at NUS within the specific subject field to be accepted to any of the departments at Aarhus University. It is important that you choose at least 20 ECTS at one department. More details available at: https://international.au.dk/education/admissions/exchange/admission-to-aarhus-university/preparing-to-apply/academic-prerequisites-restrictions/",
+  "visa_info": "Information about immigration-related issues is available at: https://studerende.au.dk/en/internationalstudents/arriving-in-denmark/residencecertificatepermitandcpr/. Additionally, you can contact the Denmark embassy in Singapore if you have a specific enquiry that the host university is unable to address.",
+  "accommodations_info": "Information about student housing is available at: https://international.au.dk/education/admissions/exchange/admission-to-aarhus-university/preparing-to-apply/consider-housing-options/",
+  "cost_of_living": "Denmark’s currency is the krone. Information about the cost of living and estimated expenses in Denmark and Aarhus is available at: https://international.au.dk/education/admissions/exchange/living-in-denmark/",
+  "gpt_university_description": "Aarhus University is a prestigious institution located in Denmark. It offers a wide range of courses for exchange students from various fields of study. With a vibrant campus life and state-of-the-art facilities, Aarhus University provides a conducive environment for academic and personal growth.",
+  "gpt_university_address": "Aarhus University, Nordre Ringgade 1, 8000 Aarhus C, Denmark",
+  "gpt_university_city": "Aarhus",
+  "gpt_nearest_airport": "Aarhus Airport (AAR)",
+  "gpt_location_cost_of_living": "Aarhus is known for its high cost of living. Accommodation, transportation, and daily expenses can be relatively expensive compared to other cities. However, the quality of life and the range of opportunities available make it a worthwhile investment.",
+  "gpt_location_weather": "Aarhus experiences a temperate maritime climate with mild, damp winters and cool summers. The average temperature ranges from 0°C (32°F) to 20°C (68°F). It is advisable to bring appropriate clothing for both cold and mild weather.",
+  "gpt_location_description": "Aarhus is a vibrant city located on the east coast of the Jutland peninsula in Denmark. It is known for its rich history, cultural attractions, and lively arts scene. Aarhus offers a perfect blend of historical charm and modern innovation, with beautiful architecture, museums, parks, and a thriving culinary scene.",
+  "gpt_location_crime": "Aarhus is generally considered a safe city with a low crime rate. However, as with any urban area, it is important to take standard precautions and be aware of your surroundings.",
+  "gpt_location_transportation": "Aarhus has a well-developed public transportation system, including buses and trains, making it easy to navigate the city and its surroundings. The city also promotes cycling as a popular mode of transportation, with dedicated bike lanes and bike-sharing programs.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

@@ -1,0 +1,18 @@
+{
+  "university_name": "University of British Colombia",
+  "university_website": [
+    "https://global.ubc.ca/go-global/coming-ubc-study-abroad/coming-ubc-exchange/key-dates-applying-ubc-exchange",
+    "https://www.cic.gc.ca/english/visit/visas.asp",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://global.ubc.ca/go-global/coming-ubc-study-abroad/coming-ubc-exchange/budgeting-exchange",
+    "https://global.ubc.ca/go-global/coming-ubc-study-abroad/coming-ubc-exchange"
+  ],
+  "university_country": "Canada",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR"],
+  "faculties_accepted": ["CHS", "FoS", "FASS", "BIZ", "SoC", "DENT", "CDE", "YLLSOM", "LAW", "School of Nursing", "YSTCM"],
+  "module_restrictions": "",
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": "All international exchange students are enrolled automatically in iMED upon registration in courses: https://global.ubc.ca/go-global/coming-ubc-study-abroad/coming-ubc-exchange/budgeting-exchange. It is recommended that you purchase a comprehensive travel insurance for the full duration of your stay abroad, including your personal travel within/outside Canada. Please review the insurance coverages to ensure that they meet your needs. Students can purchase additional health and/or travel insurance from their preferred agent.",
+  "cost_of_living": "There is no specific information about the cost of living provided in the PDF."
+}

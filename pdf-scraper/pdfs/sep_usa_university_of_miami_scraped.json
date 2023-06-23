@@ -1,0 +1,12 @@
+{
+  "university_name": "University of Miami",
+  "university_website": ["http://welcome.miami.edu/", "http://www.miami.edu/index.php/registrar/calendar/", "http://bulletin.miami.edu/", "https://umpd.miami.edu/"],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["Arts & Sciences", "Communications", "Marine Science", "Education & Human Development", "Nursing & Health Studies", "Architecture", "Music", "Engineering"],
+  "module_restrictions": "Exchange students may not register for courses in the School of Medicine, School of Nursing, or School of Law. School of Music courses are limited to those listed under MNM 'for non-music majors only'. Miami Herbert Business Courses are also restricted.",
+  "visa_info": "Upon acceptance by the University of Miami, the University will issue an acceptance letter and Form I20. Both documents will be sent via courier to the exchange office at your home institution. The Form I20 is official US documentation that allows you to apply for an F-1 visa.",
+  "accommodations_info": "On-campus housing is not guaranteed and is only available to students who come to UM through an undergraduate exchange. Exchange students have the opportunity to apply for on-campus housing or may choose to live off-campus. Given the high demand for on-campus housing, students should research and be familiar with off-campus housing options.",
+  "cost_of_living": "The University of Miami does not provide specific details on estimated monthly living expenses. Please refer to the UM Exchange Guide Book for more information."
+}

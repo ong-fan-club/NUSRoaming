@@ -1,0 +1,14 @@
+{
+  "university_name": "Utrecht University",
+  "gpt_university_description": "Established in 1636, Utrecht University is an internationally renowned research university in Utrecht, the Netherlands. It is one of the oldest and largest universities in the country, offering a wide range of undergraduate and graduate programs across various disciplines. The university is known for its research-intensive environment, innovative teaching methods, and strong international engagement.",
+  "gpt_university_address": "Heidelberglaan 8, 3584 CS Utrecht, Netherlands",
+  "gpt_university_city": "Utrecht",
+  "gpt_nearest_airport": "Amsterdam Airport Schiphol (AMS)",
+  "gpt_location_cost_of_living": "The cost of living in Utrecht is generally high, similar to other Dutch cities. Rent, transportation, and food can be expensive, but there are ways to save on expenses by living in shared housing, using a bike for transportation, and shopping at discount supermarkets.",
+  "gpt_location_weather": "Utrecht experiences a temperate maritime climate, with mild summers and cool winters. The city sees frequent rain throughout the year, though the average temperature remains relatively mild. Summers are warm, with temperatures ranging from 15°C to 25°C, while winters can be cold, with temperatures ranging from -3°C to 5°C.",
+  "gpt_location_description": "Utrecht is a vibrant and historic city located in the heart of the Netherlands. The city is known for its picturesque canals, ancient churches and buildings, and lively cultural scene, with a mix of students, locals, and tourists contributing to its unique atmosphere. Utrecht is also an important center for commerce, education, and research in the country.",
+  "gpt_location_crime": "Utrecht has a relatively low crime rate compared to other major cities in the Netherlands. While petty theft, pickpocketing, and bike theft can occur in crowded areas, the city is generally safe, and violent crime is not common.",
+  "gpt_location_transportation": "Utrecht has an excellent public transportation system, consisting of buses, trams, and trains that connect the city with other parts of the Netherlands and Europe. The city also has a strong cycling culture, with well-maintained bike lanes and bicycle rental services widely available.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

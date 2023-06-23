@@ -1,0 +1,33 @@
+{
+  "university_name": "University of North Carolina at Chapel Hill",
+  "university_website": [
+    "http://www.unc.edu/",
+    "https://studyabroad.unc.edu/incoming-exchange/"
+  ],
+  "university_country": "USA",
+  "sem1_months": [
+    "AUG",
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY"
+  ],
+  "faculties_accepted": [
+    "BIZ",
+    "FASS",
+    "FoS",
+    "SoC",
+    "USP"
+  ],
+  "module_restrictions": "Please check with your home School or Faculty’s Dean’s Office.",
+  "visa_info": "International exchange students will apply for an F1 visa. This visa will allow you to enter the US 30 days prior to the program start date listed on your I-20 form and depart the US 60 days after the program end date listed on your I-20 form. You will submit the required visa documents to UNC Chapel Hill for review and approval. The processing time can take 2-4 weeks. Upon approval, the I-20 form will be sent to you. This form is required to schedule the visa appointment. It is important that you submit the required visa documents in a timely manner to avoid delay in receiving the I-20 form. This process will begin post acceptance.",
+  "accommodations_info": "On-Campus Housing: International students can select from the 31 campus residence halls. Double occupancy rooms are the only option. Apartment style housing is limited. Click here for additional housing information. Off-Campus Housing: International students can reside in off campus housing. You would be responsible for identifying the type of housing and make the necessary arrangements. Meals: Students are not required to purpose a campus meal plan, but it is strongly recommended. Several meal plan options are available that can meet a student’s dining habits. Click here for details and description of the various meal plan options.",
+  "cost_of_living": "Please refer to the following link for an estimated cost of living at UNC: http://studentaid.unc.edu/cost-of-attendance/undergraduate/ (Tuition fees are waived for exchange students)"
+}

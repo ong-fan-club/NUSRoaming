@@ -1,0 +1,24 @@
+{
+  "university_name": "Budapest University of Technology and Economics",
+  "university_website": [
+    "https://www.bme.hu/?language=en",
+    "https://kth.bme.hu/en/study-programmes/exchange-and-semester-abroad-students/academic_information/"
+  ],
+  "university_country": "Hungary",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": [
+    "Faculty of Civil Engineering",
+    "Faculty of Mechanical Engineering",
+    "Faculty of Architecture",
+    "Faculty of Chemical Technology and Biotechnology",
+    "Faculty of Electrical Engineering and Informatics",
+    "Faculty of Transportation Engineering and Vehicle Engineering",
+    "Faculty of Natural Sciences",
+    "Faculty of Economic and Social Sciences"
+  ],
+  "module_restrictions": "NA",
+  "visa_info": "Singapore passport holders may enter Croatia with a valid passport before applying for a residence permit in Zagreb. Students are advised to check with the Croatian embassy on the documentation required and bring them along with you. List of embassies and consulates: https://konzuliszolgalat.kormany.hu/hu-missions-abroad. Students have to obtain the entry visa – ‘RESIDENCE VISA FOR STUDY PURPOSES before departure from their home country. Among the others, students must present the Letter of Acceptance from BME, proof of payment of the institution fee, proof of accommodation in Budapest and a passport validity of at least an additional year upon your arrival. Processing of the residence visa is expected to take a minimum of 2 weeks (or longer). The visa will be valid for 30 days. Upon their arrival in Budapest, students have another 30 days to apply for their residence permit (after registration at the university).",
+  "accommodations_info": "BME does not offer accommodation to incoming students at the university’s dormitories. Students are required to source for their accommodation for the duration of their exchange. BME can only assist incoming students in finding their accommodation. Private accommodation (rented room/apartment) is available for between 300-400 EUR (inclusive of utilities) per month, depending on location and comfort. BME ESN (ERASMUS Student Network, esn.bme.hu) runs a temporary office assisting students with finding and arranging accommodation at the beginning of the terms.",
+  "cost_of_living": "The estimated monthly living expenses in Budapest are as follows:\n\n- Accommodation: 400 EUR\n- Food and misc expenses: 170 EUR to 270 EUR\n- Health insurance: 120 EUR (per semester)"
+}

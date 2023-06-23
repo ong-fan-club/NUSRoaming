@@ -1,0 +1,37 @@
+{
+  "university_name": "The University of Bath (UoB)",
+  "university_website": [
+    "http://www.bath.ac.uk/campaigns/studying-at-bath-as-an-erasmus-exchange-or-visiting-student/",
+    "https://www.bath.ac.uk/corporate-information/academic-year-dates/",
+    "https://www.bath.ac.uk/corporate-information/english-language-requirements-for-qualifications-category-c/",
+    "https://www.bath.ac.uk/catalogues/",
+    "https://www.bath.ac.uk/topics/visas/",
+    "https://www.bath.ac.uk/guides/getting-healthcare-in-the-uk-as-an-international-student/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": [
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC",
+    "JAN"
+  ],
+  "sem2_months": [
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN"
+  ],
+  "faculties_accepted": [
+    "Faculty of Science (FoS)",
+    "Faculty of Engineering & Design (CDE or FoE)",
+    "Faculty of Humanities & Social Sciences (FASS)",
+    "Faculty of Science (FoS)",
+    "Faculty of Humanities & Social Sciences (FASS)"
+  ],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange.",
+  "accommodations_info": "Exchange students can choose between two city centre locations: Pulteney Court and Thornbank Gardens. You can check accommodation prices for exchange students here. For more information on housing, please refer here.",
+  "cost_of_living": "The estimated living expenses per semester are as follows:\n\n- Accommodation: £550 - £700 per month in our student residences\n- Food: £250\n- Transport: £200/semester (bus from city center to University)\n- Insurance: [link to healthcare in the UK as an international student]\n- Others (Entertainment, clothes, mobile phone, utilities, books etc.): £300\n\nThe estimated cost per month is £1150."
+}

@@ -1,0 +1,33 @@
+{
+  "university_name": "University of Virginia",
+  "university_website": [
+    "http://www.virginia.edu/",
+    "http://issp.virginia.edu/exchange-students"
+  ],
+  "university_country": "USA",
+  "sem1_months": [
+    "AUG",
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY"
+  ],
+  "faculties_accepted": [
+    "FASS",
+    "FoS",
+    "FoE",
+    "SoC",
+    "LAW"
+  ],
+  "module_restrictions": "As mentioned in the previous section, students admitted to UVA under a general agreement administered by ISO do not have access to courses at the following UVA schools: School of Continuing and Professional Studies, Curry School of Education, Darden Graduate School of Business Administration, School of Law, McIntire School of Commerce, School of Medicine, and School of Nursing. Courses offered through the McIntire School of Commerce are all restricted unless the course description states that it is open to non-Commerce school students.",
+  "visa_info": "The University of Virginia issues the Certificate of Eligibility for J-1 Status (Form DS-2019) to all international students that will be enrolled as exchange students. The DS-2019 form will be mailed directly to your home institution to distribute to you. The J-1 Exchange Visitor Program allows you to study as a non-degree student at the University of Virginia. The DS-2019 is required in order to apply for the J-1 visa. All non-immigrants require a valid visa stamp in their passports before coming to the U.S. under any non-immigrant status. An exception to this rule exists for citizens of Canada (and Bermuda under limited circumstances), who are visa exempt. All students must make sure that their passports are correctly stamped upon entry with their intended status.",
+  "accommodations_info": "Exchange students are eligible for residential (on-Grounds) housing at UVA. Find information about applying for on-campus housing here. Housing options available to exchange students are listed under the “transfer student” link on the housing webpage. If you elect NOT to live in residential housing there are many options available off-Grounds near the University. Find information on a wide variety of off-Grounds accommodations here. If you are planning to apply for on-campus housing please note when housing will be available for move-in. If you plan to arrive in Charlottesville before your residential housing becomes available you will need to contact housing directly to arrange for an early move-in or make arrangements to stay at a local hotel.",
+  "cost_of_living": "The estimated monthly living expenses at UVA can be found at http://issp.virginia.edu/costs."
+}

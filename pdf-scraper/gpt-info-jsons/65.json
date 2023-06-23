@@ -1,0 +1,14 @@
+{
+  "university_name": "University of Arizona",
+  "gpt_university_description": "The University of Arizona is a public research institution established in 1885, making it the first university in the Arizona Territory. This prestigious university offers over 300 undergraduate and graduate programs, spanning a wide range of disciplines.",
+  "gpt_university_address": "Tucson, AZ 85721, United States",
+  "gpt_university_city": "Tucson, Arizona",
+  "gpt_nearest_airport": "Tucson International Airport (TUS)",
+  "gpt_location_cost_of_living": "The cost of living in Tucson is relatively affordable compared to many other U.S. cities. Most students find housing off-campus to be quite reasonable, and transportation, food, and other essentials are moderately priced.",
+  "gpt_location_weather": "Tucson experiences a hot desert climate with mild winters and extremely hot summers. Average temperatures range from 43°F (6°C) in December to 100°F (38°C) in June. The city receives minimal rainfall, with most precipitation occurring during the monsoon season from July to September.",
+  "gpt_location_description": "Tucson is a diverse and vibrant city, known for its rich Native American, Mexican, and Anglo-American heritage. It offers a unique blend of cultural experiences, beautiful desert landscapes, outdoor activities, and a thriving arts scene. The city is also home to a UNESCO World City of Gastronomy designation, reflecting its unique food culture.",
+  "gpt_location_crime": "Tucson has a higher crime rate when compared to the national average, but it is important to note that the majority of crimes are property crimes and incidents tend to be focused in specific areas. As in any city, it's important to remain vigilant and take safety precautions to avoid potential risks.",
+  "gpt_location_transportation": "Public transportation in Tucson includes buses operated by Sun Tran, which covers most of the city. The University of Arizona offers a free shuttle service, the CatTran, for students and staff. There's also a modern streetcar named Sun Link that connects the university to downtown Tucson and other areas.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

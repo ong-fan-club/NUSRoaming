@@ -1,0 +1,27 @@
+{
+  "university_name": "University of Waterloo",
+  "university_website": [
+    "https://ugradcalendar.uwaterloo.ca/page/uWaterloo-Undergraduate-Calendar-Access",
+    "https://uwaterloo.ca/campus-wellness/health-services/student-medical-clinic/student-medical-insurance",
+    "https://uwaterloo.ca/student-success/exchange-and-study-abroad/come-waterloo/exchange",
+    "https://uwaterloo.ca/about/"
+  ],
+  "university_country": "Canada",
+  "sem1_months": [
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR"
+  ],
+  "faculties_accepted": [],
+  "module_restrictions": null,
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": "Exchange students will be enrolled in two health insurance plans while on exchange in Canada. The University Health Insurance Plan (UHIP) covers basic health care services, such as medical doctor appointments, hospital visits, and most diagnostic tests. The Studentcare extended Health and Dental Plan covers extra costs like prescription drugs, paramedical practitioners, vision, and dental care. It is recommended that you purchase a comprehensive travel insurance for the full duration of your stay abroad, including your personal travel within/outside Canada. Please review the insurance coverages to ensure that they meet your needs. Students can purchase additional health and/or travel insurance from their preferred agent.",
+  "cost_of_living": "There is no specific information provided about the cost of living in the PDF text."
+}

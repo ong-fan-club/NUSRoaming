@@ -1,0 +1,21 @@
+{
+  "university_name": "University of California",
+  "university_website": ["http://www.universityofcalifornia.edu/", "https://reciprocity.uceap.universityofcalifornia.edu/plan-your-studies/",
+                          "https://reciprocity.uceap.universityofcalifornia.edu/discover-uc",
+                          "https://reciprocity.uceap.universityofcalifornia.edu/plan-your-studies/uc-courses",
+                          "https://reciprocity.uceap.universityofcalifornia.edu/plan-your-studies/uc-courses/major-preparation",
+                          "https://reciprocity.uceap.universityofcalifornia.edu/before-you-arrive/campus-specific-instructions",
+                          "https://reciprocity.uceap.universityofcalifornia.edu/after-you-apply/visa-resources",
+                          "https://reciprocity.uceap.universityofcalifornia.edu/while-at-uc/health-services",
+                          "https://reciprocity.uceap.universityofcalifornia.edu/emergency-information",
+                          "https://reciprocity.uceap.universityofcalifornia.edu/while-at-uc/safety-and-security",
+                          "https://reciprocity.uceap.universityofcalifornia.edu/plan-your-studies/budget"],
+  "university_country": "United States",
+  "sem1_months": ["SEP", "OCT", "NOV"],
+  "sem2_months": ["JAN", "FEB", "MAR"],
+  "faculties_accepted": ["FASS", "FoS", "CDE", "SoC"],
+  "module_restrictions": "Some majors have restricted enrolment or are not open to Reciprocal Exchange students. Please refer to the following to link to find out more: https://reciprocity.uceap.universityofcalifornia.edu/plan-your-studies/uc-courses/major-preparation",
+  "visa_info": "https://reciprocity.uceap.universityofcalifornia.edu/after-you-apply/visa-resources",
+  "accommodations_info": "Apply for housing as soon as you receive instructions from UCEAP (usually by e-mail), even if you have not yet received final confirmation of your acceptance to the programme. For specific housing options at each UC campus and application instructions, please refer here: https://reciprocity.uceap.universityofcalifornia.edu/before-you-arrive/campus-specific-instructions. It may be difficult for students who would prefer non-UC housing in the community to finalise independent living (off-campus) arrangements before arrival. You should arrive at your host campus as early as possible (no more than 30 days prior to the programme start date on your visa document) to look for housing.",
+  "cost_of_living": "The estimated monthly living expenses can be found here: https://reciprocity.uceap.universityofcalifornia.edu/plan-your-studies/budget"
+}

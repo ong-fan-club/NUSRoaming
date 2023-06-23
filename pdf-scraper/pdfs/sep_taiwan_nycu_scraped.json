@@ -1,0 +1,15 @@
+{
+  "university_name": "National Yang Ming Chiao Tung University",
+  "university_website": [
+    "https://www.nycu.edu.tw/en/",
+    "https://oia.nctu.edu.tw/en/short-term/incoming-exchange/"
+  ],
+  "university_country": "Taiwan",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["FASS", "BIZ", "FoE", "FoS", "SoC"],
+  "module_restrictions": "Departments which offer courses to exchange students are listed here: [link to departments]",
+  "visa_info": "Students whose exchange period is one semester (or less than 180 days) will have to apply a Visitor Visa while students whose exchange period is more than 180 days will have to apply for a Resident Visa. Chinese, Hong Kong and Macau passport holders will need to apply for a Taiwan Entry Permit. [link to visa information]",
+  "accommodations_info": "NYCU has a number of residence halls for exchange students. Once accepted into a residence hall, students are able to stay for the period of their studies at NYCU. However, due to high demand for housing, on-campus accommodation is not guaranteed. Off-campus housing is also an option that exchange students may choose. However, students who wish to live off-campus are responsible for securing their own housing. Residences located off-campus are owned and operated by private individuals or companies, and NYCU is unable to make any arrangements on behalf of the students. Safety and the availability of public transportation should be taken into consideration when evaluating possible off-campus accommodations. Common price for off-campus accommodation ranges from USD$170 to USD$400 per month.",
+  "cost_of_living": "The estimated monthly living expenses in Taiwan are as follows:\n\n- Accommodation: NTD $1500- NTD $13,500\n- Food and transport: NTD $8000\n- Insurance & Facilities Fees: NTD $890 – NTD $950\n- Others (Entertainment, clothes, etc): NTD $10,000\n\nThe monthly estimate for cost of living ranges from NTD$20,390 to NTD $32,450. [link to more information]"
+}

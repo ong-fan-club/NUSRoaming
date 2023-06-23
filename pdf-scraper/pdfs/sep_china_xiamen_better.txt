@@ -1,0 +1,26 @@
+{
+  "university_name": "Xiamen University",
+  "university_website": [
+    "http://en.xmu.edu.cn/colleges/list.htm",
+    "https://admissions.xmu.edu.cn/Programs/Chinese_Medium_Bachelor_s.htm"
+  ],
+  "university_country": "China",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["School of Economics", "School of Management", "School of Medicine"],
+  "module_restrictions": "Students should select courses within a faculty per semester. In principle, undergraduate exchange students can only select undergraduate courses and postgraduate exchange students can only select postgraduate courses. Exchange students should get approval from both colleges for cross college course selection.",
+  "visa_info": "Exchange students in China are required to apply for a student visa (X2 visa for those intending to study in China for a period of no more than 180 days and X1 visa for those intending to study in China for a period of more than 180 days). You will receive the admission letter and visa application form (JW202) once you are accepted by the host university for the student exchange programme. Exchange students are required to apply for the student visa in person at the China Visa Application Service Centre in Singapore with the relevant documents before the start of the academic semester. China Visa Application Service Centre in Singapore: [link]",
+  "accommodations_info": "Siming Campus: The overseas student apartment buildings on the Siming Campus are set in picturesque surroundings and enjoy a view of the sea and fresh air. The dorms are equipped with a range of amenities. Newly enrolled students on Siming campus should apply online for on-campus accommodation. Detail information about on-campus accommodation application will be available in the Enrolment Instruction for New Students. Off-Siming Campus accommodation: Living off campus provides greater opportunities for international students to interact with the locals and to learn about the local community and culture. Students can choose to rent off-campus apartments and the monthly rental is around RMB 2,500 per room. When living off-campus, international students will enjoy a quiet learning environment.",
+  "cost_of_living": "The cost of living in Xiamen is affordable. On-campus accommodation is available for newly enrolled students. Off-campus apartments can be rented for around RMB 2,500 per room per month. Other expenses such as meals, transport, and personal expenses are reasonable.",
+  "gpt_university_description": "",
+  "gpt_university_address": "",
+  "gpt_university_city": "",
+  "gpt_nearest_airport": "",
+  "gpt_location_cost_of_living": "",
+  "gpt_location_weather": "",
+  "gpt_location_description": "",
+  "gpt_location_crime": "",
+  "gpt_location_transportation": "",
+  "gpt_location_halal": null,
+  "gpt_location_vegetarian": null
+}

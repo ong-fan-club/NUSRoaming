@@ -1,0 +1,16 @@
+{
+  "university_name": "University of Bristol",
+  "university_website": ["https://www.bristol.ac.uk/global-opportunities/at-bristol/"],
+  "university_country": "United Kingdom",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["Faculty of Arts", "Faculty of Social Sciences and Law", "Faculty of Engineering", "Faculty of Science"],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. Medicine, Dentistry and Veterinary Science are not open to exchange students.",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange. Please refer to the following links for more information:\nhttps://www.gov.uk/government/organisations/uk-visas-and-immigration\nhttps://www.gov.uk/uk-border-control",
+  "accommodations_info": "Students who have already been accepted by Bristol for the Study Abroad Programme should refer to the email received when they accepted their offer for the link to the Accommodation Application Form. For more information, please visit: https://www.bristol.ac.uk/global-opportunities/at-bristol/student-life/accommodation/",
+  "cost_of_living": "The estimated living expenses per month can be found at http://www.bristol.ac.uk/fees-funding/advice/living-expenses/.",
+  "module_transfer": "Modules approved in the past might not be offered by the host university or approved by your Faculty when it is time for your exchange. Please check the latest course offerings at the host universities while you are preparing your Study Plan.",
+  "exam_info": "Semester 1 exchange students are expected to stay in Bristol for their exams which could take place in late January. Alternative assessments can sometimes be arranged but are not guaranteed. Please contact global-opportunities@bristol.ac.uk if you have any questions. Semester 2 students are required to be in Bristol for the May/June exam period. Bristol modules which run for the full year are assessed at the end of the academic year only.",
+  "minimum_requirements": "To apply for exchange at the University of Bristol, you should:\n1) have completed a minimum of one year’s undergraduate study at NUS;\n2) have a GPA of 3.0 out of 4.0 or the equivalent NUS CAP of 3.75 out of 5.0;\n3) have a minimum ‘B’ average grade; and no single grade below ‘C’ in the current/intended discipline/major;\n4) not be in the graduating semester when they go for exchange at Bristol",
+  "language_requirements": "Bristol do not currently ask for English Language Proficiency documentation from NUS students. However, NUS students should be prepared to submit documentation if required (e.g. photocopies of GCE 'O' level certificate with English language of grade C or better, IB English with 5 or better, or certificate for Singapore Integrated Programme Cambridge 'A' Levels (SIPCAL) with General Paper of Grade C or better). Bristol reserves the right, in individual circumstances, to specify an additional language requirement for an applicant if it is felt to be necessary."
+}

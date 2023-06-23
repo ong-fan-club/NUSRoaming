@@ -1,0 +1,15 @@
+{
+  "university_name": "Boston College",
+  "university_website": [
+    "https://www.bc.edu/",
+    "https://www.bc.edu/content/bc-web/offices/office-of-international-programs/exchange-students.html"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "Due to high demand, the Economics and Finance Department will enroll students in only one class. There is also a limited range of classes in the Communications, Computer Science, and Marketing departments.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "The availability of on-campus accommodations for exchange students is extremely limited and rooms are assigned by lottery. Most exchange students live in off-campus accommodations such as shared houses or apartments with other BC and international students. The BC Off-Campus Housing Services office provides assistance to exchange students in locating housing both before and after arrival in Boston.",
+  "cost_of_living": "The estimated monthly living expenses prepared by BC are as follows:\n- On-Campus Housing: USD $4,890 - $6,530 per semester\n- Meal Plan: USD $2,911 per semester for meal plan (required by certain dorms)\n- BC Mandatory Medical Insurance: USD $1,500 fall semester; $3,620 full year (cannot be waived)\n- University Fees: USD $1,211 per year\n- Books & Personal expenses: USD $2,650 per semester (does not include entertainment or travel\n\nFor more information, please refer to the following webpage: [https://www.bc.edu/bc-web/offices/student-services/billing-student-accounts/tuition-fees.html](https://www.bc.edu/bc-web/offices/student-services/billing-student-accounts/tuition-fees.html)"
+}

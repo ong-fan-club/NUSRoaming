@@ -1,0 +1,26 @@
+{
+  "university_name": "University of Wisconsin Madison",
+  "university_website": [
+    "http://www.wisc.edu/",
+    "www.studyabroad.wisc.edu/exchange"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "CDE", "SoC"],
+  "module_restrictions": "Exchange students are rarely, if ever, allowed to enroll in courses from UW-Madison professional schools (Medicine, Veterinary Medicine, Pharmacy, Nursing, Law, Education, etc). Some courses (for example, Economics) are open to exchange students, but are very popular and fill quickly during enrollment time.",
+  "visa_info": "If you are interested in taking classes at UW-Madison, your visa status needs to allow you to study at this institution. With few exceptions—English as a Second Language (ESL) and formal exchange students—the Adult and Student Services Center is not authorized to issue the I-20 or DS-2019 for a student visa. Students who hold F-1 or J-1 student visas are not eligible to 'transfer' this status to UW-Madison while holding a student visa issued from another school, except for the summer term.",
+  "accommodations_info": "On-campus housing is through the Division of University Housing. The University residence halls (also known as dormitories) are a short walk or short ride on the campus circular bus route (Route 80) to class. The University residence halls are single, double or triple occupancy rooms without kitchens and with shared bathrooms. All University residence hall students have access to University residence hall dining rooms. Students can purchase food à la carte at a variety of University Housing dining locations. If you plan to live in the University residence halls, please pay attention to your email account. You will receive an email from the Division of University Housing (from AssignMe@housing.wisc.edu) a few weeks after your acceptance to our exchange program. This email will contain instructions on how to apply for on-campus residence hall housing. Any other housing situation is 'off-campus.' If you plan to live in off-campus housing, it is up to you to find and arrange appropriate accommodations. Most off-campus housing opportunities require a yearlong lease.",
+  "cost_of_living": "The estimated monthly living expenses can be found at https://financialaid.wisc.edu/cost-of-attendance/ (Please note tuition fees are waived due to exchange status).",
+  "gpt_university_description": "The University of Wisconsin Madison is a comprehensive university located in Madison, Wisconsin. It is known for its strong academic programs and research opportunities. The university offers a wide range of courses across various disciplines and provides a vibrant and inclusive campus community for students.",
+  "gpt_university_address": "Madison, Wisconsin, USA",
+  "gpt_university_city": "Madison",
+  "gpt_nearest_airport": "Dane County Regional Airport",
+  "gpt_location_cost_of_living": "Madison is generally considered to have a moderate cost of living compared to other cities in the USA. Housing and transportation expenses are reasonable, while utilities and groceries can be slightly higher than the national average.",
+  "gpt_location_weather": "Madison experiences four distinct seasons. Summers are warm with temperatures averaging around 80°F (27°C), while winters are cold with temperatures averaging around 20°F (-7°C). Spring and autumn offer mild and pleasant weather.",
+  "gpt_location_description": "Madison is the capital city of Wisconsin and is known for its beautiful lakes, vibrant arts scene, and lively college atmosphere. The city offers a mix of urban amenities and natural beauty, with numerous parks, bike trails, and outdoor recreational activities. Madison has a diverse and welcoming community, making it a popular destination for students and young professionals.",
+  "gpt_location_crime": "Madison has a relatively low crime rate compared to other cities in the USA. The city is generally safe, but it is always recommended to take necessary precautions and be aware of your surroundings.",
+  "gpt_location_transportation": "Madison has a well-developed public transportation system consisting of buses that cover the city and surrounding areas. Biking is also popular among residents, with many bike lanes and trails available. The city is pedestrian-friendly and walkable as well.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

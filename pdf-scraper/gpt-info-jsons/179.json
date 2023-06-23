@@ -1,0 +1,14 @@
+{
+  "university_name": "Northwestern University",
+  "gpt_university_description": "Northwestern University is a renowned private research university in the United States. It is located in Evanston, Illinois, with campuses in Chicago and Qatar as well. Established in 1851, the university offers a wide range of undergraduate and graduate programs across its 12 schools and colleges.",
+  "gpt_university_address": "633 Clark St, Evanston, IL 60208, United States",
+  "gpt_university_city": "Evanston, Illinois",
+  "gpt_nearest_airport": "Chicago O'Hare International Airport (ORD)",
+  "gpt_location_cost_of_living": "The cost of living in Evanston is relatively high compared to the national average, mainly due to housing costs. However, it is more affordable than downtown Chicago, with slightly lower expenses for transportation, groceries, and utilities.",
+  "gpt_location_weather": "Evanston experiences a humid continental climate, with cold winters and warm summers. The city gets significant snowfall during winter and ample sunshine during the summer. Spring and autumn are pleasant, with moderate temperatures.",
+  "gpt_location_description": "Evanston is a beautiful, diverse, and culturally rich city located on the shore of Lake Michigan, just north of Chicago. Known for its tree-lined streets, it offers a vibrant downtown area with shops, restaurants, and entertainment venues. Evanston is well-connected to Chicago by public transportation, providing easy access to the big city's attractions.",
+  "gpt_location_crime": "Crime rates in Evanston are relatively low compared to other cities in the U.S. While some areas may have higher crime rates than others, overall, Evanston is considered a safe place to live and study.",
+  "gpt_location_transportation": "Public transportation options in Evanston are excellent, with multiple train and bus lines connecting it to Chicago and nearby areas. The Chicago Transit Authority (CTA) \"L\" trains and Metra commuter rail provide fast and convenient access to downtown Chicago, while buses serve local routes and destinations.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

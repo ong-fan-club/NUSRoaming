@@ -1,0 +1,14 @@
+{
+  "university_name": "The Hebrew University of Jerusalem",
+  "gpt_university_description": "The Hebrew University of Jerusalem, founded in 1918, is Israel's leading academic and research institution, ranked globally among the top 100 universities. It offers a wide range of undergraduate and graduate programs in various fields, including humanities, law, social sciences, natural sciences and medicine.",
+  "gpt_university_address": "Mount Scopus, Jerusalem, 9190501, Israel",
+  "gpt_university_city": "Jerusalem, Israel",
+  "gpt_nearest_airport": "Ben Gurion International Airport (TLV)",
+  "gpt_location_cost_of_living": "Jerusalem has a moderately high cost of living, with essentials such as housing, food, and transportation being relatively more expensive than in other Israeli cities. However, student discounts and affordable housing options are available.",
+  "gpt_location_weather": "The weather in Jerusalem is characterized by a Mediterranean climate with hot, dry summers and cool, wet winters. Temperature ranges from an average of 12°C in January to 24°C in July.",
+  "gpt_location_description": "Jerusalem is a city steeped in history, culture, and religion. It is home to a mix of ancient and modern attractions, including the Western Wall, Dome of the Rock, and Yad Vashem Holocaust museum. The city has a unique atmosphere, with diverse neighborhoods, lively markets, and a rich culinary scene.",
+  "gpt_location_crime": "While the crime rate in Jerusalem is generally low, it is important to take safety precautions and remain vigilant, especially around known tourist areas and political demonstrations due to occasional unrest and tensions.",
+  "gpt_location_transportation": "Jerusalem is well connected by public transportation, including buses, a light rail system, and shared taxis known as 'sherut.' The city also has bicycle rental services and is walkable for short distances.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

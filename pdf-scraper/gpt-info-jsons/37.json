@@ -1,0 +1,14 @@
+{
+  "university_name": "University of Zurich",
+  "gpt_university_description": "The University of Zurich, founded in 1833, is the largest university in Switzerland, offering a broad range of academic programs and research opportunities. It is well-regarded for its strong emphasis on research, particularly in the fields of neuroscience, social sciences, and humanities.",
+  "gpt_university_address": "Rämistrasse 71, 8006 Zürich, Switzerland",
+  "gpt_university_city": "Zurich, Canton of Zurich",
+  "gpt_nearest_airport": "Zurich Airport (ZRH)",
+  "gpt_location_cost_of_living": "Zurich is known for its high cost of living, with expenses such as housing, food, and transportation being quite expensive. However, students may be able to find relatively affordable options for accommodations and groceries if they search diligently and budget wisely.",
+  "gpt_location_weather": "Zurich experiences a temperate climate with mild summers and cold winters. Summers have average temperatures around 19°C, while winters can go down to -1°C. The city receives a fair amount of precipitation throughout the year, with rainfall being the most common form.",
+  "gpt_location_description": "Zurich is a vibrant, cosmopolitan city that combines rich history with modern lifestyle. Known for its picturesque streets, museums, and art galleries, Zurich offers countless cultural attractions and events. The city is surrounded by beautiful nature, with the Alps and Lake Zurich nearby, making it an ideal place for those who enjoy outdoor activities.",
+  "gpt_location_crime": "Zurich has a relatively low crime rate compared to other major cities. However, it is still important to take precautions against petty crimes such as pickpocketing, especially in crowded areas and public transportation.",
+  "gpt_location_transportation": "Zurich boasts an extensive and efficient public transportation system, including trams, buses, and trains. The Zurich Card provides unlimited access to the city's public transportation network and discounts on various attractions. Cycling and walking are also popular options for getting around the city.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

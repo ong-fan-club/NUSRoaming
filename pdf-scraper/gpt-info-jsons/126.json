@@ -1,0 +1,14 @@
+{
+    "university_name": "Georgetown University",
+    "gpt_university_description": "Georgetown University is a prestigious private research institution located in Washington D.C., USA. Founded in 1789, it is the oldest Catholic and Jesuit institution of higher education in the United States. The university offers undergraduate and graduate programs in various fields including arts, sciences, business, and foreign service, emphasizing a rigorous liberal arts education.",
+    "gpt_university_address": "3700 O St NW, Washington, D.C. 20057, United States",
+    "gpt_university_city": "Washington D.C.",
+    "gpt_nearest_airport": "Ronald Reagan Washington National Airport (DCA)",
+    "gpt_location_cost_of_living": "Washington D.C. is known for its relatively high cost of living, with expenses such as housing, transportation, and groceries being higher than the national average.",
+    "gpt_location_weather": "Washington D.C. has a humid subtropical climate, characterized by hot summers and cold winters. The city experiences four distinct seasons, with spring and fall being especially pleasant.",
+    "gpt_location_description": "Washington D.C., the capital city of the United States, is a vibrant metropolis that serves as the political and cultural center of the nation. It is home to numerous historic landmarks, museums, and government institutions, which make it an attractive city for students, tourists, and locals alike.",
+    "gpt_location_crime": "The overall crime rate in Washington D.C. is higher than the national average, although it varies by neighborhood. The city has been investing in safety and security measures in recent years, leading to a decline in crime rates.",
+    "gpt_location_transportation": "Washington D.C. has excellent public transportation options, including the Metrorail, Metrobus, and DC Circulator. Additionally, the city is pedestrian and bike-friendly, making it easy to navigate without a car.",
+    "gpt_location_halal": 3,
+    "gpt_location_vegetarian": 3
+}

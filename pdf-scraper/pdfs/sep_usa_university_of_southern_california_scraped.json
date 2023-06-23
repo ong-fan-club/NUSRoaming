@@ -1,0 +1,16 @@
+{
+  "university_name": "University of Southern California",
+  "university_website": [
+    "http://www.usc.edu/",
+    "http://ois.usc.edu/",
+    "Incoming Exchange Page"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)", "Faculty of Arts and Social Sciences (FASS)", "NUS Business School (BIZ)", "School of Computing (SoC)", "College of Design and Engineering (CDE or FoE)", "Yong Loo Lin School of Medicine (YLLSOM)", "School of Law (LAW)"],
+  "module_restrictions": "Students can only take courses from USC Viterbi School of Engineering, with the exception of appropriate math and science courses. All other Schools and Programmes at USC are unavailable.",
+  "visa_info": "Your J-1 visa will be good for the length of the programme of study. You are able to enter the U.S. 30 days prior to the start date of the visa and stay in the U.S. up to 30 days after the end date of the visa. This allow you to arrive in the U.S. prior to as well as remain after the program ends to travel. If you arrive before the 30 day grace period, you will only be able to enter the U.S. as a tourist. Please note, if you enter the U.S. as a tourist, you MUST leave, and then re-enter to validate your visa, before you can attend classes. Please arrive within the specified period, unless you plan on leaving and returning before the program begins.",
+  "accommodations_info": "Exchange students may apply for USC Housing. Space is not guaranteed, but USC will try their best to place all interested exchange students in on-campus housing. Be certain to indicate on your application that you are interested in USC Housing, and remember that you are responsible for paying for your housing costs. For more information, please refer here: https://viterbiundergrad.usc.edu/overseas/exchange/housing/",
+  "cost_of_living": "The estimated monthly living expenses at USC can be found at this link: https://viterbiundergrad.usc.edu/overseas/exchange/finances/"
+}

@@ -1,0 +1,22 @@
+{
+  "university_name": "Chongqing University",
+  "university_website": [
+    "http://study.cqu.edu.cn/HOME/CURRENT_STUDENTS/CQU_Academic_Calendar.htm",
+    "http://study.cqu.edu.cn/HOME/ADMISSION/Schools_and_Departments.html",
+    "http://study.cqu.edu.cn/HOME/ORIENTATION/Before_Going_to_China/Accommodation.htm",
+    "https://www.visaforchina.cn/SGP2_EN/index.shtml",
+    "https://www.visaforchina.cn/#/guideNav/Guidance?visacenterCode=SGP2&request_locale=en_US&site_alias=SGP2_EN",
+    "http://study.cqu.edu.cn/HOME/ORIENTATION/Before_Going_to_China/Visa_Application.htm",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "http://study.cqu.edu.cn/HOME/ORIENTATION/Upon_your_Arrival/Medical_Insurance.htm",
+    "http://sie.cqu.edu.cn/"
+  ],
+  "university_country": "China",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN", "JUL"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)", "Faculty of Arts and Social Sciences (FASS)", "NUS Business School (BIZ)", "School of Computing (SoC)", "Faculty of Dentistry (DENT)", "College of Design and Engineering (CDE or FoE)", "Yong Loo Lin School of Medicine (YLLSOM)", "School of Law (LAW)", "School of Nursing", "Yong Siew Toh Conservatory of Music (YSTCM)"],
+  "module_restrictions": "",
+  "visa_info": "Exchange students in China are required to apply for a student visa (X2 visa for those intending to study in China for a period of no more than 180 days and X1 visa for those intending to study in China for a period of more than 180 days). You will receive the admission letter and visa application form (JW202) once you are accepted by the host university for the student exchange program. Exchange students are required to apply for the student visa in person at the China Visa Application Service Centre in Singapore with the relevant documents before the start of the academic semester.",
+  "accommodations_info": "International Students may live on campus at the Songlinpo International Student Apartment or Xuelin International Student Apartment in campus A or No. 6 Orchid Building International Students Dormitory in campus D. Self-funded international students can choose to apply for residence in international student dormitories on campus or rent off-campus on their own. As the number of rooms is limited, rooms are reserved on a first-come-first-served principle.",
+  "cost_of_living": "The Ministry of Education of China requires all international students to be medically insured throughout their study period in China (see more details in Chinese Safety Comprehensive Insurance Plan). The medical insurance premium is 400RMB for a semester and 800RMB for a year."
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "university_name": "University of Pretoria",
+    "university_website": [
+      "http://www.up.ac.za/",
+      "http://www.up.ac.za/en/international-cooperation-division/article/2512050/exchange-and-study-abroad"
+    ],
+    "university_country": "South Africa",
+    "sem1_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+    "sem2_months": ["JUL", "AUG", "SEP", "OCT", "NOV", "DEC"],
+    "faculties_accepted": ["FASS", "CDE", "FoS"],
+    "module_restrictions": "Students are most welcome to apply for semester courses in all faculties, with the exception of the Faculty of Health Sciences.",
+    "visa_info": "Exchange students are requested to contact the nearest South African consular office in their home country, or neighboring country to obtain a study permit. The student must use the letter of admission from the University of Pretoria to apply for study permits. It is the responsibility of the student to see to it that the South African consular office issues the correct permit with the correct endorsement. Please note that students are NOT allowed to study at the University without a valid study permit. (Endorsed to study at the University of Pretoria.)\n\nHigh Commission of the Republic of South Africa in Singapore\n331 North Bridge Rd, Singapore 188720\n+65 6339 3319\nhttp://www.dirco.gov.za/singapore/",
+    "accommodations_info": "The International Students Division (ISD) is responsible for arranging accommodation for exchange and study-abroad students. However, accommodation is subject to availability of space and is allocated on a first come first served basis.\nhttp://www.up.ac.za/student-accommodation\nhttp://www.up.ac.za/media/shared/359/ZP_Files/tuksresguide2016-final.zp80069.pdf",
+    "cost_of_living": "The amount you spend on daily necessities can vary widely, according to individual preferences and lifestyles. For more financial advice specific to University of Pretoria, please refer to the following webpage.\nhttp://www.up.ac.za/en/fees-and-funding/article/277419/residence-fees"
+  }
+]

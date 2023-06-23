@@ -1,0 +1,14 @@
+{
+  "university_name": "University of Toronto",
+  "gpt_university_description": "The University of Toronto is a public research university located in Toronto, Ontario, Canada. Founded in 1827, it is one of the oldest and most prestigious universities in North America, known for its cutting-edge research, strong academic programs, and diverse student body. The institution offers a wide range of undergraduate and graduate programs across various faculties and departments.",
+  "gpt_university_address": "27 King's College Cir, Toronto, ON M5S 1A1, Canada",
+  "gpt_university_city": "Toronto, Ontario",
+  "gpt_nearest_airport": "Toronto Pearson International Airport (YYZ)",
+  "gpt_location_cost_of_living": "The cost of living in Toronto is relatively high compared to other Canadian cities. Housing, transportation, and groceries are the main contributors to the high cost. However, students can find affordable accommodations and take advantage of discounts on public transit.",
+  "gpt_location_weather": "Toronto experiences a continental climate with warm, humid summers and cold winters. The city has a lot of variation in temperature, with daytime highs ranging from -6°C in winter to 27°C in summer. Snow is common in the winter months, while spring and autumn are typically mild and wet.",
+  "gpt_location_description": "Toronto is a vibrant, multicultural city located on the shores of Lake Ontario. It is Canada's largest city and financial center, offering an array of cultural attractions and recreational activities. From world-class museums to diverse neighborhoods, Toronto offers something for everyone to enjoy.",
+  "gpt_location_crime": "Toronto is generally considered a safe city, but like any large urban area, it has its share of crime. Pickpocketing and petty theft can occur, particularly in crowded areas or on public transit. However, violent crime is relatively low, and most areas of the city are safe to explore.",
+  "gpt_location_transportation": "Public transportation in Toronto is extensive and easy to navigate. The Toronto Transit Commission (TTC) operates buses, streetcars, and subway lines throughout the city. A monthly pass, called the 'PRESTO Card', provides unlimited travel on all TTC services, and discounts are available for students.",
+  "gpt_location_halal": 3,
+  "gpt_location_vegetarian": 3
+}

@@ -1,0 +1,33 @@
+{
+  "university_name": "University College Dublin (UCD)",
+  "university_website": [
+    "https://www.ucd.ie/global/learningabroad/exchanges/inboundexchange-students/"
+  ],
+  "university_country": "Ireland",
+  "sem1_months": [
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "sem2_months": [
+    "MID",
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY"
+  ],
+  "faculties_accepted": [
+    "College of Arts & Humanities",
+    "College of Business",
+    "College of Social Sciences & Law",
+    "College of Engineering & Architecture",
+    "College of Science",
+    "College of Health & Agricultural Science"
+  ],
+  "module_restrictions": "Graduate modules are not open to undergraduate exchange students. Please note that module restrictions may apply in the areas of Health & Agriculture Sciences, Education, Psychology, Business, Law, English Literature and History.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. The visa application process could take up to 2 months to process. Your exchange at the host university depends on clearance by the immigration of the host country. Please check if you need a visa here: [Visa and Non-Visa Required Countries](https://www.irishimmigration.ie/wp-content/uploads/2021/07/Immigration-Service-Delivery-Visa-and-Non-Visa-Required-Countries.pdf). All students who do NOT hold an EU passport must register with the Irish Naturalisation and Immigration Service (INIS) after arrival in Ireland.",
+  "accommodations_info": "Accommodation application instructions will be emailed to students by UCD after the students have been accepted to UCD. You will receive information on how to apply for accommodation in June (for Full Year & Trimester 1 students) or November (for Trimester 2 & continuing students). On Campus Accommodation: UCD has on-campus accommodation for over 2,500 students in both halls of residence and three, four, five and six-bedroom self-catering apartments. These are spread across five locations, with 300 places located on the nearby Blackrock Campus. However, places are limited and on-campus accommodation is not guaranteed. More information is available at [UCD Residences](http://www.ucd.ie/residences/). Details of the costs of the various on-campus residences are found at: [On-campus Accommodation Costs](https://www.ucd.ie/residences/bookings/finance/). On-campus accommodation rental cost must be paid in full at the start of each semester.",
+  "cost_of_living": "Information on cost of living can be found at [UCD Living Costs](https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/livingcosts/)."
+}

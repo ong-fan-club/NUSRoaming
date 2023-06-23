@@ -1,0 +1,14 @@
+{
+  "university_name": "University of Oslo",
+  "gpt_university_description": "The University of Oslo, founded in 1811, is the oldest and largest university in Norway, and one of the top-ranked universities in Europe. It offers a wide range of programs in humanities, social sciences, natural sciences, mathematics, and medical and life sciences. The university is known for its strong research programs and offers a diverse academic and cultural environment for its students.",
+  "gpt_university_address": "Problemveien 7, 0313 Oslo, Norway",
+  "gpt_university_city": "Oslo",
+  "gpt_nearest_airport": "Oslo Airport (OSL)",
+  "gpt_location_cost_of_living": "Oslo is known for its high cost of living compared to other cities. However, students can find some affordable options for accommodation, food, and entertainment. Preparing meals at home, shopping at discount stores, and utilizing student discounts for public transportation and various activities can help reduce expenses.",
+  "gpt_location_weather": "Oslo experiences a humid continental climate with mild to warm summers and cold winters. Average temperatures range from -5°C to 0°C in January, the coldest month, and from 14°C to 22°C in July, the warmest month. Snow is common in the winter months, while rainfall occurs throughout the year.",
+  "gpt_location_description": "Oslo, the capital and largest city of Norway, is nestled between the Oslofjord and surrounding hills and forests and has a vibrant urban life. The city offers numerous cultural attractions, including museums, galleries, and historical sites, as well as outdoor recreational activities such as hiking, skiing, and fjord cruises.",
+  "gpt_location_crime": "Crime rates in Oslo are relatively low compared to other major cities, with most incidents being non-violent property crimes such as theft. However, it is still important to be cautious, particularly in crowded areas or late at night, and to follow general safety measures, like locking doors and securing valuables.",
+  "gpt_location_transportation": "Oslo has an extensive public transportation network that includes buses, trams, trains, and ferries. The system is well-integrated, making it easy to travel within the city and to surrounding areas. Most places of interest are easily accessible by public transport, and a reliable travel card system is available for commuters.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 2
+}

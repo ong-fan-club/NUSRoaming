@@ -1,0 +1,12 @@
+{
+  "university_name": "Norwegian University of Science and Technology (NTNU)",
+  "university_website": ["https://www.ntnu.edu/studies/exchange"],
+  "university_country": "Norway",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["FoS", "FoE", "SoC"],
+  "module_restrictions": "Most faculties in NTNU will consider undergraduate exchange students, except for Architecture, Marine Technology and Electric Power Engineering. Many other Faculties will however have a very limited offer of courses in English on an undergraduate level. Architecture students much have completed a minimum of three years at their home institution (bachelor) prior to arrival at Trondheim. Only courses at a master’s level (year 4 and 5) are offered in English.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application process could take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country. Students who will be in Norway for more than three months need to apply for a student residence permit.",
+  "accommodations_info": "Exchange students from non-EU/non-EEA countries, who applied within the deadline (1 April/1 October), are guaranteed housing. It is recommended that students go in Semester 2 where more housing is available.",
+  "cost_of_living": "The estimated monthly living expenses are as follows:\n\nAccommodation: NOK 3,000-6,000\nTransport: NOK 500\nFood: NOK 3,000\nOthers (Books, entertainment etc.): NOK 6,500\n\nMonthly Estimate: NOK 13,000-15,500"
+}

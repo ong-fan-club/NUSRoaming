@@ -1,0 +1,12 @@
+{
+  "university_name": "University of Pennsylvania",
+  "university_website": ["http://www.upenn.edu", "https://almanac.upenn.edu/penn-academic-calendar", "http://www.college.upenn.edu/", "https://www.upenn.edu/life-at-penn/housing-and-dining", "https://www.publicsafety.upenn.edu/contact/", "https://global.upenn.edu/pennabroad/exchangeapplication"],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "Any graduate (500-level or above) courses, including courses in the Medical School, Law School, School of Education, etc. Wharton courses are restricted to students on Wharton exchange. Students on CAS exchange may be able to take 1-2 courses per semester in Wharton, though they should not count on it. Students should select primarily courses from their schools of study. CAS will only accept students whose majors at their home institutions are equivalent to a major offered through CAS.",
+  "visa_info": "Once you have received a notice of your acceptance, you must log into the PASSPORT application portal and commit to the exchange program by the relevant deadline. All exchange students who are not US citizens are required to obtain an F-1 or J-1 student visa for their exchange studies in the United States. More information is provided upon acceptance. Students must produce financial documentation showing that they have at least USD $14,323 (for one semester) in assets to obtain a student visa.",
+  "accommodations_info": "All exchange students are required to live in on-campus housing and enroll in a dining plan. For more information, please refer here: https://www.upenn.edu/life-at-penn/housing-and-dining",
+  "cost_of_living": "Tuition fee charges are waived for exchange students. However, you must budget adequate funds to cover living and personal expenses in Philadelphia. Exchange students who are not US citizens will be required to show adequate financial documentation to prove they can sustain themselves during the duration of their exchange. For more information, please refer to the following link (scroll down to Costs to Consider section): https://global.upenn.edu/pennabroad/exchangeapplication"
+}

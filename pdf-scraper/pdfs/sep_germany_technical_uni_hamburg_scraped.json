@@ -1,0 +1,33 @@
+{
+  "university_name": "Hamburg University of Technology",
+  "university_website": [
+    "https://www.tuhh.de/alt/tuhh/international/incoming-international-students/exchange-students.html"
+  ],
+  "university_country": "Germany",
+  "sem1_months": [
+    "OCT",
+    "NOV",
+    "DEC",
+    "JAN",
+    "FEB"
+  ],
+  "sem2_months": [
+    "APR",
+    "MAY",
+    "JUN",
+    "JUL",
+    "AUG",
+    "SEP"
+  ],
+  "faculties_accepted": [
+    "College of Design and Engineering (CDE or FoE)",
+    "Faculty of Arts and Social Sciences (FASS)",
+    "Faculty of Science (FoS)",
+    "School of Computing (SoC)",
+    "Yong Siew Toh Conservatory of Music (YSTCM)"
+  ],
+  "module_restrictions": "Limited undergraduate modules are taught in English. More master level modules are taught in English. NUS students need to meet the prerequisites of TUHH’s master level module.",
+  "visa_info": "EU citizens and citizens from Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland, and the United States do not need a visa to enter Germany. Students from all other countries must apply for a Student Applicant's visa via the German diplomatic representation. All students are advised to open a German bank account and then apply for the necessary visa immediately upon receipt of the official offer letter/email from their host university. Some visa application processes could take up to 2 months to process.",
+  "accommodations_info": "Student accommodation in Hamburg is extremely limited. Please apply as early as possible during the application period. Accommodation application deadline: Semester 1: 15 June, Semester 2: 15 December. For more information about accommodation, please refer to https://www.tuhh.de/alt/tuhh/international/incoming-international-students/accommodation-office.html",
+  "cost_of_living": "The estimated monthly living expenses are as follows: Accommodation: €350 - €500, Food: €200, Insurance: €90, Others (Entertainment, clothes): €200. Monthly Estimate: €840 - €990."
+}

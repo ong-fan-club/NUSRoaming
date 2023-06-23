@@ -1,0 +1,28 @@
+{
+  "university_name": "The Hebrew University of Jerusalem",
+  "university_website": [
+    "http://new.huji.ac.il/en",
+    "http://new.huji.ac.il/en"
+  ],
+  "university_country": "Israel",
+  "sem1_months": [
+    "OCT",
+    "NOV",
+    "DEC",
+    "JAN"
+  ],
+  "sem2_months": [
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN"
+  ],
+  "faculties_accepted": [
+    "FASS",
+    "FoS"
+  ],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. Most of the courses in the faculty level programmes are open to exchange students, pending availability.",
+  "visa_info": "All students must obtain a MULTIPLE ENTRY A/2 STUDENT VISA prior to their arrival to Israel through the closest Israeli Embassy or Consulate.",
+  "accommodations_info": "Housing is available at HUJI but is not guaranteed. Incoming students are mainly accommodated in student housing complexes on Mount Scopus, overlooking the incredible panorama of Jerusalem. Students are usually housed in apartments with single bedrooms. The bedrooms contain a bed, desk, chair and closet. Kitchen and bathroom facilities are shared. Internet access is available for an additional fee. Students must supply their own bedroom linens and blankets, dishes and cooking utensils. There is no meal plan, but the kitchens are equipped with stove burners and refrigerators for preparing light meals and snacks. Moderately priced kosher cafeterias and snack bars, as well as small supermarkets, can be found in or near each student housing complex. Laundry facilities are also available.",
+  "cost_of_living": "While costs may vary according to your spending habits, the estimated monthly living expenses in Jerusalem are as follows:\n\nHousing (including utilities): $600-800\nMedical Insurance: $52\nTransportation: $100\nPersonal Expenses/leisure: $650-$750"
+}

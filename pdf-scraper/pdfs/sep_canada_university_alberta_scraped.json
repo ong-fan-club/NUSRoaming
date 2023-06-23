@@ -1,0 +1,28 @@
+{
+  "university_name": "Alberta University",
+  "university_website": [
+    "https://www.ualberta.ca/registrar/calendar/index.html",
+    "https://www.ualberta.ca/admissions-programs/exchange-programs/incoming-exchange-application-guide/health-insurance-requirements.html",
+    "https://www.ualberta.ca/admissions-programs/exchange-programs/incoming-exchange-application-guide/index.html"
+  ],
+  "university_country": "Canada",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR"],
+  "faculties_accepted": [
+    "College of Humanities and Sciences (CHS)",
+    "Faculty of Science (FoS)",
+    "Faculty of Arts and Social Sciences (FASS)",
+    "NUS Business School (BIZ)",
+    "School of Computing (SoC)",
+    "Faculty of Dentistry (DENT)",
+    "College of Design and Engineering (CDE or FoE)",
+    "Yong Loo Lin School of Medicine (YLLSOM)",
+    "School of Law (LAW)",
+    "School of Nursing",
+    "Yong Siew Toh Conservatory of Music (YSTCM)"
+  ],
+  "module_restrictions": null,
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": "The University of Alberta requires all incoming exchange students to enroll in the University of Alberta Health Insurance Plan (UAHIP). UAHIP is a mandatory health insurance that is similar to the Alberta Health Care Insurance Plan (AHCIP) provided by the Government of Alberta. It is recommended that you purchase a comprehensive travel insurance for the full duration of your stay abroad, including your personal travel within/outside Canada. Please review the insurance coverages to ensure that they meet your needs. Students can purchase additional health and/or travel insurance from their preferred agent.",
+  "cost_of_living": "The cost of living in Canada varies depending on the city and personal lifestyle. As an estimate, the average monthly living expenses (including accommodation, food, transportation, and personal expenses) for a student in Alberta can range from CAD 1,200 to CAD 2,000 or more. Please note that this is just an approximation and actual expenses may vary."
+}

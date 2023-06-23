@@ -1,0 +1,21 @@
+{
+  "university_name": "Technical University of Munich",
+  "university_website": [
+    "https://www.international.tum.de/en/global/comingtotum/tumexchange/",
+    "https://www.tum.de/studium/bewerbung/infoportal-bewerbung/termine-und-fristen"
+  ],
+  "university_country": "Germany",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN", "FEB"],
+  "sem2_months": ["APR", "MAY", "JUN", "JUL", "AUG", "SEP"],
+  "faculties_accepted": [
+    "Faculty of Science",
+    "Faculty of Arts and Social Sciences",
+    "College of Design and Engineering",
+    "School of Computing",
+    "Faculty of Law"
+  ],
+  "module_restrictions": "Some master-level courses conducted in English are not open to NUS students. Business modules from TUM School of Management are excluded from the exchange. NUS Department of Architecture administers its own faculty-level exchange programme with TUM Architecture. Eligibility and suitability of the modules depends on the pre-requisites as well as the examination date for individual modules which you wish to take at TUM.",
+  "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland, and the United States. However, after entering Germany, you will have to apply for a residence permit at the local 'Auslaenderbehörde' (Immigration Office) if you are staying for more than three months. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. You must not under any circumstances travel to Germany on a tourist visa.",
+  "accommodations_info": "For more information about accommodation, please refer to https://www.international.tum.de/en/global/accommodation/. Due to the housing shortage in Munich, please take note that student accommodation might not be available. Students who secure the student accommodation managed by the Studentenwerk München are expected to commit to a stated duration of stay on contract. The contract could end in late July, late August, or in September and there is no guarantee that there will be a vacancy for your preferred contract end date. Students who have a contract that ends in August or September are expected to pay for the rental until August or September. There will be no refund of the rental if you leave the student accommodation earlier. Deposit for the student accommodation will only be returned to you after you have fulfilled the conditions for the full refund of deposit. It takes approximately four months for the rental deposit (if applicable) to be returned to you.",
+  "cost_of_living": "In order to receive a residence permit, you need to present to the Ausländerbehörde (local foreigner’s registration office) a statement of financial support proving that you have at least €735 to live on for each month of your stay. This can either be a bank statement, a notarized parental letter, or a scholarship certificate. The estimated monthly living expenses are as follows:\n\n- Accommodation: €300 - €700\n- Food and Others (Entertainment, clothes, mobile phone, utilities, books etc.): €200 - €400\n- Transport with complete student ticket: €50\n- Insurance: €110\n- Others (Entertainment, clothes): €200\n\nMonthly Estimate: €800 - €1400"
+}

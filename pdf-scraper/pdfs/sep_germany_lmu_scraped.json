@@ -1,0 +1,40 @@
+{
+  "university_name": "Ludwig-Maximilians-University of Munich (LMU)",
+  "university_website": [
+    "https://www.en.uni-muenchen.de/students/exchange/incomings/austausch_engl/index.html",
+    "https://www.en.uni-muenchen.de/students/int_student_guide/studying_at_lmu/academic_schedule_workload/academic_calendar/index.html"
+  ],
+  "university_country": "Germany",
+  "sem1_months": [
+    "OCT",
+    "NOV",
+    "DEC",
+    "JAN"
+  ],
+  "sem2_months": [
+    "APR",
+    "MAY",
+    "JUN",
+    "JUL"
+  ],
+  "faculties_accepted": [
+    "Faculty of Catholic Theology",
+    "Faculty of Protestant Theology",
+    "Faculty of Economics",
+    "Faculty of History and the Arts",
+    "Faculty of Philosophy, Philosophy of Science and Religious Studies",
+    "Faculty of Psychology and Educational Sciences",
+    "Faculty of Cultural Sciences",
+    "Faculty of Languages and Literatures",
+    "Faculty of Social Sciences",
+    "Faculty of Mathematics, Computer Science and Statistics",
+    "Faculty of Physics",
+    "Faculty of Chemistry (exclude Pharmacy)",
+    "Faculty of Biology",
+    "Faculty of Geosciences"
+  ],
+  "module_restrictions": "Undergraduate students are not permitted to take master level courses. Courses related to Business Administration, Medicine and Dentistry, Pharmacy, Veterinary Science, and special fee-paying programs offered by individual departments are not open to exchange students.",
+  "visa_info": "EU citizens and citizens from Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland, and the United States do not need a visa to enter Germany. Students from other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. Health insurance and accident, personal, and third party liability insurance are mandatory.",
+  "accommodations_info": "LMU provides accommodation for exchange students through the Studentenwerk. There might be a housing shortage, and availability is not guaranteed. Private accommodation options are also available.",
+  "cost_of_living": "The estimated monthly living expenses include accommodation (€200-€300), food (€100), insurance (€80), and other expenses like entertainment and clothes (€75-€120). Students need to show a statement of financial support of at least €735 per month for the residence permit."
+}

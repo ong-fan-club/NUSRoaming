@@ -1,0 +1,37 @@
+{
+  "university_name": "CentraleSupélec",
+  "university_website": [
+    "http://www.centralesupelec.fr/"
+  ],
+  "university_country": "France",
+  "sem1_months": [
+    "SEPT",
+    "OCT",
+    "NOV",
+    "DEC",
+    "JAN"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN"
+  ],
+  "faculties_accepted": [
+    "Energy Science",
+    "Computer Science and Electrical Engineering",
+    "Mechanics and Civil Engineering",
+    "Physics",
+    "Mathematics",
+    "Industrial Engineering, Management, and Economic Systems",
+    "Chemical Engineering",
+    "Humanities & Social Sciences",
+    "Languages"
+  ],
+  "module_restrictions": "If possible, B1 level in French is required. The normal course load is 30 ECTS per semester. Depending on the requirements of the home institution, students may either take the full 30 ECTS load, or read at least 24 ECTS.",
+  "visa_info": "Long-Stay visas are necessary for stays exceeding 3 months. Upon arrival in France, students are required to register with the French Immigration and Integration Office (OFII) for a residence permit. Please visit the websites of French embassies and consulates in your country. All students who wish to study in France must follow the Campus France procedure on Etudes en France online platform before applying for a visa. Please refer to http://www.singapour.campusfrance.org/page/student-visa-stays-france-more-90-days for details. Students can apply up to 3 months prior to the departure. During the peak period (from April to August), students are invited to apply as soon as they can, to avoid any delays, since it can take up to 2 weeks to get an appointment. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Incoming students are responsible for paying for and securing their visa on time. Students are reminded to bring originals AND copies of the requested documents.",
+  "accommodations_info": "On-campus housing is available for International students. Applications will be open to students after their official admission. Paris-Saclay campus: Costs: ~ €420 to 630/month before deduction of CAF financial help. More information can be found at http://www.centralesupelec.fr/fr/decouvrez-la-residence-des-elevesde-notre-nouveau-campus. Metz campus: More information at http://www.metz.supelec.fr/metz/residence/. Rennes campus: More information at http://www.rennes.supelec.fr/ren/residence.fr.html.",
+  "cost_of_living": "The estimated monthly living expenses are as follows: Accommodation: €450, Food: €200, Transport: €50, Others (Entertainment, clothes): €150. Monthly estimate: €850."
+}

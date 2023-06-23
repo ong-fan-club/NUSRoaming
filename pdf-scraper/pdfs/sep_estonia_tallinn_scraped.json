@@ -1,0 +1,12 @@
+{
+  "university_name": "Tallinn University of Technology (TalTech)",
+  "university_website": ["https://www.ttu.ee/studying/exchange-studies/exchange-studies-incomingoutgoing/"],
+  "university_country": "Estonia",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "JAN"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "JUN"],
+  "faculties_accepted": ["Faculty of Social Sciences (Economics only)", "Faculty of Information Technology", "Faculty of Mechanical Engineering", "Faculty of Chemical & Materials Technology", "Faculty of Science"],
+  "module_restrictions": "Both undergraduates and postgraduate Business and Law modules at TalTech are not offered to NUS students. Most of the courses which are conducted in English are Master level courses. As an exchange student, you can choose both Bachelor and Master level courses, but please take note that there are stricter pre-requisites for Master level courses. TalTech no longer offers the master programme on Work and Organizational Psychology. TalTech's strengths are in Computer Science and therefore these modules could be oversubscribed and not available.",
+  "visa_info": "If you are staying in Estonia for more than three months, the Estonian authority requires you to apply for a Long-stay (D) visa. It is recommended that you secure necessary visa before leaving for Estonia. Please note that the application procedure for the travel documents for students outside EU may take up to 2 months.",
+  "accommodations_info": "For exchange students, accommodation is offered in the Academic Hostels situated in the university campus and in the city centre. The campus reception is open 24/7, you can arrive any time. Accommodation is not guaranteed and limited places are available to students who apply and pay the deposit before the stipulated deadline. It is easier to get university accommodation in the Spring semester or semester 2. Students who failed to secure university accommodation have to find private accommodation on their own.",
+  "cost_of_living": "The estimated monthly living expenses can be found at https://www.ttu.ee/studying/exchange-studies/exchange-studies-incomingoutgoing/before-studies/cost-of-living/"
+}

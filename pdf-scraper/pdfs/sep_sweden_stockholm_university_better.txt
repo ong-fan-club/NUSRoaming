@@ -1,0 +1,23 @@
+{
+  "university_name": "Stockholm University",
+  "university_website": ["http://www.su.se/english/"],
+  "university_country": "Sweden",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["Faculty of Humanities", "Faculty of Social Sciences (excluding School of Business)", "Faculty of Science"],
+  "module_restrictions": "Please note that for most courses there are special eligibility requirements which are determined by the departments. Students may choose any course in the study area named in the agreement, provided that they meet the prerequisites specified for each course. It is important that the home university approves the courses students plan to take at Stockholm University. Students should choose courses together with the department at the home university and the department at Stockholm University.",
+  "visa_info": "Students from outside the EU/EEA must apply for a residence permit at the Swedish Embassy/Consulate in their country of residence, directly after receiving the headed admissions letter from Stockholm University.",
+  "accommodations_info": "As a special service Stockholm University tries to assist students from partner universities with accommodation. Stockholm University does not own any student dormitories and does not normally organise accommodation for students. A special exception is made for exchange students from universities with which Stockholm University has a signed co-operation agreement. The Housing Office at the International Exchange Unit manages a limited number of rooms in Stockholm. Unfortunately, due to the high demand and shortage of accommodation in Stockholm, it cannot guarantee accommodation for every exchange student.",
+  "cost_of_living": "The estimated monthly living expenses in Stockholm include SEK 4,000 for accommodation, SEK 2,000 for food, SEK 600 for transport, SEK 300 for telephone/internet, and SEK 1,100 for others (entertainment, clothes), resulting in a monthly estimate of SEK 8,000."
+  "gpt_university_description": "Stockholm University is a renowned university located in Stockholm, Sweden. It is known for its excellence in research and its wide range of academic programs offered across various faculties and schools. The university provides a vibrant and intellectually stimulating environment for students, with state-of-the-art facilities and resources.",
+  "gpt_university_address": "",
+  "gpt_university_city": "Stockholm",
+  "gpt_nearest_airport": "",
+  "gpt_location_cost_of_living": "",
+  "gpt_location_weather": "",
+  "gpt_location_description": "",
+  "gpt_location_crime": "",
+  "gpt_location_transportation": "",
+  "gpt_location_halal": "",
+  "gpt_location_vegetarian": ""
+}

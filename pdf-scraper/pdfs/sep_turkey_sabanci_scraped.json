@@ -1,0 +1,31 @@
+{
+  "university_name": "Sabanci University",
+  "university_website": [
+    "http://iro.sabanciuniv.edu/en/students/exchange/incoming"
+  ],
+  "university_country": "Turkey",
+  "sem1_months": [
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY"
+  ],
+  "faculties_accepted": [
+    "FASS",
+    "BIZ",
+    "FoE",
+    "FoS",
+    "SoC"
+  ],
+  "module_restrictions": "Course Limitations For Exchange Students:\n- School of Management (SOM) Graduate Courses: Only available to graduate students\n- EMBA (Executive MBA) Courses (SOM courses with code 9XX): Not open to exchange students\n- 3- MIF (Master of Finance courses with code MFIN) Courses: Only available to graduate students\n- LFI (Leaders for Industry) Engineering Courses: Subject to the approval of the instructor\n- LFI FMAN Courses: Only available to graduate students\n- Courses taught in Turkish are not open for exchange students, except Turkish Basic I (TUR 101) & Turkish Basic II (TUR 102).",
+  "visa_info": "All international students who need a visa should obtain their visa before coming to Turkey. Otherwise, you need to go back to your home country to obtain the visa if you need a student visa, as Student Visa is not given in Turkey. Students should apply for a visa at the nearest Turkish Embassy or Consulate in their home country at least 2 months before the academic semester begins. Residence Permit and Online Appointment: All exchange students must apply for a residence permit at İstanbul YABANCILAR ŞUBE MÜDÜRLÜĞÜ (VATAN) (Police Department for Foreigners - only one application branch) within a month after their arrival. Students cannot leave Turkey without having a residence permit. If this happens, you cannot come back to Turkey in the next 3 months.",
+  "accommodations_info": "University Accommodation: Students must indicate their accommodation preferences in the application form if they want to stay on campus. The International Office at Sabanci will do its best to accommodate all students. However, capacity is limited, and therefore priority will be given to students who apply before the application deadline. Students are allowed to check in the dormitories one week before the beginning of the semester. Deposits are returned to students two days before they leave. Private Accommodation: If preferred, students may choose to live outside the university campus. In that case, you have the responsibility to find your own accommodation.",
+  "cost_of_living": "Estimated Expenses per Semester:\n- Accommodation (twin-sharing): TRY3,274\n- Food: TRY2,250\n- Books and Stationery: TRY300\n- Local Transport: TRY1,800\n- Others (Entertainment, clothes, miscellaneous items): TRY2,540\n\nPer Semester Expenses: TRY7,624"
+}

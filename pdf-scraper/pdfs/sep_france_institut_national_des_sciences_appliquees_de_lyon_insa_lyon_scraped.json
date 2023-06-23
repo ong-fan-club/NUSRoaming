@@ -1,0 +1,48 @@
+{
+  "university_name": "Institut National des Sciences Appliquées de Lyon (INSA Lyon)",
+  "university_website": [
+    "https://www.insa-lyon.fr/en/",
+    "https://www.insa-lyon.fr/en/exchange-students",
+    "https://www.insa-lyon.fr/sites/www.insa-lyon.fr/files/2018_-_2019_guide_echange_classique_fitec_et_csc_v2.pdf",
+    "https://www.insa-lyon.fr/en/follow-lectures-english",
+    "https://www.insa-lyon.fr/en/formation/offre-de-formation",
+    "https://www.insa-lyon.fr/en/residences",
+    "http://www.singapour.campusfrance.org/page/student-visa-stays-france-more-90-days",
+    "http://www.ambafrance-sg.org/-English-",
+    "http://www.nus.edu.sg/uhc/services/billing-insurance/insurance-matters.html",
+    "http://www.nus.edu.sg/finance/students/student-travel.html",
+    "https://www.insa-lyon.fr/en/node/112"
+  ],
+  "university_country": "France",
+  "sem1_months": [
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC",
+    "JAN"
+  ],
+  "sem2_months": [
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN"
+  ],
+  "faculties_accepted": [
+    "Biochemistry",
+    "Civil Engineering and Urban Planning",
+    "Electrical Engineering",
+    "Energetics & Environmental Engineering",
+    "Mechanical Engineering Design",
+    "Mechanical Engineering Development",
+    "Mechanical Engineering Plastics Conversion Processes",
+    "Industrial Engineering",
+    "Information Technology",
+    "Science and Materials Engineering",
+    "Telecommunications, Services and Uses"
+  ],
+  "module_restrictions": "Energetics & Environmental Engineering (GEN) and Industrial Engineering (GI) accept full year exchange students or semester 1/autumn semester exchange students. Students have to choose at least 80 % of their courses in one single department (main department), but are allowed to pick up 20% of courses from other departments, should schedules permit.",
+  "visa_info": "Long-Stay visas are necessary for stays exceeding 3 months. Upon arrival in France, students are required to register with the French Immigration and Integration Office (OFII) for a residence permit. Please visit the websites of French embassies and consulates in your country. All students who wish to study in France must follow the Campus France procedure on Etudes en France online platform before applying for a visa. Students can apply up to 3 months prior to the departure. During the peak period (from April to August), students are invited to apply as soon as they can, to avoid any delays, since it can take up to 2 weeks to get an appointment. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university.",
+  "accommodations_info": "INSA Lyon provides accommodation on-campus for all exchange students: 360 to 550 €. A total of eleven Halls, divided into two categories, are available at INSA Lyon. The first category is referred to as traditional halls of residence, with shared rooms for two students. The second category of Halls is called new residences, where larger flats which offer more comfort are available for students. All rooms are furnished (bed, desk, chair, wardrobe or cupboard) and are equipped with a kitchenette (refrigerator and hotplate).",
+  "cost_of_living": "INSA Lyon is offering up to two scholarships (€3400 + €1100 for airfare per student) for NUS students on SEP to INSA Lyon (a minimum of 4 months is applicable) through the ERASMUS+ International credits mobility scheme. Scholarships are available for SEP in AY17/18. For more information about the cost of living, please refer to https://www.insa-lyon.fr/en/node/112. Breakdown of Costs: Accommodation: €305 - €525, Food: €230, Transport: €30, Insurance: €40, Others (Entertainment, clothes): €150, Monthly Estimate: €755 - €975."
+}

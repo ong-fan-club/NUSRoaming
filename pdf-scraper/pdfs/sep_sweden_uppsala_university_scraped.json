@@ -1,0 +1,30 @@
+{
+  "university_name": "Uppsala University",
+  "university_website": [
+    "http://www.uu.se/en/",
+    "http://www.uu.se/en/admissions/exchange/course/calendar",
+    "http://www.uu.se/en/admissions/exchange/",
+    "http://www.uu.se/en/admissions/exchange/course/",
+    "http://www.uu.se/en/admissions/exchange/housing-and-financing/",
+    "http://www.housingoffice.se/",
+    "https://www.migrationsverket.se/English/Private-individuals/Studying-in-Sweden.html",
+    "http://www.nus.edu.sg/uhc/general-health/billing-insurance/insurance-matters",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/"
+  ],
+  "university_country": "Sweden",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "JAN"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "JUN"],
+  "faculties_accepted": [
+    "Theology",
+    "Law",
+    "Arts",
+    "Languages",
+    "Social sciences",
+    "Educational sciences",
+    "Science and Technology"
+  ],
+  "module_restrictions": "All courses listed on http://www.uu.se/en/admissions/exchange/course/ are open to exchange students and will be taught in English, provided that they fulfil the prerequisites and have certain restrictions as mentioned on the website.",
+  "visa_info": "All non-EU citizens need to apply for a residence permit to stay longer than 90 days in Sweden. Students must have been admitted as an exchange or visiting student at Uppsala University and must prove sufficient funds for their entire stay duration. Residence permit application can only be made at a Swedish Embassy or Consulate in the home country or country of residence.",
+  "accommodations_info": "Housing is not guaranteed but is prioritized for exchange students who apply within specific deadlines. Students should apply for housing as soon as the housing application period opens. Students are living in rooms and apartments as tenants and are responsible for their accommodation. Male and female students live on the same corridors. More information on accommodation can be found at http://www.uu.se/en/admissions/exchange/housing-and-financing/ and http://www.housingoffice.se/",
+  "cost_of_living": "The estimated monthly living expenses in Uppsala are as follows: Accommodation: SEK 5,000, Food: SEK 2,100, Transport: SEK 300, Telephone/Internet: SEK 200, Others (Entertainment, clothes): SEK 900, totaling to a monthly estimate of SEK 8,500."
+}

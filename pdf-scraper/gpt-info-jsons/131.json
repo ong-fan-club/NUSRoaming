@@ -1,0 +1,14 @@
+{
+  "university_name": "Tokyo Institute of Technology",
+  "gpt_university_description": "Tokyo Institute of Technology, also known as Tokyo Tech, is Japan's top national university for science and technology. Established in 1881, it is best known for its strong engineering, computer science, and natural sciences programs, and has a strong commitment to research and innovation.",
+  "gpt_university_address": "2 Chome-12-1 Ookayama, Meguro City, Tokyo 152-8550, Japan",
+  "gpt_university_city": "Tokyo",
+  "gpt_nearest_airport": "Haneda Airport (HND)",
+  "gpt_location_cost_of_living": "Tokyo is known for its high cost of living. While accommodations and transportation can be expensive, it is possible to find reasonably priced food and amenities by shopping in local markets and trying out budget-friendly restaurants.",
+  "gpt_location_weather": "Tokyo experiences four distinct seasons. Summers are hot and humid with temperatures ranging from 22°C to 31°C. The fall season is mild with temperatures ranging from 9°C to 25°C. Winters are cold but not harsh, with temperatures ranging from 1°C to 10°C. Spring is pleasant with temperatures ranging from 7°C to 20°C.",
+  "gpt_location_description": "Tokyo is a vibrant, bustling metropolis with a unique mix of modern and traditional culture. As one of the world's most populous cities, it offers a variety of shopping, dining, and entertainment options. The city is known for its blend of ancient temples, historic architecture, and cutting-edge technology.",
+  "gpt_location_crime": "Tokyo has a low crime rate, making it a safe city for visitors and residents. However, like any major city, it is important to take basic safety precautions such as keeping an eye on personal belongings and avoiding poorly lit or deserted areas at night.",
+  "gpt_location_transportation": "Tokyo has an extensive public transportation network consisting of trains, subways, and buses. The train and subway systems are particularly reliable and efficient, making it easy to travel within the city and to nearby regions. Taxis are also available but can be costly.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

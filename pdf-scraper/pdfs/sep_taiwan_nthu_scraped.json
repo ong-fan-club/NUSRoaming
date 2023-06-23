@@ -1,0 +1,23 @@
+{
+  "university_name": "National Tsing Hua University",
+  "university_website": [
+    "http://nthu-en.web.nthu.edu.tw/bin/home.php",
+    "http://oga.nthu.edu.tw/web.page/detail/sn/43/lang/en",
+    "http://sthousing.web.nthu.edu.tw/bin/home.php?Lang=en",
+    "https://www.ccxp.nthu.edu.tw/ccxp/INQUIRE/JH/6/6.2/6.2.H/JH62h001.php",
+    "http://nthu-en.site.nthu.edu.tw/p/403-1003-4805.php",
+    "https://www.roc-taiwan.org/sg_en/post/34.html",
+    "https://www.boca.gov.tw/cp-166-284-6f5f7-2.html",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "http://oga.nthu.edu.tw/web.page/detail/sn/21/lang/en",
+    "http://2019-ncov.site.nthu.edu.tw/?Lang=en"
+  ],
+  "university_country": "Taiwan",
+  "sem1_months": ["SEP", "OCT", "NOV", "JAN"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["BIZ", "FASS", "FoE", "FoS", "SoC"],
+  "module_restrictions": "EMBA is not available to exchange students.",
+  "visa_info": "Students whose exchange period is one semester (or less than 180 days) will have to apply a Visitor Visa while students whose exchange period is more than 180 days will have to apply for a Resident Visa.\nChinese, Hong Kong and Macau passport holders will need to apply for a Taiwan Entry Permit.\nhttps://www.roc-taiwan.org/sg_en/post/34.html\nhttps://www.boca.gov.tw/cp-166-284-6f5f7-2.html",
+  "accommodations_info": "On-campus accommodation is available to exchange students. (4-person room for undergraduate and 2-person room for graduate students) More information can be found here :\nhttp://oga.nthu.edu.tw/web.page/detail/sn/43/lang/en\nhttp://sthousing.web.nthu.edu.tw/bin/home.php?Lang=en",
+  "cost_of_living": "The estimated monthly living expenses for National Tsing Hua University are as follows:\n\nBreakdown of Costs:\n- Accommodation: NTD $1512- NTD $6640\n- Food and transport: NTD $8000\n- Others (Entertainment, clothes, etc): NTD $12 000\n\nMonthly Estimate: NTD$20 000 - NTD $23 560\n\nFor more information, please refer to:\nhttp://oga.nthu.edu.tw/web.page/detail/sn/21/lang/en (see “Tuition” tab)"
+}

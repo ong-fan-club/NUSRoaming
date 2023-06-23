@@ -1,0 +1,24 @@
+{
+  "university_name": "University of Amsterdam, The Netherlands",
+  "university_website": [
+    "University of Amsterdam (UvA) - https://www.uva.nl/en",
+    "Amsterdam University College (AUC) - https://www.auc.nl"
+  ],
+  "university_country": "The Netherlands",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": [
+    "College of Humanities and Sciences (CHS)",
+    "Faculty of Science (FoS)",
+    "Faculty of Arts and Social Sciences (FASS)",
+    "School of Computing (SoC)",
+    "Faculty of Dentistry (DENT)",
+    "College of Design and Engineering (CDE or FoE)",
+    "Yong Loo Lin School of Medicine (YLLSOM)",
+    "School of Law (LAW)"
+  ],
+  "module_restrictions": "It is important that you have the relevant academic background for the courses that you apply for. You must have taken modules at NUS within the specific subject field to be accepted to any of the faculties / departments at UvA.",
+  "visa_info": "Information about immigration-related issues is available at: https://www.uva.nl/en/education/other-programmes/exchange/practical-matters/visas-and-permits/visas-and-permits.html",
+  "accommodations_info": "Information about student housing is available at: \nhttps://www.uva.nl/en/education/other-programmes/exchange/practical-matters/housing/housing.html \nFor students going to AUC: \nhttps://www.auc.nl/life-at-auc-students/campus/student-residences/student-residences.html",
+  "cost_of_living": "The cost of living and estimated expenses in Amsterdam can be found at: \nhttps://www.uva.nl/en/education/other-programmes/exchange/practical-matters/living-in-amsterdam/living-expenses/living-expenses.html"
+}

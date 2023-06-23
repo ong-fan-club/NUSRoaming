@@ -1,0 +1,27 @@
+{
+  "university_name": "King's College London",
+  "university_website": [
+    "https://www.kcl.ac.uk/abroad",
+    "https://www.kcl.ac.uk/aboutkings/Academic-Calendar",
+    "https://www.kcl.ac.uk/abroad/module-options",
+    "http://www.kcl.ac.uk/study/assets/PDF/study-abroad/Study-Abroad-Module-Selection-Guide.pdf",
+    "https://www.kcl.ac.uk/study/undergraduate/apply/entry-requirements/english-language",
+    "https://www.kcl.ac.uk/abroad/applying",
+    "https://www.kcl.ac.uk/study/living-in-london/cost-of-living",
+    "https://www.kcl.ac.uk/study/london/budget",
+    "https://www.kcl.ac.uk/study/undergraduate/fees-and-funding/living-expenses",
+    "http://www.kcl.ac.uk/campuslife/services/student-advice-support/how/intlstudentsupport/pre.aspx",
+    "http://www.kcl.ac.uk/study/london/index.aspx",
+    "http://www.kcl.ac.uk/study/student-life/index.aspx",
+    "https://blogs.kcl.ac.uk/kingssas/",
+    "https://www.kcl.ac.uk/coronavirus"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["Arts & Humanities", "Natural & Mathematical Sciences", "Social Science & Public Policy", "Law", "School of Bioscience Education"],
+  "module_restrictions": "\u2022 Postgraduate modules are not open to undergraduate exchange students.\n\u2022 The Health and Society programme is only available for fee-paying exchange students.\n\u2022 The following faculties do not accept exchange students:\n   o Medicine\n   o Dentistry\n   o Nursing & Midwifery",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange.\nhttps://www.gov.uk/government/organisations/uk-visas-and-immigration\nFor latest information on border control please see:\nhttps://www.gov.uk/uk-border-control\nStandard Visitor Visa for Semester Exchange: If you are a Singapore citizen or a citizen of another country on the UK non-visa nationals list, and if your course of studies is less than 6 months, you will request entry to the UK as a Standard Visitor when you arrive.",
+  "accommodations_info": "University Accommodation: On campus accommodation is not guaranteed. Exchange students will be provided housing application link in their offer/admission package. The College offers a variety of accommodation within its own halls of residences and also the University of London Intercollegiate Residences.\nKing’s student residence contracts run from September - January for Semester 1 students, January - June for Semester 2 students, and September - June for Full Year students.\n\nPrivate Accommodation: Some Study Abroad students opt to live in private housing during their time in London. The Student Advice Service at King's can provide support, guidance, and information on all aspects of private housing, including finding somewhere to live.",
+  "cost_of_living": "The estimated living expenses per term at King's College London can be found at https://www.kcl.ac.uk/study/london/budget and https://www.kcl.ac.uk/study/undergraduate/fees-and-funding/living-expenses."
+}

@@ -1,0 +1,14 @@
+{
+  "university_name": "Keio University",
+  "gpt_university_description": "Keio University, founded in 1858, is a private research university located in Minato City, Tokyo, Japan. It is known for being one of the most prestigious universities in Japan, offering a wide range of undergraduate and graduate programs across various fields, including Business, Economics, Sciences, and Humanities.",
+  "gpt_university_address": "2-15-45 Mita, Minato City, Tokyo 108-8345, Japan",
+  "gpt_university_city": "Tokyo",
+  "gpt_nearest_airport": "Haneda Airport (HND)",
+  "gpt_location_cost_of_living": "Tokyo is known for being one of the most expensive cities in the world; however, affordable housing and budget options for food and entertainment can be found with careful planning. Students might need to budget around 120,000-150,000 JPY per month, including rent, food, and transportation.",
+  "gpt_location_weather": "Tokyo experiences a humid subtropical climate with hot, humid summers and cool, mild winters. The city receives abundant rainfall, particularly in June and September, while the fall and spring seasons are relatively dry with moderate temperatures.",
+  "gpt_location_description": "Tokyo is one of the most vibrant and dynamic cities in the world, known for its mix of modern technology and historical traditions. Home to various cultural landmarks, such as the Imperial Palace and Senso-ji Temple, Tokyo also boasts an exciting shopping and nightlife scene, ensuring a unique experience for students and visitors alike.",
+  "gpt_location_crime": "Tokyo is considered a safe city with a low crime rate, especially when compared to other major cities worldwide. However, it is essential to be aware of your personal safety and belongings and take precautions against petty crimes such as pickpocketing or scams.",
+  "gpt_location_transportation": "Tokyo has an extensive public transportation system, which includes buses, subways, and trains, making it easy to navigate the city. Commuter trains such as the Yamanote Line make it convenient for students and locals alike. Using a PASMO or Suica card can simplify the payment process for various transportation modes.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

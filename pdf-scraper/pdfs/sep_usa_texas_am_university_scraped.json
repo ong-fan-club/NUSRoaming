@@ -1,0 +1,30 @@
+{
+  "university_name": "Texas A&M University",
+  "university_website": [
+    "http://www.tamu.edu/",
+    "http://registrar.tamu.edu/Catalogs,-Policies-Procedures/Academic-Calendar",
+    "https://www.tamu.edu/about/departments.html",
+    "https://www.youtube.com/watch?v=SA3GIoAQv8c",
+    "https://www.youtube.com/watch?v=nT5PdbtagYM",
+    "https://www.youtube.com/watch?v=JuAsa8WNWJg",
+    "https://www.youtube.com/watch?v=HRhl5MfV_3Y",
+    "https://www.youtube.com/watch?v=LGJyzA9sqZk",
+    "https://reslife.tamu.edu/",
+    "https://reslife.tamu.edu/options/apartments/",
+    "https://reslife.tamu.edu/options/halls/",
+    "https://parkwestlife.com/",
+    "https://www.domainatnorthgate.com/",
+    "https://www.northpoint-crossing.com/",
+    "https://myportal.nus.edu.sg/student-portal/student-insurance/all/",
+    "https://safety.tamu.edu/",
+    "http://admissions.tamu.edu/freshman/cost"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "CDE", "SoC"],
+  "module_restrictions": "All academic colleges are open to exchange students except for Biomedical Sciences; Mays School of Business courses (limited); Industrial and Systems Engineering.",
+  "visa_info": "When entering the United States, exchange students MUST have the following documentation with them and easily accessible while traveling: Valid passport, J-1 or F-1 visa for the U.S., DS-2019 or I-20 (Certificate of Eligibility which should be stamped upon your entry into the U.S.) Once you receive the DS-2019 or I-20 Certificate of Eligibility from Texas A&M, you will need to make an appointment with the U.S. Embassy/Consulate in your country to get your student visa for the U.S. Students who participate in reciprocal exchanges are issued J-1 or F-1 visas for exchange visitors. Check with the U.S. Consulate or Embassy responsible for issuing your visa to find out the details about what you need to do and how. Currently, all persons seeking student visas for the United States are required to have a personal interview with a U.S. consular agent.",
+  "accommodations_info": "Housing/Accommodation: Incoming exchange students have the option to live on or off campus. Please note that most A&M students that live in the on-campus dorms are usually freshmen who are first-year students. A&M students that live in on-campus apartments are generally sophomore classification and up. On-campus apartments: White Creek and The Gardens. On-campus dorms: Off-campus apartments: Recommended: Park West, The Domain, Northpointe Crossing",
+  "cost_of_living": "Tuition is waived for exchange students. Estimated Monthly Living Expenses can be found at http://admissions.tamu.edu/freshman/cost. Please refer to the Texas A&M links for the most up-to-date information."
+}

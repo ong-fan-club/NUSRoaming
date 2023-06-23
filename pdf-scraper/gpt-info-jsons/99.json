@@ -1,0 +1,14 @@
+{
+  "university_name": "Yonsei University",
+  "gpt_university_description": "Yonsei University is a private research university located in Seoul, South Korea, and is one of the oldest and most prestigious universities in the country. Established in 1885, it offers a wide range of undergraduate and graduate programs across various fields, including humanities, social sciences, natural sciences, engineering, medicine, and business.",
+  "gpt_university_address": "50 Yonsei-ro, Sinchon-dong, Seodaemun-gu, Seoul, South Korea",
+  "gpt_university_city": "Seoul",
+  "gpt_nearest_airport": "Incheon International Airport (ICN)",
+  "gpt_location_cost_of_living": "Seoul has a relatively high cost of living, with housing and transport being the most significant expenses. However, food and entertainment options can be found at affordable prices.",
+  "gpt_location_weather": "Seoul experiences four distinct seasons, with cold and dry winters, hot and humid summers, mild springs, and cool falls. The average temperature ranges from -6°C to -1°C in winter and 21°C to 29°C in summer.",
+  "gpt_location_description": "Seoul, the capital city of South Korea, is a vibrant and bustling metropolis with a rich history and modern architecture, offering diverse cultural experiences, shopping districts, and delicious cuisine. The city is surrounded by scenic mountains and natural beauty, making it an attractive destination for both tourists and students.",
+  "gpt_location_crime": "Seoul has a low crime rate compared to other major cities globally. However, petty crimes such as pickpocketing and theft can occur in crowded areas. It is recommended to take basic precautions and stay vigilant while exploring the city.",
+  "gpt_location_transportation": "Seoul has an extensive and efficient public transportation system, which includes buses, a subway network, and taxis. Commuting within the city is generally affordable, convenient, and accessible.",
+  "gpt_location_halal": 3,
+  "gpt_location_vegetarian": 3
+}

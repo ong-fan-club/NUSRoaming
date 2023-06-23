@@ -1,0 +1,22 @@
+{
+  "university_name": "University College London",
+  "university_website": [
+    "https://www.ucl.ac.uk/prospective-students/study-abroad-at-ucl/",
+    "https://www.ucl.ac.uk/students/life"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": [
+    "Faculty of Arts and Humanities",
+    "Faculty of Engineering Sciences",
+    "Faculty of Law",
+    "Faculty of Life Sciences",
+    "Faculty of Mathematics and Physical Sciences",
+    "Faculty of Social and & Historical Sciences"
+  ],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. UCL did not accept students for AY 19/20 and they may remain the case for future AYs. Please note UCL may impose further restrictions. You may refer here for more information.",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange. https://www.gov.uk/government/organisations/uk-visas-and-immigration For latest information on border control please see: https://www.gov.uk/uk-border-control Standard Visitor Visa for Semester Exchange If you are a Singapore citizen or a citizen of another country on the UK non-visa nationals list, and if your course of studies is less than 6 months, you will request entry to the UK as a Standard Visitor when you arrive. Singapore citizens do not normally need to meet with a Border Force agent, and will be able to enter the UK through E-gates. The E-gates will automatically grant you permission to stay in the UK for up to 6 months. You will not receive a stamp on your passport thus it is important that you retain evidence of when you entered the UK. Hence, please keep your boarding pass or evidence of your flight itinerary. Please refer here for more details on the Standard Visitor Visa. Student Visa for Full-Year Exchange You need a Student Visa for a full-year exchange in UCL. For more details on visa application, read the information available here. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "Once you have accepted your offer to study at UCL, UCL will send you more information about accommodation. UCL guarantees accommodation to exchange students who have been accepted to study at UCL for a full academic year, provided that they submit their housing application form by the deadline set by the Student Residences Office. Students who study at UCL for less than a full academic year are not guaranteed university accommodation. We recommend that you apply for accommodation as soon as possible after you have received your offer. On-Campus Accommodation: Please note that all inquiries about housing at UCL should be directed to the Student Residences Office. The information on accommodation and its FAQ can be found at: http://www.ucl.ac.uk/prospective-students/accommodation Private Accommodation: Independent organisations offering accommodation to students in London can be found at https://housing.london.ac.uk/. UCL collaborates with a number of independent organisations offering private accommodation to students in London. Please see here for more information. Alternatively, students can arrive 2-3 weeks before term begins in order to search for suitable accommodation. There is enormous demand for accommodation in London. The search starts in August and increases throughout September/October. Students should note that it is always advisable to view private accommodation in advance and read the fine print in order to ascertain that it suits your requirements.",
+  "cost_of_living": "Information on cost of living can be found at https://www.ucl.ac.uk/scholarships/how-much-does-it-cost-study-ucl. As the tuition fee for your exchange at UCL is waived (though you will still pay NUS tuition fees), your main costs as a student will be living expenses including accommodation, food, travel, entertainment, books, clothes, etc."
+}

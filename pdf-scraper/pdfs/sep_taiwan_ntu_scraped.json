@@ -1,0 +1,27 @@
+{
+  "university_name": "National Taiwan University",
+  "university_website": [
+    "http://www.ntu.edu.tw/english/",
+    "https://oia.ntu.edu.tw/en/prospective-students/non-degree-programs-gemk/exchange-student-program-kn4s",
+    "https://oia.ntu.edu.tw/en/prospective-students/accommodation-kk9o"
+  ],
+  "university_country": "Taiwan",
+  "sem1_months": ["SEP", "OCT", "NOV", "JAN"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": [
+    "FASS",
+    "FoS",
+    "CDE",
+    "SoC",
+    "BIZ"
+  ],
+  "module_restrictions": "The College of Medicine (醫學院) does not accept senior and graduate exchange/visiting students. Only basic medicine courses are open to exchange/visiting students; the practicum courses 實習課 (clinical medicine courses and medical research) are not open to exchange/visiting students. The Department of Anthropology (人類學系暨研究所) has special Chinese language proficiency requirements; The courses are conducted in Chinese. All practicum, GMBA, EMBA and EiMBA courses and practice course offered by the Dept of Chemistry are not opened for exchange students. Once exchange students fulfil the prerequisites or have the consent of their instructors, they are allowed to take any courses at NTU except the following three types of courses: Continuing Education Bachelor’s Degree courses, Teacher Education Program courses, Summer Session and Summer College courses and practicum courses. Also, some graduate courses are not open to undergraduate students.",
+  "visa_info": "Students whose exchange period is one semester (or less than 180 days) will have to apply a Visitor Visa while students whose exchange period is more than 180 days will have to apply for a Resident Visa. Chinese, Hong Kong and Macau passport holders will need to apply for a Taiwan Entry Permit.",
+  "accommodations_info": "On-campus accommodation is not available to exchange students. NTU will not find off-campus housing for students, but it has a list of recommended resources here: https://oia.ntu.edu.tw/en/prospective-students/accommodation-kk9o.",
+  "cost_of_living": "The estimated living expenses for one semester (5 months) at NTU are as follows:\n\n- Off-campus accommodation: NTD $60,000\n- Textbooks/stationery: NTD $6,500\n- Campus internet access fee: NTD $600 (compulsory)\n- Food: NTD $35,000\n- Others (entertainment, clothes, etc): NTD $15,000\n- Quarantine (14-day quarantine with 3 meals): NTD $45,000\n\nThe estimated total cost is NTD $167,100.",
+  "useful_links": [
+    "https://oia.ntu.edu.tw/",
+    "https://oia.ntu.edu.tw/en/apply-at-ntu/incoming-exchange-student/2021_2022_Admission/Overview",
+    "http://m.ntu.edu.tw/event/dnews/antiinfect.html"
+  ]
+}

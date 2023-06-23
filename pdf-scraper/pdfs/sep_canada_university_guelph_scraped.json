@@ -1,0 +1,12 @@
+{
+  "university_name": "University of Guelph",
+  "university_website": ["https://calendar.uoguelph.ca/undergraduate-calendar/schedule-dates/", "https://www.cic.gc.ca/english/visit/visas.asp", "https://myportal.nus.edu.sg/studentportal/student-insurance/all/", "https://www.uoguelph.ca/cip/incoming-students/pre-arrival-information/health-and-dental-insurance/uhip-university-health", "https://www.uoguelph.ca/cip/incoming-exchange/incoming-exchange", "https://www.youtube.com/watch?v=hrL8IOAbjT4"],
+  "university_country": "Canada",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)", "Faculty of Arts and Social Sciences (FASS)", "NUS Business School (BIZ)", "School of Computing (SoC)", "Faculty of Dentistry (DENT)", "College of Design and Engineering (CDE or FoE)", "Yong Loo Lin School of Medicine (YLLSOM)", "School of Law (LAW)", "School of Nursing", "Yong Siew Toh Conservatory of Music (YSTCM)"],
+  "module_restrictions": null,
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": "It is recommended that you purchase a comprehensive travel insurance for the full duration of your stay abroad, including your personal travel within/outside Canada. Please review the insurance coverages to ensure that they meet your needs. Students can purchase additional health and/or travel insurance from their preferred agent.",
+  "cost_of_living": "There is no specific information about the cost of living in the provided PDF."
+}

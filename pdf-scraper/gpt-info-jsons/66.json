@@ -1,0 +1,14 @@
+{
+  "university_name": "Clarkson University",
+  "gpt_university_description": "Clarkson University is a private research university founded in 1896, offering undergraduate and graduate degree programs in engineering, business, science, health sciences, education, and liberal arts. The university is known for its strong emphasis on innovation, technology, and entrepreneurship.",
+  "gpt_university_address": "8 Clarkson Ave, Potsdam, NY 13699, United States",
+  "gpt_university_city": "Potsdam, New York",
+  "gpt_nearest_airport": "Ogdensburg International Airport (OGS)",
+  "gpt_location_cost_of_living": "The cost of living in Potsdam, New York is relatively affordable compared to larger cities. Expenses such as housing, utilities, and groceries are below the national average. However, transportation and healthcare costs are slightly higher.",
+  "gpt_location_weather": "Potsdam experiences a humid continental climate, with cold winters and warm summers. Average temperatures range from -12°C to -3°C in January and 15°C to 27°C in July. The city also receives significant snowfall during the winter months.",
+  "gpt_location_description": "Potsdam is a small and picturesque town in northern New York, known for its beautiful landscapes and vibrant arts scene. Home to four colleges and universities, the town offers a rich variety of cultural and recreational activities. Potsdam is close to the Adirondack Park and the St. Lawrence River, providing ample opportunities for outdoor exploration and adventure.",
+  "gpt_location_crime": "The crime rate in Potsdam is relatively low compared to the national average. Both violent and property crime rates are below the U.S. median, making the town a safe place to live and study.",
+  "gpt_location_transportation": "Public transportation options in Potsdam are limited. There is a local bus service managed by St. Lawrence County Public Transportation, but the frequency of buses is low. Most students and residents rely on personal vehicles or bicycles to get around the town.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 2
+}

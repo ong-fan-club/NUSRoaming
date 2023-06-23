@@ -1,0 +1,14 @@
+{
+  "university_name": "Monash University",
+  "gpt_university_description": "Monash University is a renowned public research university based in Melbourne, Australia. Established in 1958, it is the second oldest university in Victoria and is ranked among the top 100 universities globally. Monash University offers a wide range of undergraduate and postgraduate programs across various disciplines such as engineering, business, arts, and sciences.",
+  "gpt_university_address": "Wellington Road, Clayton, Victoria 3800, Australia",
+  "gpt_university_city": "Melbourne, Victoria",
+  "gpt_nearest_airport": "Melbourne Tullamarine Airport (MEL)",
+  "gpt_location_cost_of_living": "Melbourne has a relatively high cost of living compared to other Australian cities. The cost for rent, utilities, groceries, and transportation can be quite high, but there are plenty of budget-friendly options as well. International students are encouraged to budget accordingly.",
+  "gpt_location_weather": "Melbourne experiences a temperate oceanic climate, with warm summers and cool winters. The city is known for its unpredictable weather, often experiencing four seasons in a single day. Annual average temperatures range from 8°C in winter to 25°C in summer.",
+  "gpt_location_description": "Melbourne is a vibrant, multicultural city known for its art, music, sporting events, and dining scene. It has been consistently ranked as one of the world's most liveable cities, offering a high quality of life with exceptional education, healthcare, and transportation infrastructure.",
+  "gpt_location_crime": "Melbourne has a moderate crime rate, but the likelihood of encountering crime depends on the area. Tourist areas and central business districts are well-patrolled, but visitors should remain cautious and maintain awareness of their surroundings, particularly during evenings and in less populated areas.",
+  "gpt_location_transportation": "Melbourne offers a variety of public transportation options, including trams, trains, and buses. The city's public transport system is well-connected and generally affordable. Monash University is easily accessible by train, bus, and tram services.",
+  "gpt_location_halal": 3,
+  "gpt_location_vegetarian": 3
+}

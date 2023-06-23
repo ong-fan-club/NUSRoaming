@@ -1,0 +1,12 @@
+{
+  "university_name": "Victoria University of Wellington",
+  "university_website": ["https://www.wgtn.ac.nz/students/study/dates", "https://www.wgtn.ac.nz/explore/other-quals/study-abroad-and-exchange/overview?international=true", "https://covid19.govt.nz/", "https://www.youtube.com/user/victoriamarketing", "https://www.youtube.com/watch?v=vrEKtdQ4zk4", "https://prezi.com/v/yjytgcoqaqdy/victoria-university-of-wellington-new-zealand-study-abroad/"],
+  "university_country": "New Zealand",
+  "sem1_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "sem2_months": ["JUL", "AUG", "SEP", "OCT", "NOV"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)", "Faculty of Arts and Social Sciences (FASS)", "NUS Business School (BIZ)", "School of Computing (SoC)", "Faculty of Dentistry (DENT)", "College of Design and Engineering (CDE or FoE)", "Yong Loo Lin School of Medicine (YLLSOM)", "School of Law (LAW)", "School of Nursing", "Yong Siew Toh Conservatory of Music (YSTCM)"],
+  "module_restrictions": null,
+  "visa_info": "Exchange students must apply to New Zealand Immigration for a student visa and obtain the visa before entering New Zealand. Please note that it is NOT possible for exchange students to travel to New Zealand on a visitor's visa and apply for a student permit upon arrival in New Zealand, even if you are a citizen of a country with which New Zealand has a visa waiver agreement. It is imperative that all exchange students get their student visa BEFORE travelling to New Zealand, as you may be refused a student permit if you apply from within New Zealand. Students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. This is to ensure that you can obtain your visa in time before the start of your exchange term. Your exchange at the host university depends on the clearance by the immigration of the host country. For more information on visa applications, please refer to https://www.immigration.govt.nz/new-zealand-visas/options/study",
+  "accommodations_info": null,
+  "cost_of_living": "The cost of living in Victoria University of Wellington is estimated to be NZ$350 per semester. In addition, it is recommended that students purchase a comprehensive travel insurance for the full duration of their stay abroad, including personal travel within/outside New Zealand. Students can purchase additional health and/or travel insurance from their preferred agent."
+}

@@ -1,0 +1,28 @@
+{
+  "university_name": "Nanjing University",
+  "university_website": [
+    "https://stuex.nju.edu.cn/en_/wcademicwwalendar/list.htm",
+    "https://www.nju.edu.cn/EN/schools_departments/list.htm",
+    "https://www.nju.edu.cn/EN/wndergraduatewwrograms_7097/list.htm",
+    "https://stuex.nju.edu.cn/en_/23303/list.htm",
+    "https://stuex.nju.edu.cn/en_/wousing/list.htm",
+    "https://stuex.nju.edu.cn/en_/Accomodation/list.htm",
+    "https://stuex.nju.edu.cn/EN/7b/e4/c5070a162788/page.psp",
+    "https://stuex.nju.edu.cn/en_/66/dc/c23266a354012/page.htm",
+    "https://stuex.nju.edu.cn/en_/23292/list.htm",
+    "https://www.visaforchina.cn/SGP2_EN/index.shtml",
+    "https://www.visaforchina.cn/#/guideNav/Guidance?visacenterCode=SGP2&request_locale=en_US&site_alias=SGP2_EN",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://stuex.nju.edu.cn/en_/23289/list.htm",
+    "https://stuex.nju.edu.cn/en_/23261/list.htm",
+    "https://stuex.nju.edu.cn/en_/main.htm"
+  ],
+  "university_country": "China",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN", "JUL"],
+  "faculties_accepted": ["FASS", "FoS", "SoC", "CDE"],
+  "module_restrictions": "There are limited English-taught modules at NJU and modules offering may be subjected to change from time to time. Exchange students could approach NJU’s Office of International Cooperation and Exchanges for assistance on module mapping and to take cross Faculty modules after registration upon arrival.",
+  "visa_info": "Exchange students in China are required to apply for student visa (X2 visa for those intending to study in China for a period of no more than 180 days and X1 visa for those intending to study in China for a period of more than 180 days). You will receive the admission letter and visa application form (JW202) once you are accepted by the host university for the student exchange programme. Exchange students are required to apply for the student visa in person at the China Visa Application Service Centre in Singapore with the relevant documents before the start of the academic semester. China Visa Application Service Centre in Singapore: [link].",
+  "accommodations_info": "All the exchange students are recommended to live in Xianlin campus. Standard single and double rooms are available, each room is equipped with telephone lines, private bathrooms, television and air-conditioning. Due to the limited amount of rooms, students are highly recommended to opt for double rooms. For more information on on-campus accommodation at Nanjing University, please refer to [link].",
+  "cost_of_living": "The cost of living at Nanjing University is estimated to range from S$5,000 to S$15,000 per semester, subject to the country and local conditions at the overseas Partner University during the period of exchange. When applying for your student visa, a number of countries may demand documentary proof of your financial status."
+}

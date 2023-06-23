@@ -1,0 +1,12 @@
+{
+  "university_name": "Sciences Po Paris",
+  "university_website": ["http://www.sciencespo.fr/en", "http://formation.sciences-po.fr/en/contenu/university-calendar", "http://college.sciences-po.fr/siteparis/etudiants-echange", "http://college.sciences-po.fr/siteparis/course-catalogue", "http://formation.sciences-po.fr/node/219", "http://www.sciencespo.fr/campus-du-havre/en/content/housing", "http://college.sciences-po.fr/sitementon/en/node/253", "http://www.sciencespo.fr/campus-de-reims/en/content/housing-reims", "https://www.sciencespo.fr/students/en/living/housing", "https://www.ahloet.fr/en/", "http://www.singapour.campusfrance.org/page/student-visa-stays-france-more-90-days", "http://www.ambafrance-sg.org/-English-"],
+  "university_country": "France",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["International Relations", "Economics", "Political Science", "History", "Journalism", "European Studies", "Law", "Humanities", "Sociology"],
+  "module_restrictions": "Students who wish to take master level classes must request permission to do so prior to arrival.",
+  "visa_info": "All students coming to study at Sciences Po for longer than 3 months who come from a non-EU member state must apply for a residence permit in order to reside in France.",
+  "accommodations_info": "Being located in the heart of Paris, Sciences Po does not offer on-campus housing. Students are responsible to find accommodation on their own and are encouraged to start searching early. The university has a service set up to help students find accommodation in France while studying.",
+  "cost_of_living": "Estimated Monthly Living Expenses:\n\nBreakdown of Costs\n\nCost\nAccommodation\n€600\nFood\n€200 - €250\nTransport\n€35 - €70\nOthers (Entertainment, clothes)\n€100 - €120\nMonthly Estimate\n€935 - €1,045"
+}

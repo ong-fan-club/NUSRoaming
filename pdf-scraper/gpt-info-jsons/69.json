@@ -1,0 +1,14 @@
+{
+  "university_name": "Technical University of Munich",
+  "gpt_university_description": "The Technical University of Munich (TUM) is a renowned research-oriented university located in Munich, Germany. It is one of the largest technical universities in the country, offering a wide range of degree programs in engineering, natural sciences, life sciences, and medicine. Founded in 1868, TUM has a rich history of innovation and academic excellence, allowing it to consistently rank among the top European universities.",
+  "gpt_university_address": "Arcisstraße 21, 80333 Munich, Germany",
+  "gpt_university_city": "Munich, Bavaria",
+  "gpt_nearest_airport": "Munich International Airport",
+  "gpt_location_cost_of_living": "The cost of living in Munich is relatively high compared to other German cities, with average living expenses of around €1,200 per month for a single individual. This includes accommodation, food, transportation, and leisure activities. However, student dormitories and shared apartments can help reduce accommodation costs.",
+  "gpt_location_weather": "Munich experiences a moderate oceanic climate with cool winters and warm summers. The average annual temperature is 9.6°C (49.3°F), with temperatures in the summer months ranging between 15°C to 25°C (59°F to 77°F), while in winter, temperatures can drop to around -2°C to 4°C (28°F to 39°F). Rainfall is spread throughout the year, but is most common in the summer months.",
+  "gpt_location_description": "Munich is the capital and largest city of the state of Bavaria in Germany. Known for its rich culture, historic architecture, and vibrant art scene, the city has plenty to offer, from the iconic Oktoberfest celebration to beautiful parks and museums. Munich serves as an important economic and technological hub in Germany and is home to numerous multinational corporations, providing ample opportunities for students and professionals alike.",
+  "gpt_location_crime": "Munich is considered one of the safest cities in Germany, with a low overall crime rate. However, like any major city, incidents of pickpocketing and petty theft may occur in crowded areas or tourist hotspots. Vigilance is advised, but generally, the city is considered safe for residents and visitors.",
+  "gpt_location_transportation": "Public transportation in Munich is efficient, reliable, and extensive. The city offers a well-connected system of buses, trams, and an underground subway (U-Bahn) and suburban trains (S-Bahn), making it easy to navigate and commute within the city and its surrounding areas. Additionally, cycling is very popular, with dedicated bike lanes and bike-sharing systems available throughout the city.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

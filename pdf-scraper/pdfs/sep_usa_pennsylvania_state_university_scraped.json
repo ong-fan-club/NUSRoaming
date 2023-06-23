@@ -1,0 +1,15 @@
+{
+  "university_name": "Pennsylvania State University",
+  "university_website": [
+    "http://www.psu.edu",
+    "https://global.psu.edu/category/incoming-exchange-students"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "CDE", "SoC", "LAW"],
+  "module_restrictions": "Most faculties accept undergraduate students. Students of law, education, and medicine are not able to study on exchange at Penn State. Some colleges and academic departments at Penn State restrict enrollment in specific courses.",
+  "visa_info": "Students must apply for the J-1 visa. The Certificate of Non-Immigrant Eligibility for J status is the DS-2019. This is also a non-immigrant visa status. The rules for the J-1 are similar to the F-1. However, there are two important differences. Those in J-1 status may be subject to what is referred to as the \"two-year home residency requirement\" or subject to 212(e) of the Immigration and Nationality Act. The other difference is that dependents may apply for work permission. The two-year home residency requirement means that those individuals must return home for two years before applying for the H, L, or permanent residency visas. In addition, those subject to the two-year home residency requirement cannot change status to another within the U.S. A J-1 becomes subject to 212(e) by coming from a country and studying a field on the skills list, being sponsored by the U.S. government or the home country government, or studying in a program for graduate medical education.",
+  "accommodations_info": "On-campus housing and meal plans are available for exchange students but are not guaranteed. Exchange application materials include an On Campus Housing Request Form. Requests are reviewed by the Housing Assignments Office in the order received and are not guaranteed. Applicants planning to apply for University housing will create a Friends of Penn State Account (FPS) and include the FPS on their Campus Housing Intent form. If granted, the Housing Assignments Office will send an on-line housing contract to the FPS account for the applicant’s review and acceptance. Details about housing and meal plans, including cost, are available on the Housing website. Students can visit Off-Campus Living to find resources for accommodation off campus.",
+  "cost_of_living": "The estimated monthly living expenses can be found at the following link: https://cce.ais.psu.edu/tuition-calculator-ui/#!/. Please refer to the link for the most accurate and up-to-date information."
+}

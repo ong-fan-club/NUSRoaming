@@ -1,0 +1,15 @@
+{
+  "university_name": "University of Colorado Boulder",
+  "university_website": [
+    "http://www.colorado.edu/",
+    "http://www.colorado.edu/oie/student-exchanges"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "CDE", "SoC"],
+  "module_restrictions": "Exchange students may not take classes in Music, Law, or Education. Students who wish to take architecture, engineering, business or journalism at CU should already have a background in those subject areas before coming to University of Colorado Boulder. Business and Engineering courses are often over-subscribed.",
+  "visa_info": "For visa information, please refer to the following CU Boulder webpage: https://www.colorado.edu/isss/student-resources/admittednew-students/visa-and-immigration",
+  "accommodations_info": "Here is some information to help you choose the housing for your exchange term(s) and, if university housing is your choice, to help you apply for this housing. If you are an international exchange student coming to CU Boulder on one of our official exchange programs, the following applies to you:\n\nExchange student housing choices:\n\n- University housing in apartments: the Bear Creek apartments can be a very good choice for exchange students. Bear Creek is run by the university and offers many social activities in addition to housing. Accommodation is in self-catering, ensuite apartments for students who are beyond their first year of university study. You apply as an individual and will be matched with roommates(s). Although the normal contract is for 9 or 12 months, if you will only be here for a semester, Bear Creek will allow a contract for the semester only if space allows. You apply online. **Note that Bear Creek is not an option for exchange students for the 2021-2022 Academic Year.\n- Off-campus housing: we strongly recommend that students who wish to live off-campus arrive to find housing 1 - 2 weeks earlier than the date on the immigration document.\n- Advice on housing from former exchange students: a good source of information about housing in Boulder can come from former or current exchange students. Please reach out to NUS Global Relations Office if you would like to be connected with your seniors who have embarked on SEP to CU Boulder.",
+  "cost_of_living": "For more information on the costs associated with attending CU Boulder, please refer to the following link. Please note exchange students will not be required to pay CU Boulder tuition fees: https://www.colorado.edu/financialaid/cost/example-aid"
+}

@@ -1,0 +1,14 @@
+{
+  "university_name": "York University",
+  "gpt_university_description": "York University is a public research university in Toronto, Ontario, Canada. Established in 1959, it is the third-largest university in Canada, offering a wide range of undergraduate and graduate programs in various fields including arts, science, business, law, and engineering.",
+  "gpt_university_address": "4700 Keele St, North York, ON M3J 1P3, Canada",
+  "gpt_university_city": "Toronto, Ontario",
+  "gpt_nearest_airport": "Toronto Pearson International Airport",
+  "gpt_location_cost_of_living": "The cost of living in Toronto is relatively high, with housing, transportation, and food expenses being the primary contributors to the overall cost. However, students can find affordable housing near the university and use public transportation to save on costs.",
+  "gpt_location_weather": "Toronto experiences a humid continental climate with cold, snowy winters and warm, humid summers. The temperature ranges from an average low of -6°C in January to an average high of 27°C in July. The city receives moderate rainfall throughout the year.",
+  "gpt_location_description": "Toronto is the largest city in Canada and one of the most diverse cities in the world. It is known for its iconic CN Tower, vast green spaces, and a vibrant arts scene. The city offers a mixture of historic and modern architecture, a variety of cuisines, and numerous cultural attractions, making it a lively and exciting place to study and live.",
+  "gpt_location_crime": "Crime rates in Toronto are relatively low compared to other major cities. The city is generally safe, but students should always take precautions when walking alone at night and keep their belongings secure in crowded areas.",
+  "gpt_location_transportation": "Toronto has an extensive public transportation system consisting of subways, buses, and streetcars. The York University campus is well-connected to the city through the Toronto Transit Commission (TTC), making it easy for students to commute and explore the city.",
+  "gpt_location_halal": 3,
+  "gpt_location_vegetarian": 3
+}

@@ -1,0 +1,12 @@
+{
+   "university_name": "The University of Edinburgh",
+   "university_website": ["http://www.ed.ac.uk/global/study-abroad", "https://www.ed.ac.uk/global/study-abroad/diary"],
+   "university_country": "United Kingdom",
+   "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+   "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+   "faculties_accepted": ["Biological Sciences", "Biomedical Sciences", "Business School", "Chemistry", "Divinity", "Economics", "Engineering", "Geosciences", "History", "Classics and Archaeology", "Health in Social Science", "Informatics", "Law", "Literatures", "Languages and Cultures", "Mathematics", "Philosophy", "Psychology and Language Sciences", "Physics and Astronomy", "Social and Political Science"],
+   "module_restrictions": "Honours courses (third year classes) have limited places. Some subject areas and certain studio-based classes like Architecture, Landscape Architecture, and Art and Design are not available for exchange students. Please refer to the academic guide provided by The University of Edinburgh College of Humanities and Social Science for more information.",
+   "visa_info": "UK Visa and Immigration updates their immigration policy regularly, so it is the student’s responsibility to check the requirements via their website before leaving for the exchange. Singapore citizens or citizens of other countries on the UK non-visa nationals list who are studying for less than 6 months can request entry to the UK as a Standard Visitor upon arrival. Students from other countries or those studying for a full-year exchange need a Student Visa for a full-year exchange in Edinburgh. Students are advised to apply for the necessary visa immediately after receiving the official offer letter/email from their host university.",
+   "accommodations_info": "Students must have accepted an unconditional offer to study at The University of Edinburgh before they can apply for accommodation. Exchange students are guaranteed accommodation if their application is submitted on time, but preferred room type cannot be guaranteed. Private accommodation is available in the Private Sector, but students need to be cautious of various scams operating in the Private Sector.",
+   "cost_of_living": "The University of Edinburgh provides a detailed breakdown of living costs, which can be found at http://www.ed.ac.uk/studying/international/finance/cost-of-living. Students are advised to refer to this information for estimated monthly living expenses."
+}

@@ -1,0 +1,15 @@
+{
+  "university_name": "University of Ottawa",
+  "university_website": [
+    "http://www.uottawa.ca/important-academic-dates-and-deadlines/",
+    "https://www2.uottawa.ca/current-students/incoming-exchange-students"
+  ],
+  "university_country": "Canada",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR"],
+  "faculties_accepted": ["CHS", "FASS", "FoS", "BIZ", "SoC", "CDE", "YLLSOM", "LAW"],
+  "module_restrictions": "",
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": "",
+  "cost_of_living": "There is no information available about the cost of living at University of Ottawa."
+}

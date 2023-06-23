@@ -1,0 +1,14 @@
+{
+  "university_name": "Chulalongkorn University",
+  "gpt_university_description": "Chulalongkorn University is the oldest and one of the most prestigious universities in Thailand. Established in 1917, it has a strong emphasis on engineering, medicine, humanities, social sciences, and natural sciences. The university boasts modern facilities, research centers, and a rich cultural heritage.",
+  "gpt_university_address": "254 Phayathai Rd, Pathum Wan District, Bangkok 10330, Thailand",
+  "gpt_university_city": "Bangkok",
+  "gpt_nearest_airport": "Suvarnabhumi Airport (BKK)",
+  "gpt_location_cost_of_living": "Cost of living in Bangkok is generally affordable, with a mix of low-cost and luxury options available for housing, food, and entertainment. Public transportation is also relatively inexpensive.",
+  "gpt_location_weather": "Bangkok experiences a tropical monsoon climate with hot, wet, and humid conditions throughout the year. The average temperature ranges from 22°C to 35°C, and the city is known for its frequent rainfall during the monsoon season.",
+  "gpt_location_description": "Bangkok, the capital of Thailand, is a vibrant city known for its ornate shrines, lively street markets, and bustling nightlife. The city is famous for its delicious street food, stunning temples, and rich cultural heritage. The Chao Phraya River adds a picturesque touch to the city's landscape.",
+  "gpt_location_crime": "Bangkok has a relatively low crime rate, especially for violent crime, although petty theft and scams are more common. Tourists are advised to be vigilant of their belongings and avoid flashing valuables to reduce the risk of theft.",
+  "gpt_location_transportation": "Bangkok offers multiple public transportation options, including the BTS Skytrain, MRT Subway, buses, and riverboats. Taxis and tuk-tuks are also widely available for more personalized transportation.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 2
+}

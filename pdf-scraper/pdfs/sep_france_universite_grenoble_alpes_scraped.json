@@ -1,0 +1,12 @@
+{
+  "university_name": "Communauté Université Grenoble Alpes",
+  "university_website": ["https://www.communaute-univ-grenoble-alpes.fr/en/"],
+  "university_country": "France",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["ENSAG", "Grenoble INP", "Sciences Po Grenoble", "Université Grenoble Alpes", "Université Savoie Mont-Blanc"],
+  "module_restrictions": "You can find the prerequisites on the respective course catalogues of each institution.",
+  "visa_info": "Long-Stay visas are necessary for stays exceeding 3 months. Students must register with the French Immigration and Integration Office (OFII) for a residence permit. Please visit the websites of French embassies and consulates in your country. All students who wish to study in France must follow the Campus France procedure before applying for a visa.",
+  "accommodations_info": "Housing is available but on-campus housing is not guaranteed. Exchange students are strongly recommended to apply for housing as soon as they receive the acceptance letter. More information can be found at [https://international.univ-grenoble-alpes.fr/en/student/accommodation/](https://international.univ-grenoble-alpes.fr/en/student/accommodation/).",
+  "cost_of_living": "The estimated monthly living expenses in Grenoble are as follows:\n\n- Accommodation: €350\n- Food: €250\n- Transport: €30\n- Others (Entertainment, clothes): €200\n\nThe total monthly estimate is €830. More details can be found at [http://international.univ-grenoble-alpes.fr/en/student/practical-matters/managing-your-budget/managing-your-budget-584456.htm?RH=GUETREN_STUVP](http://international.univ-grenoble-alpes.fr/en/student/practical-matters/managing-your-budget/managing-your-budget-584456.htm?RH=GUETREN_STUVP)."
+}

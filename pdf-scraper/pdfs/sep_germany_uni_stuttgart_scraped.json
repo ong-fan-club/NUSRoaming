@@ -1,0 +1,15 @@
+{
+  "university_name": "University of Stuttgart",
+  "university_website": [
+    "https://www.uni-stuttgart.de/en/study/application/international-non-degree/overseas/index.html"
+  ],
+  "university_country": "Germany",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN", "FEB"],
+  "sem2_months": ["APR", "MAY", "JUN", "JUL", "AUG", "SEP"],
+  "faculties_accepted": ["CDE", "FoS", "FASS", "SoC"],
+  "module_restrictions": "Master level courses taught in English have higher pre-requisites and Stuttgart would prefer Year 3 NUS students who have achieved high academic grades for their English-taught master courses. The final approval for modules offered to NUS students lies with Stuttgart.",
+  "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States. However, after entering Germany, you will have to apply for a residence permit at the local 'Auslaenderbehörde' (Immigration Office) if you are staying for more than three months. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. You must not under any circumstances travel to Germany on a tourist visa.",
+  "accommodations_info": "The Office of International Affairs can arrange housing for exchange students from overseas in student dorms on request. Further information on how to register online for student housing will be emailed to successful applicants. It is the responsibility of the Studierendenwerk Stuttgart/SWS (organisation managing the dormitories) to allocate the dormitory rooms. We do not have any influence concerning the location or the exact price category of the allocated rooms. According to the regulations of the SWS students are required to book a minimum rental period. Students who will stay for two semesters will receive a rental contract until 31 August 2019. Students on exchange in semester 2 are expected to pay for the rental until September even though their studies could be completed by end July. Other periods of rental contracts are unfortunately not possible. Students are required to pay the first month rent and deposit (all in all €700) have to be transferred in advance to Studierendenwerk Stuttgart/SWS (organisation managing the dormitories). More information is available here: https://www.uni-stuttgart.de/en/study/living-in-stuttgart/housing/",
+  "cost_of_living": "The estimated monthly living expenses in Stuttgart are as follows:\n\n- Accommodation (First month rent and deposit): €240 - €400\n- Transport (per semester): €200\n- Insurance: €90\n- Food: €200\n- Others (Books, entertainment etc.): €100\n\nThe monthly estimate ranges from €940 to €1100. There is also a one-time cost of €110 for student administration for the whole semester.",
+  "updated_year": 2021
+}

@@ -1,0 +1,15 @@
+{
+  "university_name": "University of Oregon",
+  "university_website": [
+    "http://uoregon.edu/",
+    "https://isss.uoregon.edu/incoming-students"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR"],
+  "faculties_accepted": ["FASS", "FoE", "FoS", "SDE", "SoC", "USP"],
+  "module_restrictions": "Business courses are restricted for exchange students and some are reserved for degree-seeking students. Only general business courses may be available. Architecture, art, digital arts, music, and product design have additional admission requirements and may have some course restrictions.",
+  "visa_info": "Exchange students at the University of Oregon will need to apply for a J-1 student visa to study in the US. Once students are admitted, a DS-2019 is issued by the UO based on the student’s admission to the University of Oregon and evidence of financial support. The DS-2019 is required to apply for a J-1 visa and is a required document for entry to the U.S. Students must keep their DS-2019 with their passport. The DS-2019 is sent with the student’s official letter of admission. Students may enter the U.S. up to 30 days before the DS-2019 program start date; not earlier! Students should carry their passport and visa, DS-2019, and letter of admission. Admission to the U.S. should be a smooth experience if everything is prepared in advance.",
+  "accommodations_info": "During ISO (International Student Orientation): If you need housing before ISO begins you can stay with a host family or find a hotel. If you plan to live on-campus, you can apply for early move-in. Please note you can request early arrival when your housing assignment is emailed around August.\nHow to apply for early move-in:\n1. Receive your room assignment.\n2. Log on to the Housing Portal and sign up for early arrival.\n3. There will be a fee per day that you arrive early. Please note this fee depends on the room you are assigned to.\n4. Please inform exchange@uoregon.edu that you plan to arrive early so we can notify the Housing Department.\nPlease contact the Housing Department if you have additional questions. Phone: +1 541 346 4277 Email: housing@uoregon.edu\nHost Family Information: Limited spaces are available to stay with a local family for a few days (temporary) before moving into your residence hall or apartment (it’s free). Apply here. On-Campus Housing: Guide | Off-Campus Housing: Guide",
+  "cost_of_living": "The estimated monthly living expenses for exchange students at the University of Oregon can be found on their website."
+}

@@ -1,0 +1,14 @@
+{
+  "university_name": "Uppsala University",
+  "gpt_university_description": "Uppsala University is a prestigious research university in Uppsala, Sweden, founded in 1477, making it the oldest university in Sweden and all the Nordic countries. The university comprises of 9 faculties and offers various programs in Humanities, Social Sciences, Law, Languages, and Natural Sciences.",
+  "gpt_university_address": "Box 256, 751 05 Uppsala, Sweden",
+  "gpt_university_city": "Uppsala, Sweden",
+  "gpt_nearest_airport": "Stockholm Arlanda Airport (ARN)",
+  "gpt_location_cost_of_living": "The cost of living in Uppsala is relatively high, as is common in Nordic countries. However, it is notably lower than in Stockholm. Students can expect to spend around 8000 SEK (about 835 USD) per month, including accommodation, food, and leisure activities.",
+  "gpt_location_weather": "Uppsala experiences a humid continental climate characterized by high precipitation throughout the year. Winters are cold, with temperatures often below freezing and snow typically lasting from December to March. Summers are warmer, with average temperatures around 17°C (63°F), and extended daylight hours.",
+  "gpt_location_description": "Uppsala is a picturesque and historic city, located about 67 km (42 miles) north of Stockholm. With a vibrant student population, the city offers a blend of academic heritage and modern amenities. It is known for its impressive cathedral, botanical gardens, and beautiful countryside. Uppsala is home to many cultural events and has a bustling nightlife.",
+  "gpt_location_crime": "Uppsala has a fairly low crime rate, especially in comparison to larger cities. However, it is advisable for students to take the usual precautions by avoiding poorly lit areas at night and being vigilant of their belongings.",
+  "gpt_location_transportation": "Uppsala has an efficient public transportation system, predominantly composed of buses that cover almost the entire city. Trains also connect Uppsala to nearby towns and cities, including a direct line to Stockholm. Cycling is a popular mode of transport, with bicycle lanes and rental options widely available.",
+  "gpt_location_halal": 1,
+  "gpt_location_vegetarian": 2
+}

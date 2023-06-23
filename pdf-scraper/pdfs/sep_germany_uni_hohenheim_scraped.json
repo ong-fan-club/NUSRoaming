@@ -1,0 +1,15 @@
+{
+  "university_name": "University of Hohenheim (Hohenheim)",
+  "university_website": [
+    "https://exchange.uni-hohenheim.de/startseite"
+  ],
+  "university_country": "Germany",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN", "FEB"],
+  "sem2_months": ["APR", "MAY", "JUN", "JUL", "AUG"],
+  "faculties_accepted": ["FASS", "FoS"],
+  "module_restrictions": "Only life science and natural science modules are available in English. Otherwise, students need to know German in order to have a wider range of modules to choose from.",
+  "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States. However, after entering Germany, you will have to apply for a residence permit at the local 'Auslaenderbehörde' (Immigration Office) if you are staying for more than three months. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. You must not under any circumstances travel to Germany on a tourist visa. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application process could take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "Students from the University of Hohenheim could be allocated a room at one of several halls of residences run by Student Services Tuebingen-Hohenheim. However only a limited number of rooms are reserved for international students (non-European nationals). There is a high demand for these rooms, which is why only a small number of applications will be successful. In addition to halls of residences, there are flat-sharing communities, small apartments and other forms of communal living. Students who have a contract that ends in August or September are expected to pay for the rental until August or September. There will be no refund of the rental if you leave the student accommodation earlier.",
+  "cost_of_living": "The estimated monthly breakdown of costs are as follows:\n- Accommodation: €250 - €300\n- Insurance: €65\n- Food: €150 - €200\n- Others (Books, entertainment etc.): €165\n\nThe monthly estimate for living expenses is €630 - €730. Exchange students are also required to pay administrative and Student Services fees, as well as contribute to the Student Parliament, totaling about €162.80 per semester. To receive a residence permit, students must show proof of financial support with at least €735 per month of stay.",
+  "module_restrictions": "Only life science and natural science modules are available in English. Otherwise, students need to know German in order to have a wider range of modules to choose from."
+}

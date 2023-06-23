@@ -1,0 +1,24 @@
+{
+  "university_name": "University of Michigan at Ann Arbor",
+  "university_website": [
+    "http://www.umich.edu/",
+    "http://ro.umich.edu/calendar/",
+    "https://lsa.umich.edu/cg/",
+    "https://housing.umich.edu/",
+    "https://housing.umich.edu/residence-hall/northwood-iii/",
+    "https://housing.umich.edu/off-campus-housing/",
+    "https://internationalcenter.umich.edu/resources/healthins",
+    "http://www.uhs.umich.edu/",
+    "https://caps.umich.edu/",
+    "https://www.dpss.umich.edu/",
+    "https://finaid.umich.edu/cost-of-attendance/"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "Exchange students cannot enroll in courses from the School of Dentistry, Law School, Medical School, or college of Pharmacy. Courses in Business and Engineering are not available, except by special arrangement. Exchange students are not eligible to enroll in courses through the Medical School, the School of Architecture and Urban Planning, Dentistry, Law, Medicine, Nursing, Pharmacy and Public Health. Students are not restricted but also not guaranteed enrollment in courses from the following Colleges: Art and Design, Business, Education, Engineering, Rackham, Information, Kinesiology, Music Theater and Dance, Natural Resources, Public Policy and Social Work. Courses from these faculties are usually held for degree-seeking students enrolled in the respective faculties and rarely open for students outside their field. Incoming students are able to apply for courses offered through the College of Literature, Science and Arts, though again there are no guarantees for particular courses.",
+  "visa_info": "A visa is a document granting permission for entry and/or extended stay in a country. Visas are stamped or fastened into an applicant’s passport. You are responsible for obtaining the necessary visas and for all associated costs. In most cases, the process of obtaining a visa is smooth when the application is made well ahead of time and the destination country’s instructions are followed carefully. Requirements for student visas vary from programme to programme, country to country, consulate to consulate, and term to term. The type of visa you will need depends on your citizenship, type of experience (study only, internship, tourism, and so on), the country or countries you visit, and the duration of each stay. You may seek advice from a CGIS advisor or program sponsor, but obtaining the appropriate visa is your responsibility. Familiarize yourself with the host country visa requirements for citizens of your own home country. CGIS cannot obtain a visa for you nor does CGIS have control over consulates and the regulations they impose. Be aware that you need a passport before applying for a visa, that some countries have certain medical requirements, and that the application process can take up to 4 months. Begin investigating visa requirements immediately after being accepted into a program to provide enough time for the entire process. You might be required to go in person to your host country's consulate or embassy to apply, which might require travel to another city or state. If you are not US citizens but possess a Green Card (Permanent Residence) for the US, follow the visa instructions for the country that issued your official passport. Contact your host country's consulate immediately and follow their instructions. If you do not have a Green Card, inform the UM International Center that you are going abroad to ensure all conditions of your US student visa are met.",
+  "accommodations_info": "Exchange students typically enjoy residence halls (dorms) because rooms are shared with another student (from all over the U.S. and world), meal plans can be purchased, and many activities are available. Residence Halls are a true part of the U.S. college experience. For more information please refer to the following link: https://housing.umich.edu/ Northwood Apartments: https://housing.umich.edu/residence-hall/northwood-iii/ On-campus apartments are located on north campus, which is about a 20-minute bus ride from central campus. For students seeking a quieter environment. Off-Campus Apartments/Shared Houses: https://housing.umich.edu/off-campus-housing/ We suggest finding off-campus housing through landlords registered at U-M. Prices and location can vary.",
+  "cost_of_living": "The estimated monthly living expenses for exchange students at the University of Michigan at Ann Arbor can be found at this link: https://finaid.umich.edu/cost-of-attendance/ (Tuition is waived for exchange students)."
+}

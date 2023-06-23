@@ -1,0 +1,12 @@
+{
+  "university_name": "University of Geneva",
+  "university_website": ["http://www.unige.ch/geneva", "https://www.unige.ch/exchange"],
+  "university_country": "Switzerland",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["GSEM", "GSI", "LETTRES", "SCIENCES", "SDS"],
+  "module_restrictions": "Students must restrict their choice of courses to 2 faculties (+ Intensive French courses). Bachelor students cannot access master courses. More information can be found at: https://www.unige.ch/exchange/en/incoming/why-geneva/students/international-non-erasmus-students/2-admission-conditions/restrictions/",
+  "visa_info": "Students may require a visa and must contact the nearest Swiss embassy 3 months before entering Switzerland. Visa applications can take up to 3 months to process. For more information on visa applications, please refer to: https://www.unige.ch/exchange/en/incoming/why-geneva/students/international-non-erasmus-students/4-preparing-your-exchange/visa/",
+  "accommodations_info": "As soon as they are nominated at the University of Geneva, students receive an email with all information to register online at the Cité Universitaire de Genève. Rooms are allocated on a first-come first-served basis. For more information on accommodations, please refer to: https://www.unige.ch/exchange/en/incoming/why-geneva/students/international-non-erasmus-students/4-preparing-your-exchange/housing/",
+  "cost_of_living": "The estimated monthly living expenses in Geneva are as follows: Accommodation: CHF 600-700, Food: CHF 600, Transport: CHF 45 – CHF 70, Insurance: CHF 100, Others (Entertainment, clothes): CHF 380. The monthly estimate for living expenses is CHF 1,800 – CHF 2,000. For a breakdown of costs, please refer to: https://www.unige.ch/exchange/en/incoming/why-geneva/students/international-non-erasmus-students/4-preparing-your-exchange/budget/"
+}

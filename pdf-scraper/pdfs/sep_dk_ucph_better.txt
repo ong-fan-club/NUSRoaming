@@ -1,0 +1,23 @@
+{
+  "university_name": "University of Copenhagen",
+  "university_website": ["https://studies.ku.dk/exchange/"],
+  "university_country": "Denmark",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["Arts & Social Sciences", "Law", "Science"],
+  "module_restrictions": "It is important that you have the relevant academic background for the courses that you apply for. You must have taken modules at NUS within the specific subject field to be accepted to any of the departments at the University of Copenhagen.",
+  "visa_info": "Information about immigration-related issues is available at: https://studies.ku.dk/exchange/living-in-denmark/residence-permit/. Additionally, you can contact the Denmark embassy in Singapore if you have a specific enquiry that the host university is unable to address.",
+  "accommodations_info": "Information about student housing is available at: https://studies.ku.dk/exchange/living-in-denmark/finding-housing/",
+  "cost_of_living": "Denmark’s currency is the krone. Information about the cost of living and estimated expenses in Denmark and Copenhagen is available at: https://studies.ku.dk/welcome/living-in-copenhagen/money-and-banking/",
+  "gpt_university_description": "University of Copenhagen is a prestigious university located in Denmark. It is known for its high-quality education and research programs in various fields.",
+  "gpt_university_address": "University of Copenhagen, Nørregade 10, 1165 Copenhagen, Denmark",
+  "gpt_university_city": "Copenhagen",
+  "gpt_nearest_airport": "Copenhagen Airport, Kastrup",
+  "gpt_location_cost_of_living": "Copenhagen is known for being an expensive city to live in, with high costs of accommodation, dining, and entertainment.",
+  "gpt_location_weather": "Copenhagen experiences a mild temperate oceanic climate with cool summers and chilly winters. The average temperature in summer ranges from 15°C to 25°C, while in winter it can drop to around 0°C.",
+  "gpt_location_description": "Copenhagen is the capital city of Denmark, located on the eastern coast of the island of Zealand. It is known for its beautiful architecture, vibrant cultural scene, and high standard of living. Copenhagen offers a mix of historic charm and modern innovation, with its famous landmarks, museums, and cycling culture.",
+  "gpt_location_crime": "Copenhagen is generally considered a safe city with low crime rates. However, it is always advisable to take necessary precautions and be aware of your surroundings.",
+  "gpt_location_transportation": "Copenhagen has an efficient public transportation system, including buses, trains, and an extensive metro network. Biking is also a popular mode of transportation in the city.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

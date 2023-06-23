@@ -1,0 +1,22 @@
+{
+  "university_name": "Delft University of Technology",
+  "university_website": [
+    "https://www.tudelft.nl/en/education/programmes/exchange/"
+  ],
+  "university_country": "Netherlands",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN", "JUL"],
+  "faculties_accepted": [
+    "College of Humanities and Sciences (CHS)",
+    "Faculty of Science (FoS)",
+    "NUS Business School (BIZ)",
+    "School of Computing (SoC)",
+    "Faculty of Dentistry (DENT)",
+    "College of Design and Engineering (CDE or FoE)",
+    "Yong Loo Lin School of Medicine (YLLSOM)"
+  ],
+  "module_restrictions": "Only students who are in Year 3 of their study when embarking for SEP can apply to go to TU Delft. It is important that you have the relevant academic background for the courses that you apply for. You must have taken modules at NUS within the specific subject field to be accepted to any of the faculties/departments at TU Delft.",
+  "visa_info": "Information about immigration-related issues is available at: https://www.tudelft.nl/en/education/practical-matters/visa-residence-permit/ Additionally, you can contact the Dutch embassy in Singapore if you have a specific enquiry that the host university is unable to address.",
+  "accommodations_info": "Information about student housing is available at: https://www.tudelft.nl/en/education/practical-matters/housing/",
+  "cost_of_living": "The cost of living and estimated expenses in Delft, Netherlands can be found at: https://www.tudelft.nl/en/education/practical-matters/tuition-fee-finances/."
+}

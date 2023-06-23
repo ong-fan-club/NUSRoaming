@@ -1,0 +1,24 @@
+{
+   "university_name": "Peking University",
+   "university_website": [
+      "https://www.pku.edu.cn/detail/2686.html",
+      "http://www.dean.pku.edu.cn/service/web/courseSearch.php",
+      "http://www.studyatpku.com",
+      "https://intl.ziroom.com/",
+      "https://www.visaforchina.cn/SGP2_EN/index.shtml",
+      "http://oldisd.pku.edu.cn/HOME/VISA_SERVICE/Visas_and_Residence_Permit.htm",
+      "https://www.isd.pku.edu.cn/procedures/detail/206.html",
+      "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+      "http://oldisd.pku.edu.cn/ORIENTATION/English/UPON_YOUR_ARRIVAL/Health_Insurance.htm",
+      "http://www.oir.pku.edu.cn/",
+      "http://www.isd.pku.edu.cn/exchange.html"
+   ],
+   "university_country": "China",
+   "sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+   "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+   "faculties_accepted": ["FASS", "FoS", "SoC", "CDE", "LAW"],
+   "module_restrictions": "Most courses offered at Peking University are taught in Chinese. English courses are highlighted in the 'Remarks' column in the course information website. Modules may change, the school/department reserves the right to enrol a student to certain course. The course information of the next semester will be published at the course information website at the end of the previous semester. Courses from the following faculties/programmes are not open to exchange students: Health Science Centre, School of Software and Microelectronics, Faculty with special pre-requisites, Tailor-made programmes, Double-degree courses, Shenzhen Graduate School, English-taught graduate courses of special Master programs (MBA, Master in International Relations, Master in Public Policy, LLM in Chinese Law, Yenching Academy, etc.) Chinese-taught Master-level courses are only available with the faculty's permission.",
+   "visa_info": "Exchange students in China are required to apply for student visa (X2 visa for those intending to study in China for a period of no more than 180 days and X1 visa for those intending to study in China for a period of more than 180 days). You will receive the admission letter and visa application form (JW202) once you are accepted by the host university for the student exchange programme. Exchange students are required to apply for the student visa in person at the China Visa Application Service Centre in Singapore with the relevant documents before the start of the academic semester.",
+   "accommodations_info": "PKU offers many dormitory types to international students: the Global Village (Zhong Guan Xin Yuan). The monthly rent is around RMB3300 - RMB4500. There is no independent bathroom in the dorm, but there is bathroom on each floor. Online dorm booking will start in mid-July/mid-January at http://www.studyatpku.com. Please check the latest notice at www.isd.pku.edu.cn. Off-campus housing offers more choices in room type and the monthly rent range from RMB2,000 to RMB5,000. Local agents offer more information, for example, the following agent provide English service: https://intl.ziroom.com/",
+   "cost_of_living": "The cost of living in Beijing varies depending on the lifestyle and preferences of the individuals. On average, the monthly cost of living for an international student in Beijing can range from RMB 4000 to RMB 8000. This includes accommodation, transportation, meals, and miscellaneous expenses. Accommodation expenses can range from RMB 3300 to RMB 4500 for on-campus dormitories, while off-campus housing can range from RMB 2000 to RMB 5000. Transportation costs depend on the mode of transportation used, but public transportation in Beijing is relatively affordable. Meals can cost around RMB 20 to RMB 50 per meal, depending on where and what you eat. Additional expenses such as entertainment, travel, and personal items should also be taken into account."
+}

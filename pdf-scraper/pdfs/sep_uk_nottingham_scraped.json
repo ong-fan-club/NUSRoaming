@@ -1,0 +1,12 @@
+{
+	"university_name": "The University of Nottingham",
+	"university_website": ["https://www.nottingham.ac.uk/studywithus/international-applicants/spend-part-of-your-degree-here/international-exchange.aspx"],
+	"university_country": "United Kingdom",
+	"sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+	"sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+	"faculties_accepted": ["Faculty of Arts", "Faculty of Engineering", "Faculty of Science", "Faculty of Social Science"],
+	"module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. Business modules are excluded from the exchange. Law students should apply through NUS Law for the exchange at Nottingham Law School. Nottingham's Department of Chemical and Environmental Engineering is not accepting visiting students. The Department of Architecture and Built Environment require a portfolio to be submitted in addition to the application.",
+	"visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student's responsibility to check on the requirements via their website before they leave for the exchange. Singapore citizens or citizens of another country on the UK non-visa nationals list, who are studying for less than 6 months, can request entry to the UK as a Standard Visitor. Singapore citizens do not normally need to meet with a Border Force agent and will be able to enter the UK through E-gates. For a full-year exchange in Nottingham, students need a Student Visa.",
+	"accommodations_info": "Students can apply online directly to the University Accommodation Office for university-allocated accommodation. Nottingham strongly recommends that Autumn or Spring semester students consider university-allocated accommodation. Private rented accommodation is also available close to the University. Students are advised not to sign up for private rented accommodation until they have seen it in person.",
+	"cost_of_living": "The University of Nottingham provides an estimated monthly living expenses breakdown, including accommodation, food, personal expenses, and transportation. Please refer to the following link for more details: http://www.nottingham.ac.uk/jobs/applyingfromoverseas/finance/cost-of-living.aspx"
+}

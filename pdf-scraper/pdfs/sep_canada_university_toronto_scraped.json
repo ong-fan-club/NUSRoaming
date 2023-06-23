@@ -1,0 +1,18 @@
+{
+  "university_name": "University of Toronto",
+  "university_website": [
+    "https://artsci.calendar.utoronto.ca/sessional-dates",
+    "https://www.cic.gc.ca/english/visit/visas.asp",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://inboundvisiting.utoronto.ca/inbound-exchange/admitted-students/",
+    "https://inboundvisiting.utoronto.ca/inbound-exchange/factsheet/"
+  ],
+  "university_country": "Canada",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)", "Faculty of Arts and Social Sciences (FASS)", "NUS Business School (BIZ)", "School of Computing (SoC)", "Faculty of Dentistry (DENT)", "College of Design and Engineering (CDE or FoE)", "Yong Loo Lin School of Medicine (YLLSOM)", "School of Law (LAW)", "School of Nursing", "Yong Siew Toh Conservatory of Music (YSTCM)"],
+  "module_restrictions": null,
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": null,
+  "cost_of_living": null
+}

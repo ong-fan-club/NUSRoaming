@@ -1,0 +1,32 @@
+{
+  "university_name": "Newcastle University",
+  "university_website": [
+    "https://www.ncl.ac.uk/mobility/experience-newcastle/studyabroad/",
+    "https://www.ncl.ac.uk/regulations/docs/term-dates/#currentandfutureyears",
+    "https://www.ncl.ac.uk/mobility/experience-newcastle/module-catalogue/",
+    "https://www.ncl.ac.uk/mobility/experience-newcastle/support-and-services/#accommodation",
+    "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+    "https://www.gov.uk/uk-border-control",
+    "https://www.ncl.ac.uk/international/visa/",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://www.ncl.ac.uk/study/student-life/cost/",
+    "http://www.ncl.ac.uk/pre-arrival/international/",
+    "https://www.ncl.ac.uk/study/covid-19/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": [
+    "Late", "September", "to", "Late", "January"
+  ],
+  "sem2_months": [
+    "Late", "January", "to", "Mid", "June"
+  ],
+  "faculties_accepted": [
+    "Humanities and Social Science",
+    "Medical Sciences",
+    "Science, Agriculture and Engineering"
+  ],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. Business, Economics, Psychology, and Mechanical Engineering modules are excluded from the bilateral exchange.",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange. Standard Visitor Visa for Semester Exchange: If you are a Singapore citizen or a citizen of another country on the UK non-visa nationals list, and if your course of studies is less than 6 months, you will request entry to the UK as a Standard Visitor when you arrive. Student Visa for Full-Year Exchange: You need a Student Visa for a full-year exchange in Newcastle. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "University Accommodation: Newcastle recommends that you apply online for accommodation as soon as you have accepted their offer to study. Semester-only accommodation is extremely limited and Newcastle cannot guarantee that students will be housed in University accommodation. More information about university accommodation can be found at [here](https://www.ncl.ac.uk/mobility/experience-newcastle/support-and-services/#accommodation). Private Accommodation: If Newcastle is unable to allocate a place in University accommodation, they will provide information and guidance on how to look for accommodation in the private sector.",
+  "cost_of_living": "Estimated Monthly Living Expenses: The detailed breakdown of living costs is available [here](https://www.ncl.ac.uk/study/student-life/cost/)."
+}

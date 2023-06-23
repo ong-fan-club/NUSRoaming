@@ -1,0 +1,39 @@
+{
+  "university_name": "University of Calgary",
+  "university_website": [
+    "http://ucalgary.ca/pubs/calendar/current/academic-schedule.html",
+    "https://www.ucalgary.ca/student-services/iss-old/resources/medical-insurance",
+    "https://www.cic.gc.ca/english/visit/visas.asp",
+    "https://www.ucalgary.ca/international/study-abroad/incoming-exchange"
+  ],
+  "university_country": "Canada",
+  "sem1_months": [
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR"
+  ],
+  "faculties_accepted": [
+    "College of Humanities and Sciences (CHS)",
+    "Faculty of Science (FoS)",
+    "Faculty of Arts and Social Sciences (FASS)",
+    "NUS Business School (BIZ)",
+    "School of Computing (SoC)",
+    "Faculty of Dentistry (DENT)",
+    "College of Design and Engineering (CDE or FoE)",
+    "Yong Loo Lin School of Medicine (YLLSOM)",
+    "School of Law (LAW)",
+    "School of Nursing",
+    "Yong Siew Toh Conservatory of Music (YSTCM)"
+  ],
+  "module_restrictions": "",
+  "visa_info": "Exchange students who study for one semester only (less than 6 months) are not required to apply for a study permit. However, depending on your country of citizenship, you may have to apply for an eTA OR a visitor visa. For more information on visa applications, please refer to https://www.cic.gc.ca/english/visit/visas.asp.",
+  "accommodations_info": "",
+  "cost_of_living": "Please refer to the university's website and relevant resources for information on cost of living."
+}

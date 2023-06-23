@@ -1,0 +1,20 @@
+{
+  "university_name": "University of Arizona",
+  "university_website": [
+    "http://www.arizona.edu/",
+    "https://catalog.arizona.edu/2021-2022-academic-calendar",
+    "https://global.arizona.edu/international-students/exchange-students",
+    "http://catalog.arizona.edu/allcats.html",
+    "https://www.arizona.edu/student-life/dorms",
+    "https://financialaid.arizona.edu/freshmen/estimated-cost-attendance",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "CDE", "SoC", "LAW"],
+  "module_restrictions": "Undergraduate exchange students cannot take classes in any business department (including Accounting, Administration, Economics, Entrepreneurship, Finance, Management, Management Information Systems, or Marketing). Some departments have specific restrictions as well.",
+  "visa_info": "Students attending the university in another status (not J-1) must upload proof of status in the Immigration Documentation e-form. After receiving the I-20, students must pay the SEVIS I-901 fee and apply for a J-1 student visa (except for citizens of Canada and Bermuda).",
+  "accommodations_info": "The University of Arizona has two offices on campus to assist students with housing options: Residence Life for on-campus housing and Off-Campus Housing for off-campus living options and resources. Housing is not guaranteed, but early applicants are usually provided with housing.",
+  "cost_of_living": "Tuition is waived for exchange students. The estimated monthly living expenses can be found at https://financialaid.arizona.edu/freshmen/estimated-cost-attendance."
+}

@@ -1,0 +1,14 @@
+{
+  "university_name": "University of Auckland",
+  "gpt_university_description": "The University of Auckland is a top-ranking, research-led university located in Auckland, New Zealand. Established in 1883, it is the largest university in the country and offers a comprehensive range of undergraduate and postgraduate programs across various disciplines.",
+  "gpt_university_address": "24 Princes St, Auckland CBD, Auckland 1010, New Zealand",
+  "gpt_university_city": "Auckland, New Zealand",
+  "gpt_nearest_airport": "Auckland Airport (AKL)",
+  "gpt_location_cost_of_living": "Auckland has a high cost of living compared to other cities in New Zealand, with housing, food, and transportation costs being relatively expensive. However, discounts and student deals are available, making it more affordable for university students.",
+  "gpt_location_weather": "Auckland features a temperate maritime climate, with mild winters and warm, humid summers. The city experiences plenty of rainfall throughout the year, with precipitation being heavier during winter and spring months.",
+  "gpt_location_description": "Auckland is a vibrant, multicultural city that serves as the economic hub of New Zealand. Surrounded by stunning natural landscapes, it offers a unique blend of urban sophistication and outdoor adventure. As the 'City of Sails,' it has a strong maritime culture and is home to a diverse range of cultural attractions, shops, and world-class dining options.",
+  "gpt_location_crime": "Auckland has a moderate crime rate, with the majority of crimes being property-related. However, it is considered safe overall, and taking standard precautions such as being aware of your surroundings and locking up valuables can help to reduce potential risks.",
+  "gpt_location_transportation": "Auckland has a quality public transportation system, including buses, trains, and ferries, which makes getting around the city relatively easy and efficient. Students can take advantage of discounted fare options with a valid student ID card.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

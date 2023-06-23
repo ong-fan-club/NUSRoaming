@@ -1,0 +1,12 @@
+{
+  "university_name": "University of Washington, Seattle",
+  "university_website": ["http://www.washington.edu/", "https://www.washington.edu/students/reg/calendar.html", "https://www.washington.edu/studyabroad/visitingexchange/application/undergraduates/", "https://www.washington.edu/studyabroad/visitingexchange/practical-matters/housing/", "https://iss.washington.edu/travel-visas/", "https://myportal.nus.edu.sg/studentportal/student-insurance/all/", "https://iss.washington.edu/resources/health-insurance/#toc2", "http://www.washington.edu/safety/", "http://www.washington.edu/studyabroad/visitingexchange/practical-matters/cost-of-attendance/"],
+  "university_country": "USA",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "Communications, Economics, Psychology, Design, and Law, Societies & Justice courses in particular are extremely competitive so you should plan to take courses outside of these areas. Courses in Architecture, Education, Law and Health Sciences are generally available to graduate students only. Professional programs including Dentistry, Medicine, Nursing, and Pharmacy as well as many studio classes are not open to exchange students.",
+  "visa_info": "UW’s International Student Services (ISS) Office will be your main point of contact for all items related to your visa and maintaining your immigration status. For more information, please refer here: https://iss.washington.edu/travel-visas/visas/",
+  "accommodations_info": "As an incoming exchange student to the University of Washington, you are free to make your own housing arrangements. To help you decide which option is best for you, please review the various housing options at the following link: https://www.washington.edu/studyabroad/visitingexchange/practical-matters/housing/",
+  "cost_of_living": "According to the University of Washington's estimated monthly living expenses, the cost of attendance includes housing, food, transportation, books and supplies, personal care, and other miscellaneous expenses. Please refer to the following link for more information: http://www.washington.edu/studyabroad/visitingexchange/practical-matters/cost-of-attendance/"
+}

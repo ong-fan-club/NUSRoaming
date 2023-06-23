@@ -1,0 +1,21 @@
+{
+  "university_name": "The University of Texas at Austin",
+  "university_website": [
+    "http://www.utexas.edu/",
+    "https://world.utexas.edu/isss/students/exchange"
+  ],
+  "university_country": "USA",
+  "sem1_months": [
+    "AUG", "SEP", "OCT", "NOV", "DEC"
+  ],
+  "sem2_months": [
+    "JAN", "FEB", "MAR", "APR", "MAY"
+  ],
+  "faculties_accepted": [
+    "FASS", "FoS", "CDE", "SoC", "LAW"
+  ],
+  "module_restrictions": "Some programs at UT are either highly selective due to high student demand, require specific application requirements, or are completely unavailable to exchange students. Programmes not open to the general exchange can be found here and on the Application page. Courses designated “restricted” require students to obtain permission to take those classes from the department advisor or course instructor during registration week.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country. For more information, please refer to the following webpage: https://world.utexas.edu/isss/visa",
+  "accommodations_info": "On-campus housing is not guaranteed at UT Austin. For more information on housing options and estimated costs, please refer to the following page: https://world.utexas.edu/isss/life/housing",
+  "cost_of_living": "The estimated monthly living expenses at The University of Texas at Austin can be found at http://www.collegecalc.org/colleges/texas/the-university-of-texas-at-austin/. Tuition is waived for exchange students. Information correct as of July 2021. Please refer to the UT Austin links for the latest information."
+}

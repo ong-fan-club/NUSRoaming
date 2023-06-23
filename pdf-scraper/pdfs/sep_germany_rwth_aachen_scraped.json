@@ -1,0 +1,12 @@
+{
+  "university_name": "RWTH Aachen University",
+  "university_website": ["http://www.rwth-aachen.de/cms/root/Studium/Im-Studium/Internationales/~bqtq/Exchange-Incomings/?lidx=1"],
+  "university_country": "Germany",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN", "FEB"],
+  "sem2_months": ["APR", "MAY", "JUN", "JUL", "AUG", "SEP"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)", "Faculty of Arts and Social Sciences (FASS)", "NUS Business School (BIZ)", "School of Computing (SoC)", "College of Design and Engineering (CDE or FoE)", "Yong Loo Lin School of Medicine (YLLSOM)", "School of Law (LAW)"],
+  "module_restrictions": "The courses offered at the School of Business and Economics and the Helmholtz Institute for Biomedical Engineering are not open to NUS students.",
+  "visa_info": "EU citizens and citizens from Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland, and the United States do not need a visa to enter Germany. All other students must apply for a visa for study purposes via the German diplomatic representation in their home country. Health insurance is compulsory in Germany.",
+  "accommodations_info": "As an exchange student from NUS, you can apply for so-called “quota rooms” in the student dorms. However, the number of exchange students and scholarship holders exceeds the number of reserved rooms, so there is no guarantee of allocation. Students who have a contract that ends in August or September are expected to pay for the rental until that time with no refunds.",
+  "cost_of_living": "The estimated monthly living expenses in Aachen are as follows:\n\n- Accommodation: €250 - €440\n- Insurance: €80\n- Food: €350\n- University fees: €42\n- Others (Books, entertainment, etc.): €150\n\nThe monthly estimate ranges from €872 to €1,062. Students need to show proof of financial support of at least €735 per month to receive a residence permit."
+}

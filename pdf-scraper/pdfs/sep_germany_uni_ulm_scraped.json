@@ -1,0 +1,12 @@
+{
+  "university_name": "University of Ulm",
+  "university_website": ["http://www.uni-ulm.de/en/io"],
+  "university_country": "Germany",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN", "FEB"],
+  "sem2_months": ["APR", "MAY", "JUN", "JUL"],
+  "faculties_accepted": ["FoE", "FoS", "CDE", "SoC", "FOM"],
+  "module_restrictions": "Exchange students are not restricted to choosing their courses from one single study program, instead, they can choose a combination of courses from different programs and different faculties.",
+  "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States.",
+  "accommodations_info": "Ulm International Office assists with finding accommodation in student residences if applicants mark the appropriate sections in their exchange application form. Room lease has to be paid for full calendar months, even if students move out earlier!",
+  "cost_of_living": " The estimated monthly living expenses for Ulm are as follows:\n\nAccommodation: €260 - €460\nTransport (per semester): €43.30 - €57.80\nInsurance: €40 - €100\nFood: €200\nOthers (Books, entertainment etc.): €200\n\nStudents have to pay for semester fees of €79.50. In order to receive a residence permit, students need to prove that they have at least €735 to live on for each month of their stay."
+}

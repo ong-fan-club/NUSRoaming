@@ -1,0 +1,12 @@
+{
+  "university_name": "University College Cork",
+  "university_website": ["https://www.ucc.ie/en/international/studyatucc/visitingusandnoneustuden ts/"],
+  "university_country": "Ireland",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "SoC"],
+  "module_restrictions": "This exchange is for students from FASS and SoC (subject to places available each semester). Book of modules for visiting students can be accessed via: https://www.ucc.ie/admin/registrar/visiting/",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. The visa application process could take up to 2 months to process. Your exchange at the host university depends on clearance by the immigration of the host country. Please check if you need a visa here: https://www.irishimmigration.ie/wp- content/uploads/2021/07/Immigration-Service-Delivery-Visa-and-Non-Visa- Required-Countries.pdf All students who do NOT hold an EU passport must register with the Irish Naturalisation and Immigration Service (INIS) after arrival in Ireland. Further information on the requirements to register can be found on the INIS website: https://www.irishimmigration.ie/coming-to-study-in- ireland/before-and-after-you-arrive/what-do-i-need-to-do-after-arriving/. UCC’s information on visa and immigration can be found here: https://www.ucc.ie/en/international/studentinfohub/beforeyouarrive/visaandimmigration/",
+  "accommodations_info": "UCC on-campus accommodation is not guaranteed. More information about on-campus accommodation will be sent to students once accepted for the exchange by UCC. Please refer here for more information.",
+  "cost_of_living": "Information on cost of living can be found at: https://www.ucc.ie/en/international/studentinfohub/beforeyouarrive/costofliving/"
+}

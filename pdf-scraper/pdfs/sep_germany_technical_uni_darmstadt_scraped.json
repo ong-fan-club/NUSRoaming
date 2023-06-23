@@ -1,0 +1,31 @@
+{
+  "university_name": "Technical University of Darmstadt (TUD)",
+  "university_website": [
+    "https://www.tu-darmstadt.de/incoming"
+  ],
+  "university_country": "Germany",
+  "sem1_months": [
+    "OCT",
+    "NOV",
+    "DEC",
+    "JAN",
+    "FEB"
+  ],
+  "sem2_months": [
+    "APR",
+    "MAY",
+    "JUN",
+    "JUL",
+    "AUG"
+  ],
+  "faculties_accepted": [
+    "FASS",
+    "FoE",
+    "FoS",
+    "SoC"
+  ],
+  "module_restrictions": "Please search for English taught courses carefully. Only for NUS students who have completed at least 2 years of studies at NUS before the exchange starts at TUD. Undergraduate exchange students with sufficient language proficiency and who meet the pre-requisites for master-level courses will be considered for TUD’s master courses. Courses belonging to Anglistics and English Literature are not open for exchange students.",
+  "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States. However, after entering Germany, you will have to apply for a residence permit at the local 'Auslaenderbehörde' (Immigration Office) if you are staying for more than three months. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. You must not under any circumstances travel to Germany on a tourist visa.",
+  "accommodations_info": "Accommodation is available in dormitories of Studierendenwerk Darmstadt. NUS students are guaranteed accommodation. The allocation of accommodation usually takes place approx. 1 – 1.5 months prior to the Kick-Off Meeting. In charge of room allocation is the 'Welcome and Housing Department'. Students who have a contract that ends in August or September are expected to pay for the rental until August or September. There will be no refund of the rental if you leave the student accommodation earlier. In case rooms in dormitories are not available, the TUD department will assist the students in finding accommodation by sending them a detailed guidebook via e-mail. For more information, please refer to http://www.tu-darmstadt.de/exchange-housing.",
+  "cost_of_living": "The estimated monthly living expenses in Darmstadt are as follows:\n\n- Accommodation: €350 - €500\n- Food: €300\n- Transport: Included in semester contribution\n- Compulsory Health Insurance: €90\n- Others (Entertainment, clothes): €100\n\nMonthly Estimate: €840 - €990\n\nAll enrolled students at TUD are required to pay a semester contribution of approx. €218 per semester that includes a ticket for public transportation within the wider area of Rhein-Main Region. In order to receive a residence permit, you need to present to the Ausländerbehörde (local foreigner’s registration office) a statement of financial support proving that you have at least €735 to live on for each month of your stay. This can either be a bank statement, a notarized parental letter, or a scholarship certificate."
+}

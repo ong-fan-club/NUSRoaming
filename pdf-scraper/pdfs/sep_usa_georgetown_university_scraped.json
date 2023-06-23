@@ -1,0 +1,15 @@
+{
+  "university_name": "Georgetown University",
+  "university_website": [
+    "https://www.georgetown.edu/",
+    "https://registrar.georgetown.edu/academic-calendars/maincampus"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "The following departments do not accept exchange students: School for Continuing Studies (Liberal Studies), School of Medicine, School of Law, Masters of Business Administration (MBA), Master of Science in Foreign Service (MSFS), Communication, Culture, & Technology (CCT), Public Policy (PBPO), and National Security Studies (NSST).",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country. Once you are admitted to the university, Undergraduate Admissions will send you a Certificate of Eligibility (Form DS-2019). This document, together with your notification of admission, the financial guarantee and your passport, is used to obtain a J-1 visa at a U.S. consulate nearest to you. To apply for a visa in your home country, you must apply early and expect delays. Consult individual embassy Web sites for periodic updates on country-specific visa processing.",
+  "accommodations_info": "Georgetown is unable to guarantee housing for all exchange students as spaces are limited. However, Georgetown will try to award on-campus housing to as many students as possible, and the Office of Global Education will assist students with their housing search if on-campus housing is not available.",
+  "cost_of_living": "The estimated monthly living expenses can be found at https://finaid.georgetown.edu/undergrad/aid-for-undergrads/# (tuition fees waived for exchange students)."
+}

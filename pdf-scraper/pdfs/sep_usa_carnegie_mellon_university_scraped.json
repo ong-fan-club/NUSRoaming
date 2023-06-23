@@ -1,0 +1,23 @@
+{
+  "university_name": "Carnegie Mellon University",
+  "university_website": [
+    "http://www.cmu.edu/",
+    "https://www.cmu.edu/hub/calendar/index.html",
+    "http://www.cmu.edu/academics/index.html",
+    "http://coursecatalog.web.cmu.edu/",
+    "https://www.cmu.edu/housing/",
+    "https://www.cmu.edu/oie/foreign-students/maintain-legal-status/index.html",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "http://www.cmu.edu/health-services/student-insurance/",
+    "https://www.cmu.edu/police/",
+    "https://www.cmu.edu/sfs/tuition/undergraduate/index.html"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "CDE", "SoC"],
+  "module_restrictions": "Course restrictions may be limited as prerequisites may be required. Maximum of two Business courses may be taken per semester. CMU’s School of Design, within their College of Fine Arts, is unable to welcome students at this time due to special constraints. This may be possible in the future.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country. Critical immigration procedures are discussed in the cover letter which accompanied your Certificate of Eligibility. Read this information very carefully to know the correct procedures for your particular situation. When you are traveling to the US, make sure you carry your original documents (passport, DS-2019, evidence of admission and financial resources) with you in your carry-on luggage. For more information, please refer here: https://www.cmu.edu/oie/foreign-students/maintain-legal-status/index.html",
+  "accommodations_info": "The Housing and Dining Services offers traditional single-gender residence halls, coeducational residence halls, suites, apartments, houses, fraternity and sorority houses and special interest housing. Please note that room rates differ for each of these categories. University housing is available both on and off campus to all first-year students 17 years of age or older. First-year students under the age of 17 are asked to contact the Office of Housing Services. Transfer student housing is subject to availability and transfer students should contact the Office of Housing Services for more information. Housing facilities, located on the campus proper, are conveniently close to the academic buildings. The Oakland Community Apartments are located within a 5-10 minute walking distance to campus. The Oakland Community Apartments are serviced by the University's shuttle service on a regular basis.",
+  "cost_of_living": "CMU has prepared the following estimated budget for exchange students:\n\nLiving expenses: USD $7,486\nBooks, Supplies, Fees, Misc: USD $1,664\nCMU Health Insurance: USD $2,573\nTOTAL: $11,723\nPlease refer to the following link for more information on the cost of living at CMU. Please note NUS students going to CMU on SEP will not pay tuition fees to CMU: https://www.cmu.edu/sfs/tuition/undergraduate/index.html"
+}

@@ -1,0 +1,12 @@
+{
+  "university_name": "Korea Advanced Institute of Science and Technology (KAIST)",
+  "university_website": ["http://www.kaist.edu", "https://io.kaist.ac.kr/menu/io.do?mguid=72CD2D0A-21E5-E511-940C-2C44FD7DF8B9"],
+  "university_country": "South Korea",
+  "sem1_months": ["MARCH", "APR", "MAY", "JUN"],
+  "sem2_months": ["SEP", "OCT", "NOV", "DEC"],
+  "faculties_accepted": ["Natural Sciences", "Life Science and Bioengineering", "Engineering", "Liberal Arts and Convergence Science"],
+  "module_restrictions": "Students are required to meet the pre-requisites for the courses that they applied for and take 50% of the courses from their major department at KAIST. Undergraduate students can apply for courses starting with course no. 1xx to 4xx. Master-level courses are not open to undergraduate students.",
+  "visa_info": "Exchange students must apply for a D2 student visa before arrival in Korea. After you received the Certificate of Admission (CoA) and offer letter from your host university, you may proceed to the Korean Embassy to apply for the student visa, with the relevant supporting documents.",
+  "accommodations_info": "KAIST will apply for on-campus accommodation for all exchange students based on their student exchange application. The assigned dormitories (Double or Triple occupancy) for exchange students are furnished with beds, closets, desks and chairs for each room. Share faculties include restrooms, showers, washing machines, clothes drier, and a lobby on each floor. For more information about accommodation, please refer to https://kds.kaist.ac.kr/eng/index.do",
+  "cost_of_living": "Estimated Monthly Living Expenses:\n\n- Accommodation: ₩250,000\n- Food: ₩300,000\n- Transport: ₩100,000\n- Academic Expenses: ₩50,000\n- Others (Entertainment, clothes): ₩250,000\n\nMonthly Estimate: ₩950,000"
+}

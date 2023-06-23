@@ -1,0 +1,41 @@
+{
+    "university_name": "Mahidol University",
+    "university_website": [
+        "https://www.mahidol.ac.th/en/",
+        "https://muic.mahidol.ac.th/eng/study-abroad/incoming-students/academic-overview-calendar/",
+        "https://muic.mahidol.ac.th/eng/programs/undergraduate-programs/",
+        "https://op.mahidol.ac.th/ea/program_profile-en/",
+        "https://callforexchange.mahidol.ac.th/inbound",
+        "https://op.mahidol.ac.th/ir/accommodation/",
+        "https://muic.mahidol.ac.th/eng/study-abroad/incoming-students/housing-list/",
+        "https://muic.mahidol.ac.th/eng/study-abroad/incoming-students/visa-matter/",
+        "http://www.thaiembassy.sg/visa-matters-consular",
+        "https://www.nus.edu.sg/uhc/general-health/billing-insurance/insurance-matters",
+        "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+        "https://muic.mahidol.ac.th/eng/study-abroad/incoming-students/health-service/",
+        "https://muic.mahidol.ac.th/eng/study-abroad/incoming-students/banking/",
+        "https://muic.mahidol.ac.th/eng/study-abroad/incoming-students/",
+        "http://op.mahidol.ac.th/ir/musais/",
+        "https://muic.mahidol.ac.th/eng/coronavirus-update-covid-19/",
+        "https://www.who.int/thailand/news/releases#",
+        "https://www.thaiembassy.com/travel-to-thailand/covid-19-guide-for-travelers-in-thailand",
+        "https://op.mahidol.ac.th/ir/handbook-and-safety-management-guildeline/",
+        "https://www.youtube.com/watch?v=Zbbc8UJaw3Q"
+    ],
+    "university_country": "Thailand",
+    "sem1_months": ["September", "October", "November", "December"],
+    "sem2_months": ["January", "February", "March"],
+    "faculties_accepted": [
+        "Engineering",
+        "Information and Communication Technology",
+        "International College",
+        "Science",
+        "Business",
+        "Design and Media",
+        "Humanities"
+    ],
+    "module_restrictions": "Ensure that you meet the pre-requisites for the courses you are applying for.",
+    "visa_info": "Once your exchange application has been approved by Mahidol, you will receive an acceptance letter, along with a letter for visa application. International students require a Non-Immigrant Education Visa (category ED) to study in Thailand. Applications should be made at the Royal Thai Embassy before departure to Thailand. Students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. This is to ensure that you can obtain your visa in time before the start of your exchange term. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+    "accommodations_info": "Affordable housing is available both on and off campus including shared housing, private flats (condos), and boarding houses. Mahidol University also has several dormitories for local and international staff and students. Generally, exchange students will rent an apartment close to the campus. The average monthly rent for off-campus accommodation is about THB5,500 – THB8,000 for a 20-30 square meter furnished single room with air conditioning, bathroom, and perhaps a balcony. Many apartments require an advance deposit of one or two months rental fees excluding utility.",
+    "cost_of_living": "The estimated monthly living expenses in Thailand are as follows:\n\n- Accommodation: THB5,500 – THB15,000\n- Food: THB5,000 – THB12,000\n- Transport: THB1,000 – THB3,000\n- Others (Entertainment, daily needs, books & supplies, electricity & water): THB5,000 – THB8,000\n\nThe monthly estimate of living expenses ranges from THB16,500 to THB38,000."
+}

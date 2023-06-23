@@ -1,0 +1,31 @@
+{
+  "university_name": "University of Birmingham",
+  "university_website": [
+    "http://www.birmingham.ac.uk/International/study-abroad/study-abroad-incoming/index.aspx",
+    "https://www.birmingham.ac.uk/undergraduate/courses/termdates.aspx",
+    "https://program-and-modules-handbook.bham.ac.uk/webhandbooks/WebHandbooks-control-servlet?Action=getSchoolList",
+    "http://www.birmingham.ac.uk/International/study-abroad/study-abroad-incoming/applying.aspx",
+    "http://www.birmingham.ac.uk/International/study-abroad/study-abroad-incoming/accommodation.aspx",
+    "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+    "https://www.gov.uk/uk-border-control",
+    "https://www.birmingham.ac.uk/International/study-abroad/study-abroad-incoming/preparing/visa.aspx",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "http://www.birmingham.ac.uk/International/study-abroad/study-abroad-incoming/preparing/finance.aspx",
+    "http://www.birmingham.ac.uk/International/study-abroad/study-abroad-incoming/guidance.aspx",
+    "https://intranet.birmingham.ac.uk/student/coronavirus/coronavirus-faqs-for-students.aspx#Questionsforstudentsonastudyabroadorexchangeprogramme"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": [
+    "College of Arts and Law (excluding Music subject areas)",
+    "College of Engineering and Physical Sciences",
+    "College of Social Sciences (excluding Birmingham Business School)",
+    "College of Life & Environmental Sciences",
+    "Birmingham’s Liberal Arts and Natural Science (only for USP students)"
+  ],
+  "module_restrictions": "Modules from the Birmingham Business School, Law School, College of Medical and Dental Sciences are not open to NUS students.",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange. Standard Visitor Visa for Semester Exchange: If you are a Singapore citizen or a citizen of another country on the UK non-visa nationals list, and if your course of studies is less than 6 months, you will request entry to the UK as a Standard Visitor when you arrive. Singapore citizens do not normally need to meet with a Border Force agent, and will be able to enter the UK through E-gates. Student Visa for Full-Year Exchange: You need a Student Visa for a full-year exchange in Birmingham.",
+  "accommodations_info": "University Accommodation: Birmingham guarantees accommodation for international exchange students. Students who need university accommodation should apply before the deadline. Private Accommodation: Alternatively, students may decide to rent private accommodation. Housing Services at Birmingham offers a list of approved landlords for students who wish to rent privately. They also run a House Hunting Event at the start of each year.",
+  "cost_of_living": "Estimated Living Expenses: Details can be found at http://www.birmingham.ac.uk/International/study-abroad/study-abroad-incoming/preparing/finance.aspx"
+}

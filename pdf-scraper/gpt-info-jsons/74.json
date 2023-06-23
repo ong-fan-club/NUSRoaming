@@ -1,0 +1,14 @@
+{
+  "university_name": "University of Tokyo",
+  "gpt_university_description": "The University of Tokyo, also known as Todai or UTokyo, is a prestigious public research university located in Tokyo, Japan. Established in 1877, it is the oldest and one of the most renowned institutions of higher learning in the country. UTokyo offers a wide range of undergraduate and graduate programs in various fields, including humanities, social sciences, natural sciences, engineering, and medicine.",
+  "gpt_university_address": "7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8654, Japan",
+  "gpt_university_city": "Tokyo",
+  "gpt_nearest_airport": "Tokyo Haneda International Airport (HND)",
+  "gpt_location_cost_of_living": "Tokyo is known for its high cost of living, especially when it comes to accommodation and dining. However, there are budget-friendly options for students, such as shared housing and affordable eateries. Transportation and other daily expenses can also be comparatively pricey, but many students find ways to manage their budgets effectively.",
+  "gpt_location_weather": "Tokyo experiences a humid subtropical climate with four distinct seasons. Summers are hot and humid, with average temperatures around 30°C, while winters are relatively mild, with average temperatures around 5°C. The city receives moderate rainfall throughout the year, with the rainy season typically occurring in June and July, and the possibility of typhoons in September and October.",
+  "gpt_location_description": "Tokyo is a bustling, modern city that seamlessly integrates its rich history and traditions with cutting-edge technology and contemporary lifestyle. The city provides endless opportunities for cultural exploration, entertainment, and dining, accommodating various tastes and preferences. From ancient temples and serene parks to towering skyscrapers and captivating museums, Tokyo offers a diverse and vibrant urban experience.",
+  "gpt_location_crime": "Tokyo is known for being an exceptionally safe city, with a low crime rate. The city is well-policed, and both residents and visitors can generally feel at ease navigating the urban landscape. However, it is still advisable to practice common sense and take basic safety precautions, such as avoiding dark alleyways and not leaving personal belongings unattended.",
+  "gpt_location_transportation": "Tokyo has an extensive and well-connected public transportation system, which includes buses, trains, subways, and monorails. The network is known for being clean, punctual, and efficient, making it easy to navigate the city. A prepaid IC card, such as Suica or Pasmo, can be used to pay for fares on most public transportation services, offering convenience and reduced costs.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

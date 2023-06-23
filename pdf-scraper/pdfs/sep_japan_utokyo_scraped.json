@@ -1,0 +1,21 @@
+{
+  "university_name": "University of Tokyo",
+  "university_website": ["http://www.u-tokyo.ac.jp/en/"],
+  "university_country": "Japan",
+  "sem1_months": ["APR", "MAY", "JUN", "JUL", "AUG"],
+  "sem2_months": ["SEP", "OCT", "NOV", "DEC", "JAN", "FEB", "MAR"],
+  "faculties_accepted": [
+    "College of Arts and Sciences",
+    "Faculty of Agriculture",
+    "Faculty of Economics",
+    "Faculty of Education",
+    "Faculty of Engineering",
+    "Faculty of Law",
+    "Faculty of Letters",
+    "Faculty of Science"
+  ],
+  "module_restrictions": "First year and second year undergraduate students are not accepted at U Tokyo due to the internal structure of the university. Faculty of Pharmaceutical Sciences and Faculty of Medicine are not open to exchange students. Graduate courses are generally not applicable for undergraduate students.",
+  "visa_info": "Upon acceptance, U Tokyo will apply for a Certificate of Eligibility on your behalf with the Japanese Ministry of Justice, and send it to you when issued. The certificate is required for you to apply for a study visa. Exchange students must obtain a “College Student” visa for the duration of their study in Japan. Please visit the Japan Embassy website for the required supporting documents for your visa application. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. This is to ensure that you can obtain your visa in time before the start of your exchange term. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "Exchange students may apply for university housing arranged by U Tokyo which are located off-campus. University housing is not guaranteed due to limited capacity. U Tokyo will contact students about housing application procedures after their exchange applications have been approved. For more information about accommodation, please refer to [http://www.u-tokyo.ac.jp/en/administration/housing-office/index.html](http://www.u-tokyo.ac.jp/en/administration/housing-office/index.html)",
+  "cost_of_living": "Estimated Monthly Living Expenses:\n\n- Accommodation: JP¥16,000 - JP¥60,000\n- Food: JP¥40,000 - JP¥50,000\n- Transport: JP¥8,000 - JP¥20,000\n- Insurance: JP¥2,000 - JP¥3,000\n- Others (Entertainment, clothes): ~ JP¥30,000\n\nMonthly Estimate: JP¥96,000 - JP¥163,000"
+}

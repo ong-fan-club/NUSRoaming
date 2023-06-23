@@ -1,0 +1,34 @@
+{
+  "university_name": "The University of Sheffield",
+  "university_website": [
+    "https://www.sheffield.ac.uk/studyabroad/overseas",
+    "http://www.shef.ac.uk/about/dates",
+    "https://www.sheffield.ac.uk/globalopps/inbound/apply/year-structure",
+    "https://www.sheffield.ac.uk/globalopps/inbound/apply/what",
+    "https://www.sheffield.ac.uk/studyabroad/overseas/prospective/applying#Exchange",
+    "https://www.sheffield.ac.uk/accommodation",
+    "https://www.gov.uk/government/organisations/uk-visas-and-immigration",
+    "https://www.gov.uk/uk-border-control",
+    "https://www.sheffield.ac.uk/ssid/immigration/index",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://www.sheffield.ac.uk/international/enquiry/money/costs",
+    "https://www.sheffield.ac.uk/globalopps/inbound/fees-funding/scholarships",
+    "http://www.sheffield.ac.uk/ssid/newstudents",
+    "http://www.sheffield.ac.uk/studyabroad/overseas/postapplication/arrival",
+    "https://www.sheffield.ac.uk/coronavirus"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": [
+    "Faculty of Arts & Humanities",
+    "Faculty of Engineering",
+    "Faculty of Science",
+    "School of Social Sciences (excluding School of Law)"
+  ],
+  "module_restrictions": "All post-graduate modules with code 6xxx are NOT available to undergraduate students on exchange.\nModules taught at Sheffield’s International Faculty – City College based in Thessaloniki Greece are NOT open to exchange students.",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is\nthe student’s responsibility to check on the requirements via their website\nbefore they leave for the exchange.\nhttps://www.gov.uk/government/organisations/uk-visas-and-immigration\nFor latest information on border control please see:\nhttps://www.gov.uk/uk-border-control\n\nStandard Visitor Visa for Semester Exchange\nIf you are a Singapore citizen or a citizen of another country on the UK non-\nvisa nationals list, and if your course of studies is less than 6 months, you will\nrequest entry to the UK as a Standard Visitor when you arrive.\nSingapore citizens do not normally need to meet with a Border Force agent,\nand will be able to enter the UK through E-gates. The E-gates will\nautomatically grant you permission to stay in the UK for up to 6 months.\nYou will not receive a stamp on your passport thus it is important that you\nretain evidence of when you entered the UK. Hence, please keep your\nboarding pass or evidence of your flight itinerary.\nPlease refer here for more details on the Standard Visitor Visa.\nStudent Visa for Full-Year Exchange\nYou need a Student Visa for a full-year exchange in Sheffield.\nFor more details on visa application, read the information available here.\nAll students are advised to apply for the necessary visa immediately after\nthey received the official offer letter/email from their host university. Some\nvisa application processes can take up to 2 months to process. Your exchange\nat the host university depends on the clearance by the immigration of the\nhost country.\nSheffield’s information on Visa and Immigration can be found here:\nhttps://www.sheffield.ac.uk/ssid/immigration/index\nYour exchange at the host university depends on the clearance by the\nimmigration of the host country.",
+  "accommodations_info": "For approved December Finish applicants:\nSheffield’s Accommodation and Commercial Services liaise with Global\nOpportunities and Exchanges to offer short term contracts (i.e. less than a\nsemester) to December Finish students.\nNormally “December Finish” students are housed together within University\naccommodation and full details of property and rent will be advised following\napplication.\nIf Accommodation and Commercial Services cannot offer a short-term\ncontract, students need to apply for and accept a semester contract and pay\nfor the extra weeks. This cannot be waived. Alternatively, students can try\nand find accommodation in the private sector but you must let Sheffield\nknow if you will do this.\nFor non-December Finish students and students joining Sheffield in\nsemester 2:\nA room at Sheffield’s university accommodation is guaranteed for the full\nduration of semester 2. However, the preferred room type cannot be\nguaranteed.\nOnce students are accepted, they will be directed to the Accommodation\nOffice. More information about accommodation can be found at:\nhttps://www.sheffield.ac.uk/accommodation\n\nPrivate Accommodation\nDecember Finish applicants have to source for private accommodation on\ntheir own if they do not wish to pay for the extra weeks as stated in the\nuniversity accommodation contract.",
+  "cost_of_living": "The University of Sheffield provides an estimated cost of living which can be found at https://www.sheffield.ac.uk/international/enquiry/money/costs. Scholarships are available for eligible students, more information can be found at https://www.sheffield.ac.uk/globalopps/inbound/fees-funding/scholarships.",
+  "updated_date": "July 2021"
+}

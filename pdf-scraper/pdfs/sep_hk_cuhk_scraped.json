@@ -1,0 +1,12 @@
+{
+  "university_name": "The Chinese University of Hong Kong",
+  "university_website": ["http://www.cuhk.edu.hk/english/index.html"],
+  "university_country": "Hong Kong, China SAR",
+  "sem1_months": ["September", "October", "November", "December"],
+  "sem2_months": ["January", "February", "March", "April", "May"],
+  "faculties_accepted": ["FASS", "FoS", "CDE", "SoC", "LAW"],
+  "module_restrictions": "All English-taught courses at CUHK are open to exchange students, with some exceptions.",
+  "visa_info": "All non-local students admitted as exchange or study abroad students at The Chinese University of Hong Kong (CUHK) must apply for a student visa at the Hong Kong Immigration Department through the Office of Academic Links (OAL), the local sponsor, before coming to Hong Kong.",
+  "accommodations_info": "Undergraduate exchange students are guaranteed in on-campus housing and are assigned to double or triple-occupancy rooms. Living with local students will ease the transition to a new environment and promote Chinese culture immersion. No separate application for on-campus housing is required.",
+  "cost_of_living": "The estimated monthly living expenses breakdown for the Chinese University of Hong Kong includes accommodation (HK$2,100 - HK$2,235), food (HK$4,500 - HK$5,000), transport (HK$700), and others (HK$1,000 - HK$2,000), resulting in a monthly estimate of HK$8,300 - HK$9,935."
+}

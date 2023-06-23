@@ -1,0 +1,27 @@
+{
+  "university_name": "Durham University",
+  "university_website": [
+    "https://www.dur.ac.uk/international/studyabroad/incoming/",
+    "https://www.dur.ac.uk/dates/",
+    "https://www.dur.ac.uk/undergraduate/accommodation/costs/",
+    "https://www.dur.ac.uk/international/studyabroad/erasmus/programmeinf ormation/#visa",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://www.dur.ac.uk/undergraduate/live/colleges/ourcolleges/costs/",
+    "https://www.dur.ac.uk/international/studyabroad/exchange/overseas/prog rammeinformation/#fees",
+    "https://www.dur.ac.uk/international/studyabroad/incoming/prearrival/",
+    "https://www.dur.ac.uk/coronavirus/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": ["Oct", "Nov", "Dec", "Jan", "Feb"],
+  "sem2_months": ["Apr", "May", "Jun", "Jul", "Aug"],
+  "faculties_accepted": [
+    "Faculty of Arts & Humanities",
+    "Faculty of Science",
+    "Faculty of Social Science and Health",
+    "Durham University Business School"
+  ],
+  "module_restrictions": "Students can choose courses from up to three departments across the University. Certain restrictions might apply either in oversubscribed departments or on modules with pre-requisites and co-requisites. Postgraduate modules are not open to undergraduate exchange students. For pre-requisites and co-requisites please refer to the module description in the Faculty Handbook Course Catalogue: www.dur.ac.uk/faculty.handbook.",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange. For latest information on border control please see: https://www.gov.uk/uk-border-control. You need a Student Visa for a full-year exchange in Durham. For more details on visa application, read the information available here. UK Visa and Immigration website is at https://www.gov.uk/visas-immigration. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country. Durham’s information on Visa and Immigration can be found here: https://www.dur.ac.uk/international/studyabroad/erasmus/programmeinformation/#visa. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "Durham University is a ‘collegiate’ university, i.e. the colleges provide the social context for students including accommodation. The university has a central accommodation office managing university residence halls/dormitories. Overseas Exchange students coming to Durham for the full academic year are eligible for College accommodation at the university if they apply for the programme by the deadline. For more information, visit here and for information on the cost of different colleges can be found here. College prices include food (fully catered / part catered options only) and utility costs. Students will be notified of their college in their offer letter. The college will then contact the student with further details prior to arrival. Accommodation in most Colleges is limited to term time. However, accommodation options are available during semester breaks (Christmas and Easter only) at an additional cost. Students should contact their college for advice.",
+  "cost_of_living": "The estimated annual living expenses can be found at: https://www.dur.ac.uk/undergraduate/live/colleges/ourcolleges/costs/."
+}

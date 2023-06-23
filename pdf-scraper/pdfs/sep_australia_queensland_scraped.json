@@ -1,0 +1,20 @@
+{
+  "university_name": "University of Queensland",
+  "university_website": [
+    "http://www.uq.edu.au/events/calendar_view.php?category_id=16",
+    "https://www.uq.edu.au/studyabroad/",
+    "https://about.uq.edu.au/coronavirus",
+    "https://www.australia.gov.au/",
+    "https://covid19.homeaffairs.gov.au/",
+    "https://vimeo.com/340367422",
+    "https://vimeo.com/449582067"
+  ],
+  "university_country": "Australia",
+  "sem1_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "sem2_months": ["JUL", "AUG", "SEP", "OCT", "NOV"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)", "Faculty of Arts and Social Sciences (FASS)", "NUS Business School (BIZ)", "School of Computing (SoC)", "Faculty of Dentistry (DENT)", "College of Design and Engineering (CDE or FoE)", "Yong Loo Lin School of Medicine (YLLSOM)", "School of Law (LAW)", "School of Nursing", "Yong Siew Toh Conservatory of Music (YSTCM)"],
+  "module_restrictions": null,
+  "visa_info": "Once you have purchased the Overseas Student Health Cover (OSHC), your\nhost university will issue an Electronic Confirmation of Enrolment (eCoE),\nwhich is required for your Australian Student Visa Application.  \nAll exchange students must obtain an Australian Non Award Student Visa\n(sub-class 500) before arriving in Australia. \nStudents are advised to apply for the necessary visa immediately after they\nreceived the official offer letter/email from their host university. This is to\nensure that you can obtain your visa in time before the start of your\nexchange term. Your exchange at the host university depends on the\nclearance by the immigration of the host country. \nFor more information on visa applications, please refer to\nhttps://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500.",
+  "accommodations_info": null,
+  "cost_of_living": null
+}

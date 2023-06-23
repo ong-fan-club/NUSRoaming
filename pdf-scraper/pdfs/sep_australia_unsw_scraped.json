@@ -1,0 +1,23 @@
+{
+  "university_name": "University of New South Wales",
+  "university_website": [
+    "http://www.international.unsw.edu.au/study-abroad-at-unsw",
+    "https://www.covid-19.unsw.edu.au/",
+    "https://www.australia.gov.au/",
+    "https://covid19.homeaffairs.gov.au/",
+    "https://www.youtube.com/watch?v=kzFzF6QQ6aM",
+    "https://www.360tour.unsw.edu.au/campus-tour/"
+  ],
+  "university_country": "Australia",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)",
+    "Faculty of Arts and Social Sciences (FASS)", "NUS Business School (BIZ)",
+    "School of Computing (SoC)", "Faculty of Dentistry (DENT)", "College of Design and Engineering (CDE or FoE)",
+    "Yong Loo Lin School of Medicine (YLLSOM)", "School of Law (LAW)", "School of Nursing",
+    "Yong Siew Toh Conservatory of Music (YSTCM)"],
+  "module_restrictions": "",
+  "visa_info": "Once you have purchased the Overseas Student Health Cover (OSHC), your\nhost university will issue an Electronic Confirmation of Enrolment (eCoE),\nwhich is required for your Australian Student Visa Application.  \nAll exchange students must obtain an Australian Non Award Student Visa\n(sub-class 500) before arriving in Australia. \nStudents are advised to apply for the necessary visa immediately after they\nreceived the official offer letter/email from their host university. This is to\nensure that you can obtain your visa in time before the start of your\nexchange term. Your exchange at the host university depends on the\nclearance by the immigration of the host country.",
+  "accommodations_info": "",
+  "cost_of_living": ""
+}

@@ -1,0 +1,14 @@
+{
+  "university_name": "Trinity College Dublin",
+  "gpt_university_description": "Trinity College Dublin, founded in 1592, is Ireland's oldest and most prestigious higher education institution, offering a wide range of undergraduate and postgraduate programs. With a longstanding reputation for excellence in research and teaching, the university is renowned for its historic campus, vibrant student life, and strong connections to industry and global organizations.",
+  "gpt_university_address": "College Green, Dublin 2, Ireland",
+  "gpt_university_city": "Dublin, Ireland",
+  "gpt_nearest_airport": "Dublin Airport (DUB)",
+  "gpt_location_cost_of_living": "Dublin has a relatively high cost of living, with rent prices and day-to-day expenses generally higher than in other European cities. However, student discounts and a wide range of available part-time jobs can help offset these costs.",
+  "gpt_location_weather": "Dublin experiences a temperate maritime climate, with mild winters and cool summers. The city receives moderate rainfall throughout the year, though it is not as rainy as other parts of Ireland. Average temperatures range from lows of 3°C in January to highs of 19°C in July.",
+  "gpt_location_description": "Dublin, the vibrant capital of Ireland, is known for its rich history, stunning architecture, and friendly locals. The city boasts numerous cultural attractions, including museums, galleries, and theaters, and offers a lively student scene with abundant nightlife.",
+  "gpt_location_crime": "While Dublin has lower crime rates than many other European capitals, petty theft and pickpocketing can still occur, particularly in tourist areas. As in any city, it is important to be vigilant and take precautions to ensure your safety.",
+  "gpt_location_transportation": "Public transportation in Dublin is extensive and efficient, including buses, trams (called 'Luas'), and trains (called 'DART'). The city is also very walkable, with many key attractions and amenities within walking distance of each other.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

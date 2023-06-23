@@ -1,0 +1,24 @@
+{
+  "university_name": "Northwestern University",
+  "university_website": [
+    "http://www.northwestern.edu/",
+    "Webpage for Incoming Exchange Students"
+  ],
+  "university_country": "USA",
+  "sem1_months": [
+    "Fall",
+    "Winter",
+    "Spring"
+  ],
+  "sem2_months": [],
+  "faculties_accepted": [
+    "FASS",
+    "FoS",
+    "FoE",
+    "SoC"
+  ],
+  "module_restrictions": "Courses in the following departments and schools are not open to exchange students: Integrated Marketing Communications (Medill), Kellogg School of Management, Pritzker School of Law, Feinberg School of Medicine and Bienen School of Music.",
+  "visa_info": "Exchange students will apply for a J-1 Visa through Northwestern’s International Office after their acceptance.",
+  "accommodations_info": "On-Campus Housing: If there is space available, undergraduate exchange students have the option to live in residence halls, residential colleges, residential communities, or special-interest housing. Consult the Residential Services site for information about on-campus undergraduate housing options. Also reference North by Northwestern's housing guide.\nOff-Campus Housing: Students also have the option of living in an apartment or shared house in the Evanston or Chicago area. Consult off-campus life resources. Also review a webinar on off-campus housing options, organized by the International Office and Off-Campus Life.",
+  "cost_of_living": "The estimated monthly living expenses can be found on Northwestern University's website: [link]"
+}

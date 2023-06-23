@@ -1,0 +1,26 @@
+{
+  "university_name": "The University of Texas at Austin",
+  "university_website": [
+    "http://www.utexas.edu/",
+    "https://world.utexas.edu/isss/students/exchange"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "FoE", "SoC", "LAW"],
+  "module_restrictions": "Some programs at UT are either highly selective due to high student demand, require specific application requirements, or are completely unavailable to exchange students. Programmes not open to the general exchange can be found on their Application page. Courses designated “restricted” require students to obtain permission to take those classes from the department advisor or course instructor during registration week.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "On-campus housing is not guaranteed at UT Austin. For more information on housing options and estimated costs, please refer to the following page: https://world.utexas.edu/isss/life/housing",
+  "cost_of_living": "The estimated monthly living expenses for The University of Texas at Austin can be found at http://www.collegecalc.org/colleges/texas/the-university-of-texas-at-austin/. Please note that tuition is waived for exchange students.",
+  "gpt_university_description": "The University of Texas at Austin is a comprehensive university located in Austin, Texas, USA. It offers a wide range of undergraduate courses and has a strong reputation for academic excellence.",
+  "gpt_university_address": "The University of Texas at Austin, Austin, TX, USA",
+  "gpt_university_city": "Austin, Texas",
+  "gpt_nearest_airport": "Austin-Bergstrom International Airport",
+  "gpt_location_cost_of_living": "The cost of living in Austin, Texas is relatively affordable compared to other major cities in the US.",
+  "gpt_location_weather": "Austin, Texas has a subtropical climate with hot summers and mild winters.",
+  "gpt_location_description": "Austin is the capital city of Texas and is known for its vibrant music scene, outdoor activities, and technology industry. It is home to numerous parks, lakes, and hiking trails, providing ample opportunities for recreational activities.",
+  "gpt_location_crime": "Austin has a relatively low crime rate compared to other cities in the US. However, like any urban area, it is important to take necessary precautions to ensure personal safety.",
+  "gpt_location_transportation": "Austin has a public transportation system that includes buses and a metro rail. It is also a bike-friendly city with numerous bike lanes and bike-sharing programs.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

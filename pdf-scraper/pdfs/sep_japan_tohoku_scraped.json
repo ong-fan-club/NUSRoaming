@@ -1,0 +1,26 @@
+{
+  "university_name": "Tohoku University",
+  "university_website": [
+    "http://www.tohoku.ac.jp/english/",
+    "http://www.tohoku.ac.jp/en/academics/academic_calendar.html",
+    "http://www.insc.tohoku.ac.jp/english/exchange/jype/",
+    "http://www.insc.tohoku.ac.jp/english/exchange/ipla/",
+    "http://www.insc.tohoku.ac.jp/english/exchange/deep-u/",
+    "http://sup.bureau.tohoku.ac.jp/housing/kaikan_en.html",
+    "http://sup.bureau.tohoku.ac.jp/housing/uh_en.html",
+    "http://sup.bureau.tohoku.ac.jp/visa/index_en.html",
+    "http://www.mofa.go.jp/j_info/visit/visa/index.html",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "http://sup.bureau.tohoku.ac.jp/health/insurance_en.html",
+    "http://www.insc.tohoku.ac.jp/english/exchange/",
+    "http://sup.bureau.tohoku.ac.jp/tips/cost_en.html"
+  ],
+  "university_country": "Japan",
+  "sem1_months": ["APR", "MAY", "JUN", "JUL"],
+  "sem2_months": ["OCT", "NOV", "DEC", "JAN", "FEB"],
+  "faculties_accepted": ["Arts and Letters", "Education", "Law", "Economics", "Science", "Pharmaceutical Sciences", "Engineering", "Agriculture"],
+  "module_restrictions": "Students are required to meet the pre-requisites (if applicable) in order to be enrolled into the respective courses.",
+  "visa_info": "Upon acceptance, Tohoku U will apply for a Certificate of Eligibility on your behalf with the Japanese Ministry of Justice, and send it to you when issued. The certificate is required for you to apply for a study visa. Exchange students must obtain a “College Student” visa for the duration of their study in Japan. Please visit the Japan Embassy website for the required supporting documents for your visa application. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. This is to ensure that you can obtain your visa in time before the start of your exchange term. Your exchange at the host university depends on the clearance by the immigration of the host country. For more information on visa applications, please refer to http://sup.bureau.tohoku.ac.jp/visa/index_en.html http://www.mofa.go.jp/j_info/visit/visa/index.html",
+  "accommodations_info": "Exchange students are required to live in the university dormitories. Tohoku University International House (1&2), University House Aobayama, and University House Sanjo (A/B/II/III) are available for exchange students. Information on the dormitory application will be sent to all successful applicants. Dorm preferences are not guaranteed due to the limited number of rooms.",
+  "cost_of_living": "Estimated Monthly Living Expenses\n\nBreakdown of Costs\nCost\nAccommodation\nJP¥13,000 - JP¥40,000\nFood\nJP¥40,000 - JP¥50,000\nTransport\nJP¥5,000 - JP¥15,000\nInsurance\nJP¥2,000 - JP¥3,000\nOthers (Entertainment, clothes)\n~ JP¥30,000\nMonthly Estimate\nJP¥90,000 - JP¥138,000\nhttp://sup.bureau.tohoku.ac.jp/tips/cost_en.html"
+}

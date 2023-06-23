@@ -1,0 +1,12 @@
+{
+    "university_name": "The Hong Kong Polytechnic University",
+    "university_website": ["https://www.polyu.edu.hk/"],
+    "university_country": "Hong Kong, China SAR",
+    "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+    "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+    "faculties_accepted": ["FASS", "FoS", "CDE", "SoC"],
+    "module_restrictions": "Your 'host' department during your exchange will be the academic\ndepartment that offers the academic programme you are admitted to. 50%\n(or more) of your enrolled subjects must come from the host department.\nBeing attached to a host department will give you priority in registering for\nsubjects within that department. The other 50% (or less) workload can be\nsubjects offered by other departments.  \nAll registrations are subject to the approval of the respective departments.  \nFor more information, please refer to  \nhttps://www.polyu.edu.hk/geo/exchange-and-study-abroad/incoming-\nstudents/incoming-exchange/ > Programme Information > 3. Choose your\nHost Department",
+    "visa_info": "Global Engagement Office (GEO) will act as your visa sponsor and send all the\nrequired documents to the Hong Kong Immigration Department on your\nbehalf. Please upload a legible scan copy of the visa application form and the\nrelevant documents to the online application portal. Subsequent to the\nuploading, students are required to send the original documents to GEO by\n post.\nIt usually takes 4 - 6 weeks to process a visa application. When the visa is\nissued, we will collect it and send it to the address as indicated on your\nonline Application. Please inform GEO immediately if you have changed\nyour address.",
+    "accommodations_info": "Exchange students are guaranteed accommodation at the University-\nmanaged Accommodation (including the Student Halls and Off-campus\n Housing) for a twin-sharing room, no single room is available.\nApplication instructions will be sent to successful applicants in the admission\n email. Application period is usually in early August and early December.\nDetails can be found at https://www.polyu.edu.hk/sao/student-resources-\nand-support-section/residential-life/",
+    "cost_of_living": "The estimated monthly living expenses in Hong Kong are as follows:\n\n- Accommodation: HK$1,600\n- Food: HK$3,000\n- Transport: HK$300\n- Others (Entertainment, clothes, books, electricity etc): HK$1,100\n\nThe monthly estimate of total living expenses is HK$6,000."
+}

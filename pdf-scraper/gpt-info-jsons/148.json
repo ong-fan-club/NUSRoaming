@@ -1,0 +1,14 @@
+{
+  "university_name": "University of California",
+  "gpt_university_description": "The University of California (UC) is a public research university system renowned for its research, innovation, and academic excellence. The UC system consists of ten campuses across the state of California, including Berkeley, Davis, Irvine, Los Angeles, Merced, Riverside, San Diego, San Francisco, Santa Barbara, and Santa Cruz.",
+  "gpt_university_address": "1111 Franklin St, Oakland, CA 94607, United States",
+  "gpt_university_city": "Oakland, California",
+  "gpt_nearest_airport": "San Francisco International Airport (SFO)",
+  "gpt_location_cost_of_living": "The cost of living in Oakland and the surrounding areas is relatively high. Housing, transportation, and food costs tend to be more expensive compared to other regions in the United States.",
+  "gpt_location_weather": "Oakland experiences a Mediterranean climate with cool, wet winters and warm, dry summers. The temperature ranges from an average low of 44°F (7°C) in January to an average high of 74°F (23°C) in July.",
+  "gpt_location_description": "Oakland, nestled in the San Francisco Bay Area, is a diverse and vibrant city known for its scenic beauty, rich history, and world-class art scene. With numerous parks, museums, and a thriving culinary scene, Oakland offers an array of activities and entertainment options for visitors and residents alike.",
+  "gpt_location_crime": "Oakland has a higher crime rate compared to the national average; however, crime rates vary depending on the neighborhood. It is advisable to remain vigilant and practice safety precautions, especially in unfamiliar areas.",
+  "gpt_location_transportation": "Oakland has a well-connected public transportation system, including the Bay Area Rapid Transit (BART) trains, buses, ferries, and bike-sharing options. Additionally, the city is also easily accessible via car and ride-sharing services.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

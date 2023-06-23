@@ -1,0 +1,14 @@
+{
+  "university_name": "Alberta University",
+  "gpt_university_description": "The University of Alberta is a public research university located in Edmonton, Alberta, Canada. Established in 1908, it is one of Canada's top universities and is known for its excellence in various fields, including sciences, engineering, business, arts, and health sciences.",
+  "gpt_university_address": "116 St & 85 Ave, Edmonton, AB T6G 2R3, Canada",
+  "gpt_university_city": "Edmonton, Alberta",
+  "gpt_nearest_airport": "Edmonton International Airport",
+  "gpt_location_cost_of_living": "Edmonton has a moderate cost of living, with affordable housing options and reasonable prices for goods and services. However, the cost of living can vary depending on the neighborhood and lifestyle choices.",
+  "gpt_location_weather": "Edmonton experiences a humid continental climate with cold winters and warm summers. The city also has variable weather throughout the year, with temperatures ranging from -20°C in winter to 25°C in summer.",
+  "gpt_location_description": "Edmonton, the capital city of Alberta, known for its beautiful river valley park system, vibrant arts scene, and host to a wide range of festivals and events throughout the year. The city is also home to an array of shopping, dining, and entertainment options, making it a lively and dynamic metropolitan area.",
+  "gpt_location_crime": "Edmonton has a moderate crime rate, with a mix of both property crime and violent crime. However, the majority of the city is safe, with crime concentrated in specific neighborhoods. Taking appropriate safety precautions and staying aware of one's surroundings is recommended.",
+  "gpt_location_transportation": "Edmonton has a comprehensive public transportation system, which includes buses and light rail transit (LRT). The LRT provides easy access to various parts of the city, including the University of Alberta campus. ETS (Edmonton Transit System) also includes a well-connected bus network.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 2
+}

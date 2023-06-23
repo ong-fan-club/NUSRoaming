@@ -1,0 +1,33 @@
+{
+  "university_name": "Utrecht University",
+  "university_website": [
+    "https://www.uu.nl/",
+    "https://www.ucu.nl/",
+    "https://www.umcutrecht.nl/"
+  ],
+  "university_country": "The Netherlands",
+  "sem1_months": [
+    "AUG",
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC",
+    "JAN"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN"
+  ],
+  "faculties_accepted": [
+    "College of Humanities and Sciences (CHS)",
+    "Faculty of Science (FoS)"
+  ],
+  "module_restrictions": "It is important that you have the relevant academic background for the courses that you apply for. You must have taken modules at NUS within the specific subject field to be accepted to any of the faculties / departments at UU.",
+  "visa_info": "Information about immigration-related issues is available at: https://www.uu.nl/en/education/exchange-and-visiting-students/arriving-and-living/practical-matters",
+  "accommodations_info": "Information about student housing is available at: https://www.uu.nl/en/education/exchange-and-visiting-students/arriving-and-living/finding-accommodation",
+  "cost_of_living": "The Netherlands uses the Euro for its currency. Information about the cost of living and estimated expenses in Utrecht is available at: https://www.uu.nl/en/education/exchange-and-visiting-students/arriving-and-living/costs-of-living"
+}

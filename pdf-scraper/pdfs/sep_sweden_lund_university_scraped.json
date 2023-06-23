@@ -1,0 +1,51 @@
+{
+  "university_name": "Lund University",
+  "university_website": [
+    "https://www.lunduniversity.lu.se/",
+    "http://www.lunduniversity.lu.se/international-admissions/why-study-at-lund-university/academic-calendar",
+    "http://www.lunduniversity.lu.se/international-admissions/exchange-and-study-abroad",
+    "http://www.lunduniversity.lu.se/international-admissions/exchange-study-abroad/exchange-studies/find-exchange-courses",
+    "https://www.lunduniversity.lu.se/international-admissions/exchange-study-abroad/exchange-studies/admission-requirements-for-exchange",
+    "https://www.lunduniversity.lu.se/student-life/housing",
+    "http://luaccommodation.lu.se",
+    "http://www.lunduniversity.lu.se/student-life/housing",
+    "http://www.lunduniversity.lu.se/student-life/housing/accommodation-agencies",
+    "https://www.lunduniversity.lu.se/student-life/you-arrive/residence-permits",
+    "https://www.migrationsverket.se/English/Private-individuals/Studying-in-Sweden.html",
+    "https://www.lunduniversity.lu.se/student-life/you-arrive/residence-permits",
+    "http://www.nus.edu.sg/uhc/general-health/billing-insurance/insurance-matters",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://www.lunduniversity.lu.se/student-life/you-arrive/health-and-insurance",
+    "https://www.lunduniversity.lu.se/about-university/universitys-handling-coronavirus",
+    "https://www.lunduniversity.lu.se/student-life/you-arrive/money-and-living-costs",
+    "http://studyinsweden.se/life-in-sweden/cost-of-living/"
+  ],
+  "university_country": "Sweden",
+  "sem1_months": [
+    "AUG",
+    "SEP",
+    "OCT",
+    "NOV",
+    "JAN"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "JUN"
+  ],
+  "faculties_accepted": [
+    "Faculty of Law",
+    "Faculty of Humanities and Theology",
+    "Faculty of Medicine",
+    "Faculty of Economics and Management",
+    "Faculty of Social Sciences",
+    "Faculty of Science",
+    "Faculty of Engineering"
+  ],
+  "module_restrictions": "The admission requirements (prerequisites) for each course can be found on the website of the relevant department. Many courses require at least 1 year of full-time studies within the subject area. Faculty of Law requires 2 years of prior studies in the subject. School of Architecture requires 3 years of prior studies in the subject. Portfolio required to apply. Courses at the School of Industrial Design at Lund University are only open to students enrolled at an Industrial Design program at their home university. Portfolio required to apply. It is recommended that the student’s level of English language proficiency is equivalent to IELTS 6.5/ TOEFL 90. The Swedish language requirement for exchange students wishing to study Swedish-taught courses is “Svenska 3” or equivalent. There is a limited availability of courses at the Lund University School of Economics and Management (LUSEM). Students applying through a university-wide agreement can at most be accepted to 15 credits at LUSEM per semester. The Faculty of Performing Arts, the Malmö Art Academy and the Faculty of Medicine mainly admit students within specific faculty/department agreements. Courses in Journalism are not available. Note: Not all courses in English are open to exchange students. Lund University allows exchange students to read a maximum of 30 credits + a 3 credits introductory course in Swedish (SUSA) per semester. As courses may vary in their number of credits, if a student takes 15 credits courses, he/she can only take two courses (+SUSA); if a student takes 7.5 credits courses, he/she can take four courses (+SUSA). Lund University will not allow students to overload. Students should make sure they fulfill the prerequisites and that they list several reserve alternatives to better their chances in securing 30 credits. The courses offered at the Faculty of Law in Lund University are all at Master level (advanced level); students must have completed a minimum of 2.5 years of previous law studies to be considered for Master level courses. Please note that not all courses given in English are open to exchange students.",
+  "visa_info": "Students from countries outside the EU/EEA need to have a residence permit to study in Sweden. Exchange students coming to Sweden from a non-EU/EEA country may need a residence permit or visa to enter Sweden, depending on their citizenship. Students are advised to apply for a residence permit or visa at the Swedish Embassy or Consulate in their home country after receiving a letter of acceptance for exchange studies. All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Visa application process could take up to 3 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "There are several different housing providers, LU Accommodation is one of them. An active search approach is encouraged since there is a shortage of housing at the beginning of each semester. It is recommended to apply for accommodation through several different agencies. Lund University provides information on accommodation options and applications through LU Accommodation. Students can also consider private accommodation options recommended by Lund University such as BoPoolen, AF Bostader, and accommodation at the student nations. Application periods for university accommodation are from 1-25 April for the autumn semester and 1-25 October for the spring semester. It is strongly recommended that students apply as soon as the application period opens.",
+  "cost_of_living": "The estimated monthly living expenses in Lund are as follows:\n\nBreakdown of Costs:\n- Accommodation: SEK3,200 – SEK4,800\n- Food: SEK2,300\n- Transport: SEK500\n- Telephone/Internet: SEK400\n- Others (Entertainment, clothes): SEK1,700\n\nThe monthly estimate ranges from SEK8,100 to SEK9,700. Students are required to have funds of at least SEK 8,514 per month of study to obtain a residence permit. Please note that students can find more detailed information on living costs on Lund University's website."
+}

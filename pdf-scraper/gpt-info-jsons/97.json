@@ -1,0 +1,14 @@
+{
+  "university_name": "Rice University",
+  "gpt_university_description": "Rice University is a private research university located in Houston, Texas. Founded in 1912, Rice offers a wide range of undergraduate and graduate programs, with a strong focus on engineering, natural sciences, and liberal arts. The university is known for its small class sizes, collaborative environment, and cutting-edge research facilities.",
+  "gpt_university_address": "6100 Main St, Houston, TX 77005, United States",
+  "gpt_university_city": "Houston, Texas",
+  "gpt_nearest_airport": "George Bush Intercontinental Airport (IAH)",
+  "gpt_location_cost_of_living": "Houston has a relatively low cost of living when compared to other major US cities. While housing can range from affordable to pricey depending on the neighborhood, utilities and groceries are generally reasonably priced. Public transportation is also affordable, making it a budget-friendly option for students.",
+  "gpt_location_weather": "Houston experiences a humid subtropical climate. The summers are hot and humid, with temperatures ranging between 80 to 100°F (27 to 38°C). Winters are mild, with temperatures rarely dipping below freezing, averaging around 40 to 60°F (4 to 16°C). The city receives significant rainfall throughout the year, particularly during hurricane season (June to November).",
+  "gpt_location_description": "Houston is the fourth largest city in the US and a diverse, bustling metropolis with a thriving economy. The city is home to various cultural institutions, museums, and entertainment venues, offering students a wealth of opportunities for exploration and adventure. Houston is also known for its thriving food scene, featuring diverse cuisine from all over the world.",
+  "gpt_location_crime": "Houston has a higher crime rate than the US average, with property crimes being more prevalent than violent crimes. However, crime rates vary across different neighborhoods. It is recommended that students exercise general precautions such as keeping personal belongings secure and being aware of their surroundings when traveling.",
+  "gpt_location_transportation": "Houston's public transportation system, managed by the Metropolitan Transit Authority of Harris County (METRO), includes buses, light rail, and park-and-ride services. However, Houston is a car-centric city, and many residents prefer to drive. Cycling and walking are also options for getting around, but may be limited by the city's sprawling nature and hot climate.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 2
+}

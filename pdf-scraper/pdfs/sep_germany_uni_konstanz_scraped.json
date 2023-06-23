@@ -1,0 +1,31 @@
+{
+  "university_name": "University of Konstanz",
+  "university_website": [
+    "https://www.uni-konstanz.de/en/international-office/study-in-konstanz/exchange-and-non-degree-studies/"
+  ],
+  "university_country": "Germany",
+  "sem1_months": [
+    "OCT",
+    "NOV",
+    "DEC",
+    "JAN",
+    "FEB"
+  ],
+  "sem2_months": [
+    "APR",
+    "MAY",
+    "JUN",
+    "JUL",
+    "AUG",
+    "SEP"
+  ],
+  "faculties_accepted": [
+    "FASS",
+    "FoS",
+    "SoC"
+  ],
+  "module_restrictions": "Not all courses are available in English. Time-table clashes may occur if taking modules from different faculties. It is recommended to take at least 50% of classes in the main major.",
+  "visa_info": "EU citizens and citizens from several countries do not need a visa to enter Germany. Students from other countries must apply for a Student Applicant’s visa. Visa application process can take up to 2 months.",
+  "accommodations_info": "The Studentenwerk Seezeit is the biggest provider of student housing in Konstanz, offering more than 1,800 places in their Halls of Residence. Rents range from €230 to €380 per month. Private housing options are available as well.",
+  "cost_of_living": "Estimated monthly living expenses breakdown:\n- Accommodation: €230 - €420\n- Health Insurance: €80\n- Food: €120 - €250\n- Others (Books, printing, entertainment etc.): €200 - €550\n- Monthly Estimate: €630 - €1,300"
+}

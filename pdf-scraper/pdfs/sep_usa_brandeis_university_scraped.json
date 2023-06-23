@@ -1,0 +1,15 @@
+{
+  "university_name": "Brandeis University",
+  "university_website": [
+    "http://www.brandeis.edu/",
+    "https://www.brandeis.edu/abroad/approved-programs/exchanges/incoming-exchange/index.html"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "It can be difficult to register for courses in the Business department due to high demand. Graduate-level courses are not available to exchange students.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country. It is necessary for international students and exchange visitors to make appointments with the U.S. embassy or consulate in their country in a timely fashion in order to receive a visa. Students are expected to obtain a J-1 Student Entry Visa. Students must present the required documents to the consular section of the U.S. Embassy, as instructed by Brandeis closer to the time of application. Please note that there will be a SEVIS Fee which must be paid before you go to the embassy for your visa interview.",
+  "accommodations_info": "More information on housing will be provided by Brandeis university following acceptance to the programme. https://www.brandeis.edu/abroad-programs/exchanges/incoming-exchange/housing.html",
+  "cost_of_living": "More information on cost estimates can be seen at: https://www.brandeis.edu/abroad-programs/exchanges/incoming-exchange/financial.html."
+}

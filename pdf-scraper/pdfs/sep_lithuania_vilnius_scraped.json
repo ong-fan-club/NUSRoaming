@@ -1,0 +1,14 @@
+{
+  "university_name": "Vilnius University",
+  "university_website": [
+    "http://www.vu.lt/en/studies/exchange-students"
+  ],
+  "university_country": "Lithuania",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "Business, Economics and Management modules at Vilnius are excluded from the exchange between NUS and Vilnius. Limited courses are also available at the Lithuanian Academy of Music & Theatre and Vilnius Academy of Fine Arts.",
+  "visa_info": "Non-degree students from non-EU countries must get national Type D Visa prior to arrival in Lithuania. The necessary documents to be submitted to the Migration Department or the nearest Lithuanian Embassy: 1. Completed application (https://visa.vrm.lt/epm/); 2. Letter of Acceptance from Vilnius University 3. Visa application processing fee (if applicable); 4. Proofs of sufficient means of support (at least €200 per month + €400 for the return journey); 5. 1 photo (colour, 35 x 45mm); 6. Valid passport; 7. Health insurance valid in Schengen countries (minimum coverage of €30,000). 8. Letter of mediation (will be sent via e-mail by Vilnius University together with the Letter of Acceptance; validity 1 month )",
+  "accommodations_info": "Dormitories are situated in Saulėtekio, Olandų or Didlaukio Street which can be around 20 minutes bus ride from the main campus at Vilnius’ old town. The time taken to reach a faculty depends on their geographical location and the traffic conditions. Only twin or triple sharing rooms are available. A group of five to six students will share a common bathroom. Common kitchens will be shared by around 20 students. There will be no gender division based on room, floor or building. Students can request to share rooms with the same gender. There will be 24/7 security officer manning the reception area of every dormitory building. Online application for accommodation must be submitted at least one month before the scheduled arrival.",
+  "cost_of_living": "The estimated monthly living expenses at Vilnius University can be found at http://www.vu.lt/en/studies/practical-information/56-studies/studies/2507"
+}

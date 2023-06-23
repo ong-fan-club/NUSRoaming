@@ -1,0 +1,52 @@
+{
+  "university_name": "Chalmers University of Technology",
+  "university_website": [
+    "http://www.chalmers.se/en",
+    "https://student.portal.chalmers.se/en/chalmersstudies/incomingexchange/Pages/default.aspx",
+    "https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/Pages/course-information.aspx",
+    "https://student.portal.chalmers.se/en/studentlife/accommodation-housing/Pages/Accommodation-housing.aspx",
+    "https://www.migrationsverket.se/English/Private-individuals.html",
+    "http://www.nus.edu.sg/uhc/general-health/billing-insurance/insurance-matters",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://www.chalmers.se/en/news/corona-virus/Pages/default.aspx",
+    "https://www.chalmers.se/en/education/before-your-arrival/Pages/Cost-of-living.aspx"
+  ],
+  "university_country": "Sweden",
+  "sem1_months": [
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN"
+  ],
+  "faculties_accepted": [
+    "Applied Information Technology",
+    "Applied Mechanics",
+    "Applied Physics",
+    "Architecture",
+    "Biology and Biological Engineering",
+    "Chemistry and Chemical Engineering",
+    "Civil and Environmental Engineering",
+    "Computer Science and Engineering",
+    "Earth and Space Sciences",
+    "Energy and Environment",
+    "Fundamental Physics",
+    "Materials and Manufacturing Technology",
+    "Mathematical Sciences",
+    "Microtechnology and Nanoscience",
+    "Product and Production Development",
+    "Shipping and Marine Technology",
+    "Signals and Systems"
+  ],
+  "module_restrictions": "Students are expected to take master level courses taught in English as most Bachelor level courses are taught in Swedish. Only students in 3rd year and above are able to participate in SEP to Chalmers University of Technology. 3rd year semester 2 students are preferred.  Architecture students must be in 4th year to participate in exchange to Chalmers. NUS students cannot attend courses from Chalmers Department of Technology Management and Economics which includes Industrial Engineering and Business courses.",
+  "visa_info": "Students from non EU/EEA countries need to apply for a residence permit for studies before entering Sweden. Further information and application forms regarding residence permit may be obtained from the Swedish Embassy or Consulate in the home country of the student, or from Migrationsverket (the Migration Board). Students are strongly advised to apply as soon as they receive their Letter of Acceptance, since it may take up to three months to get the documentation finalised. In order to apply for a residence permit for studies, students must:\n\n- Have a valid passport\n- Be admitted to full time studies\n- Be able to support herself or himself for the planned study period (ie a bank statement in your name); the applicable minimum amount per month of stay is stipulated at the Swedish Migration Board website\n- Have a comprehensive health insurance that covers the whole period of stay in Sweden if admitted for less than a year\n\nAll students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university.  Visa application process could take up to 3 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "Gothenburg is a popular city to study in and there is a very high demand for student housing. Finding appropriate accommodation may be difficult, especially in the central parts of the city. Chalmers cannot guarantee accommodation for exchange students but will try best to provide accommodation to the incoming exchange students. Incoming exchange students from NUS will receive an email from Chalmers with instruction about how to apply for housing in Gothenburg.  Students are expected to search actively for housing, which means that you may have to put yourself in the queue systems for the housing agencies. It is important that you don't wait until the last minute, as soon as you receive your admissions letter you should start looking for accommodation. Chalmers has agreements with the housing agencies SGS Studentbostäder and Chalmers studentbostäder. Make sure to apply directly to each of these agencies.",
+  "cost_of_living": "The estimated monthly living expenses breakdown in SEK:\n\n- Accommodation: SEK4,000 – SEK6,300\n- Food: SEK2,500\n- Transport: SEK580 – SEK 1,060\n- Telephone/Internet: SEK400\n- Others (Entertainment, clothes): SEK1,800\n\nThe monthly estimate ranges from SEK10,180 to SEK13,089. International exchange students may need to open a Swedish bank account during their time in Sweden."
+}

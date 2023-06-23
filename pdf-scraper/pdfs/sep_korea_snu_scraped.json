@@ -1,0 +1,19 @@
+{
+  "university_name": "Seoul National University",
+  "university_website": ["https://en.snu.ac.kr/"],
+  "university_country": "South Korea",
+  "sem1_months": ["MAR", "APR", "MAY", "JUN"],
+  "sem2_months": ["SEP", "OCT", "NOV", "DEC"],
+  "faculties_accepted": ["Humanities", "Social Sciences", "Natural Sciences", "Business Administration", "Engineering", "Agriculture and Life Sciences", "Education", "Human Ecology", "Pharmacy", "Liberal Studies", "Interdisciplinary Programs"],
+  "module_restrictions": {
+    "College of Business Administration (CBA)": "Restricted to students who are currently studying business or economics at their home university. Students majoring in Economics should consider other non-Business courses.",
+    "Dept. of Computer Science and Engineering (CSE)": "Applicants must have earned at least 15 credits in CSE-related courses. Starting from Spring 2020’s admission, CSE has decided to control the number of accepted exchange students on the undergraduate-level, due to a lack of course capacity and placement.",
+    "Korean History/Psychology/Statistics major": "Applicants must provide proof of Korean language proficiency (KLPT Level 5 or above).",
+    "College of Law and School of Dentistry": "Not open to undergraduate exchange students.",
+    "College of Medicine": "Not available to exchange students.",
+    "Dept. of Vocal Music": "Restricted to students who are currently studying vocal music at their home university."
+  },
+  "visa_info": "Exchange students must apply for a D2 student visa before arrival in Korea. All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university.",
+  "accommodations_info": "Exchange students may apply for the Gwanak Residence Halls, but room assignment is not guaranteed. Off-campus housing is available around the campus.",
+  "cost_of_living": "The estimated monthly living expenses for exchange students in Seoul National University are as follows:\n\nAccommodation: ₩300,000 - ₩700,000\nFood: ₩400,000\nTransport: ₩100,000\nAcademic Expenses: ₩50,000\nOthers (Entertainment, clothes): ₩300,000\n\nMonthly Estimate: ₩1,150,000 - ₩1,550,000"
+}

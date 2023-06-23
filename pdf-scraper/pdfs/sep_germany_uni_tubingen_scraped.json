@@ -1,0 +1,27 @@
+{
+  "university_name": "University of Tuebingen (Eberhard Karls Universität Tübingen)",
+  "university_website": [
+    "http://www.uni-tuebingen.de/en/113870",
+    "http://www.uni-tuebingen.de/en/international/study-in-tuebingen/erasmus-and-exchange-to-tuebingen/academic-calendar-for-international-students.html",
+    "http://www.uni-tuebingen.de/en/1056",
+    "http://www.uni-tuebingen.de/en/1091"
+  ],
+  "university_country": "Germany",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["APR", "MAY", "JUN", "JUL"],
+  "faculties_accepted": [
+    "Faculty of Economics and Social Sciences",
+    "School of Business and Economics",
+    "Faculty of Science",
+    "Faculty of Humanities",
+    "Faculty of Protestant Theology",
+    "Center for Islamic Theology",
+    "Political Science",
+    "Sociology",
+    "Mathematics"
+  ],
+  "module_restrictions": "Courses from Faculty Medicine is not open to exchange students. Availability in beginner’s German language courses (A1/A2 level) are limited and cannot be guaranteed. Students who wish to study at Tuebingen Faculty of Science (= Natural Sciences) need to submit supporting documents such as a language certificate, Transcript of Records and Study Plan with a course list that can be sent to the Tuebingen Faculty of Science for approval.",
+  "visa_info": "EU citizens and citizens from the following countries do not need a visa to enter Germany: Australia, Canada, Honduras, Iceland, Israel, Japan, Korea, Liechtenstein, Monaco, New Zealand, Norway, San Marino, Switzerland and the United States. However, after entering Germany, you will have to apply for a residence permit at the local \"Auslaenderbehörde\" (Immigration Office) if you are staying for more than three months. Students from all other countries must apply for a visa for study purposes via the German diplomatic representation in their home country. You must not under any circumstances travel to Germany on a tourist visa.",
+  "accommodations_info": "Accommodation is administered by the Studierendenwerk (Student Services Organization), which is not affiliated with the University. You could possibly get the university accommodation if you submit an application before the deadline which will be mentioned in Tuebingen’s acceptance email. For an overview of the dormitories, please see: https://en.my-stuwe.de/housing/halls-of-residence-tuebingen/ All rooms for exchange students are fully furnished single rooms with shared kitchen and usually shared bathrooms. Students who have contract that ends in August or September are expected to pay for the rental until August or September. There will be no refund of the rental if you leave the student accommodation earlier. Deposit for the student accommodation will only be returned to you after you have fulfilled the conditions for the full refund of deposit. It takes approximately four months for the rental deposit (if applicable) to be returned to you.",
+  "cost_of_living": "The estimated monthly living expenses in Tuebingen are as follows:\n\nBreakdown of Costs\nCost\nAccommodation: €290 - €350\nFood: €175\nHealth Insurance: €90\nPersonal Expenses: €80\nAcademic Expenses: €30\nTransportation: €82\nOthers (Entertainment, clothes): €27\nLicence Fee (\"Rundfunkbeitrag\"): €18\n\nMonthly Estimate: €792 - €852"
+}

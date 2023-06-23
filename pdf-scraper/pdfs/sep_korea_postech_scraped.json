@@ -1,0 +1,12 @@
+{
+  "university_name": "Pohang University of Science and Technology (POSTECH)",
+  "university_website": ["http://www.postech.ac.kr/"],
+  "university_country": "South Korea",
+  "sem1_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "sem2_months": ["SEP", "OCT", "NOV", "DEC"],
+  "faculties_accepted": ["Mathematics", "Physics", "Chemistry", "Life Sciences", "Materials Science and Engineering", "Mechanical Engineering", "Industrial and Management Engineering", "Electrical Engineering", "Computer Science and Engineering", "Chemical Engineering", "Creative IT Engineering", "Humanities and Social Sciences"],
+  "module_restrictions": "Students are required to meet the pre-requisites for the courses that they applied.",
+  "visa_info": "Exchange students must apply for a D2 student visa before arrival in Korea. After you received the Certificate of Admission (CoA) and offer letter from your host university, you may proceed to the Korean Embassy to apply for the student visa, with the relevant supporting documents.",
+  "accommodations_info": "International exchange students will be housed at the Dormitory for International Cultural Exchange (DICE) on twin sharing basis. All rooms are equipped with free internet, LAN connections and lounges with cable TV are available on every floor. Admitted students are automatically arranged on-campus housing.",
+  "cost_of_living": "The estimated monthly living expenses breakdown for South Korea is as follows:\n\n- Accommodation: ₩140,000\n- Food: ₩350,000\n- Transport: ₩50,000\n- Academic Expenses: ₩50,000\n- Others (Entertainment, clothes): ₩250,000\n\nMonthly Estimate: ₩840,000"
+}

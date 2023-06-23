@@ -1,0 +1,14 @@
+{
+  "university_name": "The University of Hong Kong",
+  "gpt_university_description": "The University of Hong Kong (HKU) is a public research university located in Hong Kong. Established in 1911, it is the territory's oldest university and is renowned for its rigorous academic programs, research achievements, and global reputation. HKU offers undergraduate, postgraduate, and professional educational programs in a wide range of disciplines including arts, science, business, engineering, and medicine.",
+  "gpt_university_address": "Pokfulam Road, Hong Kong",
+  "gpt_university_city": "Hong Kong",
+  "gpt_nearest_airport": "Hong Kong International Airport (HKG)",
+  "gpt_location_cost_of_living": "Hong Kong has a high cost of living, being one of the most expensive cities in the world. Expect to pay high prices for housing, food, transportation, and other living expenses.",
+  "gpt_location_weather": "Hong Kong experiences a subtropical climate with distinct seasons. Summers are hot, humid, and wet with temperatures around 30°C, while winters are cool and dry with temperatures around 14°C. Spring and autumn are generally mild and pleasant.",
+  "gpt_location_description": "Hong Kong is a vibrant, cosmopolitan city known for its iconic skyline, world-class shopping, and multicultural cuisine. The city is a melting pot of Eastern and Western cultures and is surrounded by lush green hills and beautiful beaches. With a mix of bustling urban areas and tranquil nature spots, there is something for everyone in Hong Kong.",
+  "gpt_location_crime": "Hong Kong has a low crime rate, making it one of the safest cities in the world. However, like in any big city, petty crime such as pickpocketing and theft can occur, so it is advised to remain vigilant and take necessary precautions.",
+  "gpt_location_transportation": "Hong Kong's public transportation system is highly developed and efficient, offering options such as the Mass Transit Railway (MTR), buses, trams, ferries, and taxis. An Octopus Card can be used for most public transportation modes, providing a convenient and cashless payment method.",
+  "gpt_location_halal": 3,
+  "gpt_location_vegetarian": 3
+}

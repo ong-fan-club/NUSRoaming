@@ -1,0 +1,12 @@
+{
+  "university_name": "Jagiellonian University",
+  "university_website": ["http://www.dmws.uj.edu.pl/en_GB/przyjezdzajacy-studenci/inne-programy-wymiany/umowy-dwustronne", "http://www.en.uj.edu.pl/en/studying/academic-calendar", "http://www.dmws.uj.edu.pl/programy-studiow/programy-wymiany-studenckiej"],
+  "university_country": "Poland",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN", "FEB"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["FASS", "FoS"],
+  "module_restrictions": "NUS students participating in the Exchange Programme in UJ may read modules from most faculties subject to pre-requisites and availability, except for modules offered by the Faculty of Medicine, Faculty of Pharmacy, Faculty of Health Sciences, and Department of Management under the Faculty of Management & Social Communication. European Studies may not be offered to fee-waiver exchange students.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. A citizen of a non-EU country has to obtain the visa from the consulate of Poland in their country of residence to support their stay of more than 90 days in Poland. All students should legalize their stay exceeding 3 months by obtaining a temporary residence permit after their arrival in Poland.",
+  "accommodations_info": "Jagiellonian offers shared (double) rooms available in two dorms: Żaczek (al. 3-go Maja 5) and Piast (ul. Piastowska 47). The cost per person is currently about 400 PLN per month, including internet access. Private accommodation is also available, with rental costs ranging from PLN 300 to 2,000 per month depending on various factors.",
+  "cost_of_living": "The estimated monthly living expenses in Kraków are as follows:\n\n- Accommodation (double room in a student dormitory): PLN 400\n- Food (3 meals a day): PLN 600\n- Transport (Bus and Network Pass): PLN 50\n- Others (Entertainment, clothes, utilities): PLN 200 to PLN 300\n\nThe monthly estimate ranges from PLN 1,250 to PLN 1,350. Please note that private accommodation costs may vary."
+}

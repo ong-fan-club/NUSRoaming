@@ -1,0 +1,19 @@
+{
+  "university_name": "The University of York",
+  "university_website": [
+    "http://www.york.ac.uk/study/international/visiting-students/",
+    "http://www.york.ac.uk/about/term-dates/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": [
+    "Faculty of Arts & Humanities",
+    "Faculty of Science",
+    "Faculty of Social Sciences"
+  ],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. Please see here for guidance on choosing modules: https://www.york.ac.uk/study/international/applying/visiting-students/courses/guidance-on-choosing-modules/",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange. For latest information on border control please see: https://www.gov.uk/uk-border-control",
+  "accommodations_info": "As a visiting student, you are guaranteed accommodation if you have applied for your course place with Centre for Global Programmes by their stipulated deadlines. You can either live in an en-suite single bedroom or in a room with a wash basin and share a common bathroom. You can cook in a shared kitchen or eat in the dining rooms or snack-bars on campus. At each of the six colleges, there are common rooms, a bar, a television room, laundry, telephone facilities and a reception service. More information is available at http://www.york.ac.uk/about/departments/support-and-admin/accommodation/",
+  "cost_of_living": "The estimated monthly living expenses can be found at https://www.york.ac.uk/students/housing-and-money/financial-support/budgeting/budgets/."
+}

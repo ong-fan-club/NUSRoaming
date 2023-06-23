@@ -1,0 +1,14 @@
+{
+  "university_name": "Tsinghua University",
+  "gpt_university_description": "Tsinghua University is a prestigious research university located in Beijing, China. Established in 1911, it is renowned for its strong focus on engineering and technology, as well as excellent teaching and research across various disciplines. The university is consistently ranked among the top universities globally and is considered one of the best educational institutions in China.",
+  "gpt_university_address": "30 Shuangqing Rd, Haidian District, Beijing, China",
+  "gpt_university_city": "Beijing",
+  "gpt_nearest_airport": "Beijing Capital International Airport",
+  "gpt_location_cost_of_living": "The cost of living in Beijing is relatively high compared to other cities in China, although it is still affordable in comparison to many Western cities. Expenses such as housing, transportation, and food can be moderate to expensive depending on individual preferences and lifestyles.",
+  "gpt_location_weather": "Beijing experiences a monsoon-influenced humid continental climate, with hot and humid summers, cold and dry winters, and brief spring and autumn seasons. Summer temperatures can reach up to 30°C (86°F), while winter temperatures can drop as low as -9°C (16°F). Air quality in the city can vary, with polluted days often occurring during winter months.",
+  "gpt_location_description": "Beijing, the capital city of China, is an international metropolis with a rich history and vibrant modern culture. Home to over 21 million people, the city features numerous historical sites, such as the Great Wall and the Forbidden City, alongside contemporary shopping districts and business centers. A mix of traditional Chinese architecture and modern skyscrapers, Beijing is known for its bustling street life, parks, and unique culinary scene.",
+  "gpt_location_crime": "Beijing has a relatively low crime rate compared to many major cities, however, petty crimes such as pickpocketing and scams can occur, particularly in crowded tourist areas. Violent crime is uncommon, and personal safety is generally not a major concern for residents and visiting students.",
+  "gpt_location_transportation": "Beijing has an extensive public transportation network, including buses, the Beijing Subway system, and taxis. The subway is the preferred mode of transport for many due to its affordability, punctuality, and coverage of most areas in the city. Bicycles and electric scooters are also popular means of transportation.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 2
+}

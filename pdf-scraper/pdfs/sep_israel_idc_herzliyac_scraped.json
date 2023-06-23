@@ -1,0 +1,18 @@
+{
+  "university_name": "Reichman University",
+  "university_website": [
+    "https://www.idc.ac.il/en/pages/home.aspx",
+    "https://www.idc.ac.il/en/students/pages/calendar.aspx",
+    "https://www.idc.ac.il/en/students/pages/hrs.aspx",
+    "https://embassies.gov.il/singapore/Pages/default.aspx",
+    "https://www.idc.ac.il/en/schools/rris/pages/health-insurance.aspx"
+  ],
+  "university_country": "Israel",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["BIZ", "FASS", "SoC"],
+  "module_restrictions": "Zell Entrepreneurship courses and Argov Fellowship courses are closed to students without expressed permission from the director of the programs, respectively. Public Diplomacy courses 422,4691, 4516 are not available to exchange students. Communications Workshops and Seminars are not open to students outside of the School of Communications. Courses with Pre-requisites: Students may not take these courses without the required pre-requisites or permission from the instructor.",
+  "visa_info": "All students must obtain a MULTIPLE ENTRY A/2 STUDENT VISA prior to their arrival to Israel through the closest Israeli Embassy or Consulate. Embassy of Israel in Singapore: https://embassies.gov.il/singapore/Pages/default.aspx. This visa is issued for the duration of study. Students in one-year programs or longer are advised to obtain the visa as close to their date of departure as possible, since a visa is only issued for a maximum of 12 months. The student’s passport must be valid for the full period of the visa. Students who arrive to Israel without an A/2 student visa may be required by the Israeli authorities to leave the country in order to obtain the correct visa.",
+  "accommodations_info": "Housing is available at Reichman University but is not guaranteed. Incoming students will have the option of enjoying a high standard of living offered in the 500 new, fully equipped residential units located in two 13-story towers on campus. Please note that room in the dormitories for exchange students are limited and placement is subject to availability on a first-come-first-served basis. More information is available online here. Herzliya and Tel Aviv offer other great housing alternatives. Students may choose to look independently for other non-university related living arrangements (housing suggestions will be included in the acceptance package).",
+  "cost_of_living": "While costs may vary according to your spending habits, the estimated monthly living expenses in Herzliya are as follows:\n\nHousing (including utilities): $3,000 - $3,500\nFood/Meals: $1,400 - $1,900\nTransportation: $400\nPersonal Expenses/leisure: $650 - $750"
+}

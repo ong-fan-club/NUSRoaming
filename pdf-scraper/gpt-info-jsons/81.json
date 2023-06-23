@@ -1,0 +1,14 @@
+{
+  "university_name": "Imperial College London",
+  "gpt_university_description": "Imperial College London is a world-renowned institution dedicated to research, education, and innovation in science, engineering, medicine, and business. Founded in 1907, it consistently ranks among the top universities in the world.",
+  "gpt_university_address": "South Kensington Campus, London SW7 2AZ, United Kingdom",
+  "gpt_university_city": "London, England",
+  "gpt_nearest_airport": "Heathrow International Airport (LHR)",
+  "gpt_location_cost_of_living": "London is known for its high cost of living, which includes expenses like housing, transportation, and food. However, students can find more affordable accommodations and use various discounts to manage the costs.",
+  "gpt_location_weather": "London experiences a temperate maritime climate with mild winters and moderate summers. The city is known for its frequent rainfall and unpredictable weather, but it rarely experiences extreme temperatures.",
+  "gpt_location_description": "London is a vibrant, cosmopolitan city steeped in history and culture. Home to iconic landmarks, top-rated museums, and thriving arts scene, the city offers countless opportunities for exploration and entertainment.",
+  "gpt_location_crime": "As a major metropolitan city, London does experience crime. However, the rates vary depending on the area. Taking standard safety precautions and being aware of your surroundings is advised in any large city.",
+  "gpt_location_transportation": "London has an extensive and efficient public transportation system that includes buses, underground (tube), overground trains, trams, and river buses. The Oyster Card is a convenient payment method for these services.",
+  "gpt_location_halal": 3,
+  "gpt_location_vegetarian": 3
+}

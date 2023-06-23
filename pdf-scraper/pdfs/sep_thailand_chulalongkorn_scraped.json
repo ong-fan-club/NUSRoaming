@@ -1,0 +1,12 @@
+{
+  "university_name": "Chulalongkorn University",
+  "university_website": ["http://www.chula.ac.th/en/"],
+  "university_country": "Bangkok, Thailand",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)", "Faculty of Arts and Social Sciences (FASS)", "NUS Business School (BIZ)", "School of Computing (SoC)", "Faculty of Dentistry (DENT)", "College of Design and Engineering (CDE or FoE)", "Yong Loo Lin School of Medicine (YLLSOM)", "School of Law (LAW)", "School of Nursing", "Yong Siew Toh Conservatory of Music (YSTCM)"],
+  "module_restrictions": "Ensure that you meet the pre-requisites for the courses you are applying for.",
+  "visa_info": "Once your exchange application has been approved by Chulalongkorn University, you will receive an acceptance letter, along with a letter for visa application. International students require a Non-Immigrant Education Visa (category ED) to study in Thailand. Applications should be made at the Royal Thai Embassy before departure to Thailand.",
+  "accommodations_info": "Chulalongkorn University International House (CU iHouse) is a 26-storey, 846-unit, on-campus residence for international students and lecturers. Rooms come fully furnished with air conditioner, modern conveniences, 24-hour security and safety systems. Kindly note that CU iHouse has limited availability. Please apply as early as possible or explore other alternative accommodation options. Off-campus accommodations recommended by CU are Nonsi-residence [http://www.nonsiresidence.com/] and I-sanook [https://www.i-sanook.com/en-us].",
+  "cost_of_living": "The estimated monthly living expenses breakdown includes:\n\n- Accommodation: THB14,000 – THB22,000\n- Food: THB5,000 – THB12,000\n- Transport: THB1,000 – THB3,000\n- Others (Entertainment, clothes): THB5,000 – THB8,000\n\nThe monthly estimate for cost of living is THB25,000 – THB45,000."
+}

@@ -1,0 +1,18 @@
+{
+  "university_name": "Telecom ParisTech",
+  "university_website": [
+    "http://www.telecom-paristech.fr/eng",
+    "https://internationaltelecomparistech.wp.mines-telecom.fr/incoming-students/how-to-apply/",
+    "https://www.pairform.fr/doc/19/37/72/web/co/_structure.html",
+    "http://www.telecom-paristech.fr/eng/international-studies/master-of-engineering/postgraduate-program.html",
+    "http://www.eurecom.fr/en/teaching/engineering-studies"
+  ],
+  "university_country": "France",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["FASS", "FoS", "SoC"],
+  "module_restrictions": "Students must have completed at least 4 semesters of undergraduate studies before participating in exchange programme at TELECOM ParisTech.",
+  "visa_info": "Long-Stay visas are necessary for stays exceeding 3 months. Upon arrival in France, students are required to register with the French Immigration and Integration Office (OFII) for a residence permit. Please visit the websites of French embassies and consulates in your country. All students who wish to study in France must follow the Campus France procedure on Etudes en France online platform before applying for a visa.",
+  "accommodations_info": "The association that manages the student housing for Télécom ParisTech students is called Maison des Élèves (nicknamed 'la Maisel'). For more information on accommodation, please refer to http://www.telecom-paristech.fr/eng/life-at-telecom-paristech/accommodation.html",
+  "cost_of_living": "The estimated monthly living expenses breakdown is as follows:\n- Accommodation: €460\n- Food: €200\n- Transport: €40\n- Insurance: €40\n- Others (Entertainment, clothes): €150\n\nMonthly Estimate: €890"
+}

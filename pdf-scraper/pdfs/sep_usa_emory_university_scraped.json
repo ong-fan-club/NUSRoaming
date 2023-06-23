@@ -1,0 +1,36 @@
+{
+  "university_name": "Emory University",
+  "university_website": [
+    "http://www.emory.edu",
+    "http://registrar.emory.edu/academic-calendar/index.html",
+    "http://atlas.college.emory.edu/index.html",
+    "https://housing.emory.edu/",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "http://www.campserv.emory.edu/public-safety/police/index.html",
+    "http://apply.emory.edu/apply/tuition.php"
+  ],
+  "university_country": "USA",
+  "sem1_months": [
+    "AUG",
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY"
+  ],
+  "faculties_accepted": [
+    "FASS",
+    "FoS",
+    "SoC"
+  ],
+  "module_restrictions": "NUS students cannot read courses in the Business School, Law School and courses at School of Medicine. Students on exchange may register only for courses that are not filled by degree candidates. Students should have alternate course selection possibilities in case degree candidates fill a specific class. Students are to note that there may be prerequisites for select courses. Please check course prerequisites before applying. Emory require NUS applicants to have completed at least three semesters at their home university upon application for the Exchange Programme to Emory; and at least two years of study at NUS upon admission to Emory.",
+  "visa_info": "Once you have been approved to study in the United States and officially admitted to Emory University, you will receive your Certificate of Eligibility (DS-2019). Your Certificate of Eligibility is valid for 30 days before and 30 days after your academic program. This means that if you so desire, you can arrive in the United States one month before Emory’s semester begins and depart for your home country one month after the semester ends. After paying the SEVIS fee, take the SEVIS receipt, the Form DS-2019, valid passport, and evidence of financial support to the nearest U.S. Embassy or U.S. Consulate to obtain your J-1 exchange visitor visa. When you depart for the U.S. be sure to carry these documents with you. You should also carry original financial documents as proof to support the funding listed on your Form DS-2019. A United States immigration officer will review these items at your U.S. city of arrival. For very important information about entering the United States as an F-1 or J-1 student. Please locate the nearest U.S. Embassy or Consulate to review and complete the procedures necessary to apply for your visa.",
+  "accommodations_info": "Exchange students are required to live on campus at Emory University. For more information on Emory housing, please refer to the following link: https://housing.emory.edu/",
+  "cost_of_living": "Information on the cost of living and attendance at Emory University can be found via the following link. Please note tuition fees are waived for exchange students. http://apply.emory.edu/apply/tuition.php"
+}

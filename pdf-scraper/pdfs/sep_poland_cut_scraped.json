@@ -1,0 +1,15 @@
+{
+  "university_name": "Cracow University of Technology",
+  "university_website": ["http://iro.pk.edu.pl/incoming-exchange-students/"],
+  "university_country": "Poland",
+  "sem1_months": ["OCT", "NOV", "DEC", "JAN", "FEB"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["FoE", "FoS"],
+  "module_restrictions": {
+    "FoS": ["Mathematics"],
+    "FoE": ["Mechanical Engineering (semester 2 only)", "Civil & Environmental Engineering (semester 2 recommended)", "Environmental Engineering (semester 2 only)"]
+  },
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application process could take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country. Visa is required for a stay of more than 90 days for Singaporean and Malaysians. Non-EU students wishing to study in Poland should apply for an entry visa. All students should legalize their stay exceeding 3 months by obtaining temporary residence permit after their arrival to Poland. More information on http://www.msz.gov.pl",
+  "accommodations_info": "CUT does not guarantee accommodation to exchange students. Applicants who need accommodation should submit their accommodation application to CUT’s International Relations Office before 30 May, regardless of whether the study period commences in the winter or spring semester of the following academic year. Co-educative student on-campus housing refers to double rooms with shared bathrooms (each bathroom is shared by four students) and shared kitchen. Students may check in our dormitories a few days before the semester starts. Fall Semester: after 16 September, Spring Semester: after 16 February. For more information, please refer to http://iro.pk.edu.pl/accommodation/ and http://www.akademiki.pk.edu.pl/ds4-balon.html (page only in Polish).",
+  "cost_of_living": "Estimated Monthly Living Expenses:\n\nBreakdown of Costs\nCost (CUT dormitory):\nPLN 375\nCost (Private Accommodation):\nPLN 2,000\n\nFood (3 meals a day):\nPLN 500 to 1,000\nTransport (Bus and Network Pass):\nPLN 50\nOthers (Entertainment, clothes):\nPLN 300 to 500\n\nMonthly Estimate:\nPLN 1,225 - 1,935 (CUT dormitory)\nPLN 2,850 - 3,550 (Private Accommodation)"
+}

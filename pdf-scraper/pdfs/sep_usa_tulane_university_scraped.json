@@ -1,0 +1,12 @@
+{
+  "university_name": "Tulane University",
+  "university_website": ["http://www.tulane.edu", "https://registrar.tulane.edu/calendars", "https://advising.tulane.edu/resources/core-curriculum", "https://classschedule.tulane.edu/Search.aspx", "https://catalog.tulane.edu/", "https://housing.tulane.edu/", "https://global.tulane.edu/oiss/students/newly-admitted-students", "https://housing.tulane.edu/off-campus-housing", "https://www.facebook.com/groups/Tulane.Classifieds/", "https://www.facebook.com/groups/400435710128375/", "https://myportal.nus.edu.sg/studentportal/student-insurance/all/", "https://campushealth.tulane.edu/insurance-billing/t-ship", "https://admission.tulane.edu/student-life/safety-security", "https://admission.tulane.edu/tuition-aid/cost"],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "CDE", "SoC"],
+  "module_restrictions": "Exchange students are not allowed to take courses within Tulane's School of Law or School of Business. Students are eligible to take courses for which they meet the prerequisite, assuming the course has seats available. Prerequisites are listed in the catalog and on the course schedule.",
+  "visa_info": "International students who are accepted to a Tulane University exchange programme must obtain a J-1 visa. Upon acceptance, the Center for International Students and Scholars (CISS) will issue each exchange student a visa application form (Form DS-2019). Students must bring the form to the nearest American Embassy/Consulate in their country to obtain a visa.",
+  "accommodations_info": "Exchange Students are to send complete Tulane Exchange Student Application and Housing Application to Center for International Studies. Only complete applications will be forwarded to the Admissions Office. For more information on housing options and costs, please refer to the following links: https://housing.tulane.edu/ and https://global.tulane.edu/oiss/students/newly-admitted-students. Exchange students may also choose to live off-campus. For other further information on off-campus housing, please visit: https://housing.tulane.edu/off-campus-housing",
+  "cost_of_living": "Tuition is waived for exchange students. For estimated monthly living expenses, please refer to the following link: https://admission.tulane.edu/tuition-aid/cost",
+}

@@ -1,0 +1,14 @@
+{
+  "university_name": "University of Southern California",
+  "gpt_university_description": "The University of Southern California (USC) is a prestigious private research university founded in 1880. USC is renowned for its programs in communications, business, cinema, engineering, and the social sciences. Along with an accomplished faculty, it fosters an innovative and entrepreneurial spirit among its students.",
+  "gpt_university_address": "University of Southern California, Los Angeles, CA 90089, United States",
+  "gpt_university_city": "Los Angeles, California",
+  "gpt_nearest_airport": "Los Angeles International Airport (LAX)",
+  "gpt_location_cost_of_living": "Los Angeles has a high cost of living, primarily due to housing costs. While some expenses like transportation and utilities are comparable to the US average, expect to pay more for groceries and healthcare.",
+  "gpt_location_weather": "Los Angeles enjoys a Mediterranean climate with mild, wet winters and warm, sunny, dry summers. The average temperature ranges from 14°C in January to 24°C in August, with little humidity and around 292 sunny days per year.",
+  "gpt_location_description": "Los Angeles, the second-largest city in the US, is a global metropolis known for its vibrant arts, entertainment, and culinary scenes. Known as the 'City of Angels,' it is a hub for creativity, diversity, and innovation, a place where dreams come true and stars are born. The city's mild climate, iconic beaches, and multicultural ambiance make it a popular destination for tourists and locals alike.",
+  "gpt_location_crime": "Los Angeles has a relatively high crime rate compared to the national average. However, the rate varies among neighborhoods with some areas being safer than others. It is important to be aware of your surroundings and follow safety precautions to minimize risks.",
+  "gpt_location_transportation": "Los Angeles offers various public transportation options, including buses, light rail, and subways through the Metro system. However, the city is known for its heavy traffic and vast distances, so it is not uncommon for residents to rely on personal vehicles for convenience and flexibility.",
+  "gpt_location_halal": 3,
+  "gpt_location_vegetarian": 3
+}

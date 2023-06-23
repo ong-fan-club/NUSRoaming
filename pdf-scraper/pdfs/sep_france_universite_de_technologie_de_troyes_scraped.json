@@ -1,0 +1,12 @@
+{
+  "university_name": "Université de Technologie de Troyes (UTT)",
+  "university_website": ["http://www.utt.fr/en/index.html"],
+  "university_country": "France",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC", "JAN"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["Industrial Systems", "Mechanical Systems", "Materials Science and Technology", "Informatics and Information Systems", "Systems, Networks and Telecommunications", "Materials Processes and Manufacture"],
+  "module_restrictions": "All faculties are open for exchange students at the undergraduate and graduate levels if they fulfil the requirements.",
+  "visa_info": "Long-Stay visas are necessary for stays exceeding 3 months. Upon arrival in France, students are required to register with the French Immigration and Integration Office (OFII) for a residence permit. Please visit the websites of French embassies and consulates in your country. All students who wish to study in France must follow the Campus France procedure on Etudes en France online platform before applying for a visa. Students can apply up to 3 months prior to the departure. During the peak period (from April to August), students are invited to apply as soon as they can, to avoid any delays, since it can take up to 2 weeks to get an appointment. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university.",
+  "accommodations_info": "The UTT can book accommodation for students coming from partner universities. The International Relations Office can book your accommodation and welcome you at your arrival (at the airports in Paris for the non-European students or at the train station in Troyes). Accommodation is guaranteed for students if the application is submitted on time.",
+  "cost_of_living": "The estimated monthly living expenses in Troyes are as follows:\n\n- Accommodation: €420\n- Food: €200 - €250\n- Transport: €50 - €100\n- Others (Entertainment, clothes): €100 - €120\n\nMonthly Estimate: €770 - €890"
+}

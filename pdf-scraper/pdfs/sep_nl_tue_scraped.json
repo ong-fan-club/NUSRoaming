@@ -1,0 +1,14 @@
+{
+  "university_name": "Eindhoven University of Technology",
+  "university_website": [
+    "https://www.tue.nl/en/education/become-a-tue-student/exchange-students/"
+  ],
+  "university_country": "Netherlands",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN", "JUL"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)", "College of Design and Engineering (CDE or FoE)", "School of Computing (SoC)", "Faculty of Dentistry (DENT)", "Yong Loo Lin School of Medicine (YLLSOM)"],
+  "module_restrictions": "Only students who are in Year 3 of their study when embarking for SEP can apply. Relevant academic background and specific subject field modules from NUS are required.",
+  "visa_info": "Information about immigration-related issues will be sent by TU/e after acceptance. Additional information can be obtained from the Dutch embassy in Singapore.",
+  "accommodations_info": "Information about student housing is available at: https://www.tue.nl/en/education/become-a-tue-student/housing/",
+  "cost_of_living": "The cost of living and estimated expenses in Eindhoven can be found at: https://www.tue.nl/en/education/become-a-tue-student/tuition-fees-and-other-study-costs/"
+}

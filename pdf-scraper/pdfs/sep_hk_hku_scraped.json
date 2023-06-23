@@ -1,0 +1,12 @@
+{
+  "university_name": "The University of Hong Kong",
+  "university_website": ["https://www.hku.hk/"],
+  "university_country": "Hong Kong, China SAR",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "CDE", "SoC", "LAW"],
+  "module_restrictions": "Courses offered by the Faculty of Dentistry and Li Ka Shing Faculty of Medicine are not open to exchange students. BSc (Exercise and Health) Programme and most Final year project courses provided by all faculties are also excluded. Courses offered by the Faculty of Business and Economics (FBE) are highly competitive and course enrollment is not guaranteed.",
+  "visa_info": "All non-local students are required to obtain a student visa to study in HKSAR. Please complete the online visa application by the deadline and send hard copies of application documents to the designated visa office. Processing the visa application will take at least 10 weeks and the visa application fee is non-refundable. For more information on visa application procedures, please refer to https://www.studentvisa.hku.hk/",
+  "accommodations_info": "On-campus accommodation for exchange students is on a first-come-first-served basis and not guaranteed. Students can apply for accommodation before receiving the Notice of Admission through CEDARS Accommodation Office. Most rooms are double rooms, but limited single rooms are available at St. John's College, Ricci Hall, and HKU Residential Colleges. Some halls have compulsory meal plans, while others do not. For more information, please refer to https://www.cedars.hku.hk/index.php?route=accommodation/accommodation and http://www.cedars.hku.hk/sections/accommodation.php",
+  "cost_of_living": "The estimated monthly living expenses in Hong Kong are as follows:\n\n- Accommodation: HK$2,450 - HK$7,500\n- Food: HK$5,000\n- Transport: HK$300\n- Others (Entertainment, clothes, books, electricity, etc.): HK$1,000 - HK$2,000\n\nThe monthly estimate ranges from HK$8,750 to HK$14,800."
+}

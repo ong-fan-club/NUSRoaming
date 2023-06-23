@@ -1,0 +1,14 @@
+{
+  "university_name": "University of Alaska Fairbanks",
+  "gpt_university_description": "The University of Alaska Fairbanks (UAF) is a public research university and part of the University of Alaska System. Established in 1917, it is known for its strong emphasis on research, particularly in areas such as geophysics, arctic biology, and engineering. UAF offers a wide range of academic programs including undergraduate, graduate, and professional degrees.",
+  "gpt_university_address": "505 S Chandalar Drive, Fairbanks, Alaska 99775, United States",
+  "gpt_university_city": "Fairbanks, Alaska",
+  "gpt_nearest_airport": "Fairbanks International Airport (FAI)",
+  "gpt_location_cost_of_living": "The cost of living in Fairbanks is higher than the national average, primarily due to its remote location and harsh climate. Housing, utility, and transportation costs are among the most expensive factors in the area, while food and healthcare expenses remain relatively similar to other US cities.",
+  "gpt_location_weather": "Fairbanks experiences a subarctic climate, characterized by long, freezing winters with short daylight hours and short, mild summers with long daylight hours. Average winter temperatures range from -20°F to 10°F, while summer temperatures typically vary between 50°F and 70°F.",
+  "gpt_location_description": "Fairbanks, Alaska is a small city with a population of around 32,000 people, located in the heart of Alaska's interior. Known as the 'Golden Heart City,' Fairbanks is famous for its captivating northern lights, pristine wilderness, dog sledding, and gold mining history. Despite its remote location, it offers various cultural, recreational, and social opportunities.",
+  "gpt_location_crime": "Crime rates in Fairbanks are higher than the national average, with property crime being the most common. However, violent crime rates are relatively low, and safety precautions such as awareness of surroundings and securing personal belongings can help minimize risk.",
+  "gpt_location_transportation": "Public transportation options in Fairbanks include the MACS Transit Bus System, which provides service throughout the city and surrounding areas. Additionally, taxis and rideshare services like Uber and Lyft are available. For intercity travel, the Alaska Railroad and various bus services connect Fairbanks to other cities in the state.",
+  "gpt_location_halal": 1,
+  "gpt_location_vegetarian": 2
+}

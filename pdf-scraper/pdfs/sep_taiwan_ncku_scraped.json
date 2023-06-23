@@ -1,0 +1,12 @@
+{
+  "university_name": "National Cheng Kung University",
+  "university_website": ["http://web.ncku.edu.tw/bin/home.php?Lang=en"],
+  "university_country": "Taiwan",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["BIZ", "FASS", "FoE", "FoL", "FoS", "SoC"],
+  "module_restrictions": "Students are allowed to take courses offered by other departments/institutes, in addition to those of their own departments/institutes. They can also take courses of different program years and levels. Undergraduate students may take graduate courses, and vice versa.",
+  "visa_info": "Students whose exchange period is one semester (or less than 180 days) will have to apply for a Visitor Visa while students whose exchange period is more than 180 days will have to apply for a Resident Visa. Chinese, Hong Kong and Macau passport holders will need to apply for a Taiwan Entry Permit.",
+  "accommodations_info": "On-campus accommodation is available to exchange students. After applications are accepted by NCKU, applicants will be prompted by email to sign up for on-campus accommodation online. Please note that space of the on-campus accommodation is not guaranteed, and students will be responsible for their own housing expenses. To have a quick review of NCKU on-campus dormitory designated to exchange students, please take a look at Ching-Yeh 3 Dorm, which offers double rooms to international students.",
+  "cost_of_living": "The estimated monthly living expenses in Taiwan are as follows:\n\n- Accommodation: NTD $3500 - NTD$9000\n- Food and transport: NTD $8000\n- Others (Entertainment, clothes, etc): NTD $10,000\n\nThe monthly estimate for living expenses ranges from NTD$21,500 to NTD$27,000."
+}

@@ -1,0 +1,14 @@
+{
+  "university_name": "Boston University",
+  "gpt_university_description": "Boston University is a private research university located in Boston, Massachusetts, USA. Founded in 1839, the university offers a rich history and a diverse range of academic programs. With over 34,000 students and more than 10,000 faculty and staff, BU is one of the largest private universities in the United States.",
+  "gpt_university_address": "1 Silber Way, Boston, MA 02215, USA",
+  "gpt_university_city": "Boston, Massachusetts",
+  "gpt_nearest_airport": "Boston Logan International Airport (BOS)",
+  "gpt_location_cost_of_living": "Boston is among the more expensive cities in the United States, with a high cost of living index. Housing, transportation, and food expenses can be steep for students living off-campus, but on-campus housing and meal plans are available to reduce costs.",
+  "gpt_location_weather": "Boston experiences a temperate climate with four distinct seasons. Winters can be cold and snowy, while summers are typically warm and humid. Spring and autumn offer milder temperatures and are very popular for outdoor activities.",
+  "gpt_location_description": "Boston is a historic city with a vibrant culture and numerous attractions. The city, known for its abundance of universities, boasts a diverse population and a thriving tech and biotech industry. It is home to rich colonial history, world-class museums, beautiful parks, and numerous sports teams.",
+  "gpt_location_crime": "While Boston has an overall lower crime rate than the national average, it is important to exercise caution and be aware of your surroundings. Crime rates vary by neighborhood and some areas have higher instances of crime.",
+  "gpt_location_transportation": "Boston has a robust public transportation system called the 'MBTA' or 'T' which includes subway lines, bus routes, and commuter rail services. The city is very walkable and bikable, and many residents also rely on rideshare services like Uber and Lyft.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

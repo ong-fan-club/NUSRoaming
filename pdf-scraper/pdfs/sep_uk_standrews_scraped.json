@@ -1,0 +1,18 @@
+{
+  "university_name": "University of St Andrews",
+  "university_website": [
+    "https://www.st-andrews.ac.uk/studyabroad/incomingstudents/",
+    "https://www.st-andrews.ac.uk/semesterdates/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": ["SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["Faculty of Arts", "Faculty of Divinity", "Faculty of Science"],
+  "module_restrictions": [
+    "If you are considering modules at 3000 level or above, you should have significant background knowledge of the subject (usually two years of study at university).",
+    "Postgraduate modules are not open to undergraduate exchange students."
+  ],
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange. [Link](https://www.gov.uk/government/organisations/uk-visas-and-immigration)\n\nFor latest information on border control please see: [Link](https://www.gov.uk/uk-border-control)\n\nStandard Visitor Visa for Semester Exchange\nIf you are a Singapore citizen or a citizen of another country on the UK non-visa nationals list, and if your course of studies is less than 6 months, you will request entry to the UK as a Standard Visitor when you arrive.\n\nSingapore citizens do not normally need to meet with a Border Force agent, and will be able to enter the UK through E-gates. The E-gates will automatically grant you permission to stay in the UK for up to 6 months.\n\nYou will not receive a stamp on your passport thus it is important that you retain evidence of when you entered the UK. Hence, please keep your boarding pass or evidence of your flight itinerary.\n\nPlease refer [here](https://www.st-andrews.ac.uk/study/support/international-students/moving-to-uk/visas/) for more details on the Standard Visitor Visa.\n\nStudent Visa for Full-Year Exchange\nYou need a Student Visa for a full-year exchange in St Andrews.\n\nFor more details on visa application, read the information available [here](https://www.st-andrews.ac.uk/study/support/international-students/moving-to-uk/visas/).\n\nAll students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process. Your exchange at the host university depends on the clearance by the immigration of the host country.\n\nSt Andrew’s information on Visa and Immigration can be found [here](https://www.st-andrews.ac.uk/study/support/international-students/moving-to-uk/visas/). Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "University Accommodation\n\nExchange students who are undergraduates are guaranteed university housing provided you return the housing form by the deadlines. However, preference of room is not guaranteed. For more information, please refer to [this link](https://www.st-andrews.ac.uk/study-abroad/at-st-andrews/applying/accommodation/)",
+  "cost_of_living": "Information on cost of living can be found at [this link](https://www.st-andrews.ac.uk/students/money/internationalstudents/ugcoa/)"
+}

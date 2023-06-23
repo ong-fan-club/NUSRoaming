@@ -1,0 +1,18 @@
+{
+  "university_name": "University of Florida",
+  "university_website": [
+    "http://www.ufl.edu/",
+    "https://one.uf.edu/dashboard/"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": [
+    "FASS",
+    "FoS"
+  ],
+  "module_restrictions": "NUS students would be eligible to register for any classes taught in UFL’s College of Liberal Arts and Sciences for which they meet the course pre-requisites. Individual departments may restrict access to specific courses.",
+  "visa_info": "Once a student is admitted to a non-degree program, the departmental contact in the UF host department must submit a J-1 Non-Degree Student Request through the UFIC ISSS online portal. After the request is submitted, the student will receive an email with instructions for completing their portion of the application. The student must complete all required forms and questionnaires, provide a copy of their valid passport and proof of sufficient funding. If necessary, additional requirements and instructions will be provided in the application, and must be completed.\n\nNOTE: UF host departments may require additional materials as part of the application process for a given non-degree program. To initiate a request, click here: New J-1 Non-Degree Student Request Form\n\nMailing of the Form DS-2019\n\nThe Form DS-2019 will be mailed to the student once their application is processed. It will be sent via express shipping for students outside the U.S., and standard USPS shipping for students inside the U.S. Students outside the U.S. will automatically receive a tracking number once their Form DS-2019 ships. The average shipping time for international shipments is 5-7 business days. Once the student has the acceptance letter and Form DS-2019, they must pay the I-901 SEVIS Fee and schedule an appointment with the U.S. Consulate or Embassy for the visa application. For more information about the Visa Process and U.S. Port of Entry, click here.",
+  "accommodations_info": "On-campus accommodation is available to exchange students at Weaver Hall only. Please note spaces are limited and placement is not guaranteed.",
+  "cost_of_living": "As a Partner School Exchange Student, you do not pay for the cost of your courses ('tuition') since this is waived under the exchange agreement between UF and your home university. This agreement ONLY covers tuition and DOES NOT cover fees for on-campus housing, library fines, labs, computer services, parking tickets, sports courses, leisure courses, etc. You are responsible for paying non-tuition fees in a timely manner. Your final transcript will not be issued until you settle all fees required by UFL. For more information about the cost of attendance at UFL, please refer here and scroll down to the Cost of Attendance section."
+}

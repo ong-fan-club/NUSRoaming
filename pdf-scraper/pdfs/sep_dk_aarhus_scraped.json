@@ -1,0 +1,12 @@
+{
+  "university_name": "AARHUS UNIVERSITY",
+  "university_website": ["https://international.au.dk/education/admissions/exchange/"],
+  "university_country": "DENMARK",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+  "faculties_accepted": ["College of Humanities and Sciences (CHS)", "Faculty of Science (FoS)", "Faculty of Arts and Social Sciences (FASS)", "School of Computing (SoC)", "Yong Siew Toh Conservatory of Music (YSTCM)"],
+  "module_restrictions": "It is important that you have the relevant academic background for the courses that you apply for. You must have taken modules at NUS within the specific subject field to be accepted to any of the departments at Aarhus University. It is important that you choose at least 20 ECTS at one department. More details available at: https://international.au.dk/education/admissions/exchange/admission-to- aarhus-university/preparing-to-apply/academic-prerequisites-restrictions/",
+  "visa_info": "Information about immigration-related issues is available at: https://studerende.au.dk/en/internationalstudents/arriving-in- denmark/residencecertificatepermitandcpr/. Additionally, you can contact the Denmark embassy in Singapore if you have a specific enquiry that the host university is unable to address.",
+  "accommodations_info": "Information about student housing is available at: https://international.au.dk/education/admissions/exchange/admission-to- aarhus-university/preparing-to-apply/consider-housing-options/",
+  "cost_of_living": "Denmark's currency is the krone. Information about the cost of living and estimated expenses in Denmark and Aarhus is available at: https://international.au.dk/education/admissions/exchange/living-in-denmark/."
+}

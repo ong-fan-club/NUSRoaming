@@ -1,0 +1,14 @@
+{
+  "university_name": "University of Glasgow",
+  "gpt_university_description": "The University of Glasgow is a prestigious research-intensive institution founded in 1451. It is one of the oldest and top-ranked universities in the UK and a member of the Russell Group. The university offers a diverse range of undergraduate and postgraduate programs across its four colleges.",
+  "gpt_university_address": "University of Glasgow, University Avenue, Glasgow, G12 8QQ, Scotland",
+  "gpt_university_city": "Glasgow, Scotland",
+  "gpt_nearest_airport": "Glasgow International Airport (GLA)",
+  "gpt_location_cost_of_living": "Glasgow has a relatively affordable cost of living compared to other major UK cities, such as London. Students can expect to find reasonably priced accommodation, food, and transportation options.",
+  "gpt_location_weather": "Glasgow experiences a temperate oceanic climate characterized by mild winters and cool summers. The city receives frequent rainfall throughout the year, with the wettest months usually being October and November.",
+  "gpt_location_description": "Glasgow is a vibrant and welcoming city with a rich cultural heritage, famous for its Victorian architecture, museums and galleries, and lively arts and music scene. It boasts a wide range of parks, shops, restaurants, and sports facilities. Glasgow is known for its friendly locals, making it an enjoyable city for students to reside in.",
+  "gpt_location_crime": "The crime rate in Glasgow varies across the city, but overall, it is generally safe. However, like any large city, students should exercise caution and be vigilant of their surroundings, especially in crowded areas and at night.",
+  "gpt_location_transportation": "Glasgow has an extensive public transportation system consisting of buses, trains, and a subway system known as the Glasgow Subway. The city also has numerous cycling routes, and Glasgow Central and Queen Street stations provide easy access to other cities within the UK.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

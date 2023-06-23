@@ -1,0 +1,32 @@
+{
+  "university_name": "University of Manchester",
+  "university_website": [
+    "https://www.manchester.ac.uk/study/international/study-abroad-programmes/non-eu/"
+  ],
+  "university_country": "United Kingdom",
+  "sem1_months": [
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC",
+    "JAN"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY",
+    "JUN"
+  ],
+  "faculties_accepted": [
+    "Faculty of Humanities",
+    "School of Biological Sciences (within the Faculty of Biology, Medicine and Health)",
+    "Division of Psychology and Mental Health (within the School of Health Sciences)"
+  ],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. University of Manchester is not suitable for Architecture students. Courses in Dentistry, Pharmacy, Medicine, and Midwifery are not available to Study Abroad students.",
+  "visa_info": "For a full-year exchange in Manchester, you need a Student Visa. Singapore citizens can enter the UK as a Standard Visitor for a course of study less than 6 months without meeting with a Border Force agent. Students are advised to apply for the necessary visa immediately after receiving the official offer letter/email from the host university.",
+  "accommodations_info": "Study Abroad/Exchange students who go to Manchester for a year are guaranteed a room in University-owned accommodation. Single semester exchange students are not guaranteed accommodation but are almost always allocated University accommodation. Private accommodation can be more expensive, but Manchester Student Homes can help in finding private accommodation.",
+  "cost_of_living": "The University provides a detailed breakdown of living costs, which can be found at http://www.manchester.ac.uk/study/international/finance/living-costs/.",
+  "notes": "All information is subject to change. Please refer to the provided links for the most up-to-date information."
+}

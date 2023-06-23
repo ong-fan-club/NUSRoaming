@@ -1,0 +1,14 @@
+{
+  "university_name": "Waseda University",
+  "gpt_university_description": "Waseda University, a leading private university in Tokyo, Japan, was founded in 1882 by Shigenobu Okuma. It is known for its strong focus on research, academic excellence, and unique internationalization efforts. The university offers a wide range of undergraduate and graduate programs across various fields such as humanities, social sciences, science, and engineering.",
+  "gpt_university_address": "1 Chome-104 Totsukamachi, Shinjuku City, Tokyo 169-8050, Japan",
+  "gpt_university_city": "Tokyo",
+  "gpt_nearest_airport": "Haneda Airport (HND)",
+  "gpt_location_cost_of_living": "Tokyo is known for its high cost of living, with expensive housing, dining, and transportation. However, there are budget-friendly options available in areas further from the city center.",
+  "gpt_location_weather": "Tokyo experiences a humid subtropical climate with hot summers and mild winters. The city sees a moderate amount of rainfall throughout the year, with a rainy season in June and July. Snowfall is rare.",
+  "gpt_location_description": "Tokyo, the capital city of Japan, is a bustling metropolis known for its vibrant culture, cutting-edge technology, and world-class cuisine. The city offers a unique blend of traditional and modern attractions, from historic temples and gardens to towering skyscrapers and shopping centers.",
+  "gpt_location_crime": "Tokyo is considered a relatively safe city with low crime rates. However, like any large city, it is still important to be cautious and mindful of your surroundings, especially in crowded areas and at night.",
+  "gpt_location_transportation": "Tokyo has an extensive public transportation network, including trains, subways, and buses. The city's train system, particularly the JR Yamanote Line, is an efficient and convenient way to navigate the city. Taxis and bicycles are also common modes of transportation.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

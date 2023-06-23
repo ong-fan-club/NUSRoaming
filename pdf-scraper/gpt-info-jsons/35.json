@@ -1,0 +1,14 @@
+{
+  "university_name": "The Chinese University of Hong Kong",
+  "gpt_university_description": "The Chinese University of Hong Kong (CUHK) is a public research university in Hong Kong, founded in 1963. It is one of the top institutions in Asia and offers a wide range of undergraduate and postgraduate programs across its nine colleges and faculties. The campus is located in the picturesque setting of the New Territories, blending modern architecture with natural landscapes.",
+  "gpt_university_address": "Shatin, N.T., Hong Kong",
+  "gpt_university_city": "Hong Kong",
+  "gpt_nearest_airport": "Hong Kong International Airport",
+  "gpt_location_cost_of_living": "Hong Kong is known for its high cost of living, with expensive housing, transportation, and dining options. However, students can find more affordable options in terms of food and accommodation if they explore local markets and residential neighborhoods.",
+  "gpt_location_weather": "Hong Kong experiences a subtropical climate with hot and humid summers, and cool and mild winters. The city is prone to typhoons, most common from May to November, and occasional heavy rainfall.",
+  "gpt_location_description": "Hong Kong is a vibrant and bustling city, known for its iconic skyline, diverse cultural scene, and thriving business sector. It is a fusion of East and West, offering unique experiences, ranging from traditional customs and street markets to luxury shopping malls and international cuisine.",
+  "gpt_location_crime": "Hong Kong has a low crime rate, making it one of the safest cities in the world. However, it is still advised to be cautious of petty crimes like pickpocketing and to take safety precautions, especially in crowded and touristy areas.",
+  "gpt_location_transportation": "Public transportation in Hong Kong is efficient and extensive, with options like the Mass Transit Railway (MTR), buses, minibuses, trams, and ferries. The Octopus Card, which can be used on all public transport modes, makes traveling convenient and cashless.",
+  "gpt_location_halal": 3,
+  "gpt_location_vegetarian": 3
+}

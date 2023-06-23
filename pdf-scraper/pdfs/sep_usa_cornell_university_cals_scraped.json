@@ -1,0 +1,20 @@
+{
+  "university_name": "Cornell University - College of Agriculture & Life Sciences (CALS)",
+  "university_website": [
+    "http://www.cornell.edu",
+    "https://www.cornell.edu/academics/calendar/",
+    "https://cals.cornell.edu/academics/departments-majors/",
+    "https://classes.cornell.edu/browse/roster/SP20",
+    "http://living.cornell.edu/live/wheretolive/co-ops/index.cfm",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "https://finaid.cornell.edu/cost-attend"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FoS", "FASS", "FoE"],
+  "module_restrictions": "Cornell cannot guarantee enrollment in any course. Course availability cannot be guaranteed and course offerings are always subject to change. Some courses require prerequisites.",
+  "visa_info": "All students are advised to apply for the necessary visa immediately after they receive the official offer letter/email from their host university. Some visa application processes can take up to 2 months to process.",
+  "accommodations_info": "In recent years, Cornell has experienced an increased demand for on-campus housing, and as a result, on-campus housing is not usually available for incoming exchange students. Exchange students should refer to the resources provided by Cornell for housing options, including cooperative housing and off-campus housing. Cornell also has an exchange housing program to assist students in finding suitable accommodations.",
+  "cost_of_living": "The estimated monthly living expenses can be found on Cornell's financial aid website. Tuition fees are waived for exchange students."
+}

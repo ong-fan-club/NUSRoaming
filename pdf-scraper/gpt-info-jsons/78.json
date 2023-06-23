@@ -1,0 +1,14 @@
+{
+  "university_name": "University of Copenhagen",
+  "gpt_university_description": "The University of Copenhagen was founded in 1479, making it the oldest university and research institution in Denmark. It is consistently ranked among the leading universities in the world, offering a variety of degree programs covering humanities, health and medical sciences, natural sciences, and social sciences.",
+  "gpt_university_address": "Nørregade 10, 1165 København, Denmark",
+  "gpt_university_city": "Copenhagen, Denmark",
+  "gpt_nearest_airport": "Copenhagen Airport, Kastrup (CPH)",
+  "gpt_location_cost_of_living": "Copenhagen has a relatively high cost of living, with above average costs for housing, transportation, and food compared to other European cities. However, student discounts are available for many services and attractions.",
+  "gpt_location_weather": "Copenhagen has an oceanic climate that is characterized by mild temperatures and frequent rainfall throughout the year. Summers are relatively cool, with average high temperatures around 20°C (68°F), while winters are cold with average low temperatures around 0°C (32°F).",
+  "gpt_location_description": "Copenhagen, the capital city of Denmark, is a vibrant and cosmopolitan urban center known for its historic architecture, picturesque canals, lush parks, and rich cultural scene. The city offers a safe and welcoming environment for students, with a high quality of life and excellent public services.",
+  "gpt_location_crime": "Copenhagen is considered a safe city with a low crime rate. Petty crimes, such as pickpocketing and bike thefts, are the most common types of crime. Violent crime is relatively rare, but it is advised to exercise normal precautions when exploring the city.",
+  "gpt_location_transportation": "Copenhagen boasts a well-developed public transportation system that includes buses, trains, and a metro system. The city is also famous for its widespread use of bicycles, with many dedicated cycling lanes available. Public transportation and cycling are reliable, affordable, and efficient ways to get around the city.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

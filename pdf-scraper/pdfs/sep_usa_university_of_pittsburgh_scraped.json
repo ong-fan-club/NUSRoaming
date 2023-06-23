@@ -1,0 +1,15 @@
+{
+  "university_name": "University of Pittsburgh",
+  "university_website": [
+    "http://www.pitt.edu/",
+    "http://internationalexchanges.pitt.edu/"
+  ],
+  "university_country": "USA",
+  "sem1_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "sem2_months": ["JAN", "FEB", "MAR", "APR", "MAY"],
+  "faculties_accepted": ["FASS", "FoS", "FoE", "SoC"],
+  "module_restrictions": "Exchange students may select any of the courses offered within the college that they are admitted into, granted there is availability and that they meet the prerequisites.",
+  "visa_info": "After admitted students commit to studying at Pitt as either an international exchange or guest student from the Study Abroad Office, students will receive information from the Office of International Services (OIS) regarding the overall visa application process. As non-degree-seeking, international students, exchange or guest, will typically receive a J-1 visa status for the duration of study. OIS will then direct you to initiate the overall visa process through their online portal myOIS.pitt.edu. Visit the J-1 Visa Exchange Visitor Program website for general information as well as a list of required documents for the application.",
+  "accommodations_info": "On-campus housing is NOT guaranteed for exchange students. For those living off-campus, students exchanging for one semester should sublet or find a roommate who may be searching for someone to fill a vacancy as most apartment leases are for a full-year.",
+  "cost_of_living": "The estimated monthly expenses for living in Pittsburgh can be found at http://internationalexchanges.pitt.edu/costs. Please note that the cost of living may vary and it is recommended to refer to the provided link for the most up-to-date information."
+}

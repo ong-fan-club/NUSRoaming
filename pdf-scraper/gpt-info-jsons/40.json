@@ -1,0 +1,14 @@
+{
+  "university_name": "The University of Texas at Austin",
+  "gpt_university_description": "The University of Texas at Austin, founded in 1883, is a public research university located in Austin, Texas. It is one of the largest universities in the United States and a member of the prestigious Association of American Universities. The university offers a wide range of undergraduate and graduate programs, known for its strong engineering, business, and liberal arts programs.",
+  "gpt_university_address": "110 Inner Campus Dr, Austin, TX 78705, United States",
+  "gpt_university_city": "Austin, Texas",
+  "gpt_nearest_airport": "Austin-Bergstrom International Airport",
+  "gpt_location_cost_of_living": "The cost of living in Austin is higher than the national average, with housing costs being the most significant factor. However, it is still more affordable than many other major cities in the United States.",
+  "gpt_location_weather": "Austin experiences a humid subtropical climate, characterized by hot summers and mild winters. The city receives moderate rainfall throughout the year, with the wettest months being May and October.",
+  "gpt_location_description": "Austin, the capital of Texas, is known for its vibrant music scene, rich cultural history, and beautiful parks. The city offers a diverse range of activities and attractions, from the Texas State Capitol to the annual South by Southwest festival. Austin's thriving tech industry and renowned university make it an ideal destination for students and professionals alike.",
+  "gpt_location_crime": "Crime rates in Austin are relatively low compared to other large cities in the United States. It is considered to be safer than many metropolitan areas, with most crimes being property-related.",
+  "gpt_location_transportation": "Public transportation in Austin is provided primarily by buses operated by Capital Metro. The city also has a limited light rail system called MetroRail. Rideshare services like Uber and Lyft, as well as bike and scooter rental options, are also widely available.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}

@@ -1,0 +1,22 @@
+{
+  "university_name": "Tokyo Institute of Technology",
+  "university_website": [
+    "http://www.titech.ac.jp/english/",
+    "https://www.titech.ac.jp/english/enrolled/life/schedules/",
+    "https://www.titech.ac.jp/english/graduate_school/international/exchange/ysep.html",
+    "http://www2.gakumu.titech.ac.jp/ysep/",
+    "http://www.titech.ac.jp/english/graduate_school/international/exchange/acap.html"
+  ],
+  "university_country": "Tokyo, Japan",
+  "sem1_months": ["APR", "MAY", "JUN", "JUL", "AUG"],
+  "sem2_months": ["OCT", "NOV", "DEC", "JAN", "FEB"],
+  "faculties_accepted": [
+    "School of Science",
+    "School of Engineering",
+    "School of Bioscience and Biotechnology"
+  ],
+  "module_restrictions": "Graduate courses are offered to senior year undergraduate students who have completed at least two and a half years of study at their undergraduate study.",
+  "visa_info": "Upon acceptance, Tokyo Tech will apply for a Certificate of Eligibility on your behalf with the Japanese Ministry of Justice, and send it to you when issued. The certificate is required for you to apply for a study visa. Exchange students must obtain a “College Student” visa for the duration of their study in Japan. Please visit the Japan Embassy website for the required supporting documents for your visa application. All students are advised to apply for the necessary visa immediately after they received the official offer letter/email from their host university. This is to ensure that you can obtain your visa in time before the start of your exchange term. Your exchange at the host university depends on the clearance by the immigration of the host country.",
+  "accommodations_info": "Accommodation options for YSEP students: - Shofu Ryugakusei Kaikan (about 15 minutes’ walk from Aobadai station in Kanagawa prefecture) - Umegaoka Ryugakusei Kaikan (about 20 minutes’ walk from Fujigaoka station in Kanagawa prefecture) - Students will be assigned twin rooms with other YSEP students - Accommodation is not guarantee due to limited dormitory rooms - Successful applicants will be provided with information on housing about one or one and a half month before enrolment. Tokyo Tech will try to arrange a dormitory for ACAP students, subject to availability as the dormitory is limited.",
+  "cost_of_living": "The estimated monthly living expenses include: - Accommodation: JP¥20,000 - JP¥45,000 - Food: JP¥30,000 - JP¥60,000 - Transport: JP¥8,000 - JP¥20,000 - Insurance: JP¥2,000 - JP¥3,000 - Others (Entertainment, clothes): JP¥25,000. The monthly estimate ranges from JP¥85,000 to JP¥153,000."
+}

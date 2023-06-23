@@ -1,0 +1,44 @@
+{
+  "university_name": "City University of Hong Kong",
+  "university_website": [
+    "http://www.cityu.edu.hk/",
+    "http://www6.cityu.edu.hk/arro/ac_calendar.asp",
+    "http://www.cityu.edu.hk/cityu/depts/facultynschool.htm",
+    "http://www.cityu.edu.hk/sro/htm/e_off-campus.htm",
+    "http://www.immd.gov.hk",
+    "http://www.cityu.edu.hk/geo",
+    "http://www.cityu.edu.hk/gso/ies_stdvisa.htm",
+    "http://www.cityu.edu.hk/geo/ies_healthninsur.htm",
+    "http://www.nus.edu.sg/uhc/general-health/billing-insurance/insurance-matters",
+    "https://myportal.nus.edu.sg/studentportal/student-insurance/all/",
+    "http://www.cityu.edu.hk/geo/ies_costlivenfin.htm",
+    "http://www.cityu.edu.hk/geo/",
+    "https://www.admo.cityu.edu.hk/exchange_visiting/exchange/info/"
+  ],
+  "university_country": "Hong Kong, China SAR",
+  "sem1_months": [
+    "AUG",
+    "SEP",
+    "OCT",
+    "NOV",
+    "DEC"
+  ],
+  "sem2_months": [
+    "JAN",
+    "FEB",
+    "MAR",
+    "APR",
+    "MAY"
+  ],
+  "faculties_accepted": [
+    "BIZ",
+    "FASS",
+    "FoE",
+    "FoS",
+    "SoC"
+  ],
+  "module_restrictions": "Some courses with capacity limit do not accept exchange students. For prerequisite required courses, students must have taken courses considered equivalent to the prerequisite. Exchange students are normally allowed to take courses at undergraduate level only (course level: B1-B4) unless approved otherwise.",
+  "visa_info": "Details and procedures can be found at http://www.immd.gov.hk and http://www.cityu.edu.hk/geo. Students are encouraged to apply for student visa to Hong Kong via CityU. CityU may act as the local sponsor of exchange students who are accepted for admission and meet Hong Kong visa application requirements. Completed application form and other necessary documents should be sent to the Global Services Office, Rm 3210, 3/F, Cheng Yick-chi Building, City University of Hong Kong, Tat Chee Avenue, Kowloon, Hong Kong SAR at least 6-8 weeks before the semester starts. An Administrative Fee for Student Visa/Entry Permit Application at HK$600 will be charged. The fee is non-refundable and non-transferable. As the student visa/entry permit application processing may take 8 weeks or even longer, students should file their application by the following deadline: Semester A (September Intake): 1st June, Semester B (January Intake): 1st November *Students are encouraged to file their student visa/entry permit application first even if they have not yet received the letter of acceptance.",
+  "accommodations_info": "Exchange students may apply for accommodation at Student Residence but it is NOT guaranteed due to limited spaces. Allocation of accommodation will be made by a random ballot. Students should file their accommodation application before the deadline. Exchange students may choose to stay in commercially operated accommodation recommended by CityU, or rent your own flat on the market. Students will be invited to join a Facebook group with guidance on searching off-campus housing in Hong Kong and to find suitable flatmates to share a flat in the city. The rental for off-campus accommodations varies, depending on the size, location, age of the building, etc.",
+  "cost_of_living": "Estimated Monthly Living Expenses: \n- Off-campus Accommodation: HK$5,625 – HK$6,875\n- Food: HK$3,000\n- Transport: HK$300\n- Others (Entertainment, clothes, books, electricity etc): HK$1,200\nMonthly Estimate: HK$10,125 – HK$11,375"
+}

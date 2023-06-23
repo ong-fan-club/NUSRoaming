@@ -1,0 +1,12 @@
+{
+  "university_name": "The University of Warwick",
+  "university_website": ["https://warwick.ac.uk/study/studyabroad/"],
+  "university_country": "United Kingdom",
+  "sem1_months": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN"],
+  "sem2_months": ["AUG", "SEP", "OCT", "NOV", "DEC"],
+  "faculties_accepted": ["CHS", "FoS", "FASS", "BIZ", "SoC", "DENT", "CDE", "YLLSOM", "LAW", "School of Nursing", "YSTCM"],
+  "module_restrictions": "Postgraduate modules are not open to undergraduate exchange students. Modules from Warwick Business School and Warwick School of Law are also not available to NUS students with no matching major.",
+  "visa_info": "UK Visa and Immigration updates their immigration policy regularly. It is the student’s responsibility to check on the requirements via their website before they leave for the exchange. Standard Visitor Visa for Semester Exchange: Singapore citizens or citizens of another country on the UK non-visa nationals list requesting entry for less than 6 months will enter as a Standard Visitor when they arrive. Student Visa for Full-Year Exchange: A student visa is required for a full-year exchange at Warwick.",
+  "accommodations_info": "Warwick accommodation is subject to availability of rooms. Exchange students are encouraged to live on campus, but there are options available for off-campus housing.",
+  "cost_of_living": "The University of Warwick provides an estimate of monthly living expenses. For detailed information, please visit their website: [https://warwick.ac.uk/study/international/admissions/finance/livingcosts]."
+}

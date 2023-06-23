@@ -1,0 +1,14 @@
+{
+  "university_name": "McGill University",
+  "gpt_university_description": "McGill University is a public research university in Montreal, Quebec, Canada. Founded in 1821, it is one of Canada's top universities and is known for its cutting-edge research, excellent academics, and diverse student body.",
+  "gpt_university_address": "845 Sherbrooke St W, Montreal, QC H3A 0G4, Canada",
+  "gpt_university_city": "Montreal, Quebec",
+  "gpt_nearest_airport": "Montreal-Pierre Elliott Trudeau International Airport (YUL)",
+  "gpt_location_cost_of_living": "The cost of living in Montreal is relatively affordable compared to other major Canadian cities. Students can expect to pay for housing, food, transportation, and other living expenses within a reasonable budget.",
+  "gpt_location_weather": "Montreal has a humid continental climate with warm, humid summers and cold, snowy winters. Average temperatures range from -10°C in January to 27°C in July.",
+  "gpt_location_description": "Montreal is a vibrant, culturally diverse city known for its arts, music, and culinary scenes. As the largest city in Quebec, it offers a unique blend of European charm and modern city life.",
+  "gpt_location_crime": "Montreal has a relatively low crime rate, particularly when compared to other major North American cities. However, it is always advised to take necessary safety precautions and remain aware of your surroundings.",
+  "gpt_location_transportation": "Public transportation in Montreal consists of an extensive bus and subway system operated by the Société de transport de Montréal (STM). Bixi, a popular bike-sharing service, is also available throughout the city.",
+  "gpt_location_halal": 2,
+  "gpt_location_vegetarian": 3
+}
