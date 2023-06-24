@@ -1,4 +1,5 @@
 import duckdb
+
 # import pandas as pd
 import uvicorn
 from fastapi import FastAPI
