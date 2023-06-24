@@ -23,7 +23,7 @@ function UniCard(uni: University) {
 
 export default async function Page({ params }: PageProps) {
   const country = decodeURI(params.slug);
-  const url = `http://localhost:8000/query?query=SELECT university_name FROM partner_unis WHERE university_country = '${country}'`;
+  const url = `http://localhost:8000/partner_unis/country/${country}`;
   const universities: University[] = await (await fetch(url)).json();
 
   return (

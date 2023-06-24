@@ -17,7 +17,7 @@ function UniCard(uni: string) {
 }
 
 export default async function Page() {
-  const url = `http://localhost:8000/query?query=SELECT LIST(university_name ORDER BY 1) as university_names, university_name[:1] as first_letter FROM partner_unis GROUP BY 2 ORDER BY 2`;
+  const url = `http://localhost:8000/partner_unis/group_by_first_letter`;
   const universities: Data[] = await (await fetch(url)).json();
   console.log(universities);
 

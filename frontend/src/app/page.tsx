@@ -32,29 +32,29 @@ interface CountryItemProps {
 
 function CountryItem(props: CountryItemProps) {
   return (
-    <Link href={ '/countries/' + props.slug }>
-      <div className='text-2xl p-5'>
-        { props.name }
-      </div>
+    <Link href={"/countries/" + props.slug}>
+      <div className="text-2xl p-5">{props.name}</div>
     </Link>
-  )
+  );
 }
 
 async function CountryList() {
-  
   // TODO: Make an APIService and do this properly with state management
-  
+
   interface University {
     university_country: string;
   }
-  
-  const popular: string[] = (await (await fetch('http://localhost:8000/query?query=select university_country from (select university_country, count(*) as count from partner_unis group by university_country order by count desc limit 10)')).json()).map((university: University) => university.university_country)
+
+  const popular: string[] = (
+    await (await fetch("http://localhost:8000/get_popular_countries")).json()
+  ).map((university: University) => university.university_country);
 
   return (
-    <div className='w-full my-20 flex flex-row justify-center'>
-      <div className='max-w-5xl flex flex-col'>
-        <div className='text-2xl ml-5 mb-10'>Popular Destinations
-          <Image 
+    <div className="w-full my-20 flex flex-row justify-center">
+      <div className="max-w-5xl flex flex-col">
+        <div className="text-2xl ml-5 mb-10">
+          Popular Destinations
+          <Image
             src="/airplane-landing.svg"
             alt="Airplane landing"
             width={0}

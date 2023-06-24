@@ -12,9 +12,11 @@ function CountryCard(country: string) {
 }
 
 export default async function Page() {
-  const url = `http://localhost:8000/query?query=SELECT DISTINCT university_country FROM partner_unis`;
-  const countries: string[] = (await (await fetch(url)).json()).map((x: {university_country: string}) => x.university_country);
-  console.log(countries)
+  const url = `http://localhost:8000/get_all_countries`;
+  const countries: string[] = (await (await fetch(url)).json()).map(
+    (x: { university_country: string }) => x.university_country
+  );
+  console.log(countries);
 
   return (
     <main className="flex flex-col items-center pt-12 w-full max-w-5xl mx-auto">
