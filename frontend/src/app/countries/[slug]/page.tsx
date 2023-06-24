@@ -11,11 +11,13 @@ interface University {
 }
 
 function UniCard(uni: University) {
-  const href = `/schools/${uni.university_name}`
+  const href = `/schools/${uni.university_name}`;
   return (
     <Link href={href}>
       <div className="h-24 px-12 shadow rounded-lg flex flex-col justify-center items-center bg-gray-700">
-        <div className="text-white font-semibold text-lg">{uni.university_name}</div>
+        <div className="text-white font-semibold text-lg">
+          {uni.university_name}
+        </div>
       </div>
     </Link>
   );

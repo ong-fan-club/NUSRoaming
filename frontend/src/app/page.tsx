@@ -1,11 +1,11 @@
-import Image from 'next/image'
-import Link from 'next/link';
+import Image from "next/image";
+import Link from "next/link";
 
 function Header() {
   return (
-    <div className='flex flex-col max-w-md'>
-      <div className='flex flex-row items-center'>
-        <Image 
+    <div className="flex flex-col max-w-md">
+      <div className="flex flex-row items-center">
+        <Image
           src="/guy.svg"
           alt="Emoji man with suitcase"
           width={0}
@@ -13,16 +13,16 @@ function Header() {
           sizes="100vw"
           className="w-72 h-auto"
         />
-        <div className='text-3xl font-medium w-80 m-8 ml-2'>
+        <div className="text-3xl font-medium w-80 m-8 ml-2">
           The world is your classroom.
         </div>
       </div>
-      <div className='text-lg text-right'>
-        Everything you need to know about NUS Student Exchange at your fingertips
+      <div className="text-lg text-right">
+        Everything you need to know about NUS Student Exchange at your
+        fingertips
       </div>
-
     </div>
-  )
+  );
 }
 
 interface CountryItemProps {
@@ -63,12 +63,14 @@ async function CountryList() {
             className="ml-4 h-12 w-auto inline-block"
           />
         </div>
-        <div className='flex flex-row flex-wrap'>
-          { popular.map(x => <CountryItem slug={x} name={x} />) }
+        <div className="flex flex-row flex-wrap">
+          {popular.map((x) => (
+            <CountryItem slug={x} name={x} />
+          ))}
         </div>
       </div>
     </div>
-  )
+  );
 }
 
 export default function Home() {
@@ -77,5 +79,5 @@ export default function Home() {
       <Header />
       <CountryList />
     </main>
-  )
+  );
 }

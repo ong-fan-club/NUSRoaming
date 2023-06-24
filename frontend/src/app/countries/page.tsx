@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 function CountryCard(country: string) {
-  const href = `/countries/${country}`
+  const href = `/countries/${country}`;
   return (
     <Link href={href}>
       <div className="h-24 px-12 shadow rounded-lg flex flex-col justify-center items-center bg-gray-700">

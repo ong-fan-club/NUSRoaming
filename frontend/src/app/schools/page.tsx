@@ -28,18 +28,20 @@ export default async function Page() {
         Schools starting with
         <br />
         {universities.map((group: Data) => (
-          <a href={"#schools-"+group.first_letter} className="inline mr-2">
-            { group.first_letter }
+          <a href={"#schools-" + group.first_letter} className="inline mr-2">
+            {group.first_letter}
           </a>
         ))}
       </div>
       {universities.map((group: Data) => (
         <div className="w-full">
-          <a href={"#schools-"+group.first_letter}>
-            <div className="mt-8 text-xl" id={"schools-"+group.first_letter}>{ group.first_letter }</div>
+          <a href={"#schools-" + group.first_letter}>
+            <div className="mt-8 text-xl" id={"schools-" + group.first_letter}>
+              {group.first_letter}
+            </div>
           </a>
           <div className="mt-6 flex flex-row flex-wrap w-full gap-x-4 gap-y-12 justify-start">
-            { group.university_names.map((uni: string) => UniCard(uni)) }
+            {group.university_names.map((uni: string) => UniCard(uni))}
           </div>
         </div>
       ))}
