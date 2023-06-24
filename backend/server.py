@@ -5,10 +5,6 @@ import uvicorn
 
 app = FastAPI()
 
-# Assume Parquet file is in the same directory
-parquet_file = 'mappings.parquet'
-# df = pd.read_parquet(parquet_file)
-
 conn = duckdb.connect(database=':memory:', read_only=False)
 
 conn.execute("""
@@ -24,7 +20,8 @@ create table mappings
 """)
 
 conn.execute("""
-create table partner_unis as select * from 'combined.json';
+create table partner_unis as 
+    (select * from 'combined.json' as t1 join 'gpt-info-combined.json' as t2 on t1.university_name=t2.university_name);
 """)
 
 print(conn.execute("select * from partner_unis;").fetch_df().to_dict())
