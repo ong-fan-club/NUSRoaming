@@ -4,7 +4,7 @@
   "university_country": "France",
   "sem1_months": ["September", "October", "November", "December", "January"],
   "sem2_months": ["February", "March", "April", "May", "June"],
-  "faculties_accepted": ["Mathematics and systems", "Energy and process engineering", "Mechanical engineering and materials", "Earth sciences and environment", "Economics, management and society"], 
+  "faculties_accepted": ["Mathematics and systems", "Energy and process engineering", "Mechanical engineering and materials", "Earth sciences and environment", "Economics, management and society"],
   "module_restrictions": ["Students must have completed at least 5 semesters of undergraduate studies before participating in exchange programme at MINES ParisTech.", "Not all the courses are open to visiting students due to limited number of places."],
   "visa_info": ["Long-Stay visas are necessary for stays exceeding 3 months.", "Upon arrival in France, students are required to register with the French Immigration and Integration Office (OFII) for a residence permit. Students must follow the Campus France procedure on Etudes en France online platform before applying for a visa."],
   "accommodations_info": ["Accommodation offered to visiting students, if available, will be at either MINES ParisTech residences - Maison des Mines or Cité Internationale Universitaire de Paris (CIUP)."],

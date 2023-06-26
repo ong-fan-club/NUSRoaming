@@ -10,8 +10,8 @@ conn = duckdb.connect(database=":memory:", read_only=False)
 
 conn.execute(
     """
-create table mappings 
-    as select 
+create table mappings
+    as select
         \"A\" as faculty,
         \"B\" as partner_uni,
         \"C\" as partner_course_code,
@@ -24,7 +24,7 @@ create table mappings
 
 conn.execute(
     """
-create table partner_unis as 
+create table partner_unis as
     (select * from 'combined.json' as t1 join 'gpt-info-combined.json' as t2 on t1.university_name=t2.university_name);
 """
 )

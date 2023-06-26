@@ -61,12 +61,12 @@
     "monthly_estimate": "€850"
   },
   "university_description": "CentraleSupélec is a public institution in France that specializes in science and engineering. It was established on January 1st, 2015, through the merger of Ecole Centrale Paris and Supélec.",
-  "university_address": null, 
-  "location_cost_of_living": null, 
-  "location_weather": null, 
-  "location_description": null, 
+  "university_address": null,
+  "location_cost_of_living": null,
+  "location_weather": null,
+  "location_description": null,
   "location_crime": null,
-  "location_transportation": null, 
+  "location_transportation": null,
   "location_halal": null,
   "location_vegetarian": null
 }

@@ -1,10 +1,10 @@
-import fitz
-import os
 import glob
 import os
+import re
+
+import fitz
 import openai
 import ujson
-import re
 
 # load openai api key from env
 openai.api_key = os.environ.get("OPENAI_API_KEY")
@@ -27,7 +27,7 @@ I have text extracted from a pdf about a partner university for an exchange prog
 THE PDF-SCRAPED TEXT STARTS NOW:
 """
 
-"""    
+"""
 SECOND PART: Using any information you have from the internet or prior knowledge, tell me information about the university that map with these keys:
 - gpt_university_description (text describing the university)
 - gpt_university_address (the address of the university)
@@ -45,31 +45,28 @@ Remember to ensure that the final JSON output has all the keys in both the FIRST
 """
 
 
-directory = './pdfs'
-file_extension = '*.pdf'
+directory = "./pdfs"
+file_extension = "*.pdf"
 search_pattern = os.path.join(directory, file_extension)
 
 ctr = 50
 s = set()
 for filepath in glob.glob(search_pattern):
-    if filepath[:-4]+'_scraped.txt' in  glob.glob("./pdfs/*.txt"):
+    if filepath[:-4] + "_scraped.txt" in glob.glob("./pdfs/*.txt"):
         continue
     with fitz.open(filepath) as doc:  # open document
         text = chr(12).join([page.get_text() for page in doc])
-        text = re.sub(r'\n+', '\n', text)
-    
+        text = re.sub(r"\n+", "\n", text)
+
     print(filepath)
     response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo-16k",
-        messages=[
-            {"role":"user", "content": prompt+text}
-        ]
+        model="gpt-3.5-turbo-16k", messages=[{"role": "user", "content": prompt + text}]
     )
     print(response)
     res = response.choices[0].message.content
     print(res)
     # save res to a text file
-    with open(filepath[:-4]+'_scraped.txt', 'w') as f:
+    with open(filepath[:-4] + "_scraped.txt", "w") as f:
         f.write(res)
     s.add(filepath)
     # break

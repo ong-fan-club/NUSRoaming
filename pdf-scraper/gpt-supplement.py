@@ -1,10 +1,10 @@
-import fitz
-import os
 import glob
 import os
+import re
+
+import fitz
 import openai
 import ujson
-import re
 
 old = """University of Hohenheim (Hohenheim)
 King's College London
@@ -220,17 +220,14 @@ s = set()
 for uni in unis.split("\n"):
     print(uni)
     response = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages=[
-            {"role":"user", "content": prompt+uni}
-        ]
+        model="gpt-4", messages=[{"role": "user", "content": prompt + uni}]
     )
     print(response)
     res = response.choices[0].message.content
     print(res)
     # save res to a text file
-    with open(f'{ctr}.txt', 'w') as f:
+    with open(f"{ctr}.txt", "w") as f:
         f.write(res)
-    ctr+=1
+    ctr += 1
     # break
 print(s)
