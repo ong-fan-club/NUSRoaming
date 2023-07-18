@@ -4,3 +4,4 @@ starlette_graphene3
 uvicorn
 duckdb
 pandas
+httpx

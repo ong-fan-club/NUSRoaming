@@ -19,10 +19,9 @@ function UniCard(uni: string) {
 export default async function Page() {
   const url = `http://localhost:8000/partner_unis/group_by_first_letter`;
   const universities: Data[] = await (await fetch(url)).json();
-  console.log(universities);
 
   return (
-    <main className="flex flex-col items-center pt-12 w-full max-w-5xl mx-auto">
+    <main className="flex flex-col items-center pt-12 w-full max-w-5xl mx-auto px-6">
       <h2 className="text-2xl w-full">All Schools</h2>
       <div className="text-xl w-full mt-6">
         Schools starting with
