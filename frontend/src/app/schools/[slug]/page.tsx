@@ -31,10 +31,9 @@ export default async function Page({ params }: PageProps) {
   const schoolName = decodeURI(params.slug);
   const url = `http://localhost:8000/partner_unis/partner_uni/${schoolName}`;
   const [school]: SchoolInfo[] = await (await fetch(url)).json();
-  console.log(school);
 
   return (
-    <main className="flex flex-col items-start mb-10 w-full max-w-5xl mx-auto">
+    <main className="flex flex-col items-start mb-10 w-full max-w-5xl mx-auto px-6">
       <div id="info" className="py-10">
         <h2 className="text-2xl">
           <b>
@@ -52,14 +51,14 @@ export default async function Page({ params }: PageProps) {
             <h3>Suitable for Faculties:</h3>
           )}
 
-          <ul>
+          <ul className="list-disc list-inside">
             {school.faculties_accepted.map((f) => (
               <li>{f}</li>
             ))}{" "}
           </ul>
           <div className="mt-6">
             <h3>Find out more:</h3>
-            <ul>
+            <ul className="list-disc list-inside">
               {school.university_website.map((l) => (
                 <li>
                   <Link className="text-blue-700" href="l">
