@@ -16,7 +16,6 @@ export default async function Page() {
   const countries: string[] = (await (await fetch(url)).json()).map(
     (x: { university_country: string }) => x.university_country
   );
-  console.log(countries);
 
   return (
     <main className="flex flex-col items-center pt-12 w-full max-w-5xl mx-auto">

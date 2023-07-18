@@ -1,6 +1,5 @@
-import { link } from "fs";
-import { unique } from "next/dist/build/utils";
 import Link from "next/link";
+import DisqusComments from "@/components/DisqusComments";
 
 interface PageProps {
   params: {
@@ -35,67 +34,73 @@ export default async function Page({ params }: PageProps) {
   console.log(school);
 
   return (
-    <main className="flex flex-col items-start pt-12 w-full max-w-5xl mx-auto">
-      <h2 className="text-2xl">
-        <b>
-          {school.university_name}&nbsp;|&nbsp;
-          <Link href={`/countries/${school.university_country}`}>
-            {school.university_country}
-          </Link>
-        </b>
-      </h2>
-      <div>
-        {school.gpt_university_description}
-        <br />
-        <br />
-        {school.faculties_accepted.length > 0 && (
-          <h3>Suitable for Faculties:</h3>
-        )}
+    <main className="flex flex-col items-start mb-10 w-full max-w-5xl mx-auto">
+      <div id="info" className="py-10">
+        <h2 className="text-2xl">
+          <b>
+            {school.university_name}&nbsp;|&nbsp;
+            <Link href={`/countries/${school.university_country}`}>
+              {school.university_country}
+            </Link>
+          </b>
+        </h2>
+        <div>
+          {school.gpt_university_description}
+          <br />
+          <br />
+          {school.faculties_accepted.length > 0 && (
+            <h3>Suitable for Faculties:</h3>
+          )}
 
-        <ul>
-          {school.faculties_accepted.map((f) => (
-            <li>{f}</li>
-          ))}{" "}
-        </ul>
-        <div className="mt-6">
-          <h3>Find out more:</h3>
           <ul>
-            {school.university_website.map((l) => (
-              <li>
-                <Link className="text-blue-700" href="l">
-                  {l}
-                </Link>
-              </li>
-            ))}
+            {school.faculties_accepted.map((f) => (
+              <li>{f}</li>
+            ))}{" "}
+          </ul>
+          <div className="mt-6">
+            <h3>Find out more:</h3>
+            <ul>
+              {school.university_website.map((l) => (
+                <li>
+                  <Link className="text-blue-700" href="l">
+                    {l}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+
+        <div className="mt-6">
+          <h2 className="text-2xl">
+            Fast facts about <b>{school.gpt_university_city}</b>:
+          </h2>
+          <br />
+          <ul>
+            <li>{school.gpt_location_description}</li>
+            <br />
+            <li>
+              <b>Safety: </b>
+              {school.gpt_location_crime}
+            </li>
+            <li>
+              <b>Cost of Living: </b>
+              {school.gpt_location_cost_of_living}
+            </li>
+            <li>
+              <b>Weather: </b>
+              {school.gpt_location_weather}
+            </li>
+            <li>
+              <b>Transportation: </b>
+              {school.gpt_location_transportation}
+            </li>
           </ul>
         </div>
       </div>
-
-      <div className="mt-6">
-        <h2 className="text-2xl">
-          Fast facts about <b>{school.gpt_university_city}</b>:
-        </h2>
-        <br />
-        <ul>
-          <li>{school.gpt_location_description}</li>
-          <br />
-          <li>
-            <b>Safety: </b>
-            {school.gpt_location_crime}
-          </li>
-          <li>
-            <b>Cost of Living: </b>
-            {school.gpt_location_cost_of_living}
-          </li>
-          <li>
-            <b>Weather: </b>
-            {school.gpt_location_weather}
-          </li>
-          <li>
-            <b>Transportation: </b>
-            {school.gpt_location_transportation}
-          </li>
-        </ul>
+      <div id="comments" className="w-full">
+        <div className="text-2xl my-6 font-semibold">Discussion</div>
+        <DisqusComments id={schoolName} slug={params.slug} title={schoolName} />
       </div>
     </main>
   );
