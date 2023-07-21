@@ -13,6 +13,20 @@ def test_root():
     assert response.json() == {"message": "Hello World"}
 
 
+def test_search():
+    response = client.get("/search?query=Kyoto")
+    assert response.status_code == 200
+    # assert length of response is non-zero
+    assert len(response.json()) > 0
+    # assert PDF-extracted fields are present
+    assert "university_name" in response.json()[0]
+    assert "university_website" in response.json()[0]
+    assert "university_country" in response.json()[0]
+    # assert GPT-extracted fields are present
+    assert "gpt_university_description" in response.json()[0]
+    assert "gpt_university_address" in response.json()[0]
+
+
 def test_query():
     response = client.get("/query?query=select 123")
     assert response.status_code == 200
