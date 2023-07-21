@@ -52,6 +52,20 @@ async def run_arbitrary_query_dev_only(query: str):
         return {"error": str(e)}
 
 
+# search for uni
+@app.get("/search/{query}")
+async def search_university(query: str):
+    try:
+        result = conn.execute(
+            f"select * from partner_unis where (university_name ilike ?) OR (university_country ilike ?) limit 50",
+            [f"%{query}%", f"%{query}%"],
+        ).fetchdf()
+        result = result.fillna("")
+        return result.to_dict("records")
+    except Exception as e:
+        return {"error": str(e)}
+
+
 # endpoint to query all mapped courses from a given university
 @app.get("/mappings/partner_uni/{partner_uni}")
 async def get_mappings(partner_uni: str):
