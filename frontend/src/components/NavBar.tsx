@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Logo from "./Logo";
+import SearchBar from "./SearchBar";
 
 interface ItemProps {
   to: string;
@@ -30,7 +31,10 @@ export default function NavBar() {
   return (
     <div className="w-full h-32 flex flex-row items-center justify-between">
       <Logo />
-      <NavLinks />
+      <div className="flex flex-row">
+        <SearchBar />
+        <NavLinks />
+      </div>
     </div>
   );
 }

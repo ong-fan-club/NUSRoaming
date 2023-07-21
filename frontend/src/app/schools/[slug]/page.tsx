@@ -61,7 +61,7 @@ export default async function Page({ params }: PageProps) {
             <ul className="list-disc list-inside">
               {school.university_website.map((l) => (
                 <li>
-                  <Link className="text-blue-700" href="l">
+                  <Link className="text-blue-700" href={l}>
                     {l}
                   </Link>
                 </li>
