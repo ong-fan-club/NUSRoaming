@@ -1,5 +1,6 @@
 import Link from "next/link";
 import DisqusComments from "@/components/DisqusComments";
+import UniversityAvailability from "@/components/UniversityAvailability";
 
 interface PageProps {
   params: {
@@ -43,6 +44,7 @@ export default async function Page({ params }: PageProps) {
             </Link>
           </b>
         </h2>
+        <UniversityAvailability availability={[true, true, false, false, false, false, false, false, false, false, false, false]} />
         <div>
           {school.gpt_university_description}
           <br />
