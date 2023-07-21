@@ -24,15 +24,15 @@ export default async function Page({
   params: { slug: string }
   searchParams: { [key: string]: string | string[] | undefined }
 }) {
-  let q: string = ""
+  let query: string = ""
 
-  if ('q' in searchParams && typeof searchParams.q === 'string') {
-    q = searchParams.q
+  if ('query' in searchParams && typeof searchParams.query === 'string') {
+    query = searchParams.query
   }
 
   let universities: University[] = []
-  if (q !== "") {
-    let url = `http://localhost:8000/search/${q}`;
+  if (query !== "") {
+    let url = `http://localhost:8000/search?query=${query}`;
     universities = await (await fetch(url)).json();
   }
 
@@ -40,7 +40,7 @@ export default async function Page({
 
   return (
     <main className="flex flex-col items-center pt-12 w-full max-w-5xl mx-auto px-6">
-      <h2 className="text-2xl w-full">Schools matching: {q}</h2>
+      <h2 className="text-2xl w-full">Schools matching: {query}</h2>
       <div className="mt-12 flex flex-row flex-wrap w-full gap-x-4 gap-y-12 justify-start">
         {universities.map((uni) => UniCard(uni))}
       </div>

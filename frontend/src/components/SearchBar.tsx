@@ -13,7 +13,7 @@ const SearchBar: React.FC = () => {
   };
 
   const handleSearch = () => {
-    router.push(`/search?q=${searchTerm}`);
+    router.push(`/search?query=${searchTerm}`);
   };
 
   const handleKeyDown = (event: React.KeyboardEvent<HTMLInputElement>) => {

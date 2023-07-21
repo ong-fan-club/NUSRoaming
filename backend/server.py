@@ -53,7 +53,7 @@ async def run_arbitrary_query_dev_only(query: str):
 
 
 # search for uni
-@app.get("/search/{query}")
+@app.get("/search")
 async def search_university(query: str):
     try:
         result = conn.execute(
