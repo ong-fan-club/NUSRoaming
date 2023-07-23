@@ -1,13 +1,13 @@
 import Link from "next/link";
 import DisqusComments from "@/components/DisqusComments";
 import UniversityAvailability from "@/components/UniversityAvailability";
+import CourseMappings from "@/components/CourseMappings";
 
 interface PageProps {
   params: {
     slug: string;
   };
 }
-
 interface SchoolInfo {
   university_name: string;
   university_website: string[];
@@ -28,10 +28,23 @@ interface SchoolInfo {
   gpt_location_transportation: string;
 }
 
+interface MappingInfo {
+  faculty: string;
+  partner_uni: string;
+  partner_course_code: string;
+  partner_course_title: string;
+  nus_course_code: string;
+  nus_course_title: string;
+}
+
 export default async function Page({ params }: PageProps) {
   const schoolName = decodeURI(params.slug);
   const url = `http://localhost:8000/partner_unis/partner_uni/${schoolName}`;
   const [school]: SchoolInfo[] = await (await fetch(url)).json();
+
+  const mappings_url = `http://localhost:8000/mappings/partner_uni/${schoolName}`;
+  const mappings: MappingInfo[] = await (await fetch(mappings_url)).json();
+  console.log(mappings)
 
   return (
     <main className="flex flex-col items-start mb-10 w-full max-w-5xl mx-auto px-6">
@@ -124,7 +137,12 @@ export default async function Page({ params }: PageProps) {
             </div>
           </div>
         </div>
+
+        <div className="mt-6">
+          <CourseMappings mappings={mappings} />
+        </div>
       </div>
+
       <div id="comments" className="w-full">
         <div className="text-2xl my-6 font-semibold">Discussion</div>
         <DisqusComments id={schoolName} slug={params.slug} title={schoolName} />
